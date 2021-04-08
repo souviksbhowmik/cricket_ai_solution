@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.1,CA Pujara,V Sehwag,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.2,V Sehwag,CA Pujara,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.3,V Sehwag,CA Pujara,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.4,V Sehwag,CA Pujara,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.5,V Sehwag,CA Pujara,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,0.6,V Sehwag,CA Pujara,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.1,V Sehwag,CA Pujara,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.2,CA Pujara,V Sehwag,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.3,CA Pujara,V Sehwag,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.4,CA Pujara,V Sehwag,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.5,CA Pujara,V Sehwag,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,1.6,CA Pujara,V Sehwag,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.1,V Sehwag,CA Pujara,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.2,CA Pujara,V Sehwag,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.3,V Sehwag,CA Pujara,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.4,V Sehwag,CA Pujara,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.5,V Sehwag,CA Pujara,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,2.6,V Sehwag,CA Pujara,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.1,CA Pujara,V Sehwag,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.2,V Sehwag,CA Pujara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.3,V Sehwag,CA Pujara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.4,V Sehwag,CA Pujara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.5,V Sehwag,CA Pujara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,3.6,V Sehwag,CA Pujara,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.1,CA Pujara,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.2,CA Pujara,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.3,CA Pujara,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.4,CA Pujara,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.5,CA Pujara,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,4.6,CA Pujara,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.1,V Sehwag,CA Pujara,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.2,V Sehwag,CA Pujara,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.3,V Sehwag,CA Pujara,KV Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.4,CA Pujara,V Sehwag,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.5,CA Pujara,V Sehwag,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,5.6,CA Pujara,V Sehwag,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.1,V Sehwag,CA Pujara,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.2,CA Pujara,V Sehwag,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.3,V Sehwag,CA Pujara,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.4,V Sehwag,CA Pujara,A Mishra,0,0,0,NA,1,caught,V Sehwag,DJG Sammy,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.5,CA Pujara,GJ Maxwell,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,6.6,CA Pujara,GJ Maxwell,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.1,CA Pujara,GJ Maxwell,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.2,CA Pujara,GJ Maxwell,KV Sharma,0,1,1,wides,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.3,CA Pujara,GJ Maxwell,KV Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.4,GJ Maxwell,CA Pujara,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.5,CA Pujara,GJ Maxwell,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.6,GJ Maxwell,CA Pujara,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,7.7,GJ Maxwell,CA Pujara,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.1,GJ Maxwell,CA Pujara,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.2,CA Pujara,GJ Maxwell,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.3,CA Pujara,GJ Maxwell,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.4,GJ Maxwell,CA Pujara,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.5,CA Pujara,GJ Maxwell,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,8.6,CA Pujara,GJ Maxwell,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.1,GJ Maxwell,CA Pujara,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.2,CA Pujara,GJ Maxwell,KV Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.3,GJ Maxwell,CA Pujara,KV Sharma,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.4,GJ Maxwell,CA Pujara,KV Sharma,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.5,GJ Maxwell,CA Pujara,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,9.6,CA Pujara,GJ Maxwell,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.1,GJ Maxwell,CA Pujara,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.2,GJ Maxwell,CA Pujara,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.3,GJ Maxwell,CA Pujara,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.4,CA Pujara,GJ Maxwell,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.5,CA Pujara,GJ Maxwell,DJG Sammy,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,10.6,CA Pujara,GJ Maxwell,DJG Sammy,0,0,0,NA,1,caught,CA Pujara,Y Venugopal Rao,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.1,DA Miller,GJ Maxwell,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.2,DA Miller,GJ Maxwell,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.3,GJ Maxwell,DA Miller,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.4,GJ Maxwell,DA Miller,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.5,GJ Maxwell,DA Miller,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,11.6,GJ Maxwell,DA Miller,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.1,GJ Maxwell,DA Miller,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.2,GJ Maxwell,DA Miller,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.3,GJ Maxwell,DA Miller,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.4,GJ Maxwell,DA Miller,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.5,DA Miller,GJ Maxwell,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,12.6,DA Miller,GJ Maxwell,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.1,GJ Maxwell,DA Miller,KV Sharma,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.2,GJ Maxwell,DA Miller,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.3,DA Miller,GJ Maxwell,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.4,DA Miller,GJ Maxwell,KV Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.5,GJ Maxwell,DA Miller,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,13.6,GJ Maxwell,DA Miller,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.1,DA Miller,GJ Maxwell,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.2,GJ Maxwell,DA Miller,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.3,GJ Maxwell,DA Miller,DJG Sammy,0,1,1,noballs,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.4,DA Miller,GJ Maxwell,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.5,GJ Maxwell,DA Miller,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.6,GJ Maxwell,DA Miller,DJG Sammy,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,14.7,GJ Maxwell,DA Miller,DJG Sammy,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.1,DA Miller,GJ Maxwell,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.2,GJ Maxwell,DA Miller,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.3,DA Miller,GJ Maxwell,B Kumar,0,0,0,NA,1,caught,DA Miller,DA Warner,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.4,GJ Maxwell,GJ Bailey,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.5,GJ Maxwell,GJ Bailey,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,15.6,GJ Maxwell,GJ Bailey,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.1,GJ Maxwell,GJ Bailey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.2,GJ Maxwell,GJ Bailey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.3,GJ Maxwell,GJ Bailey,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.4,GJ Maxwell,GJ Bailey,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.5,GJ Bailey,GJ Maxwell,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,16.6,GJ Maxwell,GJ Bailey,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.1,GJ Maxwell,GJ Bailey,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.2,GJ Maxwell,GJ Bailey,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.3,GJ Maxwell,GJ Bailey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.4,GJ Bailey,GJ Maxwell,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.5,GJ Maxwell,GJ Bailey,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.6,GJ Maxwell,GJ Bailey,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,17.7,GJ Maxwell,GJ Bailey,A Mishra,0,0,0,NA,1,caught,GJ Maxwell,DJG Sammy,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.1,GJ Bailey,MG Johnson,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.2,GJ Bailey,MG Johnson,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.3,GJ Bailey,MG Johnson,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.4,MG Johnson,GJ Bailey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.5,MG Johnson,GJ Bailey,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.6,MG Johnson,GJ Bailey,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,18.7,GJ Bailey,MG Johnson,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.1,GJ Bailey,MG Johnson,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.2,GJ Bailey,MG Johnson,B Kumar,0,0,0,NA,1,caught,GJ Bailey,DA Warner,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.3,MG Johnson,AR Patel,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.4,MG Johnson,AR Patel,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.5,MG Johnson,AR Patel,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+729295,1st innings,Kings XI Punjab,Sunrisers Hyderabad,19.6,MG Johnson,AR Patel,B Kumar,0,0,0,NA,1,bowled,MG Johnson,NA,1
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.1,AJ Finch,S Dhawan,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.2,AJ Finch,S Dhawan,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.3,AJ Finch,S Dhawan,Sandeep Sharma,6,0,6,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.4,AJ Finch,S Dhawan,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.5,AJ Finch,S Dhawan,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.6,S Dhawan,AJ Finch,Sandeep Sharma,0,1,1,wides,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,0.7,S Dhawan,AJ Finch,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.1,S Dhawan,AJ Finch,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.2,S Dhawan,AJ Finch,MG Johnson,0,0,0,NA,1,caught,S Dhawan,WP Saha,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.3,DA Warner,AJ Finch,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.4,DA Warner,AJ Finch,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.5,AJ Finch,DA Warner,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,1.6,AJ Finch,DA Warner,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.1,DA Warner,AJ Finch,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.2,DA Warner,AJ Finch,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.3,DA Warner,AJ Finch,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.4,DA Warner,AJ Finch,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.5,DA Warner,AJ Finch,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,2.6,DA Warner,AJ Finch,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.1,AJ Finch,DA Warner,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.2,AJ Finch,DA Warner,MG Johnson,0,1,1,noballs,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.3,AJ Finch,DA Warner,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.4,DA Warner,AJ Finch,MG Johnson,0,1,1,noballs,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.5,DA Warner,AJ Finch,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.6,AJ Finch,DA Warner,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.7,AJ Finch,DA Warner,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,3.8,DA Warner,AJ Finch,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.1,AJ Finch,DA Warner,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.2,AJ Finch,DA Warner,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.3,AJ Finch,DA Warner,L Balaji,0,0,0,NA,1,bowled,AJ Finch,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.4,KL Rahul,DA Warner,L Balaji,0,1,1,wides,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.5,KL Rahul,DA Warner,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.6,DA Warner,KL Rahul,L Balaji,0,0,0,NA,1,caught,DA Warner,GJ Maxwell,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,4.7,Y Venugopal Rao,KL Rahul,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.1,KL Rahul,Y Venugopal Rao,R Dhawan,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.2,KL Rahul,Y Venugopal Rao,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.3,Y Venugopal Rao,KL Rahul,R Dhawan,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.4,Y Venugopal Rao,KL Rahul,R Dhawan,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.5,Y Venugopal Rao,KL Rahul,R Dhawan,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,5.6,Y Venugopal Rao,KL Rahul,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.1,Y Venugopal Rao,KL Rahul,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.2,KL Rahul,Y Venugopal Rao,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.3,Y Venugopal Rao,KL Rahul,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.4,Y Venugopal Rao,KL Rahul,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.5,KL Rahul,Y Venugopal Rao,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,6.6,Y Venugopal Rao,KL Rahul,Sandeep Sharma,0,0,0,NA,1,bowled,Y Venugopal Rao,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.1,KL Rahul,IK Pathan,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.2,IK Pathan,KL Rahul,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.3,IK Pathan,KL Rahul,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.4,KL Rahul,IK Pathan,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.5,KL Rahul,IK Pathan,AR Patel,0,2,2,legbyes,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,7.6,KL Rahul,IK Pathan,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.1,KL Rahul,IK Pathan,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.2,IK Pathan,KL Rahul,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.3,KL Rahul,IK Pathan,R Dhawan,4,0,4,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.4,KL Rahul,IK Pathan,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.5,IK Pathan,KL Rahul,R Dhawan,0,1,1,wides,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.6,IK Pathan,KL Rahul,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,8.7,KL Rahul,IK Pathan,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.1,KL Rahul,IK Pathan,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.2,IK Pathan,KL Rahul,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.3,IK Pathan,KL Rahul,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.4,KL Rahul,IK Pathan,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.5,IK Pathan,KL Rahul,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,9.6,KL Rahul,IK Pathan,GJ Maxwell,6,0,6,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.1,IK Pathan,KL Rahul,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.2,IK Pathan,KL Rahul,AR Patel,0,0,0,NA,1,bowled,IK Pathan,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.3,DJG Sammy,KL Rahul,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.4,DJG Sammy,KL Rahul,AR Patel,3,0,3,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.5,KL Rahul,DJG Sammy,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,10.6,DJG Sammy,KL Rahul,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.1,DJG Sammy,KL Rahul,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.2,DJG Sammy,KL Rahul,L Balaji,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.3,DJG Sammy,KL Rahul,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.4,KL Rahul,DJG Sammy,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.5,DJG Sammy,KL Rahul,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,11.6,KL Rahul,DJG Sammy,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.1,DJG Sammy,KL Rahul,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.2,DJG Sammy,KL Rahul,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.3,DJG Sammy,KL Rahul,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.4,KL Rahul,DJG Sammy,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.5,KL Rahul,DJG Sammy,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,12.6,KL Rahul,DJG Sammy,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.1,KL Rahul,DJG Sammy,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.2,KL Rahul,DJG Sammy,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.3,DJG Sammy,KL Rahul,L Balaji,0,0,0,NA,1,caught,DJG Sammy,AR Patel,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.4,KV Sharma,KL Rahul,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.5,KL Rahul,KV Sharma,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,13.6,KL Rahul,KV Sharma,L Balaji,0,1,1,legbyes,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.1,KL Rahul,KV Sharma,AR Patel,0,0,0,NA,1,caught,KL Rahul,DA Miller,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.2,KV Sharma,DW Steyn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.3,DW Steyn,KV Sharma,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.4,KV Sharma,DW Steyn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.5,DW Steyn,KV Sharma,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,14.6,DW Steyn,KV Sharma,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.1,DW Steyn,KV Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.2,DW Steyn,KV Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.3,DW Steyn,KV Sharma,MG Johnson,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.4,DW Steyn,KV Sharma,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.5,KV Sharma,DW Steyn,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,15.6,KV Sharma,DW Steyn,MG Johnson,6,0,6,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.1,DW Steyn,KV Sharma,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.2,KV Sharma,DW Steyn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.3,DW Steyn,KV Sharma,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.4,DW Steyn,KV Sharma,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.5,DW Steyn,KV Sharma,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,16.6,DW Steyn,KV Sharma,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.1,DW Steyn,KV Sharma,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.2,KV Sharma,DW Steyn,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.3,KV Sharma,DW Steyn,MG Johnson,0,0,0,NA,1,caught,KV Sharma,DA Miller,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.4,A Mishra,DW Steyn,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.5,A Mishra,DW Steyn,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,17.6,DW Steyn,A Mishra,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.1,DW Steyn,A Mishra,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.2,A Mishra,DW Steyn,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.3,DW Steyn,A Mishra,L Balaji,0,0,0,NA,1,bowled,DW Steyn,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.4,B Kumar,A Mishra,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.5,B Kumar,A Mishra,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,18.6,A Mishra,B Kumar,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,19.1,A Mishra,B Kumar,R Dhawan,1,0,1,NA,0,NA,NA,NA,0
+729295,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,19.2,B Kumar,A Mishra,R Dhawan,0,0,0,NA,1,caught,B Kumar,MG Johnson,0

@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.1,BB McCullum,DPMD Jayawardene,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.2,BB McCullum,DPMD Jayawardene,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.3,BB McCullum,DPMD Jayawardene,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.4,DPMD Jayawardene,BB McCullum,B Lee,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.5,DPMD Jayawardene,BB McCullum,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,0.6,DPMD Jayawardene,BB McCullum,B Lee,0,1,1,legbyes,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.1,DPMD Jayawardene,BB McCullum,L Balaji,0,1,1,wides,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.2,DPMD Jayawardene,BB McCullum,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.3,DPMD Jayawardene,BB McCullum,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.4,DPMD Jayawardene,BB McCullum,L Balaji,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.5,DPMD Jayawardene,BB McCullum,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.6,DPMD Jayawardene,BB McCullum,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,1.7,DPMD Jayawardene,BB McCullum,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.1,BB McCullum,DPMD Jayawardene,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.2,BB McCullum,DPMD Jayawardene,B Lee,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.3,BB McCullum,DPMD Jayawardene,B Lee,6,0,6,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.4,BB McCullum,DPMD Jayawardene,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.5,BB McCullum,DPMD Jayawardene,B Lee,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,2.6,BB McCullum,DPMD Jayawardene,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.1,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.2,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.3,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.4,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.5,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,3.6,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.1,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.2,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.3,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.4,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.5,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,4.6,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.1,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.2,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.3,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.4,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.5,DPMD Jayawardene,BB McCullum,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,5.6,BB McCullum,DPMD Jayawardene,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.1,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.2,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.3,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.4,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.5,DPMD Jayawardene,BB McCullum,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,6.6,BB McCullum,DPMD Jayawardene,Shakib Al Hasan,0,0,0,NA,1,caught,BB McCullum,EJG Morgan,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.1,DPMD Jayawardene,PA Patel,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.2,PA Patel,DPMD Jayawardene,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.3,PA Patel,DPMD Jayawardene,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.4,DPMD Jayawardene,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.5,DPMD Jayawardene,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,7.6,DPMD Jayawardene,PA Patel,YK Pathan,0,0,0,NA,1,lbw,DPMD Jayawardene,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.1,PA Patel,BJ Hodge,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.2,BJ Hodge,PA Patel,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.3,BJ Hodge,PA Patel,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.4,PA Patel,BJ Hodge,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.5,PA Patel,BJ Hodge,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,8.6,BJ Hodge,PA Patel,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.1,BJ Hodge,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.2,BJ Hodge,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.3,BJ Hodge,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.4,BJ Hodge,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.5,BJ Hodge,PA Patel,YK Pathan,0,0,0,NA,1,bowled,BJ Hodge,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,9.6,RA Jadeja,PA Patel,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.1,PA Patel,RA Jadeja,L Balaji,0,1,1,wides,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.2,PA Patel,RA Jadeja,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.3,PA Patel,RA Jadeja,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.4,RA Jadeja,PA Patel,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.5,RA Jadeja,PA Patel,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.6,RA Jadeja,PA Patel,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,10.7,PA Patel,RA Jadeja,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.1,RA Jadeja,PA Patel,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.2,PA Patel,RA Jadeja,YK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.3,PA Patel,RA Jadeja,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.4,RA Jadeja,PA Patel,YK Pathan,0,1,1,legbyes,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.5,PA Patel,RA Jadeja,YK Pathan,0,0,0,NA,1,lbw,PA Patel,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,11.6,KM Jadhav,RA Jadeja,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.1,KM Jadhav,RA Jadeja,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.2,KM Jadhav,RA Jadeja,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.3,KM Jadhav,RA Jadeja,L Balaji,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.4,KM Jadhav,RA Jadeja,L Balaji,2,0,2,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.5,KM Jadhav,RA Jadeja,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,12.6,RA Jadeja,KM Jadhav,L Balaji,6,0,6,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.1,KM Jadhav,RA Jadeja,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.2,RA Jadeja,KM Jadhav,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.3,RA Jadeja,KM Jadhav,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.4,KM Jadhav,RA Jadeja,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.5,RA Jadeja,KM Jadhav,YK Pathan,6,0,6,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,13.6,RA Jadeja,KM Jadhav,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.1,KM Jadhav,RA Jadeja,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.2,RA Jadeja,KM Jadhav,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.3,RA Jadeja,KM Jadhav,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.4,KM Jadhav,RA Jadeja,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.5,RA Jadeja,KM Jadhav,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,14.6,KM Jadhav,RA Jadeja,Shakib Al Hasan,0,0,0,NA,1,bowled,KM Jadhav,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.1,RA Jadeja,RV Gomez,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.2,RA Jadeja,RV Gomez,B Lee,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.3,RA Jadeja,RV Gomez,B Lee,0,1,1,wides,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.4,RA Jadeja,RV Gomez,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.5,RA Jadeja,RV Gomez,B Lee,0,0,0,NA,1,caught,RA Jadeja,YK Pathan,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.6,RV Gomez,R Vinay Kumar,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,15.7,R Vinay Kumar,RV Gomez,B Lee,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.1,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.2,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.3,RV Gomez,R Vinay Kumar,Iqbal Abdulla,0,1,1,legbyes,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.4,R Vinay Kumar,RV Gomez,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.5,R Vinay Kumar,RV Gomez,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,16.6,R Vinay Kumar,RV Gomez,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.1,R Vinay Kumar,RV Gomez,B Lee,2,0,2,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.2,R Vinay Kumar,RV Gomez,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.3,RV Gomez,R Vinay Kumar,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.4,R Vinay Kumar,RV Gomez,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.5,RV Gomez,R Vinay Kumar,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,17.6,R Vinay Kumar,RV Gomez,B Lee,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.1,R Vinay Kumar,RV Gomez,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.2,RV Gomez,R Vinay Kumar,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.3,RV Gomez,R Vinay Kumar,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.4,R Vinay Kumar,RV Gomez,Shakib Al Hasan,0,0,0,NA,1,bowled,R Vinay Kumar,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.5,RR Powar,RV Gomez,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,18.6,RR Powar,RV Gomez,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.1,RR Powar,RV Gomez,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.2,RR Powar,RV Gomez,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.3,RR Powar,RV Gomez,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.4,RV Gomez,RR Powar,L Balaji,0,1,1,legbyes,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.5,RR Powar,RV Gomez,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+501219,1st innings,Kochi Tuskers Kerala,Kolkata Knight Riders,19.6,RV Gomez,RR Powar,L Balaji,0,1,1,byes,0,NA,NA,NA,1
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.1,MS Bisla,JH Kallis,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.2,JH Kallis,MS Bisla,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.3,MS Bisla,JH Kallis,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.4,MS Bisla,JH Kallis,RP Singh,0,4,4,legbyes,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.5,MS Bisla,JH Kallis,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,0.6,JH Kallis,MS Bisla,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.1,MS Bisla,JH Kallis,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.2,JH Kallis,MS Bisla,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.3,JH Kallis,MS Bisla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.4,MS Bisla,JH Kallis,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.5,MS Bisla,JH Kallis,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,1.6,MS Bisla,JH Kallis,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.1,MS Bisla,JH Kallis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.2,JH Kallis,MS Bisla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.3,MS Bisla,JH Kallis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.4,JH Kallis,MS Bisla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.5,MS Bisla,JH Kallis,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,2.6,MS Bisla,JH Kallis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.1,JH Kallis,MS Bisla,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.2,JH Kallis,MS Bisla,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.3,JH Kallis,MS Bisla,R Vinay Kumar,0,0,0,NA,1,caught,JH Kallis,KM Jadhav,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.4,G Gambhir,MS Bisla,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.5,G Gambhir,MS Bisla,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,3.6,G Gambhir,MS Bisla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.1,G Gambhir,MS Bisla,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.2,G Gambhir,MS Bisla,RP Singh,0,0,0,NA,1,bowled,G Gambhir,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.3,MK Tiwary,MS Bisla,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.4,MK Tiwary,MS Bisla,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.5,MK Tiwary,MS Bisla,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,4.6,MK Tiwary,MS Bisla,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.1,MK Tiwary,MS Bisla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.2,MK Tiwary,MS Bisla,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.3,MK Tiwary,MS Bisla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.4,MK Tiwary,MS Bisla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.5,MS Bisla,MK Tiwary,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,5.6,MS Bisla,MK Tiwary,RA Jadeja,0,0,0,NA,1,bowled,MS Bisla,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.1,MK Tiwary,EJG Morgan,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.2,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.3,EJG Morgan,MK Tiwary,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.4,EJG Morgan,MK Tiwary,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.5,MK Tiwary,EJG Morgan,RR Powar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,6.6,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.1,MK Tiwary,EJG Morgan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.2,MK Tiwary,EJG Morgan,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.3,EJG Morgan,MK Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.4,EJG Morgan,MK Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.5,MK Tiwary,EJG Morgan,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,7.6,EJG Morgan,MK Tiwary,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.1,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.2,EJG Morgan,MK Tiwary,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.3,MK Tiwary,EJG Morgan,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.4,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.5,EJG Morgan,MK Tiwary,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,8.6,EJG Morgan,MK Tiwary,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.1,MK Tiwary,EJG Morgan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.2,MK Tiwary,EJG Morgan,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.3,EJG Morgan,MK Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.4,MK Tiwary,EJG Morgan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.5,MK Tiwary,EJG Morgan,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,9.6,EJG Morgan,MK Tiwary,M Muralitharan,0,4,4,byes,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.1,MK Tiwary,EJG Morgan,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.2,MK Tiwary,EJG Morgan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.3,MK Tiwary,EJG Morgan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.4,MK Tiwary,EJG Morgan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.5,EJG Morgan,MK Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,10.6,MK Tiwary,EJG Morgan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.1,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.2,EJG Morgan,MK Tiwary,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.3,MK Tiwary,EJG Morgan,RR Powar,6,0,6,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.4,MK Tiwary,EJG Morgan,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.5,MK Tiwary,EJG Morgan,RR Powar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,11.6,MK Tiwary,EJG Morgan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.1,MK Tiwary,EJG Morgan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.2,MK Tiwary,EJG Morgan,R Vinay Kumar,0,0,0,NA,1,run out,EJG Morgan,DPMD Jayawardene,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.3,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.4,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.5,MK Tiwary,Shakib Al Hasan,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,12.6,Shakib Al Hasan,MK Tiwary,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.1,Shakib Al Hasan,MK Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.2,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.3,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.4,MK Tiwary,Shakib Al Hasan,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.5,MK Tiwary,Shakib Al Hasan,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,13.6,Shakib Al Hasan,MK Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.1,MK Tiwary,Shakib Al Hasan,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.2,MK Tiwary,Shakib Al Hasan,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.3,MK Tiwary,Shakib Al Hasan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.4,MK Tiwary,Shakib Al Hasan,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.5,Shakib Al Hasan,MK Tiwary,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,14.6,Shakib Al Hasan,MK Tiwary,RP Singh,0,0,0,NA,1,bowled,Shakib Al Hasan,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.1,MK Tiwary,YK Pathan,RR Powar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.2,MK Tiwary,YK Pathan,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.3,YK Pathan,MK Tiwary,RR Powar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.4,YK Pathan,MK Tiwary,RR Powar,6,0,6,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.5,YK Pathan,MK Tiwary,RR Powar,0,0,0,NA,1,caught,YK Pathan,M Muralitharan,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,15.6,MK Tiwary,R Bhatia,RR Powar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.1,MK Tiwary,R Bhatia,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.2,MK Tiwary,R Bhatia,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.3,R Bhatia,MK Tiwary,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.4,R Bhatia,MK Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.5,MK Tiwary,R Bhatia,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.6,MK Tiwary,R Bhatia,RA Jadeja,0,1,1,wides,1,stumped,MK Tiwary,PA Patel,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,16.7,B Lee,R Bhatia,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.1,R Bhatia,B Lee,M Muralitharan,0,2,2,wides,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.2,B Lee,R Bhatia,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.3,R Bhatia,B Lee,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.4,B Lee,R Bhatia,M Muralitharan,0,0,0,NA,1,caught,B Lee,KM Jadhav,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.5,Iqbal Abdulla,R Bhatia,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.6,Iqbal Abdulla,R Bhatia,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,17.7,R Bhatia,Iqbal Abdulla,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.1,R Bhatia,Iqbal Abdulla,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.2,R Bhatia,Iqbal Abdulla,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.3,Iqbal Abdulla,R Bhatia,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.4,R Bhatia,Iqbal Abdulla,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.5,Iqbal Abdulla,R Bhatia,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,18.6,Iqbal Abdulla,R Bhatia,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.1,Iqbal Abdulla,R Bhatia,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.2,Iqbal Abdulla,R Bhatia,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.3,Iqbal Abdulla,R Bhatia,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.4,Iqbal Abdulla,R Bhatia,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.5,R Bhatia,Iqbal Abdulla,R Vinay Kumar,1,0,1,NA,1,run out,R Bhatia,PA Patel,0
+501219,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,19.6,L Balaji,Iqbal Abdulla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0

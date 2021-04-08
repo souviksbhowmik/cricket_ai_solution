@@ -1,0 +1,239 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.1,DA Warner,V Sehwag,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.2,V Sehwag,DA Warner,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.3,V Sehwag,DA Warner,SW Tait,0,0,0,NA,1,caught,V Sehwag,R Dravid,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.4,AJ Finch,DA Warner,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.5,AJ Finch,DA Warner,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,0.6,AJ Finch,DA Warner,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.1,DA Warner,AJ Finch,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.2,DA Warner,AJ Finch,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.3,DA Warner,AJ Finch,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.4,DA Warner,AJ Finch,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.5,DA Warner,AJ Finch,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.6,AJ Finch,DA Warner,A Singh,0,1,1,wides,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,1.7,AJ Finch,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.1,DA Warner,AJ Finch,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.2,DA Warner,AJ Finch,J Botha,3,0,3,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.3,AJ Finch,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.4,AJ Finch,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.5,AJ Finch,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,2.6,AJ Finch,DA Warner,J Botha,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.1,DA Warner,AJ Finch,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.2,DA Warner,AJ Finch,SK Trivedi,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.3,DA Warner,AJ Finch,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.4,AJ Finch,DA Warner,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.5,AJ Finch,DA Warner,SK Trivedi,0,1,1,wides,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.6,AJ Finch,DA Warner,SK Trivedi,0,1,1,legbyes,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,3.7,DA Warner,AJ Finch,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.1,AJ Finch,DA Warner,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.2,AJ Finch,DA Warner,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.3,DA Warner,AJ Finch,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.4,AJ Finch,DA Warner,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.5,AJ Finch,DA Warner,SW Tait,0,0,0,NA,1,caught,AJ Finch,J Botha,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,4.6,UBT Chand,DA Warner,SW Tait,0,1,1,legbyes,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.1,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.2,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.3,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.4,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.5,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,5.6,UBT Chand,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.1,DA Warner,UBT Chand,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.2,UBT Chand,DA Warner,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.3,DA Warner,UBT Chand,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.4,UBT Chand,DA Warner,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.5,DA Warner,UBT Chand,SK Trivedi,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,6.6,DA Warner,UBT Chand,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.1,UBT Chand,DA Warner,SK Warne,0,0,0,NA,1,caught,UBT Chand,R Dravid,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.2,NV Ojha,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.3,NV Ojha,DA Warner,SK Warne,0,0,0,NA,1,caught,NV Ojha,SW Tait,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.4,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.5,Y Venugopal Rao,DA Warner,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,7.6,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.1,DA Warner,Y Venugopal Rao,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.2,DA Warner,Y Venugopal Rao,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.3,Y Venugopal Rao,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.4,Y Venugopal Rao,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.5,Y Venugopal Rao,DA Warner,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,8.6,DA Warner,Y Venugopal Rao,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.1,DA Warner,Y Venugopal Rao,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.2,DA Warner,Y Venugopal Rao,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.3,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.4,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.5,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,9.6,Y Venugopal Rao,DA Warner,SK Warne,0,1,1,legbyes,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.1,Y Venugopal Rao,DA Warner,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.2,Y Venugopal Rao,DA Warner,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.3,DA Warner,Y Venugopal Rao,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.4,Y Venugopal Rao,DA Warner,J Botha,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.5,Y Venugopal Rao,DA Warner,J Botha,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,10.6,Y Venugopal Rao,DA Warner,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.1,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.2,Y Venugopal Rao,DA Warner,SK Warne,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.3,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.4,Y Venugopal Rao,DA Warner,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.5,Y Venugopal Rao,DA Warner,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,11.6,Y Venugopal Rao,DA Warner,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.1,DA Warner,Y Venugopal Rao,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.2,DA Warner,Y Venugopal Rao,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.3,Y Venugopal Rao,DA Warner,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.4,DA Warner,Y Venugopal Rao,SK Trivedi,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.5,DA Warner,Y Venugopal Rao,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,12.6,Y Venugopal Rao,DA Warner,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.1,Y Venugopal Rao,DA Warner,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.2,DA Warner,Y Venugopal Rao,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.3,Y Venugopal Rao,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.4,Y Venugopal Rao,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.5,Y Venugopal Rao,DA Warner,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,13.6,Y Venugopal Rao,DA Warner,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.1,DA Warner,Y Venugopal Rao,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.2,Y Venugopal Rao,DA Warner,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.3,DA Warner,Y Venugopal Rao,J Botha,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.4,DA Warner,Y Venugopal Rao,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.5,DA Warner,Y Venugopal Rao,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,14.6,Y Venugopal Rao,DA Warner,J Botha,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.1,DA Warner,Y Venugopal Rao,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.2,DA Warner,Y Venugopal Rao,SW Tait,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.3,DA Warner,Y Venugopal Rao,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.4,DA Warner,Y Venugopal Rao,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.5,DA Warner,Y Venugopal Rao,SW Tait,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,15.6,DA Warner,Y Venugopal Rao,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.1,DA Warner,Y Venugopal Rao,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.2,DA Warner,Y Venugopal Rao,SK Warne,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.3,DA Warner,Y Venugopal Rao,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.4,DA Warner,Y Venugopal Rao,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.5,DA Warner,Y Venugopal Rao,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,16.6,Y Venugopal Rao,DA Warner,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.1,Y Venugopal Rao,DA Warner,A Singh,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.2,Y Venugopal Rao,DA Warner,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.3,Y Venugopal Rao,DA Warner,A Singh,0,1,1,legbyes,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.4,DA Warner,Y Venugopal Rao,A Singh,0,0,0,NA,1,caught,DA Warner,AS Raut,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.5,Y Venugopal Rao,IK Pathan,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,17.6,Y Venugopal Rao,IK Pathan,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.1,IK Pathan,Y Venugopal Rao,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.2,IK Pathan,Y Venugopal Rao,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.3,Y Venugopal Rao,IK Pathan,SK Trivedi,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.4,Y Venugopal Rao,IK Pathan,SK Trivedi,6,0,6,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.5,Y Venugopal Rao,IK Pathan,SK Trivedi,0,1,1,wides,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.6,Y Venugopal Rao,IK Pathan,SK Trivedi,2,0,2,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,18.7,Y Venugopal Rao,IK Pathan,SK Trivedi,0,0,0,NA,1,caught,Y Venugopal Rao,SK Warne,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.1,RE van der Merwe,IK Pathan,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.2,IK Pathan,RE van der Merwe,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.3,IK Pathan,RE van der Merwe,SW Tait,0,2,2,noballs,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.4,RE van der Merwe,IK Pathan,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.5,RE van der Merwe,IK Pathan,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.6,IK Pathan,RE van der Merwe,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,1st innings,Delhi Daredevils,Rajasthan Royals,19.7,IK Pathan,RE van der Merwe,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.1,AG Paunikar,R Dravid,AB Dinda,1,1,2,noballs,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.2,R Dravid,AG Paunikar,AB Dinda,0,1,1,noballs,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.3,R Dravid,AG Paunikar,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.4,R Dravid,AG Paunikar,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.5,R Dravid,AG Paunikar,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.6,R Dravid,AG Paunikar,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.7,AG Paunikar,R Dravid,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,0.8,AG Paunikar,R Dravid,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.1,R Dravid,AG Paunikar,M Morkel,0,4,4,legbyes,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.2,R Dravid,AG Paunikar,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.3,R Dravid,AG Paunikar,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.4,AG Paunikar,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.5,AG Paunikar,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,1.6,AG Paunikar,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.1,R Dravid,AG Paunikar,AB Dinda,0,4,4,byes,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.2,R Dravid,AG Paunikar,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.3,R Dravid,AG Paunikar,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.4,R Dravid,AG Paunikar,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.5,AG Paunikar,R Dravid,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,2.6,AG Paunikar,R Dravid,AB Dinda,0,0,0,NA,1,bowled,AG Paunikar,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.1,R Dravid,J Botha,IK Pathan,0,1,1,wides,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.2,R Dravid,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.3,R Dravid,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.4,R Dravid,J Botha,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.5,R Dravid,J Botha,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.6,R Dravid,J Botha,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,3.7,R Dravid,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.1,J Botha,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.2,J Botha,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.3,J Botha,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.4,J Botha,R Dravid,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.5,J Botha,R Dravid,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,4.6,R Dravid,J Botha,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.1,R Dravid,J Botha,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.2,R Dravid,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.3,J Botha,R Dravid,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.4,J Botha,R Dravid,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.5,R Dravid,J Botha,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,5.6,R Dravid,J Botha,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.1,J Botha,R Dravid,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.2,R Dravid,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.3,R Dravid,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.4,R Dravid,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.5,R Dravid,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,6.6,R Dravid,J Botha,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.1,R Dravid,J Botha,RE van der Merwe,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.2,R Dravid,J Botha,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.3,R Dravid,J Botha,RE van der Merwe,0,0,0,NA,1,caught,R Dravid,NV Ojha,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.4,AL Menaria,J Botha,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.5,AL Menaria,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,7.6,J Botha,AL Menaria,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.1,AL Menaria,J Botha,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.2,J Botha,AL Menaria,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.3,AL Menaria,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.4,AL Menaria,J Botha,S Nadeem,6,0,6,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.5,AL Menaria,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,8.6,AL Menaria,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.1,J Botha,AL Menaria,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.2,AL Menaria,J Botha,RE van der Merwe,6,0,6,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.3,AL Menaria,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.4,J Botha,AL Menaria,RE van der Merwe,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.5,J Botha,AL Menaria,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,9.6,AL Menaria,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.1,AL Menaria,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.2,AL Menaria,J Botha,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.3,AL Menaria,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.4,AL Menaria,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.5,AL Menaria,J Botha,IK Pathan,0,0,0,NA,1,caught,AL Menaria,V Sehwag,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,10.6,AM Rahane,J Botha,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.1,J Botha,AM Rahane,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.2,AM Rahane,J Botha,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.3,AM Rahane,J Botha,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.4,AM Rahane,J Botha,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.5,AM Rahane,J Botha,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,11.6,J Botha,AM Rahane,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.1,AM Rahane,J Botha,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.2,AM Rahane,J Botha,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.3,J Botha,AM Rahane,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.4,AM Rahane,J Botha,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.5,J Botha,AM Rahane,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,12.6,AM Rahane,J Botha,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.1,AM Rahane,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.2,J Botha,AM Rahane,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.3,AM Rahane,J Botha,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.4,AM Rahane,J Botha,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.5,J Botha,AM Rahane,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,13.6,AM Rahane,J Botha,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.1,J Botha,AM Rahane,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.2,AM Rahane,J Botha,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.3,AM Rahane,J Botha,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.4,J Botha,AM Rahane,S Nadeem,0,1,1,legbyes,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.5,AM Rahane,J Botha,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,14.6,J Botha,AM Rahane,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.1,AM Rahane,J Botha,M Morkel,0,0,0,NA,1,bowled,AM Rahane,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.2,LRPL Taylor,J Botha,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.3,LRPL Taylor,J Botha,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.4,J Botha,LRPL Taylor,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.5,J Botha,LRPL Taylor,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,15.6,LRPL Taylor,J Botha,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.1,LRPL Taylor,J Botha,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.2,LRPL Taylor,J Botha,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.3,J Botha,LRPL Taylor,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.4,J Botha,LRPL Taylor,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.5,J Botha,LRPL Taylor,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,16.6,LRPL Taylor,J Botha,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.1,J Botha,LRPL Taylor,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.2,LRPL Taylor,J Botha,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.3,LRPL Taylor,J Botha,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.4,J Botha,LRPL Taylor,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.5,J Botha,LRPL Taylor,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,17.6,J Botha,LRPL Taylor,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,18.1,J Botha,LRPL Taylor,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,18.2,LRPL Taylor,J Botha,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+501204,2nd innings,Rajasthan Royals,Delhi Daredevils,18.3,LRPL Taylor,J Botha,AB Dinda,6,0,6,NA,0,NA,NA,NA,1

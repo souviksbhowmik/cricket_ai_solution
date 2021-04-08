@@ -1,0 +1,210 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.1,DPMD Jayawardene,VVS Laxman,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.2,VVS Laxman,DPMD Jayawardene,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.3,VVS Laxman,DPMD Jayawardene,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.4,VVS Laxman,DPMD Jayawardene,A Singh,0,4,4,legbyes,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.5,VVS Laxman,DPMD Jayawardene,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,0.6,VVS Laxman,DPMD Jayawardene,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.1,DPMD Jayawardene,VVS Laxman,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.2,DPMD Jayawardene,VVS Laxman,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.3,VVS Laxman,DPMD Jayawardene,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.4,VVS Laxman,DPMD Jayawardene,SR Watson,0,1,1,byes,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.5,DPMD Jayawardene,VVS Laxman,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,1.6,DPMD Jayawardene,VVS Laxman,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.1,VVS Laxman,DPMD Jayawardene,A Singh,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.2,VVS Laxman,DPMD Jayawardene,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.3,DPMD Jayawardene,VVS Laxman,A Singh,0,1,1,wides,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.4,DPMD Jayawardene,VVS Laxman,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.5,DPMD Jayawardene,VVS Laxman,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.6,VVS Laxman,DPMD Jayawardene,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,2.7,DPMD Jayawardene,VVS Laxman,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.1,DPMD Jayawardene,VVS Laxman,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.2,DPMD Jayawardene,VVS Laxman,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.3,DPMD Jayawardene,VVS Laxman,SR Watson,0,0,0,NA,1,run out,VVS Laxman,R Dravid,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.4,PA Patel,DPMD Jayawardene,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.5,PA Patel,DPMD Jayawardene,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,3.6,DPMD Jayawardene,PA Patel,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.1,DPMD Jayawardene,PA Patel,J Botha,0,0,0,NA,1,bowled,DPMD Jayawardene,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.2,BJ Hodge,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.3,PA Patel,BJ Hodge,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.4,PA Patel,BJ Hodge,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.5,PA Patel,BJ Hodge,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,4.6,PA Patel,BJ Hodge,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.1,BJ Hodge,PA Patel,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.2,BJ Hodge,PA Patel,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.3,BJ Hodge,PA Patel,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.4,BJ Hodge,PA Patel,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.5,BJ Hodge,PA Patel,A Singh,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,5.6,BJ Hodge,PA Patel,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.1,BJ Hodge,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.2,PA Patel,BJ Hodge,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.3,PA Patel,BJ Hodge,J Botha,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.4,PA Patel,BJ Hodge,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.5,BJ Hodge,PA Patel,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.6,BJ Hodge,PA Patel,J Botha,0,1,1,wides,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,6.7,BJ Hodge,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.1,BJ Hodge,PA Patel,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.2,BJ Hodge,PA Patel,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.3,BJ Hodge,PA Patel,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.4,BJ Hodge,PA Patel,SK Warne,0,0,0,NA,1,bowled,BJ Hodge,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.5,RA Jadeja,PA Patel,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,7.6,RA Jadeja,PA Patel,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.1,PA Patel,RA Jadeja,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.2,PA Patel,RA Jadeja,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.3,PA Patel,RA Jadeja,J Botha,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.4,PA Patel,RA Jadeja,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.5,RA Jadeja,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,8.6,PA Patel,RA Jadeja,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.1,PA Patel,RA Jadeja,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.2,PA Patel,RA Jadeja,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.3,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.4,RA Jadeja,PA Patel,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.5,PA Patel,RA Jadeja,SK Warne,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,9.6,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.1,PA Patel,RA Jadeja,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.2,RA Jadeja,PA Patel,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.3,RA Jadeja,PA Patel,SK Trivedi,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.4,RA Jadeja,PA Patel,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.5,PA Patel,RA Jadeja,SK Trivedi,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,10.6,PA Patel,RA Jadeja,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.1,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.2,RA Jadeja,PA Patel,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.3,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.4,RA Jadeja,PA Patel,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.5,RA Jadeja,PA Patel,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,11.6,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.1,PA Patel,RA Jadeja,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.2,RA Jadeja,PA Patel,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.3,RA Jadeja,PA Patel,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.4,RA Jadeja,PA Patel,SK Trivedi,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.5,RA Jadeja,PA Patel,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,12.6,PA Patel,RA Jadeja,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.1,RA Jadeja,PA Patel,J Botha,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.2,RA Jadeja,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.3,PA Patel,RA Jadeja,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.4,RA Jadeja,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.5,PA Patel,RA Jadeja,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,13.6,RA Jadeja,PA Patel,J Botha,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.1,RA Jadeja,PA Patel,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.2,PA Patel,RA Jadeja,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.3,PA Patel,RA Jadeja,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.4,RA Jadeja,PA Patel,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.5,RA Jadeja,PA Patel,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,14.6,PA Patel,RA Jadeja,SR Watson,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.1,RA Jadeja,PA Patel,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.2,PA Patel,RA Jadeja,SK Warne,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.3,RA Jadeja,PA Patel,SK Warne,0,0,0,NA,1,caught and bowled,RA Jadeja,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.4,PA Patel,RV Gomez,SK Warne,0,0,0,NA,1,stumped,PA Patel,DH Yagnik,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.5,NLTC Perera,RV Gomez,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,15.6,NLTC Perera,RV Gomez,SK Warne,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.1,RV Gomez,NLTC Perera,SK Trivedi,0,0,0,NA,1,caught,RV Gomez,SR Watson,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.2,NLTC Perera,KM Jadhav,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.3,KM Jadhav,NLTC Perera,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.4,KM Jadhav,NLTC Perera,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.5,KM Jadhav,NLTC Perera,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,16.6,NLTC Perera,KM Jadhav,SK Trivedi,0,0,0,NA,1,caught,NLTC Perera,STR Binny,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.1,R Vinay Kumar,KM Jadhav,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.2,KM Jadhav,R Vinay Kumar,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.3,R Vinay Kumar,KM Jadhav,A Singh,4,0,4,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.4,R Vinay Kumar,KM Jadhav,A Singh,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.5,R Vinay Kumar,KM Jadhav,A Singh,0,0,0,NA,1,caught,R Vinay Kumar,SR Watson,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,17.6,M Muralitharan,KM Jadhav,A Singh,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.1,M Muralitharan,KM Jadhav,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.2,M Muralitharan,KM Jadhav,SR Watson,0,1,1,noballs,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.3,M Muralitharan,KM Jadhav,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.4,KM Jadhav,M Muralitharan,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.5,M Muralitharan,KM Jadhav,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.6,KM Jadhav,M Muralitharan,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,18.7,M Muralitharan,KM Jadhav,SR Watson,2,0,2,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.1,KM Jadhav,M Muralitharan,SK Trivedi,1,0,1,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.2,M Muralitharan,KM Jadhav,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.3,M Muralitharan,KM Jadhav,SK Trivedi,0,1,1,byes,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.4,KM Jadhav,M Muralitharan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.5,KM Jadhav,M Muralitharan,SK Trivedi,0,0,0,NA,1,caught,KM Jadhav,DH Yagnik,0
+501225,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,19.6,RP Singh,M Muralitharan,SK Trivedi,1,0,1,NA,1,run out,RP Singh,J Botha,0
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.1,SR Watson,R Dravid,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.2,SR Watson,R Dravid,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.3,R Dravid,SR Watson,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.4,SR Watson,R Dravid,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.5,SR Watson,R Dravid,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,0.6,R Dravid,SR Watson,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.1,R Dravid,SR Watson,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.2,R Dravid,SR Watson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.3,R Dravid,SR Watson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.4,SR Watson,R Dravid,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.5,R Dravid,SR Watson,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,1.6,R Dravid,SR Watson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.1,SR Watson,R Dravid,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.2,SR Watson,R Dravid,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.3,SR Watson,R Dravid,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.4,R Dravid,SR Watson,RP Singh,0,1,1,legbyes,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.5,SR Watson,R Dravid,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,2.6,SR Watson,R Dravid,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.1,R Dravid,SR Watson,M Muralitharan,0,1,1,wides,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.2,R Dravid,SR Watson,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.3,SR Watson,R Dravid,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.4,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.5,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.6,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,3.7,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.1,SR Watson,R Dravid,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.2,R Dravid,SR Watson,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.3,R Dravid,SR Watson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.4,R Dravid,SR Watson,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.5,R Dravid,SR Watson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,4.6,R Dravid,SR Watson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.1,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.2,R Dravid,SR Watson,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.3,R Dravid,SR Watson,M Muralitharan,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.4,R Dravid,SR Watson,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.5,SR Watson,R Dravid,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,5.6,SR Watson,R Dravid,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.1,R Dravid,SR Watson,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.2,SR Watson,R Dravid,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.3,R Dravid,SR Watson,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.4,R Dravid,SR Watson,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.5,R Dravid,SR Watson,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,6.6,SR Watson,R Dravid,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.1,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.2,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.3,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.4,SR Watson,R Dravid,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.5,R Dravid,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,7.6,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.1,R Dravid,SR Watson,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.2,SR Watson,R Dravid,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.3,R Dravid,SR Watson,RV Gomez,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.4,R Dravid,SR Watson,RV Gomez,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.5,R Dravid,SR Watson,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,8.6,SR Watson,R Dravid,RV Gomez,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.1,R Dravid,SR Watson,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.2,R Dravid,SR Watson,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.3,R Dravid,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.4,SR Watson,R Dravid,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.5,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,9.6,SR Watson,R Dravid,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.1,R Dravid,SR Watson,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.2,R Dravid,SR Watson,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.3,SR Watson,R Dravid,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.4,R Dravid,SR Watson,NLTC Perera,1,0,1,NA,1,run out,R Dravid,KM Jadhav,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.5,J Botha,SR Watson,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,10.6,J Botha,SR Watson,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.1,SR Watson,J Botha,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.2,J Botha,SR Watson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.3,SR Watson,J Botha,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.4,SR Watson,J Botha,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.5,SR Watson,J Botha,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,11.6,J Botha,SR Watson,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.1,SR Watson,J Botha,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.2,SR Watson,J Botha,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.3,SR Watson,J Botha,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.4,SR Watson,J Botha,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.5,SR Watson,J Botha,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,12.6,SR Watson,J Botha,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.1,J Botha,SR Watson,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.2,J Botha,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.3,SR Watson,J Botha,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.4,SR Watson,J Botha,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.5,SR Watson,J Botha,RA Jadeja,0,0,0,NA,1,bowled,SR Watson,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,13.6,LRPL Taylor,J Botha,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501225,2nd innings,Rajasthan Royals,Kochi Tuskers Kerala,14.1,J Botha,LRPL Taylor,M Muralitharan,4,0,4,NA,0,NA,NA,NA,1

@@ -1,0 +1,252 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.1,G Gambhir,V Sehwag,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.2,G Gambhir,V Sehwag,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.3,G Gambhir,V Sehwag,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.4,V Sehwag,G Gambhir,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.5,V Sehwag,G Gambhir,MM Patel,0,1,1,noballs,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.6,V Sehwag,G Gambhir,MM Patel,0,1,1,noballs,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.7,V Sehwag,G Gambhir,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,0.8,V Sehwag,G Gambhir,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.1,V Sehwag,G Gambhir,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.2,V Sehwag,G Gambhir,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.3,G Gambhir,V Sehwag,A Singh,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.4,G Gambhir,V Sehwag,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.5,G Gambhir,V Sehwag,A Singh,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,1.6,G Gambhir,V Sehwag,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.1,G Gambhir,V Sehwag,MM Patel,0,0,0,NA,1,caught and bowled,G Gambhir,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.2,AB de Villiers,V Sehwag,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.3,AB de Villiers,V Sehwag,MM Patel,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.4,AB de Villiers,V Sehwag,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.5,V Sehwag,AB de Villiers,MM Patel,0,0,0,NA,1,lbw,V Sehwag,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,2.6,TM Dilshan,AB de Villiers,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.1,AB de Villiers,TM Dilshan,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.2,AB de Villiers,TM Dilshan,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.3,TM Dilshan,AB de Villiers,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.4,TM Dilshan,AB de Villiers,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.5,TM Dilshan,AB de Villiers,A Singh,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,3.6,TM Dilshan,AB de Villiers,A Singh,3,0,3,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.1,TM Dilshan,AB de Villiers,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.2,TM Dilshan,AB de Villiers,MM Patel,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.3,TM Dilshan,AB de Villiers,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.4,TM Dilshan,AB de Villiers,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.5,AB de Villiers,TM Dilshan,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,4.6,AB de Villiers,TM Dilshan,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.1,TM Dilshan,AB de Villiers,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.2,TM Dilshan,AB de Villiers,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.3,AB de Villiers,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.4,AB de Villiers,TM Dilshan,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.5,AB de Villiers,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,5.6,AB de Villiers,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.1,TM Dilshan,AB de Villiers,J Botha,0,1,1,wides,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.2,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.3,AB de Villiers,TM Dilshan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.4,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.5,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.6,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,6.7,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.1,AB de Villiers,TM Dilshan,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.2,AB de Villiers,TM Dilshan,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.3,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.4,AB de Villiers,TM Dilshan,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.5,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,7.6,AB de Villiers,TM Dilshan,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.1,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.2,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.3,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.4,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.5,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,8.6,AB de Villiers,TM Dilshan,J Botha,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.1,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.2,AB de Villiers,TM Dilshan,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.3,TM Dilshan,AB de Villiers,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.4,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.5,AB de Villiers,TM Dilshan,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,9.6,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.1,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.2,TM Dilshan,AB de Villiers,J Botha,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.3,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.4,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.5,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,10.6,TM Dilshan,AB de Villiers,J Botha,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.1,AB de Villiers,TM Dilshan,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.2,AB de Villiers,TM Dilshan,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.3,AB de Villiers,TM Dilshan,SK Warne,3,0,3,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.4,TM Dilshan,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.5,AB de Villiers,TM Dilshan,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,11.6,AB de Villiers,TM Dilshan,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.1,AB de Villiers,TM Dilshan,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.2,AB de Villiers,TM Dilshan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.3,AB de Villiers,TM Dilshan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.4,TM Dilshan,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.5,AB de Villiers,TM Dilshan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,12.6,AB de Villiers,TM Dilshan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.1,AB de Villiers,TM Dilshan,AS Raut,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.2,AB de Villiers,TM Dilshan,AS Raut,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.3,TM Dilshan,AB de Villiers,AS Raut,0,1,1,legbyes,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.4,AB de Villiers,TM Dilshan,AS Raut,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.5,AB de Villiers,TM Dilshan,AS Raut,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,13.6,AB de Villiers,TM Dilshan,AS Raut,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.1,AB de Villiers,TM Dilshan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.2,TM Dilshan,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.3,AB de Villiers,TM Dilshan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.4,TM Dilshan,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.5,AB de Villiers,TM Dilshan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,14.6,TM Dilshan,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.1,TM Dilshan,AB de Villiers,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.2,TM Dilshan,AB de Villiers,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.3,AB de Villiers,TM Dilshan,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.4,TM Dilshan,AB de Villiers,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.5,TM Dilshan,AB de Villiers,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,15.6,AB de Villiers,TM Dilshan,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.1,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.2,TM Dilshan,AB de Villiers,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.3,AB de Villiers,TM Dilshan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.4,TM Dilshan,AB de Villiers,J Botha,0,0,0,NA,1,bowled,TM Dilshan,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.5,KD Karthik,AB de Villiers,J Botha,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,16.6,KD Karthik,AB de Villiers,J Botha,0,0,0,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.1,AB de Villiers,KD Karthik,A Singh,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.2,AB de Villiers,KD Karthik,A Singh,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.3,AB de Villiers,KD Karthik,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.4,KD Karthik,AB de Villiers,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.5,AB de Villiers,KD Karthik,A Singh,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,17.6,AB de Villiers,KD Karthik,A Singh,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.1,AB de Villiers,KD Karthik,MM Patel,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.2,AB de Villiers,KD Karthik,MM Patel,6,1,7,noballs,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.3,AB de Villiers,KD Karthik,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.4,AB de Villiers,KD Karthik,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.5,KD Karthik,AB de Villiers,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.6,KD Karthik,AB de Villiers,MM Patel,6,0,6,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,18.7,KD Karthik,AB de Villiers,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.1,KD Karthik,AB de Villiers,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.2,AB de Villiers,KD Karthik,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.3,KD Karthik,AB de Villiers,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.4,KD Karthik,AB de Villiers,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.5,KD Karthik,AB de Villiers,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,1st innings,Delhi Daredevils,Rajasthan Royals,19.6,KD Karthik,AB de Villiers,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.1,RJ Quiney,GC Smith,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.2,RJ Quiney,GC Smith,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.3,RJ Quiney,GC Smith,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.4,RJ Quiney,GC Smith,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.5,RJ Quiney,GC Smith,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.6,GC Smith,RJ Quiney,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,0.7,GC Smith,RJ Quiney,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.1,RJ Quiney,GC Smith,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.2,RJ Quiney,GC Smith,DP Nannes,0,1,1,legbyes,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.3,GC Smith,RJ Quiney,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.4,GC Smith,RJ Quiney,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.5,GC Smith,RJ Quiney,DP Nannes,0,0,0,NA,1,caught,GC Smith,AM Salvi,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,1.6,RJ Quiney,NV Ojha,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.1,RJ Quiney,NV Ojha,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.2,RJ Quiney,NV Ojha,A Nehra,0,0,0,NA,1,caught,RJ Quiney,DP Nannes,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.3,NV Ojha,J Botha,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.4,NV Ojha,J Botha,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.5,NV Ojha,J Botha,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,2.6,NV Ojha,J Botha,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.1,J Botha,NV Ojha,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.2,J Botha,NV Ojha,DP Nannes,0,1,1,wides,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.3,J Botha,NV Ojha,DP Nannes,0,1,1,legbyes,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.4,NV Ojha,J Botha,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.5,J Botha,NV Ojha,DP Nannes,0,1,1,wides,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.6,J Botha,NV Ojha,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.7,J Botha,NV Ojha,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,3.8,J Botha,NV Ojha,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.1,NV Ojha,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.2,NV Ojha,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.3,NV Ojha,J Botha,AM Salvi,0,1,1,legbyes,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.4,J Botha,NV Ojha,AM Salvi,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.5,J Botha,NV Ojha,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,4.6,NV Ojha,J Botha,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.1,NV Ojha,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.2,NV Ojha,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.3,NV Ojha,J Botha,MF Maharoof,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.4,NV Ojha,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.5,NV Ojha,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,5.6,NV Ojha,J Botha,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.1,NV Ojha,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.2,NV Ojha,J Botha,AM Salvi,0,0,0,NA,1,caught,NV Ojha,V Sehwag,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.3,J Botha,RA Jadeja,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.4,RA Jadeja,J Botha,AM Salvi,0,1,1,wides,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.5,RA Jadeja,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.6,RA Jadeja,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,6.7,RA Jadeja,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.1,J Botha,RA Jadeja,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.2,RA Jadeja,J Botha,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.3,J Botha,RA Jadeja,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.4,RA Jadeja,J Botha,MF Maharoof,3,0,3,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.5,J Botha,RA Jadeja,MF Maharoof,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,7.6,J Botha,RA Jadeja,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.1,J Botha,RA Jadeja,AM Salvi,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.2,J Botha,RA Jadeja,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.3,J Botha,RA Jadeja,AM Salvi,0,2,2,legbyes,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.4,J Botha,RA Jadeja,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.5,RA Jadeja,J Botha,AM Salvi,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,8.6,RA Jadeja,J Botha,AM Salvi,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.1,J Botha,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.2,RA Jadeja,J Botha,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.3,J Botha,RA Jadeja,A Mishra,1,1,2,noballs,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.4,RA Jadeja,J Botha,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.5,RA Jadeja,J Botha,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.6,J Botha,RA Jadeja,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,9.7,J Botha,RA Jadeja,A Mishra,3,0,3,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.1,J Botha,RA Jadeja,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.2,RA Jadeja,J Botha,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.3,RA Jadeja,J Botha,TM Dilshan,0,1,1,legbyes,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.4,J Botha,RA Jadeja,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.5,RA Jadeja,J Botha,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,10.6,RA Jadeja,J Botha,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.1,J Botha,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.2,RA Jadeja,J Botha,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.3,RA Jadeja,J Botha,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.4,J Botha,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.5,RA Jadeja,J Botha,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,11.6,J Botha,RA Jadeja,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.1,RA Jadeja,J Botha,AM Salvi,0,0,0,NA,1,caught,RA Jadeja,KD Karthik,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.2,YK Pathan,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.3,YK Pathan,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.4,YK Pathan,J Botha,AM Salvi,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.5,YK Pathan,J Botha,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,12.6,J Botha,YK Pathan,AM Salvi,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.1,J Botha,YK Pathan,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.2,YK Pathan,J Botha,MF Maharoof,0,0,0,NA,1,caught,YK Pathan,KD Karthik,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.3,J Botha,AS Raut,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.4,AS Raut,J Botha,MF Maharoof,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.5,AS Raut,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,13.6,AS Raut,J Botha,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.1,AS Raut,J Botha,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.2,J Botha,AS Raut,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.3,AS Raut,J Botha,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.4,AS Raut,J Botha,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.5,AS Raut,J Botha,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,14.6,AS Raut,J Botha,A Mishra,3,0,3,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.1,AS Raut,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.2,AS Raut,J Botha,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.3,AS Raut,J Botha,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.4,J Botha,AS Raut,MF Maharoof,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.5,J Botha,AS Raut,MF Maharoof,0,0,0,NA,1,caught,J Botha,V Sehwag,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,15.6,AS Raut,SK Warne,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.1,AS Raut,SK Warne,A Mishra,0,0,0,NA,1,bowled,AS Raut,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.2,A Singh,SK Warne,A Mishra,0,0,0,NA,1,stumped,A Singh,KD Karthik,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.3,SK Trivedi,SK Warne,A Mishra,0,1,1,noballs,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.4,SK Trivedi,SK Warne,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.5,SK Warne,SK Trivedi,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.6,SK Warne,SK Trivedi,A Mishra,6,0,6,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,16.7,SK Warne,SK Trivedi,A Mishra,0,0,0,NA,1,stumped,SK Warne,KD Karthik,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.1,SK Trivedi,MM Patel,DP Nannes,0,1,1,wides,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.2,SK Trivedi,MM Patel,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.3,MM Patel,SK Trivedi,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.4,SK Trivedi,MM Patel,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.5,MM Patel,SK Trivedi,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.6,MM Patel,SK Trivedi,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,17.7,MM Patel,SK Trivedi,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.1,SK Trivedi,MM Patel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.2,SK Trivedi,MM Patel,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.3,SK Trivedi,MM Patel,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.4,MM Patel,SK Trivedi,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.5,SK Trivedi,MM Patel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,18.6,SK Trivedi,MM Patel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.1,MM Patel,SK Trivedi,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.2,MM Patel,SK Trivedi,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.3,MM Patel,SK Trivedi,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.4,MM Patel,SK Trivedi,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.5,MM Patel,SK Trivedi,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+392230,2nd innings,Rajasthan Royals,Delhi Daredevils,19.6,SK Trivedi,MM Patel,DP Nannes,0,0,0,NA,0,NA,NA,NA,0

@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.1,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.2,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.3,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.4,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.5,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.6,G Gambhir,JH Kallis,Z Khan,0,1,1,wides,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,0.7,G Gambhir,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.1,JH Kallis,G Gambhir,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.2,JH Kallis,G Gambhir,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.3,G Gambhir,JH Kallis,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.4,G Gambhir,JH Kallis,SL Malinga,0,0,0,NA,1,bowled,G Gambhir,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.5,MK Pandey,JH Kallis,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,1.6,MK Pandey,JH Kallis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.1,MK Pandey,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.2,MK Pandey,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.3,MK Pandey,JH Kallis,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.4,JH Kallis,MK Pandey,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.5,MK Pandey,JH Kallis,Z Khan,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,2.6,MK Pandey,JH Kallis,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.1,MK Pandey,JH Kallis,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.2,MK Pandey,JH Kallis,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.3,MK Pandey,JH Kallis,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.4,MK Pandey,JH Kallis,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.5,MK Pandey,JH Kallis,CJ Anderson,6,0,6,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,3.6,MK Pandey,JH Kallis,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.1,JH Kallis,MK Pandey,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.2,MK Pandey,JH Kallis,Z Khan,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.3,MK Pandey,JH Kallis,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.4,MK Pandey,JH Kallis,Z Khan,0,1,1,wides,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.5,MK Pandey,JH Kallis,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.6,JH Kallis,MK Pandey,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.7,MK Pandey,JH Kallis,Z Khan,0,1,1,wides,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,4.8,MK Pandey,JH Kallis,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.1,MK Pandey,JH Kallis,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.2,JH Kallis,MK Pandey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.3,MK Pandey,JH Kallis,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.4,MK Pandey,JH Kallis,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.5,MK Pandey,JH Kallis,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,5.6,JH Kallis,MK Pandey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.1,MK Pandey,JH Kallis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.2,MK Pandey,JH Kallis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.3,JH Kallis,MK Pandey,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.4,JH Kallis,MK Pandey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.5,MK Pandey,JH Kallis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,6.6,MK Pandey,JH Kallis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.1,JH Kallis,MK Pandey,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.2,JH Kallis,MK Pandey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.3,MK Pandey,JH Kallis,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.4,JH Kallis,MK Pandey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.5,JH Kallis,MK Pandey,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,7.6,JH Kallis,MK Pandey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.1,JH Kallis,MK Pandey,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.2,JH Kallis,MK Pandey,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.3,JH Kallis,MK Pandey,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.4,JH Kallis,MK Pandey,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.5,JH Kallis,MK Pandey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,8.6,MK Pandey,JH Kallis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.1,MK Pandey,JH Kallis,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.2,JH Kallis,MK Pandey,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.3,MK Pandey,JH Kallis,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.4,MK Pandey,JH Kallis,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.5,JH Kallis,MK Pandey,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,9.6,MK Pandey,JH Kallis,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.1,MK Pandey,JH Kallis,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.2,JH Kallis,MK Pandey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.3,JH Kallis,MK Pandey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.4,MK Pandey,JH Kallis,PP Ojha,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.5,MK Pandey,JH Kallis,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,10.6,MK Pandey,JH Kallis,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.1,JH Kallis,MK Pandey,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.2,JH Kallis,MK Pandey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.3,MK Pandey,JH Kallis,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.4,MK Pandey,JH Kallis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.5,JH Kallis,MK Pandey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,11.6,MK Pandey,JH Kallis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.1,JH Kallis,MK Pandey,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.2,JH Kallis,MK Pandey,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.3,JH Kallis,MK Pandey,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.4,MK Pandey,JH Kallis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.5,JH Kallis,MK Pandey,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,12.6,MK Pandey,JH Kallis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.1,MK Pandey,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.2,MK Pandey,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.3,JH Kallis,MK Pandey,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.4,JH Kallis,MK Pandey,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.5,MK Pandey,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,13.6,MK Pandey,JH Kallis,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.1,JH Kallis,MK Pandey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.2,MK Pandey,JH Kallis,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.3,JH Kallis,MK Pandey,PP Ojha,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.4,JH Kallis,MK Pandey,PP Ojha,6,0,6,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.5,JH Kallis,MK Pandey,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,14.6,JH Kallis,MK Pandey,PP Ojha,6,0,6,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.1,MK Pandey,JH Kallis,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.2,MK Pandey,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.3,JH Kallis,MK Pandey,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.4,JH Kallis,MK Pandey,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.5,JH Kallis,MK Pandey,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,15.6,JH Kallis,MK Pandey,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.1,MK Pandey,JH Kallis,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.2,MK Pandey,JH Kallis,SL Malinga,6,0,6,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.3,MK Pandey,JH Kallis,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.4,MK Pandey,JH Kallis,SL Malinga,0,4,4,legbyes,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.5,MK Pandey,JH Kallis,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,16.6,MK Pandey,JH Kallis,SL Malinga,0,0,0,NA,1,bowled,MK Pandey,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.1,JH Kallis,RV Uthappa,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.2,RV Uthappa,JH Kallis,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.3,JH Kallis,RV Uthappa,Z Khan,6,0,6,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.4,JH Kallis,RV Uthappa,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.5,JH Kallis,RV Uthappa,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,17.6,RV Uthappa,JH Kallis,Z Khan,0,0,0,NA,1,caught,RV Uthappa,RG Sharma,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.1,YK Pathan,JH Kallis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.2,JH Kallis,YK Pathan,SL Malinga,0,0,0,NA,1,caught,JH Kallis,CJ Anderson,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.3,YK Pathan,Shakib Al Hasan,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.4,Shakib Al Hasan,YK Pathan,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.5,Shakib Al Hasan,YK Pathan,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.6,YK Pathan,Shakib Al Hasan,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,18.7,Shakib Al Hasan,YK Pathan,SL Malinga,0,0,0,NA,1,caught,Shakib Al Hasan,RG Sharma,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.1,SA Yadav,YK Pathan,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.2,YK Pathan,SA Yadav,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.3,SA Yadav,YK Pathan,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.4,SA Yadav,YK Pathan,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.5,SA Yadav,YK Pathan,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+729279,1st innings,Kolkata Knight Riders,Mumbai Indians,19.6,SA Yadav,YK Pathan,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.1,MEK Hussey,AP Tare,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.2,MEK Hussey,AP Tare,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.3,MEK Hussey,AP Tare,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.4,MEK Hussey,AP Tare,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.5,AP Tare,MEK Hussey,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.6,AP Tare,MEK Hussey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.1,AP Tare,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.2,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.3,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.4,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.5,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.6,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.1,AP Tare,MEK Hussey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.2,AP Tare,MEK Hussey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.3,AP Tare,MEK Hussey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.4,AP Tare,MEK Hussey,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.5,AP Tare,MEK Hussey,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.6,AP Tare,MEK Hussey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.1,AP Tare,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.2,AP Tare,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.3,AP Tare,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.4,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.5,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.6,MEK Hussey,AP Tare,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.1,AP Tare,MEK Hussey,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.2,AP Tare,MEK Hussey,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.3,AP Tare,MEK Hussey,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.4,MEK Hussey,AP Tare,SP Narine,0,0,0,NA,1,bowled,MEK Hussey,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.5,AT Rayudu,AP Tare,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.6,AT Rayudu,AP Tare,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.1,AT Rayudu,AP Tare,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.2,AP Tare,AT Rayudu,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.3,AP Tare,AT Rayudu,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.4,AP Tare,AT Rayudu,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.5,AT Rayudu,AP Tare,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.6,AT Rayudu,AP Tare,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.1,AT Rayudu,AP Tare,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.2,AP Tare,AT Rayudu,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.3,AT Rayudu,AP Tare,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.4,AT Rayudu,AP Tare,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.5,AT Rayudu,AP Tare,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.6,AT Rayudu,AP Tare,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.1,AP Tare,AT Rayudu,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.2,AT Rayudu,AP Tare,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.3,AT Rayudu,AP Tare,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.4,AP Tare,AT Rayudu,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.5,AP Tare,AT Rayudu,Shakib Al Hasan,0,0,0,NA,1,caught and bowled,AP Tare,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.6,AT Rayudu,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.1,AT Rayudu,RG Sharma,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.2,RG Sharma,AT Rayudu,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.3,AT Rayudu,RG Sharma,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.4,AT Rayudu,RG Sharma,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.5,AT Rayudu,RG Sharma,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.6,RG Sharma,AT Rayudu,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.1,RG Sharma,AT Rayudu,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.2,RG Sharma,AT Rayudu,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.3,RG Sharma,AT Rayudu,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.4,RG Sharma,AT Rayudu,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.5,RG Sharma,AT Rayudu,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.6,AT Rayudu,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.1,RG Sharma,AT Rayudu,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.2,RG Sharma,AT Rayudu,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.3,AT Rayudu,RG Sharma,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.4,AT Rayudu,RG Sharma,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.5,AT Rayudu,RG Sharma,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.6,AT Rayudu,RG Sharma,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.1,RG Sharma,AT Rayudu,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.2,RG Sharma,AT Rayudu,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.3,AT Rayudu,RG Sharma,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.4,RG Sharma,AT Rayudu,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.5,AT Rayudu,RG Sharma,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.6,AT Rayudu,RG Sharma,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.1,AT Rayudu,RG Sharma,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.2,AT Rayudu,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.3,RG Sharma,AT Rayudu,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.4,RG Sharma,AT Rayudu,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.5,AT Rayudu,RG Sharma,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.6,AT Rayudu,RG Sharma,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.1,RG Sharma,AT Rayudu,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.2,AT Rayudu,RG Sharma,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.3,AT Rayudu,RG Sharma,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.4,RG Sharma,AT Rayudu,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.5,AT Rayudu,RG Sharma,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.6,AT Rayudu,RG Sharma,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.1,RG Sharma,AT Rayudu,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.2,AT Rayudu,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.3,AT Rayudu,RG Sharma,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.4,AT Rayudu,RG Sharma,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.5,RG Sharma,AT Rayudu,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.6,AT Rayudu,RG Sharma,SP Narine,0,4,4,byes,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.1,RG Sharma,AT Rayudu,M Morkel,6,0,6,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.2,RG Sharma,AT Rayudu,M Morkel,0,0,0,NA,1,caught,RG Sharma,JH Kallis,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.3,AT Rayudu,KA Pollard,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.4,AT Rayudu,KA Pollard,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.5,KA Pollard,AT Rayudu,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.6,KA Pollard,AT Rayudu,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.1,AT Rayudu,KA Pollard,SP Narine,0,0,0,NA,1,stumped,AT Rayudu,RV Uthappa,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.2,CJ Anderson,KA Pollard,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.3,CJ Anderson,KA Pollard,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.4,CJ Anderson,KA Pollard,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.5,KA Pollard,CJ Anderson,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.6,KA Pollard,CJ Anderson,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.1,CJ Anderson,KA Pollard,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.2,CJ Anderson,KA Pollard,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.3,CJ Anderson,KA Pollard,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.4,CJ Anderson,KA Pollard,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.5,KA Pollard,CJ Anderson,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.6,KA Pollard,CJ Anderson,PP Chawla,0,1,1,wides,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,17.7,KA Pollard,CJ Anderson,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.1,CJ Anderson,KA Pollard,SP Narine,0,0,0,NA,1,bowled,CJ Anderson,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.2,Harbhajan Singh,KA Pollard,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.3,Harbhajan Singh,KA Pollard,SP Narine,0,0,0,NA,1,bowled,Harbhajan Singh,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.4,CM Gautam,KA Pollard,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.5,CM Gautam,KA Pollard,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,18.6,CM Gautam,KA Pollard,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.1,KA Pollard,CM Gautam,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.2,CM Gautam,KA Pollard,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.3,CM Gautam,KA Pollard,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.4,CM Gautam,KA Pollard,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.5,KA Pollard,CM Gautam,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+729279,2nd innings,Mumbai Indians,Kolkata Knight Riders,19.6,CM Gautam,KA Pollard,PP Chawla,0,0,0,NA,1,stumped,CM Gautam,RV Uthappa,0

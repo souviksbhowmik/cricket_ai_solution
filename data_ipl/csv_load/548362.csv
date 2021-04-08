@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.1,CH Gayle,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.2,CH Gayle,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.3,CH Gayle,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.4,CH Gayle,TM Dilshan,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.5,TM Dilshan,CH Gayle,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,0.6,CH Gayle,TM Dilshan,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.1,CH Gayle,TM Dilshan,AC Thomas,1,1,2,noballs,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.2,TM Dilshan,CH Gayle,AC Thomas,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.3,TM Dilshan,CH Gayle,AC Thomas,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.4,TM Dilshan,CH Gayle,AC Thomas,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.5,TM Dilshan,CH Gayle,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.6,CH Gayle,TM Dilshan,AC Thomas,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,1.7,CH Gayle,TM Dilshan,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.1,CH Gayle,TM Dilshan,K Upadhyay,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.2,CH Gayle,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.3,CH Gayle,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.4,CH Gayle,TM Dilshan,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.5,TM Dilshan,CH Gayle,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,2.6,CH Gayle,TM Dilshan,K Upadhyay,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.1,TM Dilshan,CH Gayle,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.2,TM Dilshan,CH Gayle,B Kumar,0,2,2,legbyes,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.3,TM Dilshan,CH Gayle,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.4,TM Dilshan,CH Gayle,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.5,CH Gayle,TM Dilshan,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.6,CH Gayle,TM Dilshan,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,3.7,CH Gayle,TM Dilshan,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.1,TM Dilshan,CH Gayle,AC Thomas,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.2,TM Dilshan,CH Gayle,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.3,CH Gayle,TM Dilshan,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.4,TM Dilshan,CH Gayle,AC Thomas,0,1,1,wides,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.5,TM Dilshan,CH Gayle,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.6,CH Gayle,TM Dilshan,AC Thomas,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,4.7,CH Gayle,TM Dilshan,AC Thomas,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.1,TM Dilshan,CH Gayle,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.2,CH Gayle,TM Dilshan,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.3,CH Gayle,TM Dilshan,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.4,CH Gayle,TM Dilshan,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.5,CH Gayle,TM Dilshan,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,5.6,CH Gayle,TM Dilshan,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.1,TM Dilshan,CH Gayle,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.2,TM Dilshan,CH Gayle,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.3,CH Gayle,TM Dilshan,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.4,CH Gayle,TM Dilshan,AD Mathews,0,1,1,wides,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.5,CH Gayle,TM Dilshan,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.6,CH Gayle,TM Dilshan,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,6.7,TM Dilshan,CH Gayle,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.1,CH Gayle,TM Dilshan,R Sharma,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.2,CH Gayle,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.3,TM Dilshan,CH Gayle,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.4,TM Dilshan,CH Gayle,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.5,CH Gayle,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,7.6,TM Dilshan,CH Gayle,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.1,TM Dilshan,CH Gayle,AD Mathews,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.2,TM Dilshan,CH Gayle,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.3,CH Gayle,TM Dilshan,AD Mathews,0,0,0,NA,1,caught,CH Gayle,MK Pandey,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.4,V Kohli,TM Dilshan,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.5,TM Dilshan,V Kohli,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,8.6,TM Dilshan,V Kohli,AD Mathews,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.1,V Kohli,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.2,TM Dilshan,V Kohli,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.3,TM Dilshan,V Kohli,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.4,TM Dilshan,V Kohli,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.5,V Kohli,TM Dilshan,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,9.6,V Kohli,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.1,V Kohli,TM Dilshan,MJ Clarke,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.2,V Kohli,TM Dilshan,MJ Clarke,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.3,V Kohli,TM Dilshan,MJ Clarke,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.4,V Kohli,TM Dilshan,MJ Clarke,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.5,V Kohli,TM Dilshan,MJ Clarke,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,10.6,V Kohli,TM Dilshan,MJ Clarke,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.1,V Kohli,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.2,TM Dilshan,V Kohli,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.3,V Kohli,TM Dilshan,R Sharma,0,0,0,NA,1,caught,V Kohli,SPD Smith,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.4,SS Tiwary,TM Dilshan,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.5,SS Tiwary,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.6,TM Dilshan,SS Tiwary,R Sharma,0,1,1,wides,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,11.7,TM Dilshan,SS Tiwary,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.1,SS Tiwary,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.2,SS Tiwary,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.3,SS Tiwary,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.4,SS Tiwary,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.5,SS Tiwary,TM Dilshan,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,12.6,TM Dilshan,SS Tiwary,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.1,TM Dilshan,SS Tiwary,R Sharma,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.2,TM Dilshan,SS Tiwary,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.3,SS Tiwary,TM Dilshan,R Sharma,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.4,SS Tiwary,TM Dilshan,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.5,SS Tiwary,TM Dilshan,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,13.6,TM Dilshan,SS Tiwary,R Sharma,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.1,SS Tiwary,TM Dilshan,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.2,TM Dilshan,SS Tiwary,K Upadhyay,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.3,TM Dilshan,SS Tiwary,K Upadhyay,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.4,TM Dilshan,SS Tiwary,K Upadhyay,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.5,TM Dilshan,SS Tiwary,K Upadhyay,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,14.6,SS Tiwary,TM Dilshan,K Upadhyay,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.1,TM Dilshan,SS Tiwary,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.2,TM Dilshan,SS Tiwary,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.3,TM Dilshan,SS Tiwary,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.4,SS Tiwary,TM Dilshan,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.5,SS Tiwary,TM Dilshan,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,15.6,TM Dilshan,SS Tiwary,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.1,TM Dilshan,SS Tiwary,B Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.2,SS Tiwary,TM Dilshan,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.3,TM Dilshan,SS Tiwary,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.4,TM Dilshan,SS Tiwary,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.5,SS Tiwary,TM Dilshan,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,16.6,TM Dilshan,SS Tiwary,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.1,SS Tiwary,TM Dilshan,AC Thomas,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.2,SS Tiwary,TM Dilshan,AC Thomas,0,0,0,NA,1,run out,TM Dilshan,AC Thomas,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.3,SS Tiwary,AB de Villiers,AC Thomas,6,0,6,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.4,SS Tiwary,AB de Villiers,AC Thomas,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.5,SS Tiwary,AB de Villiers,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,17.6,AB de Villiers,SS Tiwary,AC Thomas,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.1,SS Tiwary,AB de Villiers,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.2,SS Tiwary,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.3,SS Tiwary,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.4,AB de Villiers,SS Tiwary,B Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.5,SS Tiwary,AB de Villiers,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,18.6,SS Tiwary,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.1,SS Tiwary,AB de Villiers,AC Thomas,4,0,4,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.2,SS Tiwary,AB de Villiers,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.3,AB de Villiers,SS Tiwary,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.4,SS Tiwary,AB de Villiers,AC Thomas,2,0,2,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.5,SS Tiwary,AB de Villiers,AC Thomas,1,0,1,NA,0,NA,NA,NA,1
+548362,1st innings,Royal Challengers Bangalore,Pune Warriors,19.6,AB de Villiers,SS Tiwary,AC Thomas,6,0,6,NA,0,NA,NA,NA,1
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.1,MD Mishra,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.2,MD Mishra,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.3,MD Mishra,MJ Clarke,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.4,MD Mishra,MJ Clarke,Z Khan,0,0,0,NA,1,lbw,MD Mishra,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.5,MK Pandey,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,0.6,MK Pandey,MJ Clarke,Z Khan,0,0,0,NA,1,bowled,MK Pandey,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.1,MJ Clarke,RV Uthappa,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.2,RV Uthappa,MJ Clarke,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.3,RV Uthappa,MJ Clarke,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.4,MJ Clarke,RV Uthappa,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.5,MJ Clarke,RV Uthappa,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,1.6,MJ Clarke,RV Uthappa,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.1,RV Uthappa,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.2,RV Uthappa,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.3,RV Uthappa,MJ Clarke,Z Khan,3,0,3,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.4,MJ Clarke,RV Uthappa,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.5,MJ Clarke,RV Uthappa,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,2.6,RV Uthappa,MJ Clarke,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.1,MJ Clarke,RV Uthappa,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.2,MJ Clarke,RV Uthappa,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.3,MJ Clarke,RV Uthappa,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.4,RV Uthappa,MJ Clarke,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.5,MJ Clarke,RV Uthappa,R Vinay Kumar,0,0,0,NA,1,caught,MJ Clarke,SS Tiwary,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,3.6,RV Uthappa,AP Majumdar,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.1,AP Majumdar,RV Uthappa,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.2,AP Majumdar,RV Uthappa,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.3,AP Majumdar,RV Uthappa,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.4,RV Uthappa,AP Majumdar,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.5,RV Uthappa,AP Majumdar,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,4.6,RV Uthappa,AP Majumdar,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.1,AP Majumdar,RV Uthappa,KP Appanna,0,1,1,legbyes,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.2,RV Uthappa,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.3,RV Uthappa,AP Majumdar,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.4,AP Majumdar,RV Uthappa,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.5,AP Majumdar,RV Uthappa,KP Appanna,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,5.6,AP Majumdar,RV Uthappa,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.1,RV Uthappa,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.2,RV Uthappa,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.3,RV Uthappa,AP Majumdar,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.4,RV Uthappa,AP Majumdar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.5,AP Majumdar,RV Uthappa,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,6.6,RV Uthappa,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.1,AP Majumdar,RV Uthappa,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.2,RV Uthappa,AP Majumdar,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.3,RV Uthappa,AP Majumdar,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.4,RV Uthappa,AP Majumdar,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.5,RV Uthappa,AP Majumdar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,7.6,AP Majumdar,RV Uthappa,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.1,AP Majumdar,RV Uthappa,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.2,AP Majumdar,RV Uthappa,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.3,RV Uthappa,AP Majumdar,M Muralitharan,0,0,0,NA,1,stumped,RV Uthappa,AB de Villiers,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.4,AD Mathews,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.5,AD Mathews,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,8.6,AD Mathews,AP Majumdar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.1,AD Mathews,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.2,AD Mathews,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.3,AD Mathews,AP Majumdar,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.4,AP Majumdar,AD Mathews,KP Appanna,0,1,1,wides,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.5,AP Majumdar,AD Mathews,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.6,AP Majumdar,AD Mathews,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,9.7,AP Majumdar,AD Mathews,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.1,AP Majumdar,AD Mathews,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.2,AD Mathews,AP Majumdar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.3,AP Majumdar,AD Mathews,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.4,AP Majumdar,AD Mathews,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.5,AD Mathews,AP Majumdar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,10.6,AD Mathews,AP Majumdar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.1,AD Mathews,AP Majumdar,KP Appanna,0,0,0,NA,1,stumped,AD Mathews,AB de Villiers,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.2,SPD Smith,AP Majumdar,KP Appanna,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.3,SPD Smith,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.4,SPD Smith,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.5,SPD Smith,AP Majumdar,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,11.6,AP Majumdar,SPD Smith,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.1,AP Majumdar,SPD Smith,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.2,AP Majumdar,SPD Smith,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.3,AP Majumdar,SPD Smith,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.4,AP Majumdar,SPD Smith,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.5,SPD Smith,AP Majumdar,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,12.6,SPD Smith,AP Majumdar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.1,SPD Smith,AP Majumdar,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.2,AP Majumdar,SPD Smith,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.3,SPD Smith,AP Majumdar,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.4,AP Majumdar,SPD Smith,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.5,SPD Smith,AP Majumdar,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,13.6,SPD Smith,AP Majumdar,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.1,AP Majumdar,SPD Smith,HV Patel,0,0,0,NA,1,caught,AP Majumdar,Z Khan,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.2,SPD Smith,B Kumar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.3,B Kumar,SPD Smith,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.4,SPD Smith,B Kumar,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.5,SPD Smith,B Kumar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,14.6,B Kumar,SPD Smith,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.1,SPD Smith,B Kumar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.2,B Kumar,SPD Smith,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.3,SPD Smith,B Kumar,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.4,SPD Smith,B Kumar,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.5,B Kumar,SPD Smith,M Muralitharan,0,0,0,NA,1,bowled,B Kumar,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,15.6,AC Thomas,SPD Smith,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.1,AC Thomas,SPD Smith,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.2,SPD Smith,AC Thomas,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.3,AC Thomas,SPD Smith,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.4,SPD Smith,AC Thomas,Z Khan,0,1,1,legbyes,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.5,AC Thomas,SPD Smith,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,16.6,AC Thomas,SPD Smith,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.1,SPD Smith,AC Thomas,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.2,AC Thomas,SPD Smith,R Vinay Kumar,0,0,0,NA,1,bowled,AC Thomas,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.3,R Sharma,SPD Smith,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.4,SPD Smith,R Sharma,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.5,SPD Smith,R Sharma,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,17.6,R Sharma,SPD Smith,R Vinay Kumar,0,0,0,NA,1,bowled,R Sharma,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.1,SPD Smith,K Upadhyay,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.2,K Upadhyay,SPD Smith,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.3,K Upadhyay,SPD Smith,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.4,K Upadhyay,SPD Smith,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.5,SPD Smith,K Upadhyay,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,18.6,K Upadhyay,SPD Smith,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.1,K Upadhyay,SPD Smith,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.2,K Upadhyay,SPD Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.3,K Upadhyay,SPD Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.4,K Upadhyay,SPD Smith,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.5,SPD Smith,K Upadhyay,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548362,2nd innings,Pune Warriors,Royal Challengers Bangalore,19.6,SPD Smith,K Upadhyay,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0

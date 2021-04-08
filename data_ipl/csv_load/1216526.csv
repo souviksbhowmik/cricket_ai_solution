@@ -1,0 +1,227 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.1,RA Tripathi,Shubman Gill,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.2,RA Tripathi,Shubman Gill,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.3,Shubman Gill,RA Tripathi,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.4,Shubman Gill,RA Tripathi,TA Boult,0,1,1,wides,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.5,Shubman Gill,RA Tripathi,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.6,Shubman Gill,RA Tripathi,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,0.7,Shubman Gill,RA Tripathi,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.1,Shubman Gill,RA Tripathi,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.2,Shubman Gill,RA Tripathi,NM Coulter-Nile,0,1,1,wides,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.3,Shubman Gill,RA Tripathi,NM Coulter-Nile,0,1,1,wides,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.4,Shubman Gill,RA Tripathi,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.5,Shubman Gill,RA Tripathi,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.6,RA Tripathi,Shubman Gill,NM Coulter-Nile,0,1,1,wides,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.7,RA Tripathi,Shubman Gill,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.8,RA Tripathi,Shubman Gill,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,1.9,Shubman Gill,RA Tripathi,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.1,RA Tripathi,Shubman Gill,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.2,RA Tripathi,Shubman Gill,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.3,RA Tripathi,Shubman Gill,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.4,Shubman Gill,RA Tripathi,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.5,RA Tripathi,Shubman Gill,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,2.6,RA Tripathi,Shubman Gill,TA Boult,0,0,0,NA,1,caught,RA Tripathi,SA Yadav,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.1,Shubman Gill,N Rana,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.2,Shubman Gill,N Rana,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.3,Shubman Gill,N Rana,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.4,Shubman Gill,N Rana,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.5,N Rana,Shubman Gill,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,3.6,N Rana,Shubman Gill,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.1,Shubman Gill,N Rana,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.2,N Rana,Shubman Gill,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.3,N Rana,Shubman Gill,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.4,Shubman Gill,N Rana,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.5,Shubman Gill,N Rana,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,4.6,N Rana,Shubman Gill,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.1,Shubman Gill,N Rana,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.2,Shubman Gill,N Rana,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.3,N Rana,Shubman Gill,NM Coulter-Nile,0,0,0,NA,1,caught,N Rana,Q de Kock,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.4,KD Karthik,Shubman Gill,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.5,KD Karthik,Shubman Gill,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,5.6,KD Karthik,Shubman Gill,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.1,Shubman Gill,KD Karthik,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.2,KD Karthik,Shubman Gill,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.3,KD Karthik,Shubman Gill,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.4,KD Karthik,Shubman Gill,KH Pandya,0,1,1,legbyes,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.5,Shubman Gill,KD Karthik,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,6.6,KD Karthik,Shubman Gill,KH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.1,Shubman Gill,KD Karthik,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.2,Shubman Gill,KD Karthik,RD Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.3,Shubman Gill,KD Karthik,RD Chahar,0,0,0,NA,1,caught,Shubman Gill,KA Pollard,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.4,KD Karthik,EJG Morgan,RD Chahar,0,0,0,NA,1,bowled,KD Karthik,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.5,AD Russell,EJG Morgan,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,7.6,EJG Morgan,AD Russell,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.1,AD Russell,EJG Morgan,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.2,EJG Morgan,AD Russell,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.3,EJG Morgan,AD Russell,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.4,AD Russell,EJG Morgan,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.5,AD Russell,EJG Morgan,KH Pandya,6,0,6,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,8.6,AD Russell,EJG Morgan,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.1,EJG Morgan,AD Russell,RD Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.2,EJG Morgan,AD Russell,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.3,EJG Morgan,AD Russell,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.4,EJG Morgan,AD Russell,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.5,EJG Morgan,AD Russell,RD Chahar,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,9.6,EJG Morgan,AD Russell,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.1,AD Russell,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.2,AD Russell,EJG Morgan,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.3,AD Russell,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.4,AD Russell,EJG Morgan,JJ Bumrah,0,0,0,NA,1,caught,AD Russell,Q de Kock,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.5,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.6,PJ Cummins,EJG Morgan,JJ Bumrah,0,1,1,wides,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,10.7,PJ Cummins,EJG Morgan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.1,PJ Cummins,EJG Morgan,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.2,PJ Cummins,EJG Morgan,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.3,EJG Morgan,PJ Cummins,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.4,EJG Morgan,PJ Cummins,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.5,PJ Cummins,EJG Morgan,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,11.6,EJG Morgan,PJ Cummins,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.1,PJ Cummins,EJG Morgan,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.2,PJ Cummins,EJG Morgan,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.3,EJG Morgan,PJ Cummins,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.4,PJ Cummins,EJG Morgan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.5,PJ Cummins,EJG Morgan,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,12.6,PJ Cummins,EJG Morgan,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.1,EJG Morgan,PJ Cummins,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.2,PJ Cummins,EJG Morgan,RD Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.3,PJ Cummins,EJG Morgan,RD Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.4,EJG Morgan,PJ Cummins,RD Chahar,0,1,1,legbyes,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.5,PJ Cummins,EJG Morgan,RD Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,13.6,PJ Cummins,EJG Morgan,RD Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.1,EJG Morgan,PJ Cummins,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.2,PJ Cummins,EJG Morgan,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.3,PJ Cummins,EJG Morgan,KH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.4,PJ Cummins,EJG Morgan,KH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.5,PJ Cummins,EJG Morgan,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,14.6,EJG Morgan,PJ Cummins,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.1,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.2,PJ Cummins,EJG Morgan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.3,EJG Morgan,PJ Cummins,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.4,PJ Cummins,EJG Morgan,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.5,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,15.6,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.1,EJG Morgan,PJ Cummins,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.2,EJG Morgan,PJ Cummins,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.3,PJ Cummins,EJG Morgan,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.4,PJ Cummins,EJG Morgan,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.5,PJ Cummins,EJG Morgan,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,16.6,PJ Cummins,EJG Morgan,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.1,EJG Morgan,PJ Cummins,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.2,EJG Morgan,PJ Cummins,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.3,PJ Cummins,EJG Morgan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.4,EJG Morgan,PJ Cummins,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.5,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,17.6,PJ Cummins,EJG Morgan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.1,EJG Morgan,PJ Cummins,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.2,PJ Cummins,EJG Morgan,TA Boult,6,0,6,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.3,PJ Cummins,EJG Morgan,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.4,PJ Cummins,EJG Morgan,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.5,EJG Morgan,PJ Cummins,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,18.6,PJ Cummins,EJG Morgan,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.1,PJ Cummins,EJG Morgan,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.2,PJ Cummins,EJG Morgan,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.3,EJG Morgan,PJ Cummins,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.4,EJG Morgan,PJ Cummins,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.5,EJG Morgan,PJ Cummins,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,0
+1216526,1st innings,Kolkata Knight Riders,Mumbai Indians,19.6,EJG Morgan,PJ Cummins,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,0
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.1,RG Sharma,Q de Kock,CJ Green,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.2,RG Sharma,Q de Kock,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.3,RG Sharma,Q de Kock,CJ Green,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.4,Q de Kock,RG Sharma,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.5,Q de Kock,RG Sharma,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.6,Q de Kock,RG Sharma,CJ Green,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.1,RG Sharma,Q de Kock,PJ Cummins,0,4,4,legbyes,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.2,RG Sharma,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.3,RG Sharma,Q de Kock,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.4,RG Sharma,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.5,RG Sharma,Q de Kock,PJ Cummins,0,1,1,legbyes,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.6,Q de Kock,RG Sharma,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.1,RG Sharma,Q de Kock,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.2,RG Sharma,Q de Kock,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.3,RG Sharma,Q de Kock,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.4,RG Sharma,Q de Kock,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.5,Q de Kock,RG Sharma,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.6,Q de Kock,RG Sharma,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.1,Q de Kock,RG Sharma,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.2,Q de Kock,RG Sharma,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.3,Q de Kock,RG Sharma,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.4,RG Sharma,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.5,RG Sharma,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.6,RG Sharma,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.1,Q de Kock,RG Sharma,CJ Green,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.2,Q de Kock,RG Sharma,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.3,Q de Kock,RG Sharma,CJ Green,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.4,Q de Kock,RG Sharma,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.5,Q de Kock,RG Sharma,CJ Green,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.6,RG Sharma,Q de Kock,CJ Green,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.1,Q de Kock,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.2,RG Sharma,Q de Kock,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.3,RG Sharma,Q de Kock,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.4,RG Sharma,Q de Kock,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.5,Q de Kock,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.6,RG Sharma,Q de Kock,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.1,Q de Kock,RG Sharma,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.2,Q de Kock,RG Sharma,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.3,RG Sharma,Q de Kock,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.4,RG Sharma,Q de Kock,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.5,Q de Kock,RG Sharma,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,6.6,Q de Kock,RG Sharma,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.1,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.2,RG Sharma,Q de Kock,CV Varun,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.3,RG Sharma,Q de Kock,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.4,Q de Kock,RG Sharma,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.5,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,7.6,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.1,Q de Kock,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.2,Q de Kock,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.3,Q de Kock,RG Sharma,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.4,Q de Kock,RG Sharma,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.5,Q de Kock,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,8.6,RG Sharma,Q de Kock,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.1,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.2,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.3,RG Sharma,Q de Kock,CV Varun,6,0,6,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.4,RG Sharma,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.5,RG Sharma,Q de Kock,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,9.6,Q de Kock,RG Sharma,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.1,RG Sharma,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.2,RG Sharma,Q de Kock,Shivam Mavi,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.3,RG Sharma,Q de Kock,Shivam Mavi,0,0,0,NA,1,caught,RG Sharma,KD Karthik,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.4,SA Yadav,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.5,SA Yadav,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,10.6,SA Yadav,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.1,Q de Kock,SA Yadav,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.2,SA Yadav,Q de Kock,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.3,Q de Kock,SA Yadav,CV Varun,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.4,Q de Kock,SA Yadav,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.5,SA Yadav,Q de Kock,CV Varun,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,11.6,SA Yadav,Q de Kock,CV Varun,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.1,Q de Kock,SA Yadav,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.2,SA Yadav,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.3,SA Yadav,Q de Kock,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.4,Q de Kock,SA Yadav,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.5,Q de Kock,SA Yadav,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,12.6,SA Yadav,Q de Kock,Shivam Mavi,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.1,Q de Kock,SA Yadav,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.2,Q de Kock,SA Yadav,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.3,SA Yadav,Q de Kock,CV Varun,0,0,0,NA,1,bowled,SA Yadav,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.4,HH Pandya,Q de Kock,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.5,HH Pandya,Q de Kock,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,13.6,Q de Kock,HH Pandya,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.1,Q de Kock,HH Pandya,Shivam Mavi,2,0,2,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.2,Q de Kock,HH Pandya,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.3,Q de Kock,HH Pandya,Shivam Mavi,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.4,Q de Kock,HH Pandya,Shivam Mavi,6,0,6,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.5,Q de Kock,HH Pandya,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,14.6,HH Pandya,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.1,Q de Kock,HH Pandya,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.2,HH Pandya,Q de Kock,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.3,HH Pandya,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.4,HH Pandya,Q de Kock,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.5,HH Pandya,Q de Kock,PJ Cummins,6,0,6,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,15.6,HH Pandya,Q de Kock,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.1,Q de Kock,HH Pandya,CJ Green,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.2,HH Pandya,Q de Kock,CJ Green,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.3,Q de Kock,HH Pandya,CJ Green,1,0,1,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.4,HH Pandya,Q de Kock,CJ Green,4,0,4,NA,0,NA,NA,NA,1
+1216526,2nd innings,Mumbai Indians,Kolkata Knight Riders,16.5,HH Pandya,Q de Kock,CJ Green,1,0,1,NA,0,NA,NA,NA,1

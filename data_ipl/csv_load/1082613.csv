@@ -1,0 +1,233 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.1,SP Narine,G Gambhir,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.2,SP Narine,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.3,SP Narine,G Gambhir,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.4,SP Narine,G Gambhir,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.5,SP Narine,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,0.6,SP Narine,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.1,G Gambhir,SP Narine,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.2,SP Narine,G Gambhir,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.3,SP Narine,G Gambhir,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.4,SP Narine,G Gambhir,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.5,SP Narine,G Gambhir,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,1.6,SP Narine,G Gambhir,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.1,G Gambhir,SP Narine,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.2,SP Narine,G Gambhir,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.3,SP Narine,G Gambhir,Basil Thampi,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.4,SP Narine,G Gambhir,Basil Thampi,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.5,SP Narine,G Gambhir,Basil Thampi,6,0,6,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,2.6,SP Narine,G Gambhir,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.1,G Gambhir,SP Narine,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.2,SP Narine,G Gambhir,SK Raina,0,0,0,NA,1,caught,SP Narine,JP Faulkner,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.3,G Gambhir,RV Uthappa,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.4,G Gambhir,RV Uthappa,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.5,G Gambhir,RV Uthappa,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,3.6,RV Uthappa,G Gambhir,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.1,RV Uthappa,G Gambhir,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.2,RV Uthappa,G Gambhir,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.3,RV Uthappa,G Gambhir,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.4,G Gambhir,RV Uthappa,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.5,G Gambhir,RV Uthappa,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,4.6,G Gambhir,RV Uthappa,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.1,G Gambhir,RV Uthappa,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.2,RV Uthappa,G Gambhir,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.3,G Gambhir,RV Uthappa,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.4,RV Uthappa,G Gambhir,SK Raina,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.5,RV Uthappa,G Gambhir,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,5.6,RV Uthappa,G Gambhir,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.1,RV Uthappa,G Gambhir,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.2,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.3,RV Uthappa,G Gambhir,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.4,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.5,RV Uthappa,G Gambhir,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,6.6,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.1,G Gambhir,RV Uthappa,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.2,RV Uthappa,G Gambhir,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.3,G Gambhir,RV Uthappa,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.4,RV Uthappa,G Gambhir,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.5,G Gambhir,RV Uthappa,DR Smith,0,1,1,wides,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.6,G Gambhir,RV Uthappa,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,7.7,RV Uthappa,G Gambhir,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.1,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.2,RV Uthappa,G Gambhir,RA Jadeja,0,1,1,legbyes,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.3,G Gambhir,RV Uthappa,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.4,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.5,RV Uthappa,G Gambhir,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,8.6,G Gambhir,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.1,G Gambhir,RV Uthappa,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.2,G Gambhir,RV Uthappa,DR Smith,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.3,G Gambhir,RV Uthappa,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.4,RV Uthappa,G Gambhir,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.5,G Gambhir,RV Uthappa,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,9.6,RV Uthappa,G Gambhir,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.1,RV Uthappa,G Gambhir,DS Kulkarni,6,0,6,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.2,RV Uthappa,G Gambhir,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.3,G Gambhir,RV Uthappa,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.4,RV Uthappa,G Gambhir,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.5,RV Uthappa,G Gambhir,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,10.6,G Gambhir,RV Uthappa,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.1,RV Uthappa,G Gambhir,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.2,RV Uthappa,G Gambhir,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.3,G Gambhir,RV Uthappa,JP Faulkner,0,0,0,NA,1,caught,G Gambhir,SK Raina,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.4,RV Uthappa,MK Pandey,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.5,RV Uthappa,MK Pandey,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,11.6,RV Uthappa,MK Pandey,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.1,MK Pandey,RV Uthappa,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.2,MK Pandey,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.3,RV Uthappa,MK Pandey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.4,RV Uthappa,MK Pandey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.5,MK Pandey,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,12.6,RV Uthappa,MK Pandey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.1,RV Uthappa,MK Pandey,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.2,RV Uthappa,MK Pandey,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.3,MK Pandey,RV Uthappa,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.4,MK Pandey,RV Uthappa,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.5,RV Uthappa,MK Pandey,JP Faulkner,0,1,1,legbyes,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,13.6,MK Pandey,RV Uthappa,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.1,MK Pandey,RV Uthappa,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.2,MK Pandey,RV Uthappa,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.3,MK Pandey,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.4,RV Uthappa,MK Pandey,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.5,RV Uthappa,MK Pandey,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,14.6,RV Uthappa,MK Pandey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.1,MK Pandey,RV Uthappa,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.2,MK Pandey,RV Uthappa,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.3,RV Uthappa,MK Pandey,Basil Thampi,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.4,RV Uthappa,MK Pandey,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.5,RV Uthappa,MK Pandey,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,15.6,MK Pandey,RV Uthappa,Basil Thampi,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.1,RV Uthappa,MK Pandey,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.2,RV Uthappa,MK Pandey,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.3,RV Uthappa,MK Pandey,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.4,MK Pandey,RV Uthappa,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.5,RV Uthappa,MK Pandey,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,16.6,MK Pandey,RV Uthappa,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.1,RV Uthappa,MK Pandey,Basil Thampi,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.2,RV Uthappa,MK Pandey,Basil Thampi,6,0,6,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.3,RV Uthappa,MK Pandey,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.4,RV Uthappa,MK Pandey,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.5,MK Pandey,RV Uthappa,Basil Thampi,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,17.6,MK Pandey,RV Uthappa,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.1,MK Pandey,RV Uthappa,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.2,RV Uthappa,MK Pandey,P Kumar,0,0,0,NA,1,caught,RV Uthappa,BB McCullum,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.3,MK Pandey,YK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.4,YK Pathan,MK Pandey,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.5,YK Pathan,MK Pandey,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,18.6,YK Pathan,MK Pandey,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.1,MK Pandey,YK Pathan,Basil Thampi,0,0,0,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.2,MK Pandey,YK Pathan,Basil Thampi,4,0,4,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.3,MK Pandey,YK Pathan,Basil Thampi,0,0,0,NA,1,bowled,MK Pandey,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.4,SA Yadav,YK Pathan,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.5,YK Pathan,SA Yadav,Basil Thampi,1,0,1,NA,1,run out,SA Yadav,BB McCullum,0
+1082613,1st innings,Kolkata Knight Riders,Gujarat Lions,19.6,Shakib Al Hasan,YK Pathan,Basil Thampi,1,0,1,NA,0,NA,NA,NA,0
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.1,AJ Finch,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.2,AJ Finch,BB McCullum,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.3,BB McCullum,AJ Finch,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.4,BB McCullum,AJ Finch,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.5,BB McCullum,AJ Finch,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,0.6,BB McCullum,AJ Finch,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.1,AJ Finch,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.2,AJ Finch,BB McCullum,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.3,AJ Finch,BB McCullum,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.4,AJ Finch,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.5,AJ Finch,BB McCullum,SP Narine,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,1.6,AJ Finch,BB McCullum,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.1,BB McCullum,AJ Finch,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.2,BB McCullum,AJ Finch,Shakib Al Hasan,0,1,1,legbyes,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.3,AJ Finch,BB McCullum,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.4,AJ Finch,BB McCullum,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.5,AJ Finch,BB McCullum,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,2.6,AJ Finch,BB McCullum,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.1,BB McCullum,AJ Finch,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.2,AJ Finch,BB McCullum,NM Coulter-Nile,0,1,1,noballs,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.3,AJ Finch,BB McCullum,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.4,AJ Finch,BB McCullum,NM Coulter-Nile,0,0,0,NA,1,caught,AJ Finch,MK Pandey,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.5,BB McCullum,SK Raina,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.6,BB McCullum,SK Raina,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,3.7,BB McCullum,SK Raina,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.1,SK Raina,BB McCullum,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.2,BB McCullum,SK Raina,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.3,SK Raina,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.4,SK Raina,BB McCullum,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.5,BB McCullum,SK Raina,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,4.6,BB McCullum,SK Raina,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.1,BB McCullum,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.2,SK Raina,BB McCullum,Shakib Al Hasan,0,2,2,legbyes,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.3,SK Raina,BB McCullum,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.4,BB McCullum,SK Raina,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.5,BB McCullum,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,5.6,SK Raina,BB McCullum,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.1,SK Raina,BB McCullum,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.2,BB McCullum,SK Raina,CR Woakes,0,0,0,NA,1,caught,BB McCullum,MK Pandey,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.3,SK Raina,KD Karthik,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.4,KD Karthik,SK Raina,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.5,SK Raina,KD Karthik,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,6.6,SK Raina,KD Karthik,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.1,KD Karthik,SK Raina,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.2,KD Karthik,SK Raina,NM Coulter-Nile,0,0,0,NA,1,caught,KD Karthik,G Gambhir,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.3,Ishan Kishan,SK Raina,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.4,SK Raina,Ishan Kishan,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.5,Ishan Kishan,SK Raina,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,7.6,Ishan Kishan,SK Raina,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.1,SK Raina,Ishan Kishan,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.2,SK Raina,Ishan Kishan,CR Woakes,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.3,SK Raina,Ishan Kishan,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.4,Ishan Kishan,SK Raina,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.5,Ishan Kishan,SK Raina,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,8.6,SK Raina,Ishan Kishan,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.1,SK Raina,Ishan Kishan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.2,Ishan Kishan,SK Raina,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.3,SK Raina,Ishan Kishan,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.4,SK Raina,Ishan Kishan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.5,Ishan Kishan,SK Raina,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,9.6,Ishan Kishan,SK Raina,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.1,SK Raina,Ishan Kishan,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.2,Ishan Kishan,SK Raina,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.3,SK Raina,Ishan Kishan,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.4,SK Raina,Ishan Kishan,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.5,SK Raina,Ishan Kishan,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,10.6,SK Raina,Ishan Kishan,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.1,SK Raina,Ishan Kishan,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.2,SK Raina,Ishan Kishan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.3,Ishan Kishan,SK Raina,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.4,Ishan Kishan,SK Raina,Kuldeep Yadav,0,0,0,NA,1,caught,Ishan Kishan,UT Yadav,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.5,DR Smith,SK Raina,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,11.6,DR Smith,SK Raina,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.1,SK Raina,DR Smith,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.2,DR Smith,SK Raina,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.3,SK Raina,DR Smith,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.4,DR Smith,SK Raina,UT Yadav,0,0,0,NA,1,bowled,DR Smith,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.5,RA Jadeja,SK Raina,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,12.6,SK Raina,RA Jadeja,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.1,SK Raina,RA Jadeja,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.2,RA Jadeja,SK Raina,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.3,SK Raina,RA Jadeja,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.4,RA Jadeja,SK Raina,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.5,SK Raina,RA Jadeja,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,13.6,SK Raina,RA Jadeja,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.1,SK Raina,RA Jadeja,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.2,SK Raina,RA Jadeja,UT Yadav,0,1,1,legbyes,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.3,RA Jadeja,SK Raina,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.4,SK Raina,RA Jadeja,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.5,SK Raina,RA Jadeja,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,14.6,SK Raina,RA Jadeja,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.1,SK Raina,RA Jadeja,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.2,RA Jadeja,SK Raina,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.3,RA Jadeja,SK Raina,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.4,RA Jadeja,SK Raina,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.5,RA Jadeja,SK Raina,SP Narine,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,15.6,RA Jadeja,SK Raina,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.1,SK Raina,RA Jadeja,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.2,SK Raina,RA Jadeja,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.3,SK Raina,RA Jadeja,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.4,SK Raina,RA Jadeja,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.5,SK Raina,RA Jadeja,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,16.6,RA Jadeja,SK Raina,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.1,RA Jadeja,SK Raina,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.2,SK Raina,RA Jadeja,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.3,RA Jadeja,SK Raina,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.4,SK Raina,RA Jadeja,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.5,SK Raina,RA Jadeja,Kuldeep Yadav,0,0,0,NA,1,caught,SK Raina,MK Pandey,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,17.6,JP Faulkner,RA Jadeja,Kuldeep Yadav,3,0,3,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,18.1,JP Faulkner,RA Jadeja,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082613,2nd innings,Gujarat Lions,Kolkata Knight Riders,18.2,RA Jadeja,JP Faulkner,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1

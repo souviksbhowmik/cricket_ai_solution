@@ -1,0 +1,242 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.1,RA Tripathi,JC Archer,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.2,RA Tripathi,JC Archer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.3,RA Tripathi,JC Archer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.4,RA Tripathi,JC Archer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.5,RA Tripathi,JC Archer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.6,RA Tripathi,JC Archer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.1,JC Archer,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.2,JC Archer,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.3,JC Archer,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.4,JC Archer,RA Tripathi,UT Yadav,0,0,0,NA,1,caught,JC Archer,PA Patel,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.5,AM Rahane,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.6,AM Rahane,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.1,RA Tripathi,AM Rahane,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.2,AM Rahane,RA Tripathi,MM Ali,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.3,AM Rahane,RA Tripathi,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.4,RA Tripathi,AM Rahane,MM Ali,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.5,RA Tripathi,AM Rahane,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.6,RA Tripathi,AM Rahane,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.1,AM Rahane,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.2,AM Rahane,RA Tripathi,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.3,AM Rahane,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.4,AM Rahane,RA Tripathi,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.5,AM Rahane,RA Tripathi,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.6,RA Tripathi,AM Rahane,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.1,AM Rahane,RA Tripathi,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.2,AM Rahane,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.3,RA Tripathi,AM Rahane,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.4,RA Tripathi,AM Rahane,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.5,AM Rahane,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.6,RA Tripathi,AM Rahane,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.1,RA Tripathi,AM Rahane,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.2,RA Tripathi,AM Rahane,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.3,RA Tripathi,AM Rahane,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.4,AM Rahane,RA Tripathi,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.5,AM Rahane,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.6,RA Tripathi,AM Rahane,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.1,AM Rahane,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.2,RA Tripathi,AM Rahane,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.3,AM Rahane,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.4,RA Tripathi,AM Rahane,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.5,AM Rahane,RA Tripathi,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.6,AM Rahane,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.1,AM Rahane,RA Tripathi,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.2,RA Tripathi,AM Rahane,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.3,RA Tripathi,AM Rahane,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.4,RA Tripathi,AM Rahane,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.5,AM Rahane,RA Tripathi,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.6,RA Tripathi,AM Rahane,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.1,RA Tripathi,AM Rahane,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.2,AM Rahane,RA Tripathi,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.3,RA Tripathi,AM Rahane,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.4,AM Rahane,RA Tripathi,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.5,RA Tripathi,AM Rahane,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.6,RA Tripathi,AM Rahane,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.1,RA Tripathi,AM Rahane,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.2,RA Tripathi,AM Rahane,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.3,RA Tripathi,AM Rahane,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.4,RA Tripathi,AM Rahane,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.5,AM Rahane,RA Tripathi,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.6,AM Rahane,RA Tripathi,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.7,RA Tripathi,AM Rahane,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.8,RA Tripathi,AM Rahane,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.9,AM Rahane,RA Tripathi,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.1,AM Rahane,RA Tripathi,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.2,RA Tripathi,AM Rahane,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.3,AM Rahane,RA Tripathi,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.4,RA Tripathi,AM Rahane,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.5,AM Rahane,RA Tripathi,Mohammed Siraj,0,1,1,legbyes,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.6,RA Tripathi,AM Rahane,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.1,RA Tripathi,AM Rahane,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.2,AM Rahane,RA Tripathi,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.3,RA Tripathi,AM Rahane,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.4,AM Rahane,RA Tripathi,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.5,RA Tripathi,AM Rahane,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.6,RA Tripathi,AM Rahane,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.1,AM Rahane,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.2,RA Tripathi,AM Rahane,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.3,RA Tripathi,AM Rahane,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.4,RA Tripathi,AM Rahane,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.5,RA Tripathi,AM Rahane,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.6,RA Tripathi,AM Rahane,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.1,AM Rahane,RA Tripathi,UT Yadav,0,0,0,NA,1,lbw,AM Rahane,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.2,SV Samson,RA Tripathi,UT Yadav,0,0,0,NA,1,caught,SV Samson,MM Ali,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.3,H Klaasen,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.4,H Klaasen,RA Tripathi,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.5,H Klaasen,RA Tripathi,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.6,H Klaasen,RA Tripathi,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.1,H Klaasen,RA Tripathi,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.2,RA Tripathi,H Klaasen,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.3,RA Tripathi,H Klaasen,MM Ali,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.4,RA Tripathi,H Klaasen,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.5,RA Tripathi,H Klaasen,MM Ali,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.6,RA Tripathi,H Klaasen,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.1,H Klaasen,RA Tripathi,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.2,H Klaasen,RA Tripathi,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.3,H Klaasen,RA Tripathi,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.4,H Klaasen,RA Tripathi,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.5,H Klaasen,RA Tripathi,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.6,H Klaasen,RA Tripathi,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.1,H Klaasen,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.2,RA Tripathi,H Klaasen,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.3,H Klaasen,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.4,RA Tripathi,H Klaasen,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.5,H Klaasen,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.6,RA Tripathi,H Klaasen,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.1,H Klaasen,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.2,RA Tripathi,H Klaasen,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.3,H Klaasen,RA Tripathi,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.4,H Klaasen,RA Tripathi,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.5,RA Tripathi,H Klaasen,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.6,RA Tripathi,H Klaasen,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.7,RA Tripathi,H Klaasen,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.1,RA Tripathi,H Klaasen,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.2,H Klaasen,RA Tripathi,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.3,H Klaasen,RA Tripathi,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.4,H Klaasen,RA Tripathi,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.5,H Klaasen,RA Tripathi,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.6,H Klaasen,RA Tripathi,Mohammed Siraj,0,0,0,NA,1,caught,H Klaasen,MM Ali,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.1,RA Tripathi,K Gowtham,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.2,K Gowtham,RA Tripathi,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.3,K Gowtham,RA Tripathi,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.4,K Gowtham,RA Tripathi,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.5,K Gowtham,RA Tripathi,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136613,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.6,K Gowtham,RA Tripathi,TG Southee,0,0,0,NA,1,run out,K Gowtham,NA,1
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.1,V Kohli,PA Patel,K Gowtham,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.2,V Kohli,PA Patel,K Gowtham,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.3,V Kohli,PA Patel,K Gowtham,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.4,V Kohli,PA Patel,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.5,PA Patel,V Kohli,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.6,V Kohli,PA Patel,K Gowtham,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.1,PA Patel,V Kohli,JC Archer,6,0,6,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.2,PA Patel,V Kohli,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.3,PA Patel,V Kohli,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.4,PA Patel,V Kohli,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.5,V Kohli,PA Patel,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.6,PA Patel,V Kohli,JC Archer,6,0,6,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.1,V Kohli,PA Patel,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.2,PA Patel,V Kohli,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.3,V Kohli,PA Patel,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.4,PA Patel,V Kohli,K Gowtham,0,1,1,byes,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.5,V Kohli,PA Patel,K Gowtham,0,0,0,NA,1,bowled,V Kohli,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.6,AB de Villiers,PA Patel,K Gowtham,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.1,AB de Villiers,PA Patel,JC Archer,2,0,2,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.2,AB de Villiers,PA Patel,JC Archer,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.3,AB de Villiers,PA Patel,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.4,AB de Villiers,PA Patel,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.5,AB de Villiers,PA Patel,JC Archer,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.6,AB de Villiers,PA Patel,JC Archer,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.1,PA Patel,AB de Villiers,B Laughlin,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.2,PA Patel,AB de Villiers,B Laughlin,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.3,AB de Villiers,PA Patel,B Laughlin,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.4,AB de Villiers,PA Patel,B Laughlin,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.5,AB de Villiers,PA Patel,B Laughlin,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.6,PA Patel,AB de Villiers,B Laughlin,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.1,AB de Villiers,PA Patel,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.2,AB de Villiers,PA Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.3,PA Patel,AB de Villiers,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.4,PA Patel,AB de Villiers,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.5,PA Patel,AB de Villiers,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.6,PA Patel,AB de Villiers,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.1,PA Patel,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.2,AB de Villiers,PA Patel,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.3,PA Patel,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.4,AB de Villiers,PA Patel,S Gopal,3,0,3,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.5,PA Patel,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.6,AB de Villiers,PA Patel,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.1,AB de Villiers,PA Patel,IS Sodhi,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.2,AB de Villiers,PA Patel,IS Sodhi,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.3,AB de Villiers,PA Patel,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.4,PA Patel,AB de Villiers,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.5,AB de Villiers,PA Patel,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.6,PA Patel,AB de Villiers,IS Sodhi,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.1,AB de Villiers,PA Patel,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.2,AB de Villiers,PA Patel,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.3,PA Patel,AB de Villiers,S Gopal,0,0,0,NA,1,stumped,PA Patel,H Klaasen,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.4,MM Ali,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.5,AB de Villiers,MM Ali,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.6,MM Ali,AB de Villiers,S Gopal,0,0,0,NA,1,caught and bowled,MM Ali,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.1,AB de Villiers,Mandeep Singh,IS Sodhi,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.2,AB de Villiers,Mandeep Singh,IS Sodhi,2,0,2,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.3,AB de Villiers,Mandeep Singh,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.4,Mandeep Singh,AB de Villiers,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.5,AB de Villiers,Mandeep Singh,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.6,Mandeep Singh,AB de Villiers,IS Sodhi,2,0,2,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.1,AB de Villiers,Mandeep Singh,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.2,Mandeep Singh,AB de Villiers,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.3,Mandeep Singh,AB de Villiers,S Gopal,0,0,0,NA,1,stumped,Mandeep Singh,H Klaasen,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.4,C de Grandhomme,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.5,AB de Villiers,C de Grandhomme,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.6,AB de Villiers,C de Grandhomme,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.1,AB de Villiers,C de Grandhomme,IS Sodhi,2,0,2,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.2,AB de Villiers,C de Grandhomme,IS Sodhi,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.3,AB de Villiers,C de Grandhomme,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.4,C de Grandhomme,AB de Villiers,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.5,AB de Villiers,C de Grandhomme,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,11.6,C de Grandhomme,AB de Villiers,IS Sodhi,0,0,0,NA,1,caught,C de Grandhomme,AM Rahane,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.1,AB de Villiers,SN Khan,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.2,SN Khan,AB de Villiers,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.3,SN Khan,AB de Villiers,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.4,AB de Villiers,SN Khan,S Gopal,0,0,0,NA,1,stumped,AB de Villiers,H Klaasen,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.5,TG Southee,SN Khan,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,12.6,TG Southee,SN Khan,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.1,SN Khan,TG Southee,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.2,TG Southee,SN Khan,IS Sodhi,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.3,TG Southee,SN Khan,IS Sodhi,2,0,2,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.4,TG Southee,SN Khan,IS Sodhi,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.5,TG Southee,SN Khan,IS Sodhi,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,13.6,SN Khan,TG Southee,IS Sodhi,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.1,TG Southee,SN Khan,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.2,SN Khan,TG Southee,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.3,SN Khan,TG Southee,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.4,SN Khan,TG Southee,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.5,TG Southee,SN Khan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,14.6,TG Southee,SN Khan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.1,SN Khan,TG Southee,B Laughlin,0,0,0,NA,1,caught,SN Khan,H Klaasen,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.2,UT Yadav,TG Southee,B Laughlin,0,0,0,NA,1,bowled,UT Yadav,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.3,Mohammed Siraj,TG Southee,B Laughlin,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.4,Mohammed Siraj,TG Southee,B Laughlin,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.5,Mohammed Siraj,TG Southee,B Laughlin,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,15.6,Mohammed Siraj,TG Southee,B Laughlin,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.1,Mohammed Siraj,TG Southee,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.2,TG Southee,Mohammed Siraj,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.3,TG Southee,Mohammed Siraj,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.4,TG Southee,Mohammed Siraj,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.5,Mohammed Siraj,TG Southee,JC Archer,0,1,1,wides,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.6,Mohammed Siraj,TG Southee,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,16.7,TG Southee,Mohammed Siraj,JC Archer,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.1,Mohammed Siraj,TG Southee,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.2,TG Southee,Mohammed Siraj,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.3,TG Southee,Mohammed Siraj,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.4,Mohammed Siraj,TG Southee,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.5,TG Southee,Mohammed Siraj,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,17.6,TG Southee,Mohammed Siraj,JD Unadkat,0,0,0,NA,1,caught,TG Southee,K Gowtham,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.1,YS Chahal,Mohammed Siraj,JC Archer,0,1,1,legbyes,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.2,Mohammed Siraj,YS Chahal,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.3,Mohammed Siraj,YS Chahal,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.4,YS Chahal,Mohammed Siraj,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.5,YS Chahal,Mohammed Siraj,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,18.6,YS Chahal,Mohammed Siraj,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,19.1,Mohammed Siraj,YS Chahal,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1136613,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,19.2,Mohammed Siraj,YS Chahal,JD Unadkat,0,0,0,NA,1,caught,Mohammed Siraj,K Gowtham,0

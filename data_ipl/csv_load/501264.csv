@@ -1,0 +1,240 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.1,S Dhawan,DB Ravi Teja,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.2,DB Ravi Teja,S Dhawan,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.3,DB Ravi Teja,S Dhawan,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.4,DB Ravi Teja,S Dhawan,P Kumar,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.5,DB Ravi Teja,S Dhawan,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,0.6,S Dhawan,DB Ravi Teja,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.1,DB Ravi Teja,S Dhawan,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.2,S Dhawan,DB Ravi Teja,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.3,S Dhawan,DB Ravi Teja,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.4,S Dhawan,DB Ravi Teja,RJ Harris,0,2,2,legbyes,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.5,S Dhawan,DB Ravi Teja,RJ Harris,0,4,4,legbyes,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,1.6,S Dhawan,DB Ravi Teja,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.1,DB Ravi Teja,S Dhawan,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.2,S Dhawan,DB Ravi Teja,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.3,S Dhawan,DB Ravi Teja,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.4,DB Ravi Teja,S Dhawan,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.5,DB Ravi Teja,S Dhawan,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,2.6,S Dhawan,DB Ravi Teja,P Kumar,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.1,DB Ravi Teja,S Dhawan,BA Bhatt,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.2,DB Ravi Teja,S Dhawan,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.3,S Dhawan,DB Ravi Teja,BA Bhatt,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.4,S Dhawan,DB Ravi Teja,BA Bhatt,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.5,S Dhawan,DB Ravi Teja,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,3.6,DB Ravi Teja,S Dhawan,BA Bhatt,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.1,S Dhawan,DB Ravi Teja,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.2,S Dhawan,DB Ravi Teja,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.3,S Dhawan,DB Ravi Teja,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.4,DB Ravi Teja,S Dhawan,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.5,DB Ravi Teja,S Dhawan,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.6,DB Ravi Teja,S Dhawan,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,4.7,DB Ravi Teja,S Dhawan,P Kumar,3,0,3,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.1,DB Ravi Teja,S Dhawan,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.2,S Dhawan,DB Ravi Teja,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.3,S Dhawan,DB Ravi Teja,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.4,S Dhawan,DB Ravi Teja,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.5,S Dhawan,DB Ravi Teja,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,5.6,S Dhawan,DB Ravi Teja,RJ Harris,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.1,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.2,S Dhawan,DB Ravi Teja,PP Chawla,0,2,2,wides,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.3,DB Ravi Teja,S Dhawan,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.4,DB Ravi Teja,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.5,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.6,S Dhawan,DB Ravi Teja,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,6.7,S Dhawan,DB Ravi Teja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.1,S Dhawan,DB Ravi Teja,PC Valthaty,0,5,5,wides,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.2,S Dhawan,DB Ravi Teja,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.3,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.4,DB Ravi Teja,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.5,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.6,DB Ravi Teja,S Dhawan,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,7.7,DB Ravi Teja,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.1,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.2,S Dhawan,DB Ravi Teja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.3,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.4,S Dhawan,DB Ravi Teja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.5,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,8.6,S Dhawan,DB Ravi Teja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.1,S Dhawan,DB Ravi Teja,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.2,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.3,DB Ravi Teja,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.4,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.5,DB Ravi Teja,S Dhawan,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,9.6,DB Ravi Teja,S Dhawan,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.1,S Dhawan,DB Ravi Teja,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.2,S Dhawan,DB Ravi Teja,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.3,DB Ravi Teja,S Dhawan,R McLaren,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.4,DB Ravi Teja,S Dhawan,R McLaren,0,2,2,legbyes,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.5,DB Ravi Teja,S Dhawan,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,10.6,DB Ravi Teja,S Dhawan,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.1,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.2,DB Ravi Teja,S Dhawan,PC Valthaty,3,0,3,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.3,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.4,DB Ravi Teja,S Dhawan,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.5,DB Ravi Teja,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,11.6,S Dhawan,DB Ravi Teja,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.1,S Dhawan,DB Ravi Teja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.2,DB Ravi Teja,S Dhawan,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.3,DB Ravi Teja,S Dhawan,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.4,DB Ravi Teja,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.5,DB Ravi Teja,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,12.6,S Dhawan,DB Ravi Teja,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.1,DB Ravi Teja,S Dhawan,PC Valthaty,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.2,DB Ravi Teja,S Dhawan,PC Valthaty,0,0,0,NA,1,caught,DB Ravi Teja,AM Nayar,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.3,JP Duminy,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.4,S Dhawan,JP Duminy,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.5,JP Duminy,S Dhawan,PC Valthaty,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,13.6,JP Duminy,S Dhawan,PC Valthaty,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.1,JP Duminy,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.2,S Dhawan,JP Duminy,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.3,S Dhawan,JP Duminy,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.4,JP Duminy,S Dhawan,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.5,JP Duminy,S Dhawan,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,14.6,JP Duminy,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.1,JP Duminy,S Dhawan,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.2,S Dhawan,JP Duminy,BA Bhatt,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.3,S Dhawan,JP Duminy,BA Bhatt,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.4,S Dhawan,JP Duminy,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.5,JP Duminy,S Dhawan,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,15.6,S Dhawan,JP Duminy,BA Bhatt,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.1,JP Duminy,S Dhawan,RJ Harris,0,0,0,NA,1,caught,JP Duminy,SE Marsh,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.2,S Dhawan,CL White,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.3,S Dhawan,CL White,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.4,S Dhawan,CL White,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.5,CL White,S Dhawan,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,16.6,S Dhawan,CL White,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.1,S Dhawan,CL White,BA Bhatt,6,0,6,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.2,S Dhawan,CL White,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.3,CL White,S Dhawan,BA Bhatt,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.4,CL White,S Dhawan,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.5,S Dhawan,CL White,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,17.6,CL White,S Dhawan,BA Bhatt,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.1,CL White,S Dhawan,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.2,S Dhawan,CL White,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.3,CL White,S Dhawan,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.4,S Dhawan,CL White,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.5,CL White,S Dhawan,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,18.6,S Dhawan,CL White,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.1,CL White,S Dhawan,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.2,CL White,S Dhawan,RJ Harris,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.3,CL White,S Dhawan,RJ Harris,2,0,2,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.4,CL White,S Dhawan,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.5,S Dhawan,CL White,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+501264,1st innings,Deccan Chargers,Kings XI Punjab,19.6,CL White,S Dhawan,RJ Harris,2,0,2,NA,0,NA,NA,NA,1
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.1,PC Valthaty,AC Gilchrist,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.2,PC Valthaty,AC Gilchrist,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.3,AC Gilchrist,PC Valthaty,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.4,AC Gilchrist,PC Valthaty,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.5,AC Gilchrist,PC Valthaty,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,0.6,AC Gilchrist,PC Valthaty,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.1,PC Valthaty,AC Gilchrist,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.2,PC Valthaty,AC Gilchrist,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.3,PC Valthaty,AC Gilchrist,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.4,PC Valthaty,AC Gilchrist,DW Steyn,0,0,0,NA,1,caught,PC Valthaty,Anand Rajan,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.5,SE Marsh,AC Gilchrist,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,1.6,SE Marsh,AC Gilchrist,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.1,SE Marsh,AC Gilchrist,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.2,SE Marsh,AC Gilchrist,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.3,SE Marsh,AC Gilchrist,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.4,SE Marsh,AC Gilchrist,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.5,SE Marsh,AC Gilchrist,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,2.6,SE Marsh,AC Gilchrist,JP Duminy,0,0,0,NA,1,caught,SE Marsh,Anand Rajan,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.1,AC Gilchrist,KD Karthik,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.2,AC Gilchrist,KD Karthik,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.3,AC Gilchrist,KD Karthik,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.4,AC Gilchrist,KD Karthik,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.5,AC Gilchrist,KD Karthik,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,3.6,AC Gilchrist,KD Karthik,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.1,AC Gilchrist,KD Karthik,Anand Rajan,0,1,1,wides,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.2,AC Gilchrist,KD Karthik,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.3,AC Gilchrist,KD Karthik,Anand Rajan,6,0,6,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.4,AC Gilchrist,KD Karthik,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.5,AC Gilchrist,KD Karthik,Anand Rajan,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.6,AC Gilchrist,KD Karthik,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,4.7,AC Gilchrist,KD Karthik,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.1,KD Karthik,AC Gilchrist,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.2,KD Karthik,AC Gilchrist,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.3,KD Karthik,AC Gilchrist,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.4,AC Gilchrist,KD Karthik,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.5,AC Gilchrist,KD Karthik,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,5.6,AC Gilchrist,KD Karthik,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.1,KD Karthik,AC Gilchrist,DT Christian,0,1,1,wides,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.2,KD Karthik,AC Gilchrist,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.3,KD Karthik,AC Gilchrist,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.4,KD Karthik,AC Gilchrist,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.5,AC Gilchrist,KD Karthik,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.6,AC Gilchrist,KD Karthik,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,6.7,AC Gilchrist,KD Karthik,DT Christian,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.1,KD Karthik,AC Gilchrist,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.2,KD Karthik,AC Gilchrist,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.3,AC Gilchrist,KD Karthik,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.4,AC Gilchrist,KD Karthik,PP Ojha,6,0,6,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.5,AC Gilchrist,KD Karthik,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,7.6,KD Karthik,AC Gilchrist,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.1,KD Karthik,AC Gilchrist,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.2,AC Gilchrist,KD Karthik,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.3,AC Gilchrist,KD Karthik,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.4,KD Karthik,AC Gilchrist,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.5,AC Gilchrist,KD Karthik,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,8.6,AC Gilchrist,KD Karthik,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.1,AC Gilchrist,KD Karthik,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.2,AC Gilchrist,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.3,KD Karthik,AC Gilchrist,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.4,AC Gilchrist,KD Karthik,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.5,AC Gilchrist,KD Karthik,A Mishra,0,1,1,legbyes,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,9.6,KD Karthik,AC Gilchrist,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.1,AC Gilchrist,KD Karthik,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.2,AC Gilchrist,KD Karthik,DT Christian,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.3,AC Gilchrist,KD Karthik,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.4,AC Gilchrist,KD Karthik,DT Christian,0,0,0,NA,1,caught,AC Gilchrist,CL White,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.5,R McLaren,KD Karthik,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,10.6,KD Karthik,R McLaren,DT Christian,0,0,0,NA,1,caught,KD Karthik,DB Ravi Teja,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.1,R McLaren,AM Nayar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.2,AM Nayar,R McLaren,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.3,AM Nayar,R McLaren,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.4,AM Nayar,R McLaren,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.5,R McLaren,AM Nayar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,11.6,R McLaren,AM Nayar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.1,AM Nayar,R McLaren,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.2,R McLaren,AM Nayar,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.3,R McLaren,AM Nayar,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.4,AM Nayar,R McLaren,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.5,AM Nayar,R McLaren,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,12.6,R McLaren,AM Nayar,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.1,R McLaren,AM Nayar,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.2,R McLaren,AM Nayar,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.3,AM Nayar,R McLaren,PP Ojha,0,0,0,NA,1,caught,AM Nayar,DT Christian,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.4,Mandeep Singh,R McLaren,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.5,Mandeep Singh,R McLaren,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,13.6,R McLaren,Mandeep Singh,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.1,R McLaren,Mandeep Singh,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.2,R McLaren,Mandeep Singh,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.3,Mandeep Singh,R McLaren,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.4,Mandeep Singh,R McLaren,DT Christian,4,0,4,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.5,Mandeep Singh,R McLaren,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,14.6,Mandeep Singh,R McLaren,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.1,Mandeep Singh,R McLaren,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.2,R McLaren,Mandeep Singh,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.3,R McLaren,Mandeep Singh,A Mishra,0,0,0,NA,1,caught,R McLaren,DT Christian,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.4,Mandeep Singh,PP Chawla,A Mishra,0,0,0,NA,1,stumped,Mandeep Singh,KH Devdhar,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.5,RJ Harris,PP Chawla,A Mishra,0,0,0,NA,1,caught,RJ Harris,S Dhawan,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,15.6,P Kumar,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.1,PP Chawla,P Kumar,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.2,P Kumar,PP Chawla,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.3,P Kumar,PP Chawla,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.4,P Kumar,PP Chawla,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.5,P Kumar,PP Chawla,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,16.6,P Kumar,PP Chawla,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.1,P Kumar,PP Chawla,A Mishra,0,0,0,NA,1,bowled,P Kumar,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.2,BA Bhatt,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.3,BA Bhatt,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.4,BA Bhatt,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.5,BA Bhatt,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,17.6,BA Bhatt,PP Chawla,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.1,PP Chawla,BA Bhatt,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.2,PP Chawla,BA Bhatt,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.3,PP Chawla,BA Bhatt,Anand Rajan,6,0,6,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.4,PP Chawla,BA Bhatt,Anand Rajan,0,0,0,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.5,PP Chawla,BA Bhatt,Anand Rajan,6,0,6,NA,0,NA,NA,NA,0
+501264,2nd innings,Kings XI Punjab,Deccan Chargers,18.6,PP Chawla,BA Bhatt,Anand Rajan,0,0,0,NA,1,run out,BA Bhatt,Anand Rajan,0

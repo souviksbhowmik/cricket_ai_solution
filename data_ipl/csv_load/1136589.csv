@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.1,Q de Kock,BB McCullum,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.2,Q de Kock,BB McCullum,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.3,Q de Kock,BB McCullum,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.4,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.5,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,0.6,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.1,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.2,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.3,Q de Kock,BB McCullum,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.4,Q de Kock,BB McCullum,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.5,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,1.6,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.1,BB McCullum,Q de Kock,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.2,Q de Kock,BB McCullum,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.3,BB McCullum,Q de Kock,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.4,BB McCullum,Q de Kock,MG Johnson,0,1,1,wides,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.5,BB McCullum,Q de Kock,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.6,Q de Kock,BB McCullum,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,2.7,Q de Kock,BB McCullum,MG Johnson,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.1,BB McCullum,Q de Kock,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.2,BB McCullum,Q de Kock,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.3,Q de Kock,BB McCullum,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.4,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.5,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,3.6,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.1,Q de Kock,BB McCullum,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.2,BB McCullum,Q de Kock,SP Narine,0,1,1,legbyes,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.3,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.4,Q de Kock,BB McCullum,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.5,Q de Kock,BB McCullum,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,4.6,Q de Kock,BB McCullum,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.1,Q de Kock,BB McCullum,Shivam Mavi,0,1,1,legbyes,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.2,BB McCullum,Q de Kock,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.3,Q de Kock,BB McCullum,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.4,Q de Kock,BB McCullum,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.5,BB McCullum,Q de Kock,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,5.6,BB McCullum,Q de Kock,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.1,BB McCullum,Q de Kock,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.2,Q de Kock,BB McCullum,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.3,Q de Kock,BB McCullum,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.4,BB McCullum,Q de Kock,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.5,Q de Kock,BB McCullum,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,6.6,BB McCullum,Q de Kock,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.1,Q de Kock,BB McCullum,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.2,Q de Kock,BB McCullum,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.3,BB McCullum,Q de Kock,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.4,BB McCullum,Q de Kock,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.5,BB McCullum,Q de Kock,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,7.6,BB McCullum,Q de Kock,PP Chawla,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.1,Q de Kock,BB McCullum,Kuldeep Yadav,0,0,0,NA,1,caught,Q de Kock,Shubman Gill,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.2,BB McCullum,V Kohli,Kuldeep Yadav,0,1,1,legbyes,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.3,V Kohli,BB McCullum,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.4,BB McCullum,V Kohli,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.5,BB McCullum,V Kohli,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,8.6,V Kohli,BB McCullum,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.1,BB McCullum,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.2,V Kohli,BB McCullum,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.3,BB McCullum,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.4,V Kohli,BB McCullum,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.5,BB McCullum,V Kohli,AD Russell,0,0,0,NA,1,caught,BB McCullum,KD Karthik,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.6,M Vohra,V Kohli,AD Russell,0,1,1,wides,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,9.7,M Vohra,V Kohli,AD Russell,0,0,0,NA,1,bowled,M Vohra,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.1,V Kohli,Mandeep Singh,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.2,V Kohli,Mandeep Singh,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.3,Mandeep Singh,V Kohli,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.4,V Kohli,Mandeep Singh,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.5,V Kohli,Mandeep Singh,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,10.6,V Kohli,Mandeep Singh,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.1,Mandeep Singh,V Kohli,AD Russell,0,1,1,wides,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.2,Mandeep Singh,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.3,Mandeep Singh,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.4,V Kohli,Mandeep Singh,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.5,Mandeep Singh,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.6,V Kohli,Mandeep Singh,AD Russell,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,11.7,V Kohli,Mandeep Singh,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.1,V Kohli,Mandeep Singh,Kuldeep Yadav,0,1,1,legbyes,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.2,Mandeep Singh,V Kohli,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.3,Mandeep Singh,V Kohli,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.4,V Kohli,Mandeep Singh,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.5,Mandeep Singh,V Kohli,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,12.6,Mandeep Singh,V Kohli,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.1,V Kohli,Mandeep Singh,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.2,V Kohli,Mandeep Singh,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.3,Mandeep Singh,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.4,V Kohli,Mandeep Singh,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.5,Mandeep Singh,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,13.6,V Kohli,Mandeep Singh,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.1,V Kohli,Mandeep Singh,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.2,V Kohli,Mandeep Singh,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.3,V Kohli,Mandeep Singh,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.4,V Kohli,Mandeep Singh,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.5,V Kohli,Mandeep Singh,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,14.6,V Kohli,Mandeep Singh,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.1,V Kohli,Mandeep Singh,Shivam Mavi,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.2,V Kohli,Mandeep Singh,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.3,V Kohli,Mandeep Singh,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.4,V Kohli,Mandeep Singh,Shivam Mavi,4,0,4,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.5,V Kohli,Mandeep Singh,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,15.6,V Kohli,Mandeep Singh,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.1,V Kohli,Mandeep Singh,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.2,V Kohli,Mandeep Singh,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.3,Mandeep Singh,V Kohli,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.4,Mandeep Singh,V Kohli,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.5,V Kohli,Mandeep Singh,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,16.6,Mandeep Singh,V Kohli,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.1,V Kohli,Mandeep Singh,AD Russell,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.2,V Kohli,Mandeep Singh,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.3,Mandeep Singh,V Kohli,AD Russell,0,0,0,NA,1,caught,Mandeep Singh,Shivam Mavi,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.4,V Kohli,C de Grandhomme,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.5,V Kohli,C de Grandhomme,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,17.6,V Kohli,C de Grandhomme,AD Russell,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.1,C de Grandhomme,V Kohli,Shivam Mavi,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.2,C de Grandhomme,V Kohli,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.3,V Kohli,C de Grandhomme,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.4,C de Grandhomme,V Kohli,Shivam Mavi,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.5,C de Grandhomme,V Kohli,Shivam Mavi,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.6,C de Grandhomme,V Kohli,Shivam Mavi,0,2,2,wides,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,18.7,V Kohli,C de Grandhomme,Shivam Mavi,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.1,V Kohli,C de Grandhomme,MG Johnson,2,0,2,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.2,V Kohli,C de Grandhomme,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.3,C de Grandhomme,V Kohli,MG Johnson,6,0,6,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.4,C de Grandhomme,V Kohli,MG Johnson,0,1,1,byes,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.5,V Kohli,C de Grandhomme,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+1136589,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,19.6,V Kohli,C de Grandhomme,MG Johnson,6,0,6,NA,0,NA,NA,NA,0
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.1,CA Lynn,SP Narine,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.2,CA Lynn,SP Narine,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.3,SP Narine,CA Lynn,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.4,CA Lynn,SP Narine,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.5,SP Narine,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.6,SP Narine,CA Lynn,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,0.7,SP Narine,CA Lynn,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.1,SP Narine,CA Lynn,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.2,SP Narine,CA Lynn,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.3,SP Narine,CA Lynn,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.4,CA Lynn,SP Narine,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.5,SP Narine,CA Lynn,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,1.6,SP Narine,CA Lynn,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.1,SP Narine,CA Lynn,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.2,SP Narine,CA Lynn,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.3,SP Narine,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.4,SP Narine,CA Lynn,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.5,SP Narine,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.6,SP Narine,CA Lynn,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,2.7,SP Narine,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.1,CA Lynn,SP Narine,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.2,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.3,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.4,CA Lynn,SP Narine,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.5,SP Narine,CA Lynn,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,3.6,CA Lynn,SP Narine,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.1,CA Lynn,SP Narine,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.2,CA Lynn,SP Narine,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.3,CA Lynn,SP Narine,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.4,CA Lynn,SP Narine,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.5,CA Lynn,SP Narine,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,4.6,SP Narine,CA Lynn,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.1,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.2,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.3,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.4,CA Lynn,SP Narine,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.5,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,5.6,CA Lynn,SP Narine,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.1,SP Narine,CA Lynn,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.2,SP Narine,CA Lynn,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.3,CA Lynn,SP Narine,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.4,SP Narine,CA Lynn,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.5,CA Lynn,SP Narine,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.6,CA Lynn,SP Narine,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,6.7,CA Lynn,SP Narine,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.1,SP Narine,CA Lynn,M Ashwin,0,0,0,NA,1,caught,SP Narine,C de Grandhomme,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.2,RV Uthappa,CA Lynn,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.3,CA Lynn,RV Uthappa,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.4,RV Uthappa,CA Lynn,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.5,RV Uthappa,CA Lynn,M Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,7.6,RV Uthappa,CA Lynn,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.1,CA Lynn,RV Uthappa,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.2,CA Lynn,RV Uthappa,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.3,RV Uthappa,CA Lynn,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.4,RV Uthappa,CA Lynn,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.5,RV Uthappa,CA Lynn,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.6,RV Uthappa,CA Lynn,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,8.7,CA Lynn,RV Uthappa,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.1,RV Uthappa,CA Lynn,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.2,RV Uthappa,CA Lynn,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.3,RV Uthappa,CA Lynn,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.4,RV Uthappa,CA Lynn,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.5,CA Lynn,RV Uthappa,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,9.6,CA Lynn,RV Uthappa,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.1,CA Lynn,RV Uthappa,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.2,RV Uthappa,CA Lynn,YS Chahal,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.3,RV Uthappa,CA Lynn,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.4,CA Lynn,RV Uthappa,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.5,RV Uthappa,CA Lynn,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,10.6,RV Uthappa,CA Lynn,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.1,RV Uthappa,CA Lynn,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.2,RV Uthappa,CA Lynn,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.3,CA Lynn,RV Uthappa,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.4,CA Lynn,RV Uthappa,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.5,RV Uthappa,CA Lynn,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,11.6,RV Uthappa,CA Lynn,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.1,CA Lynn,RV Uthappa,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.2,RV Uthappa,CA Lynn,M Ashwin,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.3,RV Uthappa,CA Lynn,M Ashwin,0,0,0,NA,1,caught,RV Uthappa,TG Southee,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.4,N Rana,CA Lynn,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.5,CA Lynn,N Rana,M Ashwin,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.6,CA Lynn,N Rana,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,12.7,CA Lynn,N Rana,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.1,CA Lynn,N Rana,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.2,CA Lynn,N Rana,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.3,CA Lynn,N Rana,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.4,CA Lynn,N Rana,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.5,CA Lynn,N Rana,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,13.6,N Rana,CA Lynn,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.1,N Rana,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.2,N Rana,CA Lynn,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.3,CA Lynn,N Rana,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.4,N Rana,CA Lynn,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.5,CA Lynn,N Rana,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,14.6,N Rana,CA Lynn,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.1,CA Lynn,N Rana,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.2,CA Lynn,N Rana,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.3,N Rana,CA Lynn,M Ashwin,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.4,N Rana,CA Lynn,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.5,CA Lynn,N Rana,M Ashwin,0,1,1,byes,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,15.6,N Rana,CA Lynn,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.1,CA Lynn,N Rana,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.2,CA Lynn,N Rana,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.3,N Rana,CA Lynn,Mohammed Siraj,4,0,4,NA,1,retired hurt,N Rana,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.4,AD Russell,CA Lynn,Mohammed Siraj,0,0,0,NA,1,caught,AD Russell,Q de Kock,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.5,CA Lynn,KD Karthik,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.6,CA Lynn,KD Karthik,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.7,KD Karthik,CA Lynn,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,16.8,KD Karthik,CA Lynn,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.1,CA Lynn,KD Karthik,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.2,CA Lynn,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.3,KD Karthik,CA Lynn,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.4,KD Karthik,CA Lynn,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.5,KD Karthik,CA Lynn,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,17.6,CA Lynn,KD Karthik,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.1,KD Karthik,CA Lynn,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.2,KD Karthik,CA Lynn,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.3,KD Karthik,CA Lynn,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.4,KD Karthik,CA Lynn,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.5,KD Karthik,CA Lynn,Mohammed Siraj,0,0,0,NA,1,caught,KD Karthik,V Kohli,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,18.6,Shubman Gill,CA Lynn,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136589,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,19.1,Shubman Gill,CA Lynn,UT Yadav,4,0,4,NA,0,NA,NA,NA,1

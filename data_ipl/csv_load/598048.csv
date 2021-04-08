@@ -1,0 +1,236 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.1,PA Reddy,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.2,PA Reddy,PA Patel,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.3,PA Reddy,PA Patel,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.4,PA Reddy,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.5,PA Reddy,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.6,PA Reddy,PA Patel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.1,PA Reddy,PA Patel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.2,PA Reddy,PA Patel,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.3,PA Reddy,PA Patel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.4,PA Reddy,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.5,PA Patel,PA Reddy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.6,PA Patel,PA Reddy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.1,PA Reddy,PA Patel,RP Singh,0,0,0,NA,1,caught,PA Reddy,R Vinay Kumar,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.2,KC Sangakkara,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.3,KC Sangakkara,PA Patel,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.4,KC Sangakkara,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.5,KC Sangakkara,PA Patel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.6,PA Patel,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.1,KC Sangakkara,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.2,PA Patel,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.3,KC Sangakkara,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.4,PA Patel,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.5,KC Sangakkara,PA Patel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.6,KC Sangakkara,PA Patel,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.1,PA Patel,KC Sangakkara,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.2,PA Patel,KC Sangakkara,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.3,PA Patel,KC Sangakkara,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.4,KC Sangakkara,PA Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.5,PA Patel,KC Sangakkara,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.6,KC Sangakkara,PA Patel,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.1,PA Patel,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.2,KC Sangakkara,PA Patel,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.3,KC Sangakkara,PA Patel,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.4,PA Patel,KC Sangakkara,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.5,PA Patel,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.6,PA Patel,KC Sangakkara,M Muralitharan,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.1,KC Sangakkara,PA Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.2,PA Patel,KC Sangakkara,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.3,PA Patel,KC Sangakkara,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.4,KC Sangakkara,PA Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.5,PA Patel,KC Sangakkara,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.6,KC Sangakkara,PA Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.1,KC Sangakkara,PA Patel,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.2,PA Patel,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.3,KC Sangakkara,PA Patel,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.4,PA Patel,KC Sangakkara,M Muralitharan,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.5,PA Patel,KC Sangakkara,M Muralitharan,0,0,0,NA,1,bowled,PA Patel,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.6,CL White,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.1,KC Sangakkara,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.2,CL White,KC Sangakkara,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.3,KC Sangakkara,CL White,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.4,KC Sangakkara,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.5,KC Sangakkara,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.6,CL White,KC Sangakkara,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.1,CL White,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.2,KC Sangakkara,CL White,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.3,CL White,KC Sangakkara,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.4,CL White,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.5,CL White,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.6,CL White,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.1,KC Sangakkara,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.2,KC Sangakkara,CL White,M Kartik,0,0,0,NA,1,caught,KC Sangakkara,V Kohli,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.3,CL White,NLTC Perera,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.4,NLTC Perera,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.5,NLTC Perera,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.6,CL White,NLTC Perera,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.1,NLTC Perera,CL White,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.2,NLTC Perera,CL White,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.3,NLTC Perera,CL White,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.4,CL White,NLTC Perera,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.5,CL White,NLTC Perera,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.6,NLTC Perera,CL White,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.1,NLTC Perera,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.2,NLTC Perera,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.3,CL White,NLTC Perera,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.4,CL White,NLTC Perera,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.5,CL White,NLTC Perera,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.6,NLTC Perera,CL White,M Kartik,0,1,1,wides,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.7,NLTC Perera,CL White,M Kartik,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.1,CL White,NLTC Perera,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.2,CL White,NLTC Perera,M Muralitharan,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.3,CL White,NLTC Perera,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.4,NLTC Perera,CL White,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.5,NLTC Perera,CL White,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.6,NLTC Perera,CL White,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.1,NLTC Perera,CL White,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.2,CL White,NLTC Perera,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.3,CL White,NLTC Perera,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.4,NLTC Perera,CL White,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.5,NLTC Perera,CL White,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.6,CL White,NLTC Perera,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.1,CL White,NLTC Perera,MC Henriques,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.2,CL White,NLTC Perera,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.3,NLTC Perera,CL White,MC Henriques,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.4,NLTC Perera,CL White,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.5,CL White,NLTC Perera,MC Henriques,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.6,CL White,NLTC Perera,MC Henriques,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.1,NLTC Perera,CL White,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.2,NLTC Perera,CL White,R Vinay Kumar,1,1,2,noballs,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.3,CL White,NLTC Perera,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.4,CL White,NLTC Perera,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.5,NLTC Perera,CL White,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.6,NLTC Perera,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.7,CL White,NLTC Perera,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.1,CL White,NLTC Perera,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.2,NLTC Perera,CL White,RP Singh,0,1,1,wides,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.3,NLTC Perera,CL White,RP Singh,0,1,1,wides,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.4,NLTC Perera,CL White,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.5,NLTC Perera,CL White,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.6,NLTC Perera,CL White,RP Singh,0,0,0,NA,1,bowled,NLTC Perera,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.7,A Ashish Reddy,CL White,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.8,CL White,A Ashish Reddy,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.1,CL White,A Ashish Reddy,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.2,CL White,A Ashish Reddy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.3,A Ashish Reddy,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.4,CL White,A Ashish Reddy,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.5,CL White,A Ashish Reddy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.6,A Ashish Reddy,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.7,CL White,A Ashish Reddy,R Vinay Kumar,0,0,0,NA,1,caught,CL White,AB de Villiers,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.1,A Ashish Reddy,GH Vihari,RP Singh,0,0,0,NA,1,bowled,A Ashish Reddy,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.2,BB Samantray,GH Vihari,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.3,GH Vihari,BB Samantray,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.4,GH Vihari,BB Samantray,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.5,BB Samantray,GH Vihari,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.6,GH Vihari,BB Samantray,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.1,MA Agarwal,CH Gayle,GH Vihari,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.2,MA Agarwal,CH Gayle,GH Vihari,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.3,MA Agarwal,CH Gayle,GH Vihari,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.4,MA Agarwal,CH Gayle,GH Vihari,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.5,MA Agarwal,CH Gayle,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.6,CH Gayle,MA Agarwal,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.1,CH Gayle,MA Agarwal,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.2,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.3,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.4,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.5,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.6,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.1,MA Agarwal,CH Gayle,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.2,MA Agarwal,CH Gayle,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.3,MA Agarwal,CH Gayle,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.4,MA Agarwal,CH Gayle,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.5,MA Agarwal,CH Gayle,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.6,MA Agarwal,CH Gayle,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.1,CH Gayle,MA Agarwal,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.2,MA Agarwal,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.3,MA Agarwal,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.4,MA Agarwal,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.5,MA Agarwal,CH Gayle,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.6,CH Gayle,MA Agarwal,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.1,MA Agarwal,CH Gayle,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.2,MA Agarwal,CH Gayle,I Sharma,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.3,MA Agarwal,CH Gayle,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.4,MA Agarwal,CH Gayle,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.5,CH Gayle,MA Agarwal,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.6,CH Gayle,MA Agarwal,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.1,MA Agarwal,CH Gayle,NLTC Perera,0,0,0,NA,1,caught,MA Agarwal,KC Sangakkara,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.2,CH Gayle,V Kohli,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.3,CH Gayle,V Kohli,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.4,CH Gayle,V Kohli,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.5,V Kohli,CH Gayle,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.6,V Kohli,CH Gayle,NLTC Perera,0,1,1,wides,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.7,V Kohli,CH Gayle,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.1,CH Gayle,V Kohli,I Sharma,0,0,0,NA,1,caught,CH Gayle,PA Patel,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.2,AB de Villiers,V Kohli,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.3,AB de Villiers,V Kohli,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.4,V Kohli,AB de Villiers,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.5,V Kohli,AB de Villiers,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.6,V Kohli,AB de Villiers,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.1,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.2,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.3,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.4,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.5,V Kohli,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.6,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.1,V Kohli,AB de Villiers,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.2,AB de Villiers,V Kohli,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.3,V Kohli,AB de Villiers,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.4,V Kohli,AB de Villiers,NLTC Perera,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.5,V Kohli,AB de Villiers,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.6,AB de Villiers,V Kohli,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.1,V Kohli,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.2,V Kohli,AB de Villiers,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.3,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.4,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.5,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.6,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.1,AB de Villiers,V Kohli,A Ashish Reddy,0,1,1,legbyes,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.2,V Kohli,AB de Villiers,A Ashish Reddy,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.3,V Kohli,AB de Villiers,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.4,AB de Villiers,V Kohli,A Ashish Reddy,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.5,AB de Villiers,V Kohli,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.6,V Kohli,AB de Villiers,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.1,AB de Villiers,V Kohli,CL White,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.2,V Kohli,AB de Villiers,CL White,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.3,V Kohli,AB de Villiers,CL White,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.4,V Kohli,AB de Villiers,CL White,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.5,V Kohli,AB de Villiers,CL White,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.6,AB de Villiers,V Kohli,CL White,0,0,0,NA,1,caught,AB de Villiers,GH Vihari,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.1,V Kohli,MC Henriques,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.2,V Kohli,MC Henriques,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.3,MC Henriques,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.4,MC Henriques,V Kohli,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.5,V Kohli,MC Henriques,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.6,V Kohli,MC Henriques,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.1,V Kohli,MC Henriques,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.2,V Kohli,MC Henriques,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.3,MC Henriques,V Kohli,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.4,MC Henriques,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.5,V Kohli,MC Henriques,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.6,MC Henriques,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.1,V Kohli,MC Henriques,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.2,MC Henriques,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.3,MC Henriques,V Kohli,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.4,V Kohli,MC Henriques,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.5,V Kohli,MC Henriques,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.6,MC Henriques,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.1,V Kohli,MC Henriques,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.2,V Kohli,MC Henriques,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.3,V Kohli,MC Henriques,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.4,V Kohli,MC Henriques,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.5,V Kohli,MC Henriques,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.6,V Kohli,MC Henriques,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.7,V Kohli,MC Henriques,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.8,V Kohli,MC Henriques,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.1,V Kohli,MC Henriques,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.2,V Kohli,MC Henriques,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.3,V Kohli,MC Henriques,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.4,V Kohli,MC Henriques,NLTC Perera,0,1,1,wides,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.5,V Kohli,MC Henriques,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.6,V Kohli,MC Henriques,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.7,MC Henriques,V Kohli,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.1,V Kohli,MC Henriques,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.2,V Kohli,MC Henriques,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.3,V Kohli,MC Henriques,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598048,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.4,V Kohli,MC Henriques,I Sharma,4,0,4,NA,0,NA,NA,NA,1

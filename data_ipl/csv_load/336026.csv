@@ -1,0 +1,237 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.1,JH Kallis,B Chipli,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.2,JH Kallis,B Chipli,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.3,JH Kallis,B Chipli,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.4,JH Kallis,B Chipli,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.5,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.6,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.1,JH Kallis,B Chipli,PJ Sangwan,0,1,1,wides,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.2,JH Kallis,B Chipli,PJ Sangwan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.3,JH Kallis,B Chipli,PJ Sangwan,0,5,5,wides,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.4,JH Kallis,B Chipli,PJ Sangwan,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.5,JH Kallis,B Chipli,PJ Sangwan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.6,B Chipli,JH Kallis,PJ Sangwan,0,1,1,wides,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.7,B Chipli,JH Kallis,PJ Sangwan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.8,JH Kallis,B Chipli,PJ Sangwan,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.9,JH Kallis,B Chipli,PJ Sangwan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.1,B Chipli,JH Kallis,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.2,JH Kallis,B Chipli,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.3,JH Kallis,B Chipli,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.4,JH Kallis,B Chipli,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.5,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.6,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.1,JH Kallis,B Chipli,VY Mahesh,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.2,JH Kallis,B Chipli,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.3,JH Kallis,B Chipli,VY Mahesh,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.4,JH Kallis,B Chipli,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.5,JH Kallis,B Chipli,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.6,JH Kallis,B Chipli,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.1,JH Kallis,B Chipli,GD McGrath,0,1,1,wides,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.2,JH Kallis,B Chipli,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.3,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.4,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.5,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.6,B Chipli,JH Kallis,GD McGrath,0,0,0,NA,1,caught,B Chipli,R Bhatia,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.7,JH Kallis,SP Goswami,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.1,SP Goswami,JH Kallis,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.2,SP Goswami,JH Kallis,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.3,SP Goswami,JH Kallis,VY Mahesh,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.4,SP Goswami,JH Kallis,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.5,SP Goswami,JH Kallis,VY Mahesh,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.6,SP Goswami,JH Kallis,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.1,JH Kallis,SP Goswami,MF Maharoof,0,0,0,NA,1,caught,JH Kallis,KD Karthik,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.2,R Dravid,SP Goswami,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.3,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.4,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.5,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.6,SP Goswami,R Dravid,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.1,SP Goswami,R Dravid,PJ Sangwan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.2,SP Goswami,R Dravid,PJ Sangwan,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.3,SP Goswami,R Dravid,PJ Sangwan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.4,SP Goswami,R Dravid,PJ Sangwan,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.5,SP Goswami,R Dravid,PJ Sangwan,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.6,SP Goswami,R Dravid,PJ Sangwan,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.1,R Dravid,SP Goswami,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.2,SP Goswami,R Dravid,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.3,R Dravid,SP Goswami,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.4,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.5,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.6,SP Goswami,R Dravid,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.1,R Dravid,SP Goswami,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.2,R Dravid,SP Goswami,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.3,R Dravid,SP Goswami,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.4,R Dravid,SP Goswami,R Bhatia,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.5,R Dravid,SP Goswami,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.6,SP Goswami,R Dravid,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.1,SP Goswami,R Dravid,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.2,R Dravid,SP Goswami,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.3,R Dravid,SP Goswami,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.4,SP Goswami,R Dravid,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.5,SP Goswami,R Dravid,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.6,R Dravid,SP Goswami,TM Dilshan,0,0,0,NA,1,bowled,R Dravid,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.1,SP Goswami,Misbah-ul-Haq,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.2,SP Goswami,Misbah-ul-Haq,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.3,Misbah-ul-Haq,SP Goswami,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.4,SP Goswami,Misbah-ul-Haq,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.5,Misbah-ul-Haq,SP Goswami,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.6,SP Goswami,Misbah-ul-Haq,R Bhatia,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.1,Misbah-ul-Haq,SP Goswami,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.2,SP Goswami,Misbah-ul-Haq,VY Mahesh,0,1,1,wides,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.3,SP Goswami,Misbah-ul-Haq,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.4,SP Goswami,Misbah-ul-Haq,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.5,Misbah-ul-Haq,SP Goswami,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.6,SP Goswami,Misbah-ul-Haq,VY Mahesh,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.7,SP Goswami,Misbah-ul-Haq,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.1,SP Goswami,Misbah-ul-Haq,R Bhatia,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.2,SP Goswami,Misbah-ul-Haq,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.3,Misbah-ul-Haq,SP Goswami,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.4,SP Goswami,Misbah-ul-Haq,R Bhatia,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.5,SP Goswami,Misbah-ul-Haq,R Bhatia,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.6,Misbah-ul-Haq,SP Goswami,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.1,SP Goswami,Misbah-ul-Haq,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.2,SP Goswami,Misbah-ul-Haq,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.3,SP Goswami,Misbah-ul-Haq,VY Mahesh,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.4,SP Goswami,Misbah-ul-Haq,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.5,SP Goswami,Misbah-ul-Haq,VY Mahesh,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.6,Misbah-ul-Haq,SP Goswami,VY Mahesh,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.1,SP Goswami,Misbah-ul-Haq,MF Maharoof,0,0,0,NA,1,caught,SP Goswami,TM Dilshan,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.2,Misbah-ul-Haq,CL White,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.3,Misbah-ul-Haq,CL White,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.4,CL White,Misbah-ul-Haq,MF Maharoof,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.5,CL White,Misbah-ul-Haq,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.6,Misbah-ul-Haq,CL White,MF Maharoof,1,0,1,NA,1,run out,CL White,MF Maharoof,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.1,Misbah-ul-Haq,B Akhil,PJ Sangwan,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.2,Misbah-ul-Haq,B Akhil,PJ Sangwan,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.3,Misbah-ul-Haq,B Akhil,PJ Sangwan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.4,B Akhil,Misbah-ul-Haq,PJ Sangwan,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.5,Misbah-ul-Haq,B Akhil,PJ Sangwan,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.6,Misbah-ul-Haq,B Akhil,PJ Sangwan,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.1,B Akhil,Misbah-ul-Haq,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.2,Misbah-ul-Haq,B Akhil,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.3,B Akhil,Misbah-ul-Haq,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.4,Misbah-ul-Haq,B Akhil,MF Maharoof,0,0,0,NA,1,run out,B Akhil,V Sehwag,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.5,Misbah-ul-Haq,P Kumar,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.6,P Kumar,Misbah-ul-Haq,MF Maharoof,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.1,P Kumar,Misbah-ul-Haq,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.2,P Kumar,Misbah-ul-Haq,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.3,Misbah-ul-Haq,P Kumar,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.4,P Kumar,Misbah-ul-Haq,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.5,P Kumar,Misbah-ul-Haq,GD McGrath,0,0,0,NA,1,bowled,P Kumar,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.6,Z Khan,Misbah-ul-Haq,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.1,Misbah-ul-Haq,Z Khan,R Bhatia,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.2,Misbah-ul-Haq,Z Khan,R Bhatia,0,0,0,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.3,Misbah-ul-Haq,Z Khan,R Bhatia,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.4,Misbah-ul-Haq,Z Khan,R Bhatia,6,0,6,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.5,Misbah-ul-Haq,Z Khan,R Bhatia,2,0,2,NA,0,NA,NA,NA,0
+336026,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.6,Misbah-ul-Haq,Z Khan,R Bhatia,4,0,4,NA,0,NA,NA,NA,0
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.1,G Gambhir,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.2,G Gambhir,V Sehwag,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.3,V Sehwag,G Gambhir,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.4,V Sehwag,G Gambhir,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.5,G Gambhir,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.6,G Gambhir,V Sehwag,DW Steyn,0,4,4,legbyes,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.1,V Sehwag,G Gambhir,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.2,G Gambhir,V Sehwag,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.3,G Gambhir,V Sehwag,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.4,G Gambhir,V Sehwag,Z Khan,2,0,2,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.5,G Gambhir,V Sehwag,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.6,G Gambhir,V Sehwag,Z Khan,0,5,5,wides,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.7,G Gambhir,V Sehwag,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.1,G Gambhir,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.2,G Gambhir,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.3,G Gambhir,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.4,G Gambhir,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.5,G Gambhir,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.6,G Gambhir,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.1,V Sehwag,G Gambhir,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.2,G Gambhir,V Sehwag,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.3,V Sehwag,G Gambhir,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.4,V Sehwag,G Gambhir,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.5,V Sehwag,G Gambhir,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.6,V Sehwag,G Gambhir,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.1,G Gambhir,V Sehwag,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.2,G Gambhir,V Sehwag,P Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.3,V Sehwag,G Gambhir,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.4,G Gambhir,V Sehwag,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.5,G Gambhir,V Sehwag,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.6,V Sehwag,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.1,G Gambhir,V Sehwag,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.2,V Sehwag,G Gambhir,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.3,V Sehwag,G Gambhir,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.4,G Gambhir,V Sehwag,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.5,V Sehwag,G Gambhir,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.6,V Sehwag,G Gambhir,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.1,G Gambhir,V Sehwag,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.2,V Sehwag,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.3,V Sehwag,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.4,V Sehwag,G Gambhir,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.5,V Sehwag,G Gambhir,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.6,V Sehwag,G Gambhir,P Kumar,0,0,0,NA,1,caught,V Sehwag,B Chipli,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.1,G Gambhir,AB de Villiers,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.2,AB de Villiers,G Gambhir,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.3,G Gambhir,AB de Villiers,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.4,G Gambhir,AB de Villiers,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.5,AB de Villiers,G Gambhir,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.6,AB de Villiers,G Gambhir,JH Kallis,2,0,2,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.1,G Gambhir,AB de Villiers,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.2,G Gambhir,AB de Villiers,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.3,AB de Villiers,G Gambhir,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.4,G Gambhir,AB de Villiers,B Akhil,2,0,2,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.5,G Gambhir,AB de Villiers,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.6,G Gambhir,AB de Villiers,B Akhil,1,0,1,NA,1,run out,G Gambhir,CL White,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.1,AB de Villiers,TM Dilshan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.2,AB de Villiers,TM Dilshan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.3,AB de Villiers,TM Dilshan,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.4,AB de Villiers,TM Dilshan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.5,TM Dilshan,AB de Villiers,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.6,TM Dilshan,AB de Villiers,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.1,AB de Villiers,TM Dilshan,B Akhil,2,0,2,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.2,AB de Villiers,TM Dilshan,B Akhil,2,0,2,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.3,AB de Villiers,TM Dilshan,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.4,AB de Villiers,TM Dilshan,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.5,TM Dilshan,AB de Villiers,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.6,AB de Villiers,TM Dilshan,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.1,AB de Villiers,TM Dilshan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.2,AB de Villiers,TM Dilshan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.3,AB de Villiers,TM Dilshan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.4,TM Dilshan,AB de Villiers,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.5,TM Dilshan,AB de Villiers,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.6,AB de Villiers,TM Dilshan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.1,TM Dilshan,AB de Villiers,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.2,AB de Villiers,TM Dilshan,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.3,AB de Villiers,TM Dilshan,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.4,TM Dilshan,AB de Villiers,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.5,TM Dilshan,AB de Villiers,B Akhil,0,1,1,byes,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.6,AB de Villiers,TM Dilshan,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.1,AB de Villiers,TM Dilshan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.2,TM Dilshan,AB de Villiers,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.3,AB de Villiers,TM Dilshan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.4,TM Dilshan,AB de Villiers,A Kumble,0,0,0,NA,1,stumped,TM Dilshan,SP Goswami,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.5,S Dhawan,AB de Villiers,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.6,AB de Villiers,S Dhawan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.1,AB de Villiers,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.2,AB de Villiers,S Dhawan,DW Steyn,0,0,0,NA,1,caught,AB de Villiers,SP Goswami,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.3,KD Karthik,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.4,S Dhawan,KD Karthik,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.5,KD Karthik,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.6,S Dhawan,KD Karthik,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.1,S Dhawan,KD Karthik,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.2,KD Karthik,S Dhawan,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.3,KD Karthik,S Dhawan,A Kumble,0,0,0,NA,1,caught,KD Karthik,CL White,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.4,MF Maharoof,S Dhawan,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.5,MF Maharoof,S Dhawan,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.6,S Dhawan,MF Maharoof,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.1,MF Maharoof,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.2,S Dhawan,MF Maharoof,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.3,S Dhawan,MF Maharoof,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.4,MF Maharoof,S Dhawan,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.5,MF Maharoof,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.6,MF Maharoof,S Dhawan,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.1,MF Maharoof,S Dhawan,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.2,MF Maharoof,S Dhawan,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.3,S Dhawan,MF Maharoof,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.4,S Dhawan,MF Maharoof,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.5,S Dhawan,MF Maharoof,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.6,S Dhawan,MF Maharoof,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.1,S Dhawan,MF Maharoof,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336026,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.2,S Dhawan,MF Maharoof,B Akhil,6,0,6,NA,0,NA,NA,NA,1

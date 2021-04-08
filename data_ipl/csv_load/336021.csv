@@ -1,0 +1,137 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.1,Salman Butt,A Chopra,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.2,Salman Butt,A Chopra,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.3,Salman Butt,A Chopra,SM Pollock,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.4,Salman Butt,A Chopra,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.5,A Chopra,Salman Butt,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,0.6,A Chopra,Salman Butt,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.1,Salman Butt,A Chopra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.2,Salman Butt,A Chopra,A Nehra,6,0,6,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.3,Salman Butt,A Chopra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.4,Salman Butt,A Chopra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.5,Salman Butt,A Chopra,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.6,Salman Butt,A Chopra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,1.7,Salman Butt,A Chopra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.1,A Chopra,Salman Butt,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.2,A Chopra,Salman Butt,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.3,Salman Butt,A Chopra,SM Pollock,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.4,Salman Butt,A Chopra,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.5,Salman Butt,A Chopra,SM Pollock,2,0,2,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.6,Salman Butt,A Chopra,SM Pollock,0,0,0,NA,1,caught,Salman Butt,SR Tendulkar,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,2.7,SC Ganguly,A Chopra,SM Pollock,0,0,0,NA,1,run out,A Chopra,RV Uthappa,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.1,DJ Hussey,SC Ganguly,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.2,DJ Hussey,SC Ganguly,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.3,DJ Hussey,SC Ganguly,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.4,DJ Hussey,SC Ganguly,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.5,SC Ganguly,DJ Hussey,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.6,DJ Hussey,SC Ganguly,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.7,DJ Hussey,SC Ganguly,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,3.8,DJ Hussey,SC Ganguly,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.1,DJ Hussey,SC Ganguly,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.2,DJ Hussey,SC Ganguly,SM Pollock,0,0,0,NA,1,caught,DJ Hussey,YV Takawale,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.3,Mohammad Hafeez,SC Ganguly,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.4,Mohammad Hafeez,SC Ganguly,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.5,Mohammad Hafeez,SC Ganguly,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,4.6,Mohammad Hafeez,SC Ganguly,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.1,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.2,Mohammad Hafeez,SC Ganguly,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.3,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.4,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.5,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.6,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,5.7,Mohammad Hafeez,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.1,SC Ganguly,Mohammad Hafeez,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.2,SC Ganguly,Mohammad Hafeez,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.3,SC Ganguly,Mohammad Hafeez,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.4,Mohammad Hafeez,SC Ganguly,SM Pollock,0,0,0,NA,1,caught,Mohammad Hafeez,RV Uthappa,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.5,WP Saha,SC Ganguly,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,6.6,SC Ganguly,WP Saha,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.1,WP Saha,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.2,WP Saha,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.3,WP Saha,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.4,WP Saha,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.5,WP Saha,SC Ganguly,DJ Bravo,0,0,0,NA,1,caught,WP Saha,SR Tendulkar,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,7.6,LR Shukla,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.1,SC Ganguly,LR Shukla,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.2,SC Ganguly,LR Shukla,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.3,LR Shukla,SC Ganguly,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.4,LR Shukla,SC Ganguly,A Nehra,0,1,1,legbyes,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.5,SC Ganguly,LR Shukla,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,8.6,SC Ganguly,LR Shukla,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.1,LR Shukla,SC Ganguly,RR Raje,0,0,0,NA,1,bowled,LR Shukla,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.2,AB Agarkar,SC Ganguly,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.3,AB Agarkar,SC Ganguly,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.4,AB Agarkar,SC Ganguly,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.5,AB Agarkar,SC Ganguly,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,9.6,AB Agarkar,SC Ganguly,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.1,AB Agarkar,SC Ganguly,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.2,AB Agarkar,SC Ganguly,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.3,AB Agarkar,SC Ganguly,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.4,SC Ganguly,AB Agarkar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.5,SC Ganguly,AB Agarkar,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,10.6,AB Agarkar,SC Ganguly,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.1,SC Ganguly,AB Agarkar,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.2,SC Ganguly,AB Agarkar,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.3,SC Ganguly,AB Agarkar,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.4,AB Agarkar,SC Ganguly,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.5,SC Ganguly,AB Agarkar,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,11.6,SC Ganguly,AB Agarkar,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.1,SC Ganguly,AB Agarkar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.2,SC Ganguly,AB Agarkar,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.3,AB Agarkar,SC Ganguly,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.4,SC Ganguly,AB Agarkar,DJ Thornely,0,0,0,NA,1,caught,SC Ganguly,YV Takawale,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.5,Shoaib Akhtar,AB Agarkar,DJ Thornely,0,1,1,wides,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.6,Shoaib Akhtar,AB Agarkar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,12.7,Shoaib Akhtar,AB Agarkar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.1,AB Agarkar,Shoaib Akhtar,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.2,Shoaib Akhtar,AB Agarkar,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.3,AB Agarkar,Shoaib Akhtar,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.4,AB Agarkar,Shoaib Akhtar,DJ Bravo,0,0,0,NA,1,caught,AB Agarkar,SR Tendulkar,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.5,I Sharma,Shoaib Akhtar,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,13.6,I Sharma,Shoaib Akhtar,DJ Bravo,0,1,1,legbyes,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.1,I Sharma,Shoaib Akhtar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.2,I Sharma,Shoaib Akhtar,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.3,I Sharma,Shoaib Akhtar,DJ Thornely,0,0,0,NA,1,caught and bowled,I Sharma,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.4,AB Dinda,Shoaib Akhtar,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.5,Shoaib Akhtar,AB Dinda,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,14.6,Shoaib Akhtar,AB Dinda,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,15.1,Shoaib Akhtar,AB Dinda,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336021,1st innings,Kolkata Knight Riders,Mumbai Indians,15.2,Shoaib Akhtar,AB Dinda,RR Raje,0,0,0,NA,1,caught,Shoaib Akhtar,SR Tendulkar,0
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.1,ST Jayasuriya,SR Tendulkar,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.2,ST Jayasuriya,SR Tendulkar,Shoaib Akhtar,0,1,1,wides,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.3,ST Jayasuriya,SR Tendulkar,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.4,SR Tendulkar,ST Jayasuriya,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.5,SR Tendulkar,ST Jayasuriya,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.6,SR Tendulkar,ST Jayasuriya,Shoaib Akhtar,0,0,0,NA,1,caught,SR Tendulkar,WP Saha,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,0.7,RV Uthappa,ST Jayasuriya,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.1,ST Jayasuriya,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.2,ST Jayasuriya,RV Uthappa,I Sharma,0,1,1,wides,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.3,ST Jayasuriya,RV Uthappa,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.4,RV Uthappa,ST Jayasuriya,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.5,RV Uthappa,ST Jayasuriya,I Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.6,ST Jayasuriya,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,1.7,ST Jayasuriya,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.1,RV Uthappa,ST Jayasuriya,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.2,ST Jayasuriya,RV Uthappa,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.3,ST Jayasuriya,RV Uthappa,Shoaib Akhtar,6,0,6,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.4,ST Jayasuriya,RV Uthappa,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.5,ST Jayasuriya,RV Uthappa,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,2.6,ST Jayasuriya,RV Uthappa,Shoaib Akhtar,6,0,6,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.1,RV Uthappa,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.2,RV Uthappa,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.3,RV Uthappa,ST Jayasuriya,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.4,RV Uthappa,ST Jayasuriya,I Sharma,0,0,0,NA,1,caught,RV Uthappa,SC Ganguly,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.5,DJ Thornely,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,3.6,DJ Thornely,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.1,ST Jayasuriya,DJ Thornely,AB Agarkar,0,1,1,wides,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.2,ST Jayasuriya,DJ Thornely,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.3,DJ Thornely,ST Jayasuriya,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.4,ST Jayasuriya,DJ Thornely,AB Agarkar,0,1,1,wides,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.5,ST Jayasuriya,DJ Thornely,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.6,DJ Thornely,ST Jayasuriya,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.7,DJ Thornely,ST Jayasuriya,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,4.8,DJ Thornely,ST Jayasuriya,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.1,ST Jayasuriya,DJ Thornely,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.2,ST Jayasuriya,DJ Thornely,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.3,ST Jayasuriya,DJ Thornely,I Sharma,6,1,7,noballs,0,NA,NA,NA,1
+336021,2nd innings,Mumbai Indians,Kolkata Knight Riders,5.4,ST Jayasuriya,DJ Thornely,I Sharma,0,4,4,legbyes,0,NA,NA,NA,1

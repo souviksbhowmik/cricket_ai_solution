@@ -1,0 +1,229 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.1,S Sohal,S Dhawan,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.2,S Dhawan,S Sohal,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.3,S Dhawan,S Sohal,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.4,S Sohal,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.5,S Sohal,S Dhawan,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.6,S Sohal,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,0.7,S Sohal,S Dhawan,RP Singh,0,0,0,NA,1,lbw,S Sohal,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.1,S Dhawan,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.2,S Dhawan,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.3,S Dhawan,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.4,S Dhawan,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.5,S Dhawan,B Chipli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,1.6,B Chipli,S Dhawan,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.1,S Dhawan,B Chipli,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.2,S Dhawan,B Chipli,RP Singh,0,0,0,NA,1,caught,S Dhawan,RV Gomez,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.3,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.4,B Chipli,KC Sangakkara,RP Singh,3,0,3,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.5,KC Sangakkara,B Chipli,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,2.6,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.1,KC Sangakkara,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.2,KC Sangakkara,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.3,KC Sangakkara,B Chipli,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.4,KC Sangakkara,B Chipli,S Sreesanth,0,1,1,noballs,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.5,KC Sangakkara,B Chipli,S Sreesanth,0,1,1,noballs,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.6,KC Sangakkara,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.7,KC Sangakkara,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.8,KC Sangakkara,B Chipli,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,3.9,KC Sangakkara,B Chipli,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.1,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.2,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.3,B Chipli,KC Sangakkara,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.4,KC Sangakkara,B Chipli,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.5,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,4.6,B Chipli,KC Sangakkara,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.1,KC Sangakkara,B Chipli,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.2,B Chipli,KC Sangakkara,R Vinay Kumar,0,0,0,NA,1,caught,B Chipli,S Sreesanth,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.3,KC Sangakkara,CL White,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.4,KC Sangakkara,CL White,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.5,KC Sangakkara,CL White,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,5.6,KC Sangakkara,CL White,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.1,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.2,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.3,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.4,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.5,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,6.6,CL White,KC Sangakkara,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.1,KC Sangakkara,CL White,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.2,KC Sangakkara,CL White,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.3,KC Sangakkara,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.4,CL White,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.5,KC Sangakkara,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,7.6,CL White,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.1,KC Sangakkara,CL White,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.2,CL White,KC Sangakkara,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.3,CL White,KC Sangakkara,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.4,CL White,KC Sangakkara,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.5,CL White,KC Sangakkara,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,8.6,CL White,KC Sangakkara,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.1,CL White,KC Sangakkara,RV Gomez,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.2,CL White,KC Sangakkara,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.3,KC Sangakkara,CL White,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.4,CL White,KC Sangakkara,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.5,KC Sangakkara,CL White,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,9.6,CL White,KC Sangakkara,RV Gomez,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.1,KC Sangakkara,CL White,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.2,CL White,KC Sangakkara,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.3,KC Sangakkara,CL White,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.4,KC Sangakkara,CL White,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.5,CL White,KC Sangakkara,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,10.6,CL White,KC Sangakkara,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.1,KC Sangakkara,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.2,CL White,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.3,CL White,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.4,KC Sangakkara,CL White,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.5,KC Sangakkara,CL White,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,11.6,KC Sangakkara,CL White,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.1,CL White,KC Sangakkara,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.2,CL White,KC Sangakkara,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.3,KC Sangakkara,CL White,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.4,CL White,KC Sangakkara,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.5,CL White,KC Sangakkara,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,12.6,KC Sangakkara,CL White,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.1,CL White,KC Sangakkara,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.2,CL White,KC Sangakkara,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.3,KC Sangakkara,CL White,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.4,KC Sangakkara,CL White,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.5,KC Sangakkara,CL White,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,13.6,KC Sangakkara,CL White,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.1,KC Sangakkara,CL White,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.2,KC Sangakkara,CL White,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.3,KC Sangakkara,CL White,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.4,KC Sangakkara,CL White,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.5,KC Sangakkara,CL White,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,14.6,CL White,KC Sangakkara,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.1,KC Sangakkara,CL White,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.2,KC Sangakkara,CL White,S Sreesanth,0,1,1,legbyes,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.3,CL White,KC Sangakkara,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.4,CL White,KC Sangakkara,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.5,KC Sangakkara,CL White,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,15.6,KC Sangakkara,CL White,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.1,KC Sangakkara,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.2,CL White,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.3,KC Sangakkara,CL White,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.4,CL White,KC Sangakkara,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.5,CL White,KC Sangakkara,R Vinay Kumar,0,0,0,NA,1,caught,CL White,DPMD Jayawardene,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,16.6,KC Sangakkara,DT Christian,R Vinay Kumar,0,0,0,NA,1,caught,KC Sangakkara,PA Patel,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.1,DT Christian,DB Ravi Teja,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.2,DT Christian,DB Ravi Teja,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.3,DT Christian,DB Ravi Teja,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.4,DB Ravi Teja,DT Christian,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.5,DT Christian,DB Ravi Teja,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,17.6,DT Christian,DB Ravi Teja,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.1,DT Christian,DB Ravi Teja,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.2,DB Ravi Teja,DT Christian,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.3,DT Christian,DB Ravi Teja,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.4,DT Christian,DB Ravi Teja,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.5,DT Christian,DB Ravi Teja,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.6,DT Christian,DB Ravi Teja,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,18.7,DB Ravi Teja,DT Christian,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.1,DT Christian,DB Ravi Teja,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.2,DB Ravi Teja,DT Christian,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.3,DT Christian,DB Ravi Teja,NLTC Perera,0,0,0,NA,1,bowled,DT Christian,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.4,A Mishra,DB Ravi Teja,NLTC Perera,0,0,0,NA,1,run out,A Mishra,PA Patel,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.5,DB Ravi Teja,MS Gony,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+501229,1st innings,Deccan Chargers,Kochi Tuskers Kerala,19.6,MS Gony,DB Ravi Teja,NLTC Perera,0,1,1,byes,0,NA,NA,NA,1
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.1,BB McCullum,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.2,BB McCullum,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.3,BB McCullum,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.4,BB McCullum,DPMD Jayawardene,DW Steyn,0,0,0,NA,1,caught,BB McCullum,KC Sangakkara,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.5,PA Patel,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,0.6,PA Patel,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.1,DPMD Jayawardene,PA Patel,I Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.2,PA Patel,DPMD Jayawardene,I Sharma,0,0,0,NA,1,caught,PA Patel,KC Sangakkara,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.3,RV Gomez,DPMD Jayawardene,I Sharma,0,0,0,NA,1,bowled,RV Gomez,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.4,BJ Hodge,DPMD Jayawardene,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.5,BJ Hodge,DPMD Jayawardene,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.6,BJ Hodge,DPMD Jayawardene,I Sharma,0,0,0,NA,1,bowled,BJ Hodge,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,1.7,KM Jadhav,DPMD Jayawardene,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.1,DPMD Jayawardene,KM Jadhav,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.2,DPMD Jayawardene,KM Jadhav,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.3,DPMD Jayawardene,KM Jadhav,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.4,DPMD Jayawardene,KM Jadhav,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.5,DPMD Jayawardene,KM Jadhav,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,2.6,DPMD Jayawardene,KM Jadhav,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.1,KM Jadhav,DPMD Jayawardene,I Sharma,0,0,0,NA,1,lbw,KM Jadhav,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.2,RA Jadeja,DPMD Jayawardene,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.3,RA Jadeja,DPMD Jayawardene,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.4,RA Jadeja,DPMD Jayawardene,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.5,RA Jadeja,DPMD Jayawardene,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,3.6,DPMD Jayawardene,RA Jadeja,I Sharma,0,0,0,NA,1,caught,DPMD Jayawardene,KC Sangakkara,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.1,RA Jadeja,NLTC Perera,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.2,NLTC Perera,RA Jadeja,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.3,NLTC Perera,RA Jadeja,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.4,NLTC Perera,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.5,NLTC Perera,RA Jadeja,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.6,NLTC Perera,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.7,NLTC Perera,RA Jadeja,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,4.8,NLTC Perera,RA Jadeja,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.1,NLTC Perera,RA Jadeja,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.2,RA Jadeja,NLTC Perera,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.3,NLTC Perera,RA Jadeja,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.4,NLTC Perera,RA Jadeja,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.5,NLTC Perera,RA Jadeja,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,5.6,NLTC Perera,RA Jadeja,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.1,RA Jadeja,NLTC Perera,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.2,RA Jadeja,NLTC Perera,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.3,RA Jadeja,NLTC Perera,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.4,RA Jadeja,NLTC Perera,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.5,RA Jadeja,NLTC Perera,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,6.6,NLTC Perera,RA Jadeja,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.1,RA Jadeja,NLTC Perera,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.2,RA Jadeja,NLTC Perera,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.3,RA Jadeja,NLTC Perera,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.4,NLTC Perera,RA Jadeja,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.5,NLTC Perera,RA Jadeja,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,7.6,NLTC Perera,RA Jadeja,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.1,RA Jadeja,NLTC Perera,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.2,RA Jadeja,NLTC Perera,DT Christian,0,1,1,wides,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.3,RA Jadeja,NLTC Perera,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.4,NLTC Perera,RA Jadeja,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.5,NLTC Perera,RA Jadeja,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.6,NLTC Perera,RA Jadeja,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,8.7,NLTC Perera,RA Jadeja,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.1,RA Jadeja,NLTC Perera,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.2,RA Jadeja,NLTC Perera,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.3,NLTC Perera,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.4,NLTC Perera,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.5,NLTC Perera,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,9.6,RA Jadeja,NLTC Perera,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.1,NLTC Perera,RA Jadeja,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.2,RA Jadeja,NLTC Perera,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.3,RA Jadeja,NLTC Perera,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.4,NLTC Perera,RA Jadeja,MS Gony,0,0,0,NA,1,caught,NLTC Perera,CL White,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.5,R Vinay Kumar,RA Jadeja,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,10.6,RA Jadeja,R Vinay Kumar,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.1,R Vinay Kumar,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.2,RA Jadeja,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.3,R Vinay Kumar,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.4,RA Jadeja,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.5,R Vinay Kumar,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,11.6,R Vinay Kumar,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.1,R Vinay Kumar,RA Jadeja,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.2,RA Jadeja,R Vinay Kumar,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.3,R Vinay Kumar,RA Jadeja,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.4,R Vinay Kumar,RA Jadeja,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.5,R Vinay Kumar,RA Jadeja,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,12.6,R Vinay Kumar,RA Jadeja,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.1,R Vinay Kumar,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.2,R Vinay Kumar,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.3,RA Jadeja,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.4,R Vinay Kumar,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.5,RA Jadeja,R Vinay Kumar,A Mishra,0,2,2,legbyes,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,13.6,RA Jadeja,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.1,RA Jadeja,R Vinay Kumar,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.2,RA Jadeja,R Vinay Kumar,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.3,R Vinay Kumar,RA Jadeja,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.4,R Vinay Kumar,RA Jadeja,DT Christian,4,0,4,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.5,R Vinay Kumar,RA Jadeja,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,14.6,RA Jadeja,R Vinay Kumar,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.1,RA Jadeja,R Vinay Kumar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.2,RA Jadeja,R Vinay Kumar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.3,RA Jadeja,R Vinay Kumar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.4,RA Jadeja,R Vinay Kumar,A Mishra,0,0,0,NA,1,caught,RA Jadeja,DT Christian,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.5,R Vinay Kumar,S Sreesanth,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,15.6,S Sreesanth,R Vinay Kumar,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,16.1,R Vinay Kumar,S Sreesanth,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,16.2,R Vinay Kumar,S Sreesanth,DW Steyn,0,0,0,NA,1,bowled,R Vinay Kumar,NA,0
+501229,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,16.3,RP Singh,S Sreesanth,DW Steyn,0,0,0,NA,1,bowled,RP Singh,NA,0

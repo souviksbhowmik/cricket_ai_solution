@@ -1,0 +1,253 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.1,PP Shaw,S Dhawan,I Udana,0,1,1,legbyes,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.2,S Dhawan,PP Shaw,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.3,PP Shaw,S Dhawan,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.4,PP Shaw,S Dhawan,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.5,PP Shaw,S Dhawan,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,0.6,PP Shaw,S Dhawan,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.1,S Dhawan,PP Shaw,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.2,S Dhawan,PP Shaw,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.3,S Dhawan,PP Shaw,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.4,PP Shaw,S Dhawan,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.5,S Dhawan,PP Shaw,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,1.6,S Dhawan,PP Shaw,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.1,S Dhawan,PP Shaw,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.2,S Dhawan,PP Shaw,NA Saini,3,0,3,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.3,PP Shaw,S Dhawan,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.4,PP Shaw,S Dhawan,NA Saini,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.5,PP Shaw,S Dhawan,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,2.6,PP Shaw,S Dhawan,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.1,PP Shaw,S Dhawan,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.2,PP Shaw,S Dhawan,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.3,S Dhawan,PP Shaw,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.4,PP Shaw,S Dhawan,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.5,PP Shaw,S Dhawan,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,3.6,S Dhawan,PP Shaw,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.1,S Dhawan,PP Shaw,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.2,PP Shaw,S Dhawan,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.3,PP Shaw,S Dhawan,YS Chahal,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.4,PP Shaw,S Dhawan,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.5,S Dhawan,PP Shaw,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,4.6,S Dhawan,PP Shaw,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.1,PP Shaw,S Dhawan,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.2,PP Shaw,S Dhawan,Washington Sundar,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.3,PP Shaw,S Dhawan,Washington Sundar,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.4,PP Shaw,S Dhawan,Washington Sundar,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.5,PP Shaw,S Dhawan,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,5.6,S Dhawan,PP Shaw,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.1,S Dhawan,PP Shaw,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.2,S Dhawan,PP Shaw,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.3,S Dhawan,PP Shaw,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.4,PP Shaw,S Dhawan,Mohammed Siraj,0,0,0,NA,1,caught,PP Shaw,AB de Villiers,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.5,SS Iyer,S Dhawan,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,6.6,SS Iyer,S Dhawan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.1,S Dhawan,SS Iyer,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.2,S Dhawan,SS Iyer,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.3,S Dhawan,SS Iyer,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.4,S Dhawan,SS Iyer,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.5,SS Iyer,S Dhawan,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,7.6,S Dhawan,SS Iyer,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.1,S Dhawan,SS Iyer,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.2,SS Iyer,S Dhawan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.3,SS Iyer,S Dhawan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.4,S Dhawan,SS Iyer,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.5,S Dhawan,SS Iyer,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,8.6,SS Iyer,S Dhawan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.1,S Dhawan,SS Iyer,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.2,SS Iyer,S Dhawan,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.3,S Dhawan,SS Iyer,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.4,S Dhawan,SS Iyer,I Udana,0,0,0,NA,1,caught,S Dhawan,MM Ali,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.5,SS Iyer,RR Pant,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,9.6,RR Pant,SS Iyer,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.1,SS Iyer,RR Pant,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.2,SS Iyer,RR Pant,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.3,RR Pant,SS Iyer,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.4,SS Iyer,RR Pant,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.5,RR Pant,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,10.6,RR Pant,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.1,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.2,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.3,SS Iyer,RR Pant,MM Ali,0,0,0,NA,1,caught,SS Iyer,D Padikkal,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.4,RR Pant,MP Stoinis,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.5,MP Stoinis,RR Pant,MM Ali,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,11.6,MP Stoinis,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.1,MP Stoinis,RR Pant,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.2,RR Pant,MP Stoinis,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.3,RR Pant,MP Stoinis,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.4,RR Pant,MP Stoinis,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.5,MP Stoinis,RR Pant,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,12.6,RR Pant,MP Stoinis,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.1,RR Pant,MP Stoinis,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.2,MP Stoinis,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.3,MP Stoinis,RR Pant,MM Ali,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.4,MP Stoinis,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.5,RR Pant,MP Stoinis,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.6,MP Stoinis,RR Pant,MM Ali,0,1,1,wides,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.7,MP Stoinis,RR Pant,MM Ali,0,1,1,wides,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,13.8,MP Stoinis,RR Pant,MM Ali,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.1,RR Pant,MP Stoinis,NA Saini,0,1,1,legbyes,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.2,MP Stoinis,RR Pant,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.3,MP Stoinis,RR Pant,NA Saini,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.4,MP Stoinis,RR Pant,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.5,MP Stoinis,RR Pant,NA Saini,0,1,1,noballs,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.6,MP Stoinis,RR Pant,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,14.7,MP Stoinis,RR Pant,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.1,MP Stoinis,RR Pant,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.2,MP Stoinis,RR Pant,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.3,RR Pant,MP Stoinis,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.4,RR Pant,MP Stoinis,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.5,MP Stoinis,RR Pant,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,15.6,MP Stoinis,RR Pant,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.1,MP Stoinis,RR Pant,NA Saini,2,0,2,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.2,MP Stoinis,RR Pant,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.3,MP Stoinis,RR Pant,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.4,RR Pant,MP Stoinis,NA Saini,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.5,RR Pant,MP Stoinis,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,16.6,RR Pant,MP Stoinis,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.1,RR Pant,MP Stoinis,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.2,MP Stoinis,RR Pant,I Udana,0,1,1,wides,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.3,MP Stoinis,RR Pant,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.4,RR Pant,MP Stoinis,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.5,RR Pant,MP Stoinis,I Udana,0,1,1,legbyes,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.6,MP Stoinis,RR Pant,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,17.7,RR Pant,MP Stoinis,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.1,RR Pant,MP Stoinis,Mohammed Siraj,6,1,7,noballs,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.2,RR Pant,MP Stoinis,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.3,RR Pant,MP Stoinis,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.4,RR Pant,MP Stoinis,Mohammed Siraj,0,0,0,NA,1,bowled,RR Pant,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.5,SO Hetmyer,MP Stoinis,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.6,SO Hetmyer,MP Stoinis,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.7,SO Hetmyer,MP Stoinis,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,18.8,MP Stoinis,SO Hetmyer,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.1,SO Hetmyer,MP Stoinis,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.2,MP Stoinis,SO Hetmyer,I Udana,0,1,1,legbyes,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.3,SO Hetmyer,MP Stoinis,I Udana,6,0,6,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.4,SO Hetmyer,MP Stoinis,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.5,MP Stoinis,SO Hetmyer,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1216519,1st innings,Delhi Capitals,Royal Challengers Bangalore,19.6,SO Hetmyer,MP Stoinis,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.1,D Padikkal,AJ Finch,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.2,AJ Finch,D Padikkal,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.3,AJ Finch,D Padikkal,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.4,AJ Finch,D Padikkal,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.5,AJ Finch,D Padikkal,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.6,D Padikkal,AJ Finch,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,0.7,AJ Finch,D Padikkal,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.1,AJ Finch,D Padikkal,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.2,AJ Finch,D Padikkal,A Nortje,0,1,1,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.3,AJ Finch,D Padikkal,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.4,AJ Finch,D Padikkal,A Nortje,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.5,AJ Finch,D Padikkal,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.6,D Padikkal,AJ Finch,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,1.7,AJ Finch,D Padikkal,A Nortje,0,1,1,legbyes,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.1,AJ Finch,D Padikkal,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.2,AJ Finch,D Padikkal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.3,D Padikkal,AJ Finch,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.4,D Padikkal,AJ Finch,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.5,AJ Finch,D Padikkal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,2.6,D Padikkal,AJ Finch,R Ashwin,0,0,0,NA,1,caught,D Padikkal,MP Stoinis,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.1,V Kohli,AJ Finch,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.2,V Kohli,AJ Finch,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.3,AJ Finch,V Kohli,AR Patel,0,1,1,legbyes,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.4,V Kohli,AJ Finch,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.5,V Kohli,AJ Finch,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,3.6,AJ Finch,V Kohli,AR Patel,0,0,0,NA,1,caught,AJ Finch,RR Pant,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.1,V Kohli,AB de Villiers,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.2,V Kohli,AB de Villiers,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.3,V Kohli,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.4,AB de Villiers,V Kohli,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.5,V Kohli,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,4.6,AB de Villiers,V Kohli,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.1,V Kohli,AB de Villiers,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.2,AB de Villiers,V Kohli,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.3,AB de Villiers,V Kohli,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.4,AB de Villiers,V Kohli,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.5,AB de Villiers,V Kohli,A Nortje,0,0,0,NA,1,caught,AB de Villiers,S Dhawan,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,5.6,V Kohli,MM Ali,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.1,MM Ali,V Kohli,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.2,V Kohli,MM Ali,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.3,MM Ali,V Kohli,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.4,MM Ali,V Kohli,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.5,MM Ali,V Kohli,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,6.6,MM Ali,V Kohli,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.1,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.2,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.3,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.4,MM Ali,V Kohli,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.5,V Kohli,MM Ali,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,7.6,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.1,V Kohli,MM Ali,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.2,V Kohli,MM Ali,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.3,MM Ali,V Kohli,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.4,V Kohli,MM Ali,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.5,MM Ali,V Kohli,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.6,V Kohli,MM Ali,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,8.7,V Kohli,MM Ali,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.1,MM Ali,V Kohli,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.2,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.3,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.4,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.5,V Kohli,MM Ali,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,9.6,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.1,V Kohli,MM Ali,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.2,MM Ali,V Kohli,HV Patel,0,1,1,legbyes,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.3,V Kohli,MM Ali,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.4,V Kohli,MM Ali,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.5,V Kohli,MM Ali,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,10.6,V Kohli,MM Ali,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.1,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.2,MM Ali,V Kohli,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.3,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.4,MM Ali,V Kohli,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.5,V Kohli,MM Ali,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,11.6,MM Ali,V Kohli,AR Patel,0,0,0,NA,1,caught,MM Ali,SO Hetmyer,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.1,V Kohli,Washington Sundar,HV Patel,0,1,1,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.2,V Kohli,Washington Sundar,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.3,V Kohli,Washington Sundar,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.4,V Kohli,Washington Sundar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.5,Washington Sundar,V Kohli,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.6,Washington Sundar,V Kohli,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,12.7,V Kohli,Washington Sundar,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.1,V Kohli,Washington Sundar,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.2,V Kohli,Washington Sundar,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.3,Washington Sundar,V Kohli,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.4,V Kohli,Washington Sundar,K Rabada,0,0,0,NA,1,caught,V Kohli,RR Pant,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.5,S Dube,Washington Sundar,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.6,Washington Sundar,S Dube,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,13.7,S Dube,Washington Sundar,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.1,S Dube,Washington Sundar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.2,S Dube,Washington Sundar,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.3,Washington Sundar,S Dube,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.4,Washington Sundar,S Dube,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.5,S Dube,Washington Sundar,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,14.6,S Dube,Washington Sundar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.1,Washington Sundar,S Dube,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.2,Washington Sundar,S Dube,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.3,Washington Sundar,S Dube,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.4,Washington Sundar,S Dube,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.5,S Dube,Washington Sundar,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,15.6,Washington Sundar,S Dube,K Rabada,0,0,0,NA,1,caught,Washington Sundar,R Ashwin,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.1,S Dube,I Udana,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.2,I Udana,S Dube,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.3,S Dube,I Udana,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.4,S Dube,I Udana,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.5,S Dube,I Udana,A Nortje,0,1,1,legbyes,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,16.6,I Udana,S Dube,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.1,S Dube,I Udana,K Rabada,0,0,0,NA,1,bowled,S Dube,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.2,NA Saini,I Udana,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.3,I Udana,NA Saini,K Rabada,0,0,0,NA,1,caught,I Udana,SS Iyer,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.4,NA Saini,Mohammed Siraj,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.5,NA Saini,Mohammed Siraj,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,17.6,NA Saini,Mohammed Siraj,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.1,Mohammed Siraj,NA Saini,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.2,NA Saini,Mohammed Siraj,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.3,NA Saini,Mohammed Siraj,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.4,Mohammed Siraj,NA Saini,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.5,Mohammed Siraj,NA Saini,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,18.6,Mohammed Siraj,NA Saini,A Nortje,0,0,0,NA,1,bowled,Mohammed Siraj,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.1,NA Saini,YS Chahal,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.2,NA Saini,YS Chahal,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.3,NA Saini,YS Chahal,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.4,NA Saini,YS Chahal,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.5,YS Chahal,NA Saini,HV Patel,0,2,2,wides,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.6,NA Saini,YS Chahal,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+1216519,2nd innings,Royal Challengers Bangalore,Delhi Capitals,19.7,NA Saini,YS Chahal,HV Patel,1,0,1,NA,0,NA,NA,NA,0

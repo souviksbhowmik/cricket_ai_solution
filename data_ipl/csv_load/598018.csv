@@ -1,0 +1,240 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.1,PA Patel,Q de Kock,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.2,PA Patel,Q de Kock,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.3,Q de Kock,PA Patel,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.4,Q de Kock,PA Patel,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.5,Q de Kock,PA Patel,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,0.6,PA Patel,Q de Kock,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.1,Q de Kock,PA Patel,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.2,Q de Kock,PA Patel,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.3,Q de Kock,PA Patel,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.4,PA Patel,Q de Kock,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.5,Q de Kock,PA Patel,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.6,Q de Kock,PA Patel,AB Dinda,0,1,1,wides,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,1.7,Q de Kock,PA Patel,AB Dinda,0,0,0,NA,1,caught,Q de Kock,MR Marsh,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.1,PA Patel,GH Vihari,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.2,PA Patel,GH Vihari,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.3,PA Patel,GH Vihari,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.4,PA Patel,GH Vihari,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.5,PA Patel,GH Vihari,B Kumar,0,0,0,NA,1,bowled,PA Patel,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,2.6,CL White,GH Vihari,B Kumar,0,0,0,NA,1,bowled,CL White,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.1,GH Vihari,BB Samantray,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.2,GH Vihari,BB Samantray,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.3,BB Samantray,GH Vihari,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.4,BB Samantray,GH Vihari,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.5,BB Samantray,GH Vihari,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,3.6,BB Samantray,GH Vihari,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.1,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.2,GH Vihari,BB Samantray,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.3,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.4,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.5,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.6,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,4.7,GH Vihari,BB Samantray,B Kumar,0,0,0,NA,1,caught,GH Vihari,AJ Finch,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.1,BB Samantray,KV Sharma,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.2,BB Samantray,KV Sharma,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.3,BB Samantray,KV Sharma,AD Mathews,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.4,BB Samantray,KV Sharma,AD Mathews,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.5,BB Samantray,KV Sharma,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,5.6,KV Sharma,BB Samantray,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.1,KV Sharma,BB Samantray,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.2,KV Sharma,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.3,KV Sharma,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.4,KV Sharma,BB Samantray,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.5,KV Sharma,BB Samantray,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.6,BB Samantray,KV Sharma,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,6.7,KV Sharma,BB Samantray,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.1,BB Samantray,KV Sharma,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.2,BB Samantray,KV Sharma,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.3,BB Samantray,KV Sharma,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.4,KV Sharma,BB Samantray,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.5,KV Sharma,BB Samantray,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,7.6,BB Samantray,KV Sharma,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.1,BB Samantray,KV Sharma,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.2,KV Sharma,BB Samantray,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.3,BB Samantray,KV Sharma,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.4,BB Samantray,KV Sharma,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.5,KV Sharma,BB Samantray,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,8.6,KV Sharma,BB Samantray,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.1,KV Sharma,BB Samantray,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.2,KV Sharma,BB Samantray,R Sharma,0,0,0,NA,1,lbw,KV Sharma,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.3,NLTC Perera,BB Samantray,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.4,NLTC Perera,BB Samantray,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.5,BB Samantray,NLTC Perera,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,9.6,BB Samantray,NLTC Perera,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.1,NLTC Perera,BB Samantray,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.2,BB Samantray,NLTC Perera,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.3,BB Samantray,NLTC Perera,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.4,NLTC Perera,BB Samantray,MR Marsh,0,0,0,NA,1,caught,NLTC Perera,RV Uthappa,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.5,A Mishra,BB Samantray,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,10.6,A Mishra,BB Samantray,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.1,A Mishra,BB Samantray,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.2,BB Samantray,A Mishra,R Sharma,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.3,BB Samantray,A Mishra,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.4,A Mishra,BB Samantray,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.5,BB Samantray,A Mishra,R Sharma,6,0,6,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,11.6,BB Samantray,A Mishra,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.1,A Mishra,BB Samantray,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.2,A Mishra,BB Samantray,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.3,BB Samantray,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.4,A Mishra,BB Samantray,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.5,A Mishra,BB Samantray,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,12.6,BB Samantray,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.1,BB Samantray,A Mishra,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.2,BB Samantray,A Mishra,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.3,BB Samantray,A Mishra,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.4,BB Samantray,A Mishra,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.5,A Mishra,BB Samantray,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,13.6,BB Samantray,A Mishra,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.1,BB Samantray,A Mishra,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.2,BB Samantray,A Mishra,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.3,A Mishra,BB Samantray,R Sharma,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.4,BB Samantray,A Mishra,R Sharma,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.5,BB Samantray,A Mishra,R Sharma,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,14.6,BB Samantray,A Mishra,R Sharma,0,0,0,NA,1,caught,BB Samantray,MK Pandey,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.1,A Ashish Reddy,A Mishra,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.2,A Mishra,A Ashish Reddy,MR Marsh,0,1,1,wides,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.3,A Mishra,A Ashish Reddy,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.4,A Mishra,A Ashish Reddy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.5,A Ashish Reddy,A Mishra,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.6,A Mishra,A Ashish Reddy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,15.7,A Ashish Reddy,A Mishra,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.1,A Ashish Reddy,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.2,A Mishra,A Ashish Reddy,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.3,A Ashish Reddy,A Mishra,AD Mathews,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.4,A Ashish Reddy,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.5,A Mishra,A Ashish Reddy,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,16.6,A Ashish Reddy,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.1,A Ashish Reddy,A Mishra,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.2,A Ashish Reddy,A Mishra,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.3,A Mishra,A Ashish Reddy,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.4,A Ashish Reddy,A Mishra,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.5,A Mishra,A Ashish Reddy,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,17.6,A Mishra,A Ashish Reddy,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.1,A Ashish Reddy,A Mishra,AD Mathews,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.2,A Ashish Reddy,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.3,A Mishra,A Ashish Reddy,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.4,A Ashish Reddy,A Mishra,AD Mathews,6,0,6,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.5,A Ashish Reddy,A Mishra,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,18.6,A Mishra,A Ashish Reddy,AD Mathews,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.1,A Mishra,A Ashish Reddy,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.2,A Ashish Reddy,A Mishra,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.3,A Mishra,A Ashish Reddy,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.4,A Mishra,A Ashish Reddy,AB Dinda,0,1,1,wides,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.5,A Mishra,A Ashish Reddy,AB Dinda,2,0,2,NA,0,NA,NA,NA,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.6,A Mishra,A Ashish Reddy,AB Dinda,1,0,1,NA,1,run out,A Mishra,MK Pandey,1
+598018,1st innings,Sunrisers Hyderabad,Pune Warriors,19.7,DW Steyn,A Ashish Reddy,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.1,RV Uthappa,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.2,RV Uthappa,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.3,RV Uthappa,AJ Finch,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.4,RV Uthappa,AJ Finch,I Sharma,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.5,RV Uthappa,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,0.6,AJ Finch,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.1,RV Uthappa,AJ Finch,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.2,RV Uthappa,AJ Finch,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.3,RV Uthappa,AJ Finch,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.4,RV Uthappa,AJ Finch,DW Steyn,3,0,3,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.5,AJ Finch,RV Uthappa,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,1.6,RV Uthappa,AJ Finch,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.1,AJ Finch,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.2,AJ Finch,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.3,AJ Finch,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.4,AJ Finch,RV Uthappa,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.5,RV Uthappa,AJ Finch,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,2.6,RV Uthappa,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.1,AJ Finch,RV Uthappa,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.2,AJ Finch,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.3,AJ Finch,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.4,AJ Finch,RV Uthappa,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.5,AJ Finch,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,3.6,AJ Finch,RV Uthappa,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.1,RV Uthappa,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.2,RV Uthappa,AJ Finch,NLTC Perera,0,0,0,NA,1,caught,RV Uthappa,BB Samantray,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.3,AJ Finch,TL Suman,NLTC Perera,0,0,0,NA,1,caught,AJ Finch,Q de Kock,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.4,SPD Smith,TL Suman,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.5,SPD Smith,TL Suman,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,4.6,SPD Smith,TL Suman,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.1,SPD Smith,TL Suman,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.2,TL Suman,SPD Smith,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.3,TL Suman,SPD Smith,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.4,TL Suman,SPD Smith,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.5,TL Suman,SPD Smith,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,5.6,SPD Smith,TL Suman,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.1,TL Suman,SPD Smith,NLTC Perera,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.2,TL Suman,SPD Smith,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.3,TL Suman,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.4,SPD Smith,TL Suman,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.5,TL Suman,SPD Smith,NLTC Perera,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,6.6,TL Suman,SPD Smith,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.1,SPD Smith,TL Suman,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.2,TL Suman,SPD Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.3,SPD Smith,TL Suman,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.4,TL Suman,SPD Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.5,SPD Smith,TL Suman,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,7.6,TL Suman,SPD Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.1,TL Suman,SPD Smith,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.2,SPD Smith,TL Suman,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.3,TL Suman,SPD Smith,KV Sharma,0,0,0,NA,1,lbw,TL Suman,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.4,AD Mathews,SPD Smith,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.5,AD Mathews,SPD Smith,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,8.6,SPD Smith,AD Mathews,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.1,SPD Smith,AD Mathews,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.2,AD Mathews,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.3,AD Mathews,SPD Smith,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.4,SPD Smith,AD Mathews,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.5,SPD Smith,AD Mathews,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,9.6,SPD Smith,AD Mathews,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.1,AD Mathews,SPD Smith,NLTC Perera,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.2,AD Mathews,SPD Smith,NLTC Perera,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.3,AD Mathews,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.4,SPD Smith,AD Mathews,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.5,SPD Smith,AD Mathews,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,10.6,SPD Smith,AD Mathews,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.1,SPD Smith,AD Mathews,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.2,AD Mathews,SPD Smith,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.3,SPD Smith,AD Mathews,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.4,SPD Smith,AD Mathews,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.5,SPD Smith,AD Mathews,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,11.6,SPD Smith,AD Mathews,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.1,AD Mathews,SPD Smith,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.2,SPD Smith,AD Mathews,I Sharma,2,0,2,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.3,SPD Smith,AD Mathews,I Sharma,0,0,0,NA,1,caught,SPD Smith,A Ashish Reddy,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.4,AD Mathews,MR Marsh,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.5,AD Mathews,MR Marsh,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,12.6,MR Marsh,AD Mathews,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.1,AD Mathews,MR Marsh,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.2,AD Mathews,MR Marsh,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.3,MR Marsh,AD Mathews,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.4,AD Mathews,MR Marsh,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.5,MR Marsh,AD Mathews,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,13.6,MR Marsh,AD Mathews,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.1,AD Mathews,MR Marsh,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.2,MR Marsh,AD Mathews,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.3,AD Mathews,MR Marsh,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.4,AD Mathews,MR Marsh,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.5,AD Mathews,MR Marsh,KV Sharma,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,14.6,AD Mathews,MR Marsh,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.1,AD Mathews,MR Marsh,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.2,AD Mathews,MR Marsh,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.3,MR Marsh,AD Mathews,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.4,MR Marsh,AD Mathews,A Mishra,6,0,6,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.5,MR Marsh,AD Mathews,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,15.6,MR Marsh,AD Mathews,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.1,MR Marsh,AD Mathews,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.2,MR Marsh,AD Mathews,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.3,AD Mathews,MR Marsh,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.4,AD Mathews,MR Marsh,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.5,MR Marsh,AD Mathews,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,16.6,MR Marsh,AD Mathews,DW Steyn,0,0,0,NA,1,caught,MR Marsh,A Ashish Reddy,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.1,AM Nayar,AD Mathews,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.2,AM Nayar,AD Mathews,NLTC Perera,0,0,0,NA,1,caught,AM Nayar,BB Samantray,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.3,MK Pandey,AD Mathews,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.4,MK Pandey,AD Mathews,NLTC Perera,4,0,4,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.5,MK Pandey,AD Mathews,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,17.6,MK Pandey,AD Mathews,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.1,MK Pandey,AD Mathews,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.2,AD Mathews,MK Pandey,A Mishra,0,0,0,NA,1,caught,AD Mathews,DW Steyn,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.3,MK Pandey,B Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.4,B Kumar,MK Pandey,A Mishra,0,0,0,NA,1,lbw,B Kumar,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.5,R Sharma,MK Pandey,A Mishra,0,0,0,NA,1,bowled,R Sharma,NA,0
+598018,2nd innings,Pune Warriors,Sunrisers Hyderabad,18.6,AB Dinda,MK Pandey,A Mishra,0,0,0,NA,1,bowled,AB Dinda,NA,0

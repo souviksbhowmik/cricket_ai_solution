@@ -1,0 +1,229 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.1,DA Warner,JM Bairstow,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.2,DA Warner,JM Bairstow,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.3,DA Warner,JM Bairstow,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.4,DA Warner,JM Bairstow,SS Cottrell,0,5,5,wides,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.5,DA Warner,JM Bairstow,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.6,DA Warner,JM Bairstow,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,0.7,DA Warner,JM Bairstow,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.1,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.2,JM Bairstow,DA Warner,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.3,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.4,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.5,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,1.6,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.1,DA Warner,JM Bairstow,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.2,JM Bairstow,DA Warner,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.3,DA Warner,JM Bairstow,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.4,DA Warner,JM Bairstow,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.5,DA Warner,JM Bairstow,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,2.6,JM Bairstow,DA Warner,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.1,DA Warner,JM Bairstow,SS Cottrell,0,1,1,wides,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.2,DA Warner,JM Bairstow,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.3,JM Bairstow,DA Warner,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.4,JM Bairstow,DA Warner,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.5,JM Bairstow,DA Warner,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.6,JM Bairstow,DA Warner,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,3.7,JM Bairstow,DA Warner,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.1,JM Bairstow,DA Warner,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.2,JM Bairstow,DA Warner,Mohammed Shami,3,0,3,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.3,DA Warner,JM Bairstow,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.4,DA Warner,JM Bairstow,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.5,DA Warner,JM Bairstow,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,4.6,DA Warner,JM Bairstow,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.1,JM Bairstow,DA Warner,Mujeeb Ur Rahman,3,0,3,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.2,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.3,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.4,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.5,DA Warner,JM Bairstow,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,5.6,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.1,DA Warner,JM Bairstow,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.2,JM Bairstow,DA Warner,GJ Maxwell,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.3,JM Bairstow,DA Warner,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.4,DA Warner,JM Bairstow,GJ Maxwell,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.5,DA Warner,JM Bairstow,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,6.6,DA Warner,JM Bairstow,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.1,JM Bairstow,DA Warner,Ravi Bishnoi,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.2,JM Bairstow,DA Warner,Ravi Bishnoi,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.3,DA Warner,JM Bairstow,Ravi Bishnoi,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.4,JM Bairstow,DA Warner,Ravi Bishnoi,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.5,JM Bairstow,DA Warner,Ravi Bishnoi,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,7.6,JM Bairstow,DA Warner,Ravi Bishnoi,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.1,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.2,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.3,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.4,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.5,DA Warner,JM Bairstow,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,8.6,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.1,DA Warner,JM Bairstow,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.2,JM Bairstow,DA Warner,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.3,JM Bairstow,DA Warner,Arshdeep Singh,0,1,1,wides,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.4,JM Bairstow,DA Warner,Arshdeep Singh,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.5,JM Bairstow,DA Warner,Arshdeep Singh,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.6,JM Bairstow,DA Warner,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,9.7,JM Bairstow,DA Warner,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.1,JM Bairstow,DA Warner,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.2,DA Warner,JM Bairstow,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.3,JM Bairstow,DA Warner,GJ Maxwell,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.4,JM Bairstow,DA Warner,GJ Maxwell,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.5,JM Bairstow,DA Warner,GJ Maxwell,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,10.6,JM Bairstow,DA Warner,GJ Maxwell,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.1,DA Warner,JM Bairstow,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.2,JM Bairstow,DA Warner,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.3,JM Bairstow,DA Warner,Arshdeep Singh,0,2,2,wides,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.4,DA Warner,JM Bairstow,Arshdeep Singh,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.5,DA Warner,JM Bairstow,Arshdeep Singh,1,1,2,noballs,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.6,JM Bairstow,DA Warner,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.7,DA Warner,JM Bairstow,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,11.8,JM Bairstow,DA Warner,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.1,JM Bairstow,DA Warner,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.2,JM Bairstow,DA Warner,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.3,JM Bairstow,DA Warner,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.4,JM Bairstow,DA Warner,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.5,JM Bairstow,DA Warner,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,12.6,DA Warner,JM Bairstow,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.1,DA Warner,JM Bairstow,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.2,DA Warner,JM Bairstow,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.3,JM Bairstow,DA Warner,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.4,JM Bairstow,DA Warner,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.5,JM Bairstow,DA Warner,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,13.6,JM Bairstow,DA Warner,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.1,JM Bairstow,DA Warner,SS Cottrell,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.2,JM Bairstow,DA Warner,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.3,DA Warner,JM Bairstow,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.4,JM Bairstow,DA Warner,SS Cottrell,0,1,1,legbyes,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.5,DA Warner,JM Bairstow,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,14.6,JM Bairstow,DA Warner,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.1,DA Warner,JM Bairstow,Ravi Bishnoi,0,0,0,NA,1,caught,DA Warner,GJ Maxwell,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.2,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.3,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.4,JM Bairstow,Abdul Samad,Ravi Bishnoi,0,0,0,NA,1,lbw,JM Bairstow,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.5,MK Pandey,Abdul Samad,Ravi Bishnoi,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,15.6,Abdul Samad,MK Pandey,Ravi Bishnoi,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.1,MK Pandey,Abdul Samad,Arshdeep Singh,0,0,0,NA,1,caught and bowled,MK Pandey,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.2,KS Williamson,Abdul Samad,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.3,KS Williamson,Abdul Samad,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.4,KS Williamson,Abdul Samad,Arshdeep Singh,3,0,3,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.5,Abdul Samad,KS Williamson,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,16.6,Abdul Samad,KS Williamson,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.1,Abdul Samad,KS Williamson,Ravi Bishnoi,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.2,Abdul Samad,KS Williamson,Ravi Bishnoi,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.3,KS Williamson,Abdul Samad,Ravi Bishnoi,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.4,Abdul Samad,KS Williamson,Ravi Bishnoi,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.5,Abdul Samad,KS Williamson,Ravi Bishnoi,0,0,0,NA,1,caught,Abdul Samad,Arshdeep Singh,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,17.6,KS Williamson,PK Garg,Ravi Bishnoi,2,0,2,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.1,PK Garg,KS Williamson,Arshdeep Singh,0,0,0,NA,1,caught,PK Garg,N Pooran,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.2,KS Williamson,Abhishek Sharma,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.3,Abhishek Sharma,KS Williamson,Arshdeep Singh,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.4,Abhishek Sharma,KS Williamson,Arshdeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.5,Abhishek Sharma,KS Williamson,Arshdeep Singh,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,18.6,Abhishek Sharma,KS Williamson,Arshdeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.1,Abhishek Sharma,KS Williamson,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.2,KS Williamson,Abhishek Sharma,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.3,KS Williamson,Abhishek Sharma,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.4,KS Williamson,Abhishek Sharma,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.5,Abhishek Sharma,KS Williamson,Mohammed Shami,0,0,0,NA,1,caught,Abhishek Sharma,GJ Maxwell,1
+1216542,1st innings,Sunrisers Hyderabad,Kings XI Punjab,19.6,KS Williamson,Rashid Khan,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.1,KL Rahul,MA Agarwal,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.2,MA Agarwal,KL Rahul,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.3,MA Agarwal,KL Rahul,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.4,MA Agarwal,KL Rahul,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.5,MA Agarwal,KL Rahul,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,0.6,MA Agarwal,KL Rahul,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.1,KL Rahul,MA Agarwal,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.2,KL Rahul,MA Agarwal,KK Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.3,MA Agarwal,KL Rahul,KK Ahmed,1,0,1,NA,1,run out,MA Agarwal,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.4,KL Rahul,P Simran Singh,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.5,KL Rahul,P Simran Singh,KK Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,1.6,KL Rahul,P Simran Singh,KK Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.1,KL Rahul,P Simran Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.2,P Simran Singh,KL Rahul,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.3,P Simran Singh,KL Rahul,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.4,KL Rahul,P Simran Singh,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.5,KL Rahul,P Simran Singh,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,2.6,KL Rahul,P Simran Singh,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.1,P Simran Singh,KL Rahul,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.2,P Simran Singh,KL Rahul,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.3,KL Rahul,P Simran Singh,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.4,P Simran Singh,KL Rahul,T Natarajan,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.5,P Simran Singh,KL Rahul,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,3.6,KL Rahul,P Simran Singh,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.1,P Simran Singh,KL Rahul,KK Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.2,P Simran Singh,KL Rahul,KK Ahmed,0,0,0,NA,1,caught,P Simran Singh,PK Garg,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.3,N Pooran,KL Rahul,KK Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.4,N Pooran,KL Rahul,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.5,N Pooran,KL Rahul,KK Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,4.6,N Pooran,KL Rahul,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.1,KL Rahul,N Pooran,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.2,KL Rahul,N Pooran,T Natarajan,0,1,1,legbyes,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.3,N Pooran,KL Rahul,T Natarajan,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.4,N Pooran,KL Rahul,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.5,N Pooran,KL Rahul,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,5.6,KL Rahul,N Pooran,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.1,N Pooran,KL Rahul,Abhishek Sharma,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.2,N Pooran,KL Rahul,Abhishek Sharma,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.3,N Pooran,KL Rahul,Abhishek Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.4,KL Rahul,N Pooran,Abhishek Sharma,0,0,0,NA,1,caught,KL Rahul,KS Williamson,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.5,GJ Maxwell,N Pooran,Abhishek Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,6.6,N Pooran,GJ Maxwell,Abhishek Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.1,GJ Maxwell,N Pooran,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.2,N Pooran,GJ Maxwell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.3,N Pooran,GJ Maxwell,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.4,GJ Maxwell,N Pooran,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.5,GJ Maxwell,N Pooran,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,7.6,GJ Maxwell,N Pooran,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.1,N Pooran,GJ Maxwell,Abdul Samad,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.2,N Pooran,GJ Maxwell,Abdul Samad,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.3,N Pooran,GJ Maxwell,Abdul Samad,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.4,N Pooran,GJ Maxwell,Abdul Samad,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.5,N Pooran,GJ Maxwell,Abdul Samad,6,0,6,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,8.6,N Pooran,GJ Maxwell,Abdul Samad,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.1,GJ Maxwell,N Pooran,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.2,N Pooran,GJ Maxwell,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.3,GJ Maxwell,N Pooran,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.4,N Pooran,GJ Maxwell,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.5,GJ Maxwell,N Pooran,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,9.6,GJ Maxwell,N Pooran,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.1,GJ Maxwell,N Pooran,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.2,N Pooran,GJ Maxwell,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.3,GJ Maxwell,N Pooran,T Natarajan,0,1,1,wides,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.4,GJ Maxwell,N Pooran,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.5,N Pooran,GJ Maxwell,T Natarajan,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.6,N Pooran,GJ Maxwell,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,10.7,GJ Maxwell,N Pooran,T Natarajan,0,0,0,NA,1,run out,GJ Maxwell,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.1,Mandeep Singh,N Pooran,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.2,N Pooran,Mandeep Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.3,Mandeep Singh,N Pooran,Sandeep Sharma,0,1,1,wides,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.4,Mandeep Singh,N Pooran,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.5,Mandeep Singh,N Pooran,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.6,N Pooran,Mandeep Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,11.7,Mandeep Singh,N Pooran,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.1,N Pooran,Mandeep Singh,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.2,Mandeep Singh,N Pooran,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.3,Mandeep Singh,N Pooran,Rashid Khan,0,0,0,NA,1,bowled,Mandeep Singh,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.4,Mujeeb Ur Rahman,N Pooran,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.5,N Pooran,Mujeeb Ur Rahman,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,12.6,Mujeeb Ur Rahman,N Pooran,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.1,N Pooran,Mujeeb Ur Rahman,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.2,N Pooran,Mujeeb Ur Rahman,KK Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.3,N Pooran,Mujeeb Ur Rahman,KK Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.4,N Pooran,Mujeeb Ur Rahman,KK Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.5,Mujeeb Ur Rahman,N Pooran,KK Ahmed,0,0,0,NA,1,caught,Mujeeb Ur Rahman,JM Bairstow,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,13.6,Ravi Bishnoi,N Pooran,KK Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.1,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.2,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.3,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.4,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.5,N Pooran,Ravi Bishnoi,Rashid Khan,0,0,0,NA,1,caught,N Pooran,T Natarajan,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,14.6,Mohammed Shami,Ravi Bishnoi,Rashid Khan,0,0,0,NA,1,lbw,Mohammed Shami,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.1,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.2,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.3,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.4,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.5,Ravi Bishnoi,SS Cottrell,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,15.6,SS Cottrell,Ravi Bishnoi,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,16.1,Ravi Bishnoi,SS Cottrell,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,16.2,SS Cottrell,Ravi Bishnoi,T Natarajan,0,0,0,NA,1,bowled,SS Cottrell,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,16.3,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,16.4,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216542,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,16.5,Arshdeep Singh,Ravi Bishnoi,T Natarajan,0,0,0,NA,1,caught,Arshdeep Singh,DA Warner,0

@@ -1,0 +1,239 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.1,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.2,PA Patel,ML Hayden,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.3,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.4,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.5,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,0.6,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.1,ML Hayden,PA Patel,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.2,PA Patel,ML Hayden,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.3,PA Patel,ML Hayden,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.4,PA Patel,ML Hayden,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.5,PA Patel,ML Hayden,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,1.6,PA Patel,ML Hayden,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.1,ML Hayden,PA Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.2,PA Patel,ML Hayden,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.3,ML Hayden,PA Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.4,PA Patel,ML Hayden,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.5,PA Patel,ML Hayden,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,2.6,PA Patel,ML Hayden,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.1,ML Hayden,PA Patel,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.2,ML Hayden,PA Patel,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.3,ML Hayden,PA Patel,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.4,PA Patel,ML Hayden,JH Kallis,0,1,1,legbyes,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.5,ML Hayden,PA Patel,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,3.6,ML Hayden,PA Patel,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.1,ML Hayden,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.2,PA Patel,ML Hayden,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.3,ML Hayden,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.4,PA Patel,ML Hayden,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.5,PA Patel,ML Hayden,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,4.6,PA Patel,ML Hayden,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.1,ML Hayden,PA Patel,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.2,ML Hayden,PA Patel,A Kumble,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.3,ML Hayden,PA Patel,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.4,ML Hayden,PA Patel,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.5,PA Patel,ML Hayden,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,5.6,ML Hayden,PA Patel,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.1,PA Patel,ML Hayden,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.2,PA Patel,ML Hayden,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.3,ML Hayden,PA Patel,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.4,ML Hayden,PA Patel,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.5,ML Hayden,PA Patel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,6.6,ML Hayden,PA Patel,R Vinay Kumar,0,0,0,NA,1,caught,ML Hayden,MK Pandey,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.1,MS Dhoni,PA Patel,RE van der Merwe,3,0,3,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.2,PA Patel,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.3,MS Dhoni,PA Patel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.4,PA Patel,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.5,MS Dhoni,PA Patel,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,7.6,MS Dhoni,PA Patel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.1,MS Dhoni,PA Patel,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.2,MS Dhoni,PA Patel,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.3,PA Patel,MS Dhoni,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.4,PA Patel,MS Dhoni,JH Kallis,0,0,0,NA,1,lbw,PA Patel,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.5,SK Raina,MS Dhoni,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,8.6,SK Raina,MS Dhoni,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.1,SK Raina,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.2,MS Dhoni,SK Raina,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.3,MS Dhoni,SK Raina,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.4,SK Raina,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.5,MS Dhoni,SK Raina,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,9.6,SK Raina,MS Dhoni,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.1,MS Dhoni,SK Raina,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.2,MS Dhoni,SK Raina,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.3,SK Raina,MS Dhoni,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.4,SK Raina,MS Dhoni,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.5,SK Raina,MS Dhoni,JH Kallis,0,1,1,wides,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.6,SK Raina,MS Dhoni,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,10.7,MS Dhoni,SK Raina,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.1,SK Raina,MS Dhoni,A Kumble,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.2,SK Raina,MS Dhoni,A Kumble,0,1,1,legbyes,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.3,MS Dhoni,SK Raina,A Kumble,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.4,MS Dhoni,SK Raina,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.5,MS Dhoni,SK Raina,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,11.6,SK Raina,MS Dhoni,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.1,SK Raina,MS Dhoni,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.2,SK Raina,MS Dhoni,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.3,SK Raina,MS Dhoni,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.4,SK Raina,MS Dhoni,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.5,SK Raina,MS Dhoni,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,12.6,MS Dhoni,SK Raina,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.1,MS Dhoni,SK Raina,A Kumble,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.2,MS Dhoni,SK Raina,A Kumble,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.3,MS Dhoni,SK Raina,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.4,SK Raina,MS Dhoni,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.5,MS Dhoni,SK Raina,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,13.6,SK Raina,MS Dhoni,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.1,SK Raina,MS Dhoni,P Kumar,0,0,0,NA,1,caught,SK Raina,MV Boucher,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.2,MS Dhoni,JA Morkel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.3,MS Dhoni,JA Morkel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.4,JA Morkel,MS Dhoni,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.5,JA Morkel,MS Dhoni,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,14.6,MS Dhoni,JA Morkel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.1,MS Dhoni,JA Morkel,RE van der Merwe,2,0,2,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.2,MS Dhoni,JA Morkel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.3,JA Morkel,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.4,MS Dhoni,JA Morkel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.5,JA Morkel,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,15.6,MS Dhoni,JA Morkel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.1,MS Dhoni,JA Morkel,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.2,JA Morkel,MS Dhoni,A Kumble,6,0,6,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.3,JA Morkel,MS Dhoni,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.4,JA Morkel,MS Dhoni,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.5,MS Dhoni,JA Morkel,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,16.6,JA Morkel,MS Dhoni,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.1,JA Morkel,MS Dhoni,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.2,MS Dhoni,JA Morkel,RE van der Merwe,0,0,0,NA,1,caught,MS Dhoni,R Vinay Kumar,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.3,JA Morkel,JDP Oram,RE van der Merwe,0,1,1,wides,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.4,JA Morkel,JDP Oram,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.5,JDP Oram,JA Morkel,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.6,JDP Oram,JA Morkel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.7,JA Morkel,JDP Oram,RE van der Merwe,0,1,1,wides,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,17.8,JA Morkel,JDP Oram,RE van der Merwe,0,1,1,legbyes,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.1,JA Morkel,JDP Oram,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.2,JDP Oram,JA Morkel,P Kumar,6,0,6,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.3,JDP Oram,JA Morkel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.4,JA Morkel,JDP Oram,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.5,JDP Oram,JA Morkel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,18.6,JA Morkel,JDP Oram,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.1,JDP Oram,JA Morkel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.2,JDP Oram,JA Morkel,R Vinay Kumar,0,0,0,NA,1,caught,JDP Oram,RV Uthappa,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.3,JA Morkel,S Badrinath,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.4,JA Morkel,S Badrinath,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.5,S Badrinath,JA Morkel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+392238,1st innings,Chennai Super Kings,Royal Challengers Bangalore,19.6,JA Morkel,S Badrinath,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.1,JH Kallis,MK Pandey,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.2,JH Kallis,MK Pandey,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.3,JH Kallis,MK Pandey,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.4,MK Pandey,JH Kallis,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.5,MK Pandey,JH Kallis,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,0.6,MK Pandey,JH Kallis,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.1,JH Kallis,MK Pandey,MS Gony,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.2,JH Kallis,MK Pandey,MS Gony,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.3,JH Kallis,MK Pandey,MS Gony,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.4,JH Kallis,MK Pandey,MS Gony,0,0,0,NA,1,caught,JH Kallis,PA Patel,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.5,RE van der Merwe,MK Pandey,MS Gony,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,1.6,RE van der Merwe,MK Pandey,MS Gony,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.1,MK Pandey,RE van der Merwe,JA Morkel,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.2,MK Pandey,RE van der Merwe,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.3,RE van der Merwe,MK Pandey,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.4,RE van der Merwe,MK Pandey,JA Morkel,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.5,RE van der Merwe,MK Pandey,JA Morkel,0,0,0,NA,1,bowled,RE van der Merwe,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,2.6,R Dravid,MK Pandey,JA Morkel,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.1,MK Pandey,R Dravid,MS Gony,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.2,MK Pandey,R Dravid,MS Gony,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.3,MK Pandey,R Dravid,MS Gony,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.4,MK Pandey,R Dravid,MS Gony,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.5,MK Pandey,R Dravid,MS Gony,1,1,2,noballs,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.6,R Dravid,MK Pandey,MS Gony,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,3.7,R Dravid,MK Pandey,MS Gony,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.1,R Dravid,MK Pandey,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.2,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.3,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.4,R Dravid,MK Pandey,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.5,R Dravid,MK Pandey,SB Jakati,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,4.6,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.1,MK Pandey,R Dravid,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.2,MK Pandey,R Dravid,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.3,MK Pandey,R Dravid,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.4,R Dravid,MK Pandey,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.5,R Dravid,MK Pandey,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,5.6,MK Pandey,R Dravid,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.1,R Dravid,MK Pandey,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.2,MK Pandey,R Dravid,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.3,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.4,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.5,R Dravid,MK Pandey,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,6.6,MK Pandey,R Dravid,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.1,MK Pandey,R Dravid,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.2,MK Pandey,R Dravid,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.3,R Dravid,MK Pandey,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.4,R Dravid,MK Pandey,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.5,MK Pandey,R Dravid,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,7.6,MK Pandey,R Dravid,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.1,MK Pandey,R Dravid,SB Jakati,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.2,MK Pandey,R Dravid,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.3,MK Pandey,R Dravid,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.4,MK Pandey,R Dravid,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.5,R Dravid,MK Pandey,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,8.6,R Dravid,MK Pandey,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.1,MK Pandey,R Dravid,M Muralitharan,0,1,1,legbyes,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.2,R Dravid,MK Pandey,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.3,R Dravid,MK Pandey,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.4,R Dravid,MK Pandey,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.5,MK Pandey,R Dravid,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,9.6,R Dravid,MK Pandey,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.1,MK Pandey,R Dravid,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.2,MK Pandey,R Dravid,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.3,MK Pandey,R Dravid,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.4,MK Pandey,R Dravid,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.5,R Dravid,MK Pandey,L Balaji,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,10.6,R Dravid,MK Pandey,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.1,R Dravid,MK Pandey,M Muralitharan,0,1,1,legbyes,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.2,MK Pandey,R Dravid,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.3,R Dravid,MK Pandey,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.4,MK Pandey,R Dravid,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.5,R Dravid,MK Pandey,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,11.6,R Dravid,MK Pandey,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.1,MK Pandey,R Dravid,SB Jakati,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.2,MK Pandey,R Dravid,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.3,MK Pandey,R Dravid,SB Jakati,0,0,0,NA,1,bowled,MK Pandey,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.4,V Kohli,R Dravid,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.5,V Kohli,R Dravid,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,12.6,R Dravid,V Kohli,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.1,R Dravid,V Kohli,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.2,R Dravid,V Kohli,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.3,V Kohli,R Dravid,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.4,R Dravid,V Kohli,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.5,V Kohli,R Dravid,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,13.6,R Dravid,V Kohli,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.1,V Kohli,R Dravid,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.2,R Dravid,V Kohli,L Balaji,4,0,4,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.3,R Dravid,V Kohli,L Balaji,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.4,R Dravid,V Kohli,L Balaji,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.5,R Dravid,V Kohli,L Balaji,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,14.6,V Kohli,R Dravid,L Balaji,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.1,R Dravid,V Kohli,M Muralitharan,0,0,0,NA,1,lbw,R Dravid,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.2,LRPL Taylor,V Kohli,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.3,LRPL Taylor,V Kohli,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.4,LRPL Taylor,V Kohli,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.5,LRPL Taylor,V Kohli,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,15.6,LRPL Taylor,V Kohli,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.1,V Kohli,LRPL Taylor,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.2,V Kohli,LRPL Taylor,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.3,LRPL Taylor,V Kohli,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.4,LRPL Taylor,V Kohli,SK Raina,0,1,1,legbyes,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.5,V Kohli,LRPL Taylor,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,16.6,V Kohli,LRPL Taylor,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.1,V Kohli,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.2,LRPL Taylor,V Kohli,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.3,LRPL Taylor,V Kohli,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.4,V Kohli,LRPL Taylor,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.5,V Kohli,LRPL Taylor,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,17.6,V Kohli,LRPL Taylor,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.1,LRPL Taylor,V Kohli,JDP Oram,6,1,7,noballs,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.2,LRPL Taylor,V Kohli,JDP Oram,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.3,V Kohli,LRPL Taylor,JDP Oram,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.4,LRPL Taylor,V Kohli,JDP Oram,1,0,1,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.5,V Kohli,LRPL Taylor,JDP Oram,0,0,0,NA,0,NA,NA,NA,1
+392238,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,18.6,V Kohli,LRPL Taylor,JDP Oram,4,0,4,NA,0,NA,NA,NA,1

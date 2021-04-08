@@ -1,0 +1,230 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.1,DR Smith,BB McCullum,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.2,DR Smith,BB McCullum,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.3,DR Smith,BB McCullum,S Nadeem,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.4,DR Smith,BB McCullum,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.5,DR Smith,BB McCullum,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,0.6,BB McCullum,DR Smith,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.1,DR Smith,BB McCullum,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.2,DR Smith,BB McCullum,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.3,DR Smith,BB McCullum,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.4,DR Smith,BB McCullum,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.5,DR Smith,BB McCullum,CH Morris,0,1,1,legbyes,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,1.6,BB McCullum,DR Smith,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.1,DR Smith,BB McCullum,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.2,BB McCullum,DR Smith,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.3,DR Smith,BB McCullum,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.4,DR Smith,BB McCullum,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.5,BB McCullum,DR Smith,Z Khan,0,0,0,NA,1,bowled,BB McCullum,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,2.6,AJ Finch,DR Smith,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.1,DR Smith,AJ Finch,S Nadeem,0,0,0,NA,1,caught,DR Smith,CH Morris,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.2,AJ Finch,SK Raina,S Nadeem,0,1,1,wides,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.3,AJ Finch,SK Raina,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.4,SK Raina,AJ Finch,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.5,AJ Finch,SK Raina,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.6,AJ Finch,SK Raina,S Nadeem,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,3.7,AJ Finch,SK Raina,S Nadeem,0,0,0,NA,1,caught,AJ Finch,RR Pant,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.1,SK Raina,KD Karthik,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.2,SK Raina,KD Karthik,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.3,SK Raina,KD Karthik,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.4,KD Karthik,SK Raina,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.5,KD Karthik,SK Raina,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,4.6,KD Karthik,SK Raina,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.1,SK Raina,KD Karthik,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.2,SK Raina,KD Karthik,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.3,SK Raina,KD Karthik,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.4,KD Karthik,SK Raina,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.5,KD Karthik,SK Raina,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,5.6,KD Karthik,SK Raina,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.1,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.2,SK Raina,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.3,KD Karthik,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.4,KD Karthik,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.5,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,6.6,SK Raina,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.1,SK Raina,KD Karthik,CH Morris,0,1,1,wides,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.2,SK Raina,KD Karthik,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.3,KD Karthik,SK Raina,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.4,KD Karthik,SK Raina,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.5,SK Raina,KD Karthik,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.6,SK Raina,KD Karthik,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,7.7,KD Karthik,SK Raina,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.1,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.2,SK Raina,KD Karthik,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.3,SK Raina,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.4,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.5,SK Raina,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,8.6,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.1,KD Karthik,SK Raina,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.2,KD Karthik,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.3,SK Raina,KD Karthik,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.4,SK Raina,KD Karthik,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.5,SK Raina,KD Karthik,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,9.6,KD Karthik,SK Raina,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.1,SK Raina,KD Karthik,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.2,KD Karthik,SK Raina,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.3,KD Karthik,SK Raina,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.4,KD Karthik,SK Raina,A Mishra,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.5,KD Karthik,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,10.6,SK Raina,KD Karthik,A Mishra,0,0,0,NA,1,stumped,SK Raina,Q de Kock,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.1,KD Karthik,RA Jadeja,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.2,KD Karthik,RA Jadeja,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.3,KD Karthik,RA Jadeja,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.4,KD Karthik,RA Jadeja,Z Khan,3,0,3,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.5,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,11.6,RA Jadeja,KD Karthik,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.1,RA Jadeja,KD Karthik,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.2,KD Karthik,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.3,KD Karthik,RA Jadeja,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.4,KD Karthik,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.5,KD Karthik,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,12.6,KD Karthik,RA Jadeja,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.1,KD Karthik,RA Jadeja,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.2,KD Karthik,RA Jadeja,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.3,KD Karthik,RA Jadeja,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.4,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.5,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,13.6,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.1,KD Karthik,RA Jadeja,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.2,KD Karthik,RA Jadeja,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.3,RA Jadeja,KD Karthik,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.4,RA Jadeja,KD Karthik,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.5,RA Jadeja,KD Karthik,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,14.6,RA Jadeja,KD Karthik,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.1,KD Karthik,RA Jadeja,S Nadeem,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.2,KD Karthik,RA Jadeja,S Nadeem,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.3,KD Karthik,RA Jadeja,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.4,RA Jadeja,KD Karthik,S Nadeem,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.5,RA Jadeja,KD Karthik,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,15.6,RA Jadeja,KD Karthik,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.1,RA Jadeja,KD Karthik,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.2,RA Jadeja,KD Karthik,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.3,RA Jadeja,KD Karthik,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.4,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.5,RA Jadeja,KD Karthik,Z Khan,0,1,1,wides,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.6,RA Jadeja,KD Karthik,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,16.7,RA Jadeja,KD Karthik,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.1,KD Karthik,RA Jadeja,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.2,KD Karthik,RA Jadeja,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.3,KD Karthik,RA Jadeja,Mohammed Shami,0,0,0,NA,1,bowled,KD Karthik,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.4,JP Faulkner,RA Jadeja,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.5,RA Jadeja,JP Faulkner,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,17.6,JP Faulkner,RA Jadeja,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.1,JP Faulkner,RA Jadeja,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.2,JP Faulkner,RA Jadeja,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.3,RA Jadeja,JP Faulkner,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.4,RA Jadeja,JP Faulkner,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.5,JP Faulkner,RA Jadeja,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,18.6,JP Faulkner,RA Jadeja,CH Morris,0,0,0,NA,1,bowled,JP Faulkner,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.1,RA Jadeja,Ishan Kishan,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.2,RA Jadeja,Ishan Kishan,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.3,Ishan Kishan,RA Jadeja,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.4,RA Jadeja,Ishan Kishan,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.5,Ishan Kishan,RA Jadeja,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+980961,1st innings,Gujarat Lions,Delhi Daredevils,19.6,RA Jadeja,Ishan Kishan,Mohammed Shami,1,0,1,NA,1,run out,Ishan Kishan,SW Billings,0
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.1,Q de Kock,RR Pant,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.2,Q de Kock,RR Pant,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.3,Q de Kock,RR Pant,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.4,Q de Kock,RR Pant,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.5,RR Pant,Q de Kock,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,0.6,Q de Kock,RR Pant,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.1,RR Pant,Q de Kock,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.2,RR Pant,Q de Kock,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.3,RR Pant,Q de Kock,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.4,RR Pant,Q de Kock,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.5,RR Pant,Q de Kock,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,1.6,RR Pant,Q de Kock,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.1,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.2,RR Pant,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.3,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.4,RR Pant,Q de Kock,SK Raina,0,1,1,legbyes,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.5,Q de Kock,RR Pant,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,2.6,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.1,Q de Kock,RR Pant,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.2,Q de Kock,RR Pant,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.3,Q de Kock,RR Pant,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.4,Q de Kock,RR Pant,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.5,Q de Kock,RR Pant,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.6,RR Pant,Q de Kock,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,3.7,Q de Kock,RR Pant,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.1,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.2,RR Pant,Q de Kock,SK Raina,3,0,3,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.3,Q de Kock,RR Pant,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.4,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.5,RR Pant,Q de Kock,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,4.6,RR Pant,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.1,RR Pant,Q de Kock,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.2,Q de Kock,RR Pant,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.3,Q de Kock,RR Pant,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.4,Q de Kock,RR Pant,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.5,RR Pant,Q de Kock,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,5.6,RR Pant,Q de Kock,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.1,Q de Kock,RR Pant,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.2,Q de Kock,RR Pant,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.3,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.4,RR Pant,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.5,Q de Kock,RR Pant,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,6.6,Q de Kock,RR Pant,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.1,RR Pant,Q de Kock,S Kaushik,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.2,RR Pant,Q de Kock,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.3,Q de Kock,RR Pant,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.4,Q de Kock,RR Pant,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.5,RR Pant,Q de Kock,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,7.6,RR Pant,Q de Kock,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.1,Q de Kock,RR Pant,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.2,RR Pant,Q de Kock,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.3,RR Pant,Q de Kock,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.4,RR Pant,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.5,RR Pant,Q de Kock,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,8.6,RR Pant,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.1,RR Pant,Q de Kock,S Kaushik,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.2,RR Pant,Q de Kock,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.3,RR Pant,Q de Kock,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.4,Q de Kock,RR Pant,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.5,RR Pant,Q de Kock,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,9.6,RR Pant,Q de Kock,S Kaushik,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.1,Q de Kock,RR Pant,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.2,Q de Kock,RR Pant,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.3,Q de Kock,RR Pant,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.4,RR Pant,Q de Kock,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.5,RR Pant,Q de Kock,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,10.6,Q de Kock,RR Pant,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.1,Q de Kock,RR Pant,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.2,RR Pant,Q de Kock,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.3,Q de Kock,RR Pant,JP Faulkner,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.4,Q de Kock,RR Pant,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.5,RR Pant,Q de Kock,JP Faulkner,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,11.6,RR Pant,Q de Kock,JP Faulkner,6,0,6,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.1,Q de Kock,RR Pant,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.2,RR Pant,Q de Kock,DR Smith,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.3,RR Pant,Q de Kock,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.4,Q de Kock,RR Pant,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.5,Q de Kock,RR Pant,DR Smith,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,12.6,Q de Kock,RR Pant,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.1,Q de Kock,RR Pant,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.2,RR Pant,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.3,RR Pant,Q de Kock,RA Jadeja,0,0,0,NA,1,caught,RR Pant,KD Karthik,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.4,SV Samson,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.5,Q de Kock,SV Samson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,13.6,SV Samson,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.1,SV Samson,Q de Kock,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.2,Q de Kock,SV Samson,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.3,Q de Kock,SV Samson,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.4,SV Samson,Q de Kock,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.5,Q de Kock,SV Samson,S Kaushik,0,0,0,NA,1,caught,Q de Kock,DR Smith,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,14.6,JP Duminy,SV Samson,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.1,SV Samson,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.2,JP Duminy,SV Samson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.3,SV Samson,JP Duminy,RA Jadeja,0,1,1,noballs,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.4,SV Samson,JP Duminy,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.5,SV Samson,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.6,JP Duminy,SV Samson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,15.7,SV Samson,JP Duminy,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.1,JP Duminy,SV Samson,S Kaushik,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.2,JP Duminy,SV Samson,S Kaushik,4,0,4,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.3,JP Duminy,SV Samson,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.4,SV Samson,JP Duminy,S Kaushik,0,0,0,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.5,SV Samson,JP Duminy,S Kaushik,1,0,1,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,16.6,JP Duminy,SV Samson,S Kaushik,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,17.1,SV Samson,JP Duminy,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+980961,2nd innings,Delhi Daredevils,Gujarat Lions,17.2,SV Samson,JP Duminy,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1

@@ -1,0 +1,248 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.1,BB McCullum,DPMD Jayawardene,RJ Harris,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.2,BB McCullum,DPMD Jayawardene,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.3,DPMD Jayawardene,BB McCullum,RJ Harris,0,2,2,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.4,BB McCullum,DPMD Jayawardene,RJ Harris,0,1,1,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.5,BB McCullum,DPMD Jayawardene,RJ Harris,0,3,3,legbyes,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.6,DPMD Jayawardene,BB McCullum,RJ Harris,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.7,DPMD Jayawardene,BB McCullum,RJ Harris,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,0.8,DPMD Jayawardene,BB McCullum,RJ Harris,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.1,BB McCullum,DPMD Jayawardene,BA Bhatt,0,1,1,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.2,BB McCullum,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.3,BB McCullum,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.4,BB McCullum,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.5,BB McCullum,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.6,DPMD Jayawardene,BB McCullum,BA Bhatt,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,1.7,DPMD Jayawardene,BB McCullum,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.1,BB McCullum,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.2,BB McCullum,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.3,BB McCullum,DPMD Jayawardene,Bipul Sharma,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.4,BB McCullum,DPMD Jayawardene,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.5,DPMD Jayawardene,BB McCullum,Bipul Sharma,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,2.6,DPMD Jayawardene,BB McCullum,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.1,BB McCullum,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.2,DPMD Jayawardene,BB McCullum,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.3,BB McCullum,DPMD Jayawardene,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.4,BB McCullum,DPMD Jayawardene,SJ Srivastava,0,1,1,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.5,BB McCullum,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.6,DPMD Jayawardene,BB McCullum,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,3.7,DPMD Jayawardene,BB McCullum,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.1,DPMD Jayawardene,BB McCullum,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.2,BB McCullum,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.3,BB McCullum,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.4,BB McCullum,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.5,DPMD Jayawardene,BB McCullum,BA Bhatt,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,4.6,DPMD Jayawardene,BB McCullum,BA Bhatt,3,0,3,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.1,DPMD Jayawardene,BB McCullum,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.2,BB McCullum,DPMD Jayawardene,SJ Srivastava,0,5,5,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.3,BB McCullum,DPMD Jayawardene,SJ Srivastava,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.4,BB McCullum,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.5,DPMD Jayawardene,BB McCullum,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.6,DPMD Jayawardene,BB McCullum,SJ Srivastava,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,5.7,DPMD Jayawardene,BB McCullum,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.1,DPMD Jayawardene,BB McCullum,RJ Harris,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.2,DPMD Jayawardene,BB McCullum,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.3,BB McCullum,DPMD Jayawardene,RJ Harris,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.4,BB McCullum,DPMD Jayawardene,RJ Harris,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.5,BB McCullum,DPMD Jayawardene,RJ Harris,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,6.6,BB McCullum,DPMD Jayawardene,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.1,BB McCullum,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.2,DPMD Jayawardene,BB McCullum,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.3,DPMD Jayawardene,BB McCullum,PP Chawla,0,1,1,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.4,DPMD Jayawardene,BB McCullum,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.5,BB McCullum,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.6,DPMD Jayawardene,BB McCullum,PP Chawla,0,5,5,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.7,DPMD Jayawardene,BB McCullum,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,7.8,DPMD Jayawardene,BB McCullum,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.1,DPMD Jayawardene,BB McCullum,Bipul Sharma,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.2,DPMD Jayawardene,BB McCullum,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.3,BB McCullum,DPMD Jayawardene,Bipul Sharma,2,0,2,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.4,BB McCullum,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,1,lbw,BB McCullum,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.5,RA Jadeja,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,8.6,RA Jadeja,DPMD Jayawardene,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.1,RA Jadeja,DPMD Jayawardene,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.2,RA Jadeja,DPMD Jayawardene,PP Chawla,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.3,RA Jadeja,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.4,DPMD Jayawardene,RA Jadeja,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.5,DPMD Jayawardene,RA Jadeja,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,9.6,RA Jadeja,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.1,RA Jadeja,DPMD Jayawardene,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.2,RA Jadeja,DPMD Jayawardene,SJ Srivastava,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.3,RA Jadeja,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.4,DPMD Jayawardene,RA Jadeja,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.5,RA Jadeja,DPMD Jayawardene,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,10.6,RA Jadeja,DPMD Jayawardene,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.1,DPMD Jayawardene,RA Jadeja,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.2,RA Jadeja,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.3,DPMD Jayawardene,RA Jadeja,PP Chawla,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.4,DPMD Jayawardene,RA Jadeja,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.5,RA Jadeja,DPMD Jayawardene,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,11.6,RA Jadeja,DPMD Jayawardene,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.1,DPMD Jayawardene,RA Jadeja,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.2,RA Jadeja,DPMD Jayawardene,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.3,RA Jadeja,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.4,DPMD Jayawardene,RA Jadeja,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.5,RA Jadeja,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,12.6,DPMD Jayawardene,RA Jadeja,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.1,RA Jadeja,DPMD Jayawardene,PP Chawla,0,0,0,NA,1,lbw,RA Jadeja,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.2,BJ Hodge,DPMD Jayawardene,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.3,BJ Hodge,DPMD Jayawardene,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.4,BJ Hodge,DPMD Jayawardene,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.5,DPMD Jayawardene,BJ Hodge,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,13.6,DPMD Jayawardene,BJ Hodge,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.1,DPMD Jayawardene,BJ Hodge,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.2,BJ Hodge,DPMD Jayawardene,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.3,DPMD Jayawardene,BJ Hodge,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.4,BJ Hodge,DPMD Jayawardene,Bipul Sharma,2,0,2,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.5,BJ Hodge,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,1,caught,BJ Hodge,SE Marsh,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,14.6,DPMD Jayawardene,OA Shah,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.1,DPMD Jayawardene,OA Shah,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.2,OA Shah,DPMD Jayawardene,RJ Harris,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.3,OA Shah,DPMD Jayawardene,RJ Harris,2,0,2,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.4,OA Shah,DPMD Jayawardene,RJ Harris,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.5,OA Shah,DPMD Jayawardene,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,15.6,DPMD Jayawardene,OA Shah,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.1,DPMD Jayawardene,OA Shah,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.2,OA Shah,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.3,DPMD Jayawardene,OA Shah,BA Bhatt,0,2,2,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.4,OA Shah,DPMD Jayawardene,BA Bhatt,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.5,OA Shah,DPMD Jayawardene,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.6,DPMD Jayawardene,OA Shah,BA Bhatt,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,16.7,DPMD Jayawardene,OA Shah,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.1,OA Shah,DPMD Jayawardene,Bipul Sharma,0,1,1,wides,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.2,OA Shah,DPMD Jayawardene,Bipul Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.3,DPMD Jayawardene,OA Shah,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.4,OA Shah,DPMD Jayawardene,Bipul Sharma,6,0,6,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.5,OA Shah,DPMD Jayawardene,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.6,OA Shah,DPMD Jayawardene,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,17.7,DPMD Jayawardene,OA Shah,Bipul Sharma,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.1,OA Shah,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,1,run out,OA Shah,DJ Hussey,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.2,PA Patel,DPMD Jayawardene,SJ Srivastava,0,0,0,NA,1,caught,PA Patel,KD Karthik,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.3,DPMD Jayawardene,RV Gomez,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.4,RV Gomez,DPMD Jayawardene,SJ Srivastava,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.5,DPMD Jayawardene,RV Gomez,SJ Srivastava,4,0,4,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,18.6,DPMD Jayawardene,RV Gomez,SJ Srivastava,0,0,0,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.1,RV Gomez,DPMD Jayawardene,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.2,DPMD Jayawardene,RV Gomez,RJ Harris,2,0,2,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.3,DPMD Jayawardene,RV Gomez,RJ Harris,2,0,2,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.4,DPMD Jayawardene,RV Gomez,RJ Harris,1,0,1,NA,0,NA,NA,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.5,RV Gomez,DPMD Jayawardene,RJ Harris,0,0,0,NA,1,lbw,RV Gomez,NA,0
+501254,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,19.6,R Vinay Kumar,DPMD Jayawardene,RJ Harris,1,0,1,NA,1,run out,DPMD Jayawardene,DJ Hussey,0
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.1,AC Gilchrist,PC Valthaty,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.2,AC Gilchrist,PC Valthaty,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.3,AC Gilchrist,PC Valthaty,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.4,AC Gilchrist,PC Valthaty,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.5,AC Gilchrist,PC Valthaty,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.6,AC Gilchrist,PC Valthaty,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.7,AC Gilchrist,PC Valthaty,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,0.8,AC Gilchrist,PC Valthaty,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.1,AC Gilchrist,PC Valthaty,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.2,PC Valthaty,AC Gilchrist,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.3,PC Valthaty,AC Gilchrist,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.4,PC Valthaty,AC Gilchrist,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.5,PC Valthaty,AC Gilchrist,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,1.6,PC Valthaty,AC Gilchrist,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.1,PC Valthaty,AC Gilchrist,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.2,PC Valthaty,AC Gilchrist,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.3,PC Valthaty,AC Gilchrist,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.4,PC Valthaty,AC Gilchrist,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.5,PC Valthaty,AC Gilchrist,RP Singh,0,0,0,NA,1,bowled,PC Valthaty,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,2.6,SE Marsh,AC Gilchrist,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.1,AC Gilchrist,SE Marsh,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.2,AC Gilchrist,SE Marsh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.3,SE Marsh,AC Gilchrist,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.4,AC Gilchrist,SE Marsh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.5,SE Marsh,AC Gilchrist,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.6,SE Marsh,AC Gilchrist,S Sreesanth,0,2,2,wides,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,3.7,AC Gilchrist,SE Marsh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.1,AC Gilchrist,SE Marsh,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.2,AC Gilchrist,SE Marsh,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.3,AC Gilchrist,SE Marsh,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.4,AC Gilchrist,SE Marsh,RP Singh,0,0,0,NA,1,caught,AC Gilchrist,PA Patel,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.5,KD Karthik,SE Marsh,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,4.6,KD Karthik,SE Marsh,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.1,SE Marsh,KD Karthik,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.2,SE Marsh,KD Karthik,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.3,SE Marsh,KD Karthik,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.4,SE Marsh,KD Karthik,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.5,SE Marsh,KD Karthik,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,5.6,KD Karthik,SE Marsh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.1,KD Karthik,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.2,KD Karthik,SE Marsh,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.3,KD Karthik,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.4,KD Karthik,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.5,KD Karthik,SE Marsh,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,6.6,SE Marsh,KD Karthik,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.1,KD Karthik,SE Marsh,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.2,SE Marsh,KD Karthik,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.3,SE Marsh,KD Karthik,BJ Hodge,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.4,SE Marsh,KD Karthik,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.5,KD Karthik,SE Marsh,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,7.6,SE Marsh,KD Karthik,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.1,KD Karthik,SE Marsh,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.2,KD Karthik,SE Marsh,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.3,KD Karthik,SE Marsh,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.4,SE Marsh,KD Karthik,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.5,SE Marsh,KD Karthik,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,8.6,SE Marsh,KD Karthik,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.1,KD Karthik,SE Marsh,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.2,KD Karthik,SE Marsh,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.3,SE Marsh,KD Karthik,P Parameswaran,0,1,1,wides,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.4,SE Marsh,KD Karthik,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.5,SE Marsh,KD Karthik,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.6,SE Marsh,KD Karthik,P Parameswaran,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,9.7,SE Marsh,KD Karthik,P Parameswaran,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.1,KD Karthik,SE Marsh,RV Gomez,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.2,KD Karthik,SE Marsh,RV Gomez,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.3,KD Karthik,SE Marsh,RV Gomez,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.4,KD Karthik,SE Marsh,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.5,SE Marsh,KD Karthik,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,10.6,KD Karthik,SE Marsh,RV Gomez,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.1,SE Marsh,KD Karthik,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.2,KD Karthik,SE Marsh,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.3,SE Marsh,KD Karthik,BJ Hodge,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.4,SE Marsh,KD Karthik,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.5,KD Karthik,SE Marsh,BJ Hodge,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,11.6,KD Karthik,SE Marsh,BJ Hodge,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.1,SE Marsh,KD Karthik,RA Jadeja,3,0,3,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.2,KD Karthik,SE Marsh,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.3,KD Karthik,SE Marsh,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.4,KD Karthik,SE Marsh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.5,KD Karthik,SE Marsh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,12.6,KD Karthik,SE Marsh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.1,KD Karthik,SE Marsh,P Parameswaran,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.2,KD Karthik,SE Marsh,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.3,SE Marsh,KD Karthik,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.4,SE Marsh,KD Karthik,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.5,KD Karthik,SE Marsh,P Parameswaran,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,13.6,KD Karthik,SE Marsh,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.1,KD Karthik,SE Marsh,RP Singh,0,0,0,NA,1,caught,KD Karthik,DPMD Jayawardene,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.2,DJ Hussey,SE Marsh,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.3,SE Marsh,DJ Hussey,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.4,SE Marsh,DJ Hussey,RP Singh,0,1,1,legbyes,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.5,DJ Hussey,SE Marsh,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,14.6,SE Marsh,DJ Hussey,RP Singh,0,0,0,NA,1,caught and bowled,SE Marsh,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.1,DJ Hussey,Mandeep Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.2,Mandeep Singh,DJ Hussey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.3,DJ Hussey,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.4,DJ Hussey,Mandeep Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.5,Mandeep Singh,DJ Hussey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,15.6,DJ Hussey,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.1,Mandeep Singh,DJ Hussey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.2,DJ Hussey,Mandeep Singh,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.3,DJ Hussey,Mandeep Singh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.4,DJ Hussey,Mandeep Singh,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.5,Mandeep Singh,DJ Hussey,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.6,Mandeep Singh,DJ Hussey,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,16.7,Mandeep Singh,DJ Hussey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.1,Mandeep Singh,DJ Hussey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.2,DJ Hussey,Mandeep Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.3,Mandeep Singh,DJ Hussey,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.4,Mandeep Singh,DJ Hussey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.5,DJ Hussey,Mandeep Singh,RA Jadeja,0,1,1,legbyes,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,17.6,Mandeep Singh,DJ Hussey,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,18.1,DJ Hussey,Mandeep Singh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,18.2,Mandeep Singh,DJ Hussey,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,18.3,DJ Hussey,Mandeep Singh,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,18.4,DJ Hussey,Mandeep Singh,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501254,2nd innings,Kings XI Punjab,Kochi Tuskers Kerala,18.5,DJ Hussey,Mandeep Singh,S Sreesanth,6,0,6,NA,0,NA,NA,NA,1

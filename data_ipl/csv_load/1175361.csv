@@ -1,0 +1,250 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.1,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.2,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.3,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.4,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.5,CA Lynn,SP Narine,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,0.6,SP Narine,CA Lynn,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.1,CA Lynn,SP Narine,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.2,SP Narine,CA Lynn,CV Varun,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.3,SP Narine,CA Lynn,CV Varun,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.4,SP Narine,CA Lynn,CV Varun,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.5,SP Narine,CA Lynn,CV Varun,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,1.6,SP Narine,CA Lynn,CV Varun,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.1,CA Lynn,SP Narine,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.2,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.3,CA Lynn,SP Narine,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.4,CA Lynn,SP Narine,Mohammed Shami,0,0,0,NA,1,caught,CA Lynn,DA Miller,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.5,SP Narine,RV Uthappa,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,2.6,SP Narine,RV Uthappa,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.1,RV Uthappa,SP Narine,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.2,RV Uthappa,SP Narine,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.3,SP Narine,RV Uthappa,GC Viljoen,0,1,1,wides,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.4,SP Narine,RV Uthappa,GC Viljoen,0,0,0,NA,1,caught,SP Narine,KL Rahul,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.5,RV Uthappa,N Rana,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.6,RV Uthappa,N Rana,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,3.7,RV Uthappa,N Rana,GC Viljoen,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.1,N Rana,RV Uthappa,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.2,N Rana,RV Uthappa,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.3,RV Uthappa,N Rana,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.4,RV Uthappa,N Rana,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.5,RV Uthappa,N Rana,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,4.6,N Rana,RV Uthappa,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.1,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.2,N Rana,RV Uthappa,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.3,RV Uthappa,N Rana,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.4,RV Uthappa,N Rana,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.5,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,5.6,N Rana,RV Uthappa,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.1,RV Uthappa,N Rana,CV Varun,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.2,RV Uthappa,N Rana,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.3,RV Uthappa,N Rana,CV Varun,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.4,RV Uthappa,N Rana,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.5,N Rana,RV Uthappa,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,6.6,N Rana,RV Uthappa,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.1,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.2,N Rana,RV Uthappa,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.3,N Rana,RV Uthappa,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.4,N Rana,RV Uthappa,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.5,N Rana,RV Uthappa,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,7.6,N Rana,RV Uthappa,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.1,RV Uthappa,N Rana,AJ Tye,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.2,RV Uthappa,N Rana,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.3,N Rana,RV Uthappa,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.4,N Rana,RV Uthappa,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.5,RV Uthappa,N Rana,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,8.6,N Rana,RV Uthappa,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.1,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.2,N Rana,RV Uthappa,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.3,N Rana,RV Uthappa,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.4,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.5,N Rana,RV Uthappa,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,9.6,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.1,RV Uthappa,N Rana,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.2,RV Uthappa,N Rana,GC Viljoen,0,1,1,legbyes,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.3,N Rana,RV Uthappa,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.4,N Rana,RV Uthappa,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.5,N Rana,RV Uthappa,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,10.6,RV Uthappa,N Rana,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.1,RV Uthappa,N Rana,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.2,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.3,N Rana,RV Uthappa,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.4,N Rana,RV Uthappa,R Ashwin,0,1,1,wides,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.5,N Rana,RV Uthappa,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.6,N Rana,RV Uthappa,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,11.7,RV Uthappa,N Rana,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.1,RV Uthappa,N Rana,Mandeep Singh,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.2,RV Uthappa,N Rana,Mandeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.3,N Rana,RV Uthappa,Mandeep Singh,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.4,N Rana,RV Uthappa,Mandeep Singh,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.5,N Rana,RV Uthappa,Mandeep Singh,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,12.6,RV Uthappa,N Rana,Mandeep Singh,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.1,N Rana,RV Uthappa,GC Viljoen,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.2,N Rana,RV Uthappa,GC Viljoen,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.3,N Rana,RV Uthappa,GC Viljoen,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.4,N Rana,RV Uthappa,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.5,RV Uthappa,N Rana,GC Viljoen,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.6,RV Uthappa,N Rana,GC Viljoen,0,1,1,wides,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,13.7,RV Uthappa,N Rana,GC Viljoen,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.1,N Rana,RV Uthappa,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.2,N Rana,RV Uthappa,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.3,N Rana,RV Uthappa,CV Varun,0,0,0,NA,1,caught,N Rana,MA Agarwal,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.4,RV Uthappa,AD Russell,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.5,RV Uthappa,AD Russell,CV Varun,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,14.6,RV Uthappa,AD Russell,CV Varun,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.1,RV Uthappa,AD Russell,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.2,RV Uthappa,AD Russell,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.3,RV Uthappa,AD Russell,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.4,AD Russell,RV Uthappa,GC Viljoen,0,0,0,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.5,AD Russell,RV Uthappa,GC Viljoen,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,15.6,RV Uthappa,AD Russell,GC Viljoen,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.1,AD Russell,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.2,RV Uthappa,AD Russell,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.3,AD Russell,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.4,RV Uthappa,AD Russell,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.5,RV Uthappa,AD Russell,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.6,AD Russell,RV Uthappa,Mohammed Shami,0,1,1,noballs,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,16.7,AD Russell,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.1,AD Russell,RV Uthappa,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.2,RV Uthappa,AD Russell,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.3,AD Russell,RV Uthappa,AJ Tye,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.4,AD Russell,RV Uthappa,AJ Tye,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.5,AD Russell,RV Uthappa,AJ Tye,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,17.6,AD Russell,RV Uthappa,AJ Tye,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.1,RV Uthappa,AD Russell,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.2,RV Uthappa,AD Russell,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.3,AD Russell,RV Uthappa,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.4,AD Russell,RV Uthappa,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.5,AD Russell,RV Uthappa,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,18.6,AD Russell,RV Uthappa,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.1,RV Uthappa,AD Russell,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.2,AD Russell,RV Uthappa,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.3,RV Uthappa,AD Russell,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.4,AD Russell,RV Uthappa,AJ Tye,0,0,0,NA,1,caught,AD Russell,MA Agarwal,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.5,KD Karthik,RV Uthappa,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1175361,1st innings,Kolkata Knight Riders,Kings XI Punjab,19.6,RV Uthappa,KD Karthik,AJ Tye,4,0,4,NA,0,NA,NA,NA,1
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.1,KL Rahul,CH Gayle,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.2,CH Gayle,KL Rahul,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.3,CH Gayle,KL Rahul,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.4,CH Gayle,KL Rahul,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.5,CH Gayle,KL Rahul,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,0.6,CH Gayle,KL Rahul,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.1,KL Rahul,CH Gayle,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.2,KL Rahul,CH Gayle,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.3,KL Rahul,CH Gayle,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.4,KL Rahul,CH Gayle,LH Ferguson,0,0,0,NA,1,caught,KL Rahul,Kuldeep Yadav,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.5,MA Agarwal,CH Gayle,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,1.6,CH Gayle,MA Agarwal,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.1,MA Agarwal,CH Gayle,M Prasidh Krishna,0,1,1,wides,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.2,MA Agarwal,CH Gayle,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.3,MA Agarwal,CH Gayle,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.4,MA Agarwal,CH Gayle,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.5,MA Agarwal,CH Gayle,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.6,MA Agarwal,CH Gayle,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,2.7,MA Agarwal,CH Gayle,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.1,CH Gayle,MA Agarwal,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.2,CH Gayle,MA Agarwal,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.3,CH Gayle,MA Agarwal,LH Ferguson,0,1,1,wides,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.4,CH Gayle,MA Agarwal,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.5,CH Gayle,MA Agarwal,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.6,CH Gayle,MA Agarwal,LH Ferguson,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,3.7,CH Gayle,MA Agarwal,LH Ferguson,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.1,MA Agarwal,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.2,CH Gayle,MA Agarwal,AD Russell,0,0,0,NA,1,caught,CH Gayle,M Prasidh Krishna,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.3,SN Khan,MA Agarwal,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.4,SN Khan,MA Agarwal,AD Russell,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.5,SN Khan,MA Agarwal,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,4.6,MA Agarwal,SN Khan,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.1,MA Agarwal,SN Khan,M Prasidh Krishna,5,0,5,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.2,SN Khan,MA Agarwal,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.3,SN Khan,MA Agarwal,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.4,SN Khan,MA Agarwal,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.5,MA Agarwal,SN Khan,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,5.6,SN Khan,MA Agarwal,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.1,SN Khan,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.2,SN Khan,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.3,MA Agarwal,SN Khan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.4,SN Khan,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.5,SN Khan,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,6.6,MA Agarwal,SN Khan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.1,MA Agarwal,SN Khan,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.2,SN Khan,MA Agarwal,AD Russell,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.3,SN Khan,MA Agarwal,AD Russell,0,0,0,NA,1,caught,SN Khan,KD Karthik,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.4,MA Agarwal,DA Miller,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.5,MA Agarwal,DA Miller,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,7.6,DA Miller,MA Agarwal,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.1,MA Agarwal,DA Miller,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.2,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.3,MA Agarwal,DA Miller,Kuldeep Yadav,0,1,1,wides,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.4,MA Agarwal,DA Miller,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.5,DA Miller,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.6,DA Miller,MA Agarwal,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,8.7,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.1,DA Miller,MA Agarwal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.2,DA Miller,MA Agarwal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.3,DA Miller,MA Agarwal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.4,MA Agarwal,DA Miller,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.5,DA Miller,MA Agarwal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,9.6,MA Agarwal,DA Miller,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.1,DA Miller,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.2,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.3,MA Agarwal,DA Miller,Kuldeep Yadav,0,1,1,wides,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.4,MA Agarwal,DA Miller,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.5,DA Miller,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.6,DA Miller,MA Agarwal,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,10.7,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.1,DA Miller,MA Agarwal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.2,DA Miller,MA Agarwal,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.3,DA Miller,MA Agarwal,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.4,DA Miller,MA Agarwal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.5,MA Agarwal,DA Miller,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,11.6,MA Agarwal,DA Miller,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.1,DA Miller,MA Agarwal,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.2,MA Agarwal,DA Miller,PP Chawla,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.3,MA Agarwal,DA Miller,PP Chawla,0,1,1,legbyes,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.4,DA Miller,MA Agarwal,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.5,DA Miller,MA Agarwal,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,12.6,DA Miller,MA Agarwal,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.1,MA Agarwal,DA Miller,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.2,MA Agarwal,DA Miller,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.3,MA Agarwal,DA Miller,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.4,MA Agarwal,DA Miller,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.5,MA Agarwal,DA Miller,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,13.6,MA Agarwal,DA Miller,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.1,DA Miller,MA Agarwal,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.2,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.3,MA Agarwal,DA Miller,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.4,MA Agarwal,DA Miller,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.5,DA Miller,MA Agarwal,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,14.6,DA Miller,MA Agarwal,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.1,DA Miller,MA Agarwal,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.2,MA Agarwal,DA Miller,PP Chawla,0,0,0,NA,1,bowled,MA Agarwal,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.3,Mandeep Singh,DA Miller,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.4,DA Miller,Mandeep Singh,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.5,Mandeep Singh,DA Miller,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,15.6,DA Miller,Mandeep Singh,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.1,Mandeep Singh,DA Miller,LH Ferguson,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.2,Mandeep Singh,DA Miller,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.3,DA Miller,Mandeep Singh,LH Ferguson,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.4,DA Miller,Mandeep Singh,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.5,Mandeep Singh,DA Miller,LH Ferguson,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,16.6,Mandeep Singh,DA Miller,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.1,Mandeep Singh,DA Miller,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.2,Mandeep Singh,DA Miller,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.3,DA Miller,Mandeep Singh,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.4,DA Miller,Mandeep Singh,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.5,DA Miller,Mandeep Singh,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,17.6,Mandeep Singh,DA Miller,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.1,DA Miller,Mandeep Singh,LH Ferguson,0,1,1,wides,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.2,DA Miller,Mandeep Singh,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.3,Mandeep Singh,DA Miller,LH Ferguson,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.4,Mandeep Singh,DA Miller,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.5,DA Miller,Mandeep Singh,LH Ferguson,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.6,DA Miller,Mandeep Singh,LH Ferguson,6,0,6,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,18.7,DA Miller,Mandeep Singh,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.1,Mandeep Singh,DA Miller,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.2,Mandeep Singh,DA Miller,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.3,Mandeep Singh,DA Miller,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.4,Mandeep Singh,DA Miller,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.5,DA Miller,Mandeep Singh,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+1175361,2nd innings,Kings XI Punjab,Kolkata Knight Riders,19.6,DA Miller,Mandeep Singh,PP Chawla,0,0,0,NA,0,NA,NA,NA,0

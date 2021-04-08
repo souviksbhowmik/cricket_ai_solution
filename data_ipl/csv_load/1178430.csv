@@ -1,0 +1,235 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.1,F du Plessis,SR Watson,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.2,SR Watson,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.3,SR Watson,F du Plessis,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.4,F du Plessis,SR Watson,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.5,SR Watson,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,0.6,SR Watson,F du Plessis,Harpreet Brar,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.1,F du Plessis,SR Watson,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.2,F du Plessis,SR Watson,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.3,SR Watson,F du Plessis,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.4,SR Watson,F du Plessis,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.5,SR Watson,F du Plessis,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,1.6,F du Plessis,SR Watson,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.1,F du Plessis,SR Watson,SM Curran,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.2,F du Plessis,SR Watson,SM Curran,2,0,2,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.3,F du Plessis,SR Watson,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.4,SR Watson,F du Plessis,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.5,F du Plessis,SR Watson,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,2.6,SR Watson,F du Plessis,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.1,F du Plessis,SR Watson,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.2,F du Plessis,SR Watson,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.3,SR Watson,F du Plessis,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.4,F du Plessis,SR Watson,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.5,F du Plessis,SR Watson,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,3.6,F du Plessis,SR Watson,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.1,SR Watson,F du Plessis,SM Curran,0,1,1,wides,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.2,SR Watson,F du Plessis,SM Curran,0,0,0,NA,1,bowled,SR Watson,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.3,SK Raina,F du Plessis,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.4,SK Raina,F du Plessis,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.5,F du Plessis,SK Raina,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.6,F du Plessis,SK Raina,SM Curran,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,4.7,F du Plessis,SK Raina,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.1,F du Plessis,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.2,F du Plessis,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.3,SK Raina,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.4,SK Raina,F du Plessis,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.5,SK Raina,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,5.6,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.1,SK Raina,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.2,SK Raina,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.3,SK Raina,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.4,SK Raina,F du Plessis,Harpreet Brar,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.5,SK Raina,F du Plessis,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,6.6,F du Plessis,SK Raina,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.1,SK Raina,F du Plessis,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.2,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.3,F du Plessis,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.4,F du Plessis,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.5,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,7.6,F du Plessis,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.1,F du Plessis,SK Raina,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.2,SK Raina,F du Plessis,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.3,F du Plessis,SK Raina,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.4,SK Raina,F du Plessis,Harpreet Brar,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.5,SK Raina,F du Plessis,Harpreet Brar,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,8.6,SK Raina,F du Plessis,Harpreet Brar,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.1,SK Raina,F du Plessis,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.2,F du Plessis,SK Raina,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.3,F du Plessis,SK Raina,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.4,SK Raina,F du Plessis,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.5,SK Raina,F du Plessis,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,9.6,F du Plessis,SK Raina,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.1,F du Plessis,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.2,SK Raina,F du Plessis,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.3,F du Plessis,SK Raina,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.4,F du Plessis,SK Raina,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.5,F du Plessis,SK Raina,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,10.6,F du Plessis,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.1,F du Plessis,SK Raina,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.2,SK Raina,F du Plessis,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.3,SK Raina,F du Plessis,AJ Tye,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.4,SK Raina,F du Plessis,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.5,F du Plessis,SK Raina,AJ Tye,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,11.6,F du Plessis,SK Raina,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.1,F du Plessis,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.2,SK Raina,F du Plessis,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.3,SK Raina,F du Plessis,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.4,SK Raina,F du Plessis,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.5,F du Plessis,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,12.6,SK Raina,F du Plessis,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.1,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.2,F du Plessis,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.3,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.4,F du Plessis,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.5,F du Plessis,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,13.6,SK Raina,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.1,SK Raina,F du Plessis,M Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.2,SK Raina,F du Plessis,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.3,SK Raina,F du Plessis,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.4,F du Plessis,SK Raina,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.5,F du Plessis,SK Raina,M Ashwin,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,14.6,F du Plessis,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.1,F du Plessis,SK Raina,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.2,F du Plessis,SK Raina,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.3,F du Plessis,SK Raina,AJ Tye,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.4,F du Plessis,SK Raina,AJ Tye,2,0,2,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.5,F du Plessis,SK Raina,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,15.6,SK Raina,F du Plessis,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.1,SK Raina,F du Plessis,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.2,F du Plessis,SK Raina,SM Curran,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.3,F du Plessis,SK Raina,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.4,SK Raina,F du Plessis,SM Curran,0,0,0,NA,1,caught,SK Raina,Mohammed Shami,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.5,MS Dhoni,F du Plessis,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,16.6,MS Dhoni,F du Plessis,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.1,F du Plessis,MS Dhoni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.2,MS Dhoni,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.3,F du Plessis,MS Dhoni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.4,MS Dhoni,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.5,MS Dhoni,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,17.6,MS Dhoni,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.1,MS Dhoni,F du Plessis,SM Curran,2,0,2,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.2,MS Dhoni,F du Plessis,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.3,F du Plessis,MS Dhoni,SM Curran,6,0,6,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.4,F du Plessis,MS Dhoni,SM Curran,0,0,0,NA,1,bowled,F du Plessis,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.5,AT Rayudu,MS Dhoni,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,18.6,MS Dhoni,AT Rayudu,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.1,MS Dhoni,AT Rayudu,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.2,AT Rayudu,MS Dhoni,Mohammed Shami,0,0,0,NA,1,caught,AT Rayudu,Mandeep Singh,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.3,MS Dhoni,KM Jadhav,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.4,KM Jadhav,MS Dhoni,Mohammed Shami,0,0,0,NA,1,bowled,KM Jadhav,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.5,DJ Bravo,MS Dhoni,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1178430,1st innings,Chennai Super Kings,Kings XI Punjab,19.6,MS Dhoni,DJ Bravo,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.1,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.2,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.3,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.4,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.5,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,0.6,KL Rahul,CH Gayle,DL Chahar,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.1,CH Gayle,KL Rahul,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.2,CH Gayle,KL Rahul,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.3,CH Gayle,KL Rahul,Harbhajan Singh,0,1,1,legbyes,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.4,KL Rahul,CH Gayle,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.5,KL Rahul,CH Gayle,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,1.6,KL Rahul,CH Gayle,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.1,KL Rahul,CH Gayle,DL Chahar,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.2,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.3,KL Rahul,CH Gayle,DL Chahar,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.4,KL Rahul,CH Gayle,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.5,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,2.6,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.1,KL Rahul,CH Gayle,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.2,KL Rahul,CH Gayle,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.3,KL Rahul,CH Gayle,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.4,KL Rahul,CH Gayle,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.5,KL Rahul,CH Gayle,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,3.6,KL Rahul,CH Gayle,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.1,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.2,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.3,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.4,CH Gayle,KL Rahul,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.5,KL Rahul,CH Gayle,DL Chahar,2,0,2,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,4.6,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.1,CH Gayle,KL Rahul,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.2,CH Gayle,KL Rahul,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.3,CH Gayle,KL Rahul,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.4,KL Rahul,CH Gayle,DJ Bravo,0,4,4,legbyes,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.5,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.6,CH Gayle,KL Rahul,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.7,CH Gayle,KL Rahul,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,5.8,CH Gayle,KL Rahul,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.1,KL Rahul,CH Gayle,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.2,CH Gayle,KL Rahul,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.3,CH Gayle,KL Rahul,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.4,CH Gayle,KL Rahul,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.5,CH Gayle,KL Rahul,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,6.6,CH Gayle,KL Rahul,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.1,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.2,CH Gayle,KL Rahul,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.3,KL Rahul,CH Gayle,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.4,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.5,CH Gayle,KL Rahul,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,7.6,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.1,KL Rahul,CH Gayle,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.2,KL Rahul,CH Gayle,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.3,CH Gayle,KL Rahul,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.4,CH Gayle,KL Rahul,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.5,KL Rahul,CH Gayle,DL Chahar,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,8.6,KL Rahul,CH Gayle,DL Chahar,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.1,CH Gayle,KL Rahul,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.2,CH Gayle,KL Rahul,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.3,CH Gayle,KL Rahul,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.4,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.5,CH Gayle,KL Rahul,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.6,CH Gayle,KL Rahul,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.7,CH Gayle,KL Rahul,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,9.8,KL Rahul,CH Gayle,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.1,KL Rahul,CH Gayle,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.2,CH Gayle,KL Rahul,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.3,KL Rahul,CH Gayle,Harbhajan Singh,0,0,0,NA,1,caught,KL Rahul,Imran Tahir,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.4,CH Gayle,N Pooran,Harbhajan Singh,0,0,0,NA,1,caught,CH Gayle,DR Shorey (sub),1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.5,MA Agarwal,N Pooran,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,10.6,MA Agarwal,N Pooran,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.1,MA Agarwal,N Pooran,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.2,N Pooran,MA Agarwal,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.3,N Pooran,MA Agarwal,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.4,MA Agarwal,N Pooran,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.5,MA Agarwal,N Pooran,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,11.6,N Pooran,MA Agarwal,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.1,N Pooran,MA Agarwal,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.2,MA Agarwal,N Pooran,Harbhajan Singh,0,0,0,NA,1,caught,MA Agarwal,RA Jadeja,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.3,Mandeep Singh,N Pooran,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.4,N Pooran,Mandeep Singh,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.5,N Pooran,Mandeep Singh,Harbhajan Singh,0,1,1,wides,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.6,N Pooran,Mandeep Singh,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,12.7,N Pooran,Mandeep Singh,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.1,Mandeep Singh,N Pooran,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.2,N Pooran,Mandeep Singh,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.3,N Pooran,Mandeep Singh,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.4,N Pooran,Mandeep Singh,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.5,N Pooran,Mandeep Singh,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,13.6,Mandeep Singh,N Pooran,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.1,N Pooran,Mandeep Singh,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.2,N Pooran,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.3,N Pooran,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.4,N Pooran,Mandeep Singh,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.5,N Pooran,Mandeep Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,14.6,Mandeep Singh,N Pooran,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.1,N Pooran,Mandeep Singh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.2,N Pooran,Mandeep Singh,Imran Tahir,0,4,4,byes,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.3,N Pooran,Mandeep Singh,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.4,N Pooran,Mandeep Singh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.5,Mandeep Singh,N Pooran,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,15.6,N Pooran,Mandeep Singh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.1,Mandeep Singh,N Pooran,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.2,N Pooran,Mandeep Singh,RA Jadeja,0,0,0,NA,1,caught,N Pooran,MS Dhoni,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.3,SM Curran,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.4,SM Curran,Mandeep Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.5,SM Curran,Mandeep Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,16.6,Mandeep Singh,SM Curran,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.1,Mandeep Singh,SM Curran,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.2,SM Curran,Mandeep Singh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.3,SM Curran,Mandeep Singh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.4,SM Curran,Mandeep Singh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.5,Mandeep Singh,SM Curran,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1178430,2nd innings,Kings XI Punjab,Chennai Super Kings,17.6,SM Curran,Mandeep Singh,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1

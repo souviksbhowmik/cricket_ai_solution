@@ -1,0 +1,241 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.1,D Padikkal,AJ Finch,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.2,D Padikkal,AJ Finch,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.3,AJ Finch,D Padikkal,DL Chahar,0,2,2,legbyes,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.4,AJ Finch,D Padikkal,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.5,AJ Finch,D Padikkal,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,0.6,AJ Finch,D Padikkal,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.1,D Padikkal,AJ Finch,Monu Kumar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.2,D Padikkal,AJ Finch,Monu Kumar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.3,D Padikkal,AJ Finch,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.4,AJ Finch,D Padikkal,Monu Kumar,0,1,1,wides,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.5,AJ Finch,D Padikkal,Monu Kumar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.6,AJ Finch,D Padikkal,Monu Kumar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.7,AJ Finch,D Padikkal,Monu Kumar,0,1,1,wides,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,1.8,AJ Finch,D Padikkal,Monu Kumar,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.1,D Padikkal,AJ Finch,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.2,D Padikkal,AJ Finch,DL Chahar,6,0,6,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.3,D Padikkal,AJ Finch,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.4,D Padikkal,AJ Finch,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.5,AJ Finch,D Padikkal,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,2.6,D Padikkal,AJ Finch,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.1,AJ Finch,D Padikkal,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.2,D Padikkal,AJ Finch,SM Curran,0,1,1,wides,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.3,D Padikkal,AJ Finch,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.4,AJ Finch,D Padikkal,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.5,D Padikkal,AJ Finch,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.6,AJ Finch,D Padikkal,SM Curran,0,0,0,NA,1,caught,AJ Finch,RD Gaikwad,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,3.7,D Padikkal,V Kohli,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.1,V Kohli,D Padikkal,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.2,D Padikkal,V Kohli,MJ Santner,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.3,D Padikkal,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.4,D Padikkal,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.5,V Kohli,D Padikkal,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,4.6,V Kohli,D Padikkal,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.1,V Kohli,D Padikkal,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.2,D Padikkal,V Kohli,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.3,V Kohli,D Padikkal,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.4,D Padikkal,V Kohli,SM Curran,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.5,D Padikkal,V Kohli,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,5.6,D Padikkal,V Kohli,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.1,D Padikkal,V Kohli,MJ Santner,0,0,0,NA,1,caught,D Padikkal,RD Gaikwad,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.2,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.3,AB de Villiers,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.4,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.5,AB de Villiers,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,6.6,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.1,V Kohli,AB de Villiers,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.2,AB de Villiers,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.3,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.4,V Kohli,AB de Villiers,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.5,AB de Villiers,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,7.6,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.1,AB de Villiers,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.2,AB de Villiers,V Kohli,MJ Santner,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.3,AB de Villiers,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.4,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.5,AB de Villiers,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,8.6,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.1,V Kohli,AB de Villiers,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.2,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.3,V Kohli,AB de Villiers,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.4,V Kohli,AB de Villiers,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.5,V Kohli,AB de Villiers,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,9.6,AB de Villiers,V Kohli,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.1,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.2,AB de Villiers,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.3,AB de Villiers,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.4,V Kohli,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.5,V Kohli,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,10.6,AB de Villiers,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.1,V Kohli,AB de Villiers,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.2,AB de Villiers,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.3,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.4,V Kohli,AB de Villiers,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.5,V Kohli,AB de Villiers,Imran Tahir,3,0,3,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,11.6,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.1,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.2,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.3,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.4,V Kohli,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.5,V Kohli,AB de Villiers,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,12.6,V Kohli,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.1,AB de Villiers,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.2,AB de Villiers,V Kohli,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.3,AB de Villiers,V Kohli,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.4,AB de Villiers,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.5,AB de Villiers,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,13.6,V Kohli,AB de Villiers,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.1,AB de Villiers,V Kohli,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.2,AB de Villiers,V Kohli,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.3,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.4,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.5,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,14.6,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.1,V Kohli,AB de Villiers,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.2,AB de Villiers,V Kohli,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.3,V Kohli,AB de Villiers,Monu Kumar,0,1,1,wides,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.4,V Kohli,AB de Villiers,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.5,AB de Villiers,V Kohli,Monu Kumar,2,1,3,noballs,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.6,AB de Villiers,V Kohli,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.7,V Kohli,AB de Villiers,Monu Kumar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,15.8,AB de Villiers,V Kohli,Monu Kumar,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.1,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.2,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.3,V Kohli,AB de Villiers,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.4,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.5,AB de Villiers,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,16.6,V Kohli,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.1,V Kohli,AB de Villiers,DL Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.2,V Kohli,AB de Villiers,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.3,AB de Villiers,V Kohli,DL Chahar,0,0,0,NA,1,caught,AB de Villiers,F du Plessis,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.4,V Kohli,MM Ali,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.5,MM Ali,V Kohli,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,17.6,V Kohli,MM Ali,DL Chahar,2,0,2,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.1,MM Ali,V Kohli,SM Curran,0,0,0,NA,1,caught,MM Ali,MJ Santner,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.2,V Kohli,CH Morris,SM Curran,0,1,1,wides,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.3,V Kohli,CH Morris,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.4,CH Morris,V Kohli,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.5,V Kohli,CH Morris,SM Curran,1,1,2,noballs,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.6,CH Morris,V Kohli,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.7,CH Morris,V Kohli,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,18.8,V Kohli,CH Morris,SM Curran,0,0,0,NA,1,caught,V Kohli,F du Plessis,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.1,Gurkeerat Singh,CH Morris,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.2,CH Morris,Gurkeerat Singh,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.3,CH Morris,Gurkeerat Singh,DL Chahar,0,0,0,NA,1,bowled,CH Morris,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.4,Washington Sundar,Gurkeerat Singh,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.5,Washington Sundar,Gurkeerat Singh,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,1st innings,Royal Challengers Bangalore,Chennai Super Kings,19.6,Gurkeerat Singh,Washington Sundar,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.1,RD Gaikwad,F du Plessis,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.2,RD Gaikwad,F du Plessis,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.3,RD Gaikwad,F du Plessis,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.4,RD Gaikwad,F du Plessis,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.5,RD Gaikwad,F du Plessis,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,0.6,F du Plessis,RD Gaikwad,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.1,RD Gaikwad,F du Plessis,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.2,F du Plessis,RD Gaikwad,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.3,RD Gaikwad,F du Plessis,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.4,F du Plessis,RD Gaikwad,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.5,F du Plessis,RD Gaikwad,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,1.6,F du Plessis,RD Gaikwad,CH Morris,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.1,RD Gaikwad,F du Plessis,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.2,RD Gaikwad,F du Plessis,Washington Sundar,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.3,RD Gaikwad,F du Plessis,Washington Sundar,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.4,RD Gaikwad,F du Plessis,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.5,F du Plessis,RD Gaikwad,Washington Sundar,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,2.6,F du Plessis,RD Gaikwad,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.1,RD Gaikwad,F du Plessis,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.2,RD Gaikwad,F du Plessis,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.3,RD Gaikwad,F du Plessis,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.4,F du Plessis,RD Gaikwad,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.5,F du Plessis,RD Gaikwad,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,3.6,F du Plessis,RD Gaikwad,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.1,RD Gaikwad,F du Plessis,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.2,F du Plessis,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.3,RD Gaikwad,F du Plessis,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.4,RD Gaikwad,F du Plessis,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.5,RD Gaikwad,F du Plessis,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,4.6,F du Plessis,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.1,F du Plessis,RD Gaikwad,CH Morris,0,0,0,NA,1,caught,F du Plessis,Mohammed Siraj,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.2,RD Gaikwad,AT Rayudu,CH Morris,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.3,RD Gaikwad,AT Rayudu,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.4,RD Gaikwad,AT Rayudu,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.5,RD Gaikwad,AT Rayudu,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,5.6,RD Gaikwad,AT Rayudu,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.1,AT Rayudu,RD Gaikwad,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.2,RD Gaikwad,AT Rayudu,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.3,AT Rayudu,RD Gaikwad,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.4,RD Gaikwad,AT Rayudu,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.5,RD Gaikwad,AT Rayudu,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,6.6,AT Rayudu,RD Gaikwad,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.1,AT Rayudu,RD Gaikwad,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.2,AT Rayudu,RD Gaikwad,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.3,AT Rayudu,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.4,RD Gaikwad,AT Rayudu,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.5,RD Gaikwad,AT Rayudu,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,7.6,RD Gaikwad,AT Rayudu,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.1,RD Gaikwad,AT Rayudu,MM Ali,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.2,RD Gaikwad,AT Rayudu,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.3,RD Gaikwad,AT Rayudu,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.4,AT Rayudu,RD Gaikwad,MM Ali,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.5,AT Rayudu,RD Gaikwad,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,8.6,AT Rayudu,RD Gaikwad,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.1,AT Rayudu,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.2,AT Rayudu,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.3,AT Rayudu,RD Gaikwad,NA Saini,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.4,AT Rayudu,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.5,AT Rayudu,RD Gaikwad,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,9.6,AT Rayudu,RD Gaikwad,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.1,AT Rayudu,RD Gaikwad,Washington Sundar,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.2,AT Rayudu,RD Gaikwad,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.3,RD Gaikwad,AT Rayudu,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.4,AT Rayudu,RD Gaikwad,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.5,RD Gaikwad,AT Rayudu,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,10.6,AT Rayudu,RD Gaikwad,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.1,AT Rayudu,RD Gaikwad,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.2,RD Gaikwad,AT Rayudu,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.3,RD Gaikwad,AT Rayudu,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.4,AT Rayudu,RD Gaikwad,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.5,AT Rayudu,RD Gaikwad,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,11.6,AT Rayudu,RD Gaikwad,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.1,RD Gaikwad,AT Rayudu,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.2,AT Rayudu,RD Gaikwad,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.3,RD Gaikwad,AT Rayudu,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.4,AT Rayudu,RD Gaikwad,Washington Sundar,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.5,RD Gaikwad,AT Rayudu,Washington Sundar,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,12.6,RD Gaikwad,AT Rayudu,Washington Sundar,2,0,2,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.1,AT Rayudu,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.2,RD Gaikwad,AT Rayudu,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.3,AT Rayudu,RD Gaikwad,YS Chahal,0,0,0,NA,1,bowled,AT Rayudu,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.4,MS Dhoni,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.5,RD Gaikwad,MS Dhoni,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,13.6,MS Dhoni,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.1,MS Dhoni,RD Gaikwad,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.2,MS Dhoni,RD Gaikwad,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.3,RD Gaikwad,MS Dhoni,CH Morris,0,1,1,wides,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.4,RD Gaikwad,MS Dhoni,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.5,MS Dhoni,RD Gaikwad,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.6,MS Dhoni,RD Gaikwad,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,14.7,MS Dhoni,RD Gaikwad,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.1,RD Gaikwad,MS Dhoni,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.2,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.3,MS Dhoni,RD Gaikwad,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.4,RD Gaikwad,MS Dhoni,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.5,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,15.6,MS Dhoni,RD Gaikwad,NA Saini,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.1,MS Dhoni,RD Gaikwad,YS Chahal,0,1,1,legbyes,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.2,RD Gaikwad,MS Dhoni,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.3,MS Dhoni,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.4,RD Gaikwad,MS Dhoni,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.5,MS Dhoni,RD Gaikwad,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,16.6,MS Dhoni,RD Gaikwad,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.1,MS Dhoni,RD Gaikwad,NA Saini,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.2,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.3,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.4,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.5,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,17.6,MS Dhoni,RD Gaikwad,NA Saini,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,18.1,RD Gaikwad,MS Dhoni,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,18.2,RD Gaikwad,MS Dhoni,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,18.3,RD Gaikwad,MS Dhoni,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1216544,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,18.4,RD Gaikwad,MS Dhoni,CH Morris,6,0,6,NA,0,NA,NA,NA,1

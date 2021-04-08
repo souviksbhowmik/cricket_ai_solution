@@ -1,0 +1,250 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.1,V Kohli,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.2,V Kohli,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.3,TM Dilshan,V Kohli,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.4,TM Dilshan,V Kohli,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.5,V Kohli,TM Dilshan,A Chandila,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,0.6,V Kohli,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.1,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.2,V Kohli,TM Dilshan,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.3,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.4,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.5,V Kohli,TM Dilshan,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,1.6,V Kohli,TM Dilshan,Pankaj Singh,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.1,TM Dilshan,V Kohli,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.2,TM Dilshan,V Kohli,A Chandila,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.3,TM Dilshan,V Kohli,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.4,V Kohli,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.5,TM Dilshan,V Kohli,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,2.6,V Kohli,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.1,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.2,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.3,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.4,V Kohli,TM Dilshan,Pankaj Singh,0,0,0,NA,1,caught,V Kohli,BJ Hodge,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.5,TM Dilshan,MA Agarwal,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,3.6,MA Agarwal,TM Dilshan,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.1,MA Agarwal,TM Dilshan,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.2,MA Agarwal,TM Dilshan,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.3,MA Agarwal,TM Dilshan,KK Cooper,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.4,TM Dilshan,MA Agarwal,KK Cooper,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.5,MA Agarwal,TM Dilshan,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,4.6,MA Agarwal,TM Dilshan,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.1,TM Dilshan,MA Agarwal,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.2,MA Agarwal,TM Dilshan,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.3,TM Dilshan,MA Agarwal,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.4,TM Dilshan,MA Agarwal,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.5,TM Dilshan,MA Agarwal,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,5.6,TM Dilshan,MA Agarwal,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.1,MA Agarwal,TM Dilshan,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.2,TM Dilshan,MA Agarwal,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.3,TM Dilshan,MA Agarwal,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.4,MA Agarwal,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.5,MA Agarwal,TM Dilshan,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,6.6,TM Dilshan,MA Agarwal,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.1,MA Agarwal,TM Dilshan,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.2,MA Agarwal,TM Dilshan,Pankaj Singh,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.3,MA Agarwal,TM Dilshan,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.4,TM Dilshan,MA Agarwal,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.5,TM Dilshan,MA Agarwal,Pankaj Singh,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,7.6,TM Dilshan,MA Agarwal,Pankaj Singh,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.1,TM Dilshan,MA Agarwal,SK Trivedi,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.2,TM Dilshan,MA Agarwal,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.3,TM Dilshan,MA Agarwal,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.4,TM Dilshan,MA Agarwal,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.5,TM Dilshan,MA Agarwal,SK Trivedi,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,8.6,MA Agarwal,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.1,TM Dilshan,MA Agarwal,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.2,MA Agarwal,TM Dilshan,GB Hogg,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.3,MA Agarwal,TM Dilshan,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.4,MA Agarwal,TM Dilshan,GB Hogg,0,0,0,NA,1,caught,MA Agarwal,BJ Hodge,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.5,TM Dilshan,CH Gayle,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,9.6,CH Gayle,TM Dilshan,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.1,CH Gayle,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.2,CH Gayle,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.3,CH Gayle,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.4,TM Dilshan,CH Gayle,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.5,CH Gayle,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,10.6,CH Gayle,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.1,TM Dilshan,CH Gayle,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.2,TM Dilshan,CH Gayle,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.3,CH Gayle,TM Dilshan,GB Hogg,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.4,CH Gayle,TM Dilshan,GB Hogg,0,0,0,NA,1,lbw,CH Gayle,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.5,AB de Villiers,TM Dilshan,GB Hogg,3,0,3,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.6,TM Dilshan,AB de Villiers,GB Hogg,0,5,5,wides,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,11.7,TM Dilshan,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.1,AB de Villiers,TM Dilshan,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.2,TM Dilshan,AB de Villiers,A Chandila,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.3,AB de Villiers,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.4,AB de Villiers,TM Dilshan,A Chandila,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.5,AB de Villiers,TM Dilshan,A Chandila,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,12.6,AB de Villiers,TM Dilshan,A Chandila,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.1,TM Dilshan,AB de Villiers,GB Hogg,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.2,AB de Villiers,TM Dilshan,GB Hogg,3,0,3,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.3,TM Dilshan,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.4,TM Dilshan,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.5,TM Dilshan,AB de Villiers,GB Hogg,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,13.6,TM Dilshan,AB de Villiers,GB Hogg,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.1,AB de Villiers,TM Dilshan,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.2,TM Dilshan,AB de Villiers,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.3,TM Dilshan,AB de Villiers,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.4,AB de Villiers,TM Dilshan,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.5,TM Dilshan,AB de Villiers,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,14.6,AB de Villiers,TM Dilshan,KK Cooper,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.1,TM Dilshan,AB de Villiers,SK Trivedi,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.2,TM Dilshan,AB de Villiers,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.3,TM Dilshan,AB de Villiers,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.4,AB de Villiers,TM Dilshan,SK Trivedi,3,0,3,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.5,TM Dilshan,AB de Villiers,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,15.6,AB de Villiers,TM Dilshan,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.1,TM Dilshan,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.2,AB de Villiers,TM Dilshan,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.3,TM Dilshan,AB de Villiers,GB Hogg,4,1,5,noballs,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.4,TM Dilshan,AB de Villiers,GB Hogg,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.5,TM Dilshan,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.6,AB de Villiers,TM Dilshan,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,16.7,TM Dilshan,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.1,TM Dilshan,AB de Villiers,KK Cooper,0,1,1,wides,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.2,TM Dilshan,AB de Villiers,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.3,AB de Villiers,TM Dilshan,KK Cooper,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.4,AB de Villiers,TM Dilshan,KK Cooper,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.5,AB de Villiers,TM Dilshan,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.6,TM Dilshan,AB de Villiers,KK Cooper,0,0,0,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,17.7,TM Dilshan,AB de Villiers,KK Cooper,0,4,4,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.1,AB de Villiers,TM Dilshan,SK Trivedi,1,1,2,noballs,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.2,TM Dilshan,AB de Villiers,SK Trivedi,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.3,AB de Villiers,TM Dilshan,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.4,TM Dilshan,AB de Villiers,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.5,AB de Villiers,TM Dilshan,SK Trivedi,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.6,AB de Villiers,TM Dilshan,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,18.7,AB de Villiers,TM Dilshan,SK Trivedi,6,0,6,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.1,TM Dilshan,AB de Villiers,KK Cooper,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.2,TM Dilshan,AB de Villiers,KK Cooper,2,0,2,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.3,TM Dilshan,AB de Villiers,KK Cooper,1,0,1,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.4,AB de Villiers,TM Dilshan,KK Cooper,0,1,1,wides,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.5,AB de Villiers,TM Dilshan,KK Cooper,0,1,1,legbyes,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.6,TM Dilshan,AB de Villiers,KK Cooper,4,0,4,NA,0,NA,NA,NA,1
+548336,1st innings,Royal Challengers Bangalore,Rajasthan Royals,19.7,TM Dilshan,AB de Villiers,KK Cooper,4,0,4,NA,0,NA,NA,NA,1
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.1,R Dravid,AM Rahane,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.2,R Dravid,AM Rahane,Z Khan,0,1,1,wides,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.3,R Dravid,AM Rahane,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.4,R Dravid,AM Rahane,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.5,R Dravid,AM Rahane,Z Khan,0,1,1,legbyes,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.6,AM Rahane,R Dravid,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.7,AM Rahane,R Dravid,Z Khan,0,1,1,wides,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,0.8,AM Rahane,R Dravid,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.1,AM Rahane,R Dravid,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.2,R Dravid,AM Rahane,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.3,R Dravid,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.4,R Dravid,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.5,R Dravid,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,1.6,R Dravid,AM Rahane,R Vinay Kumar,5,0,5,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.1,R Dravid,AM Rahane,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.2,AM Rahane,R Dravid,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.3,AM Rahane,R Dravid,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.4,R Dravid,AM Rahane,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.5,R Dravid,AM Rahane,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,2.6,R Dravid,AM Rahane,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.1,R Dravid,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.2,AM Rahane,R Dravid,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.3,R Dravid,AM Rahane,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.4,R Dravid,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.5,AM Rahane,R Dravid,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,3.6,R Dravid,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.1,AM Rahane,R Dravid,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.2,AM Rahane,R Dravid,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.3,AM Rahane,R Dravid,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.4,R Dravid,AM Rahane,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.5,AM Rahane,R Dravid,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,4.6,R Dravid,AM Rahane,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.1,R Dravid,AM Rahane,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.2,R Dravid,AM Rahane,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.3,R Dravid,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.4,AM Rahane,R Dravid,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.5,AM Rahane,R Dravid,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,5.6,AM Rahane,R Dravid,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.1,R Dravid,AM Rahane,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.2,R Dravid,AM Rahane,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.3,R Dravid,AM Rahane,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.4,R Dravid,AM Rahane,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.5,AM Rahane,R Dravid,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,6.6,AM Rahane,R Dravid,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.1,AM Rahane,R Dravid,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.2,AM Rahane,R Dravid,KP Appanna,0,0,0,NA,1,caught,AM Rahane,LA Pomersbach (sub),0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.3,OA Shah,R Dravid,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.4,OA Shah,R Dravid,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.5,OA Shah,R Dravid,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,7.6,OA Shah,R Dravid,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.1,OA Shah,R Dravid,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.2,OA Shah,R Dravid,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.3,OA Shah,R Dravid,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.4,R Dravid,OA Shah,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.5,R Dravid,OA Shah,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,8.6,OA Shah,R Dravid,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.1,R Dravid,OA Shah,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.2,R Dravid,OA Shah,KP Appanna,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.3,R Dravid,OA Shah,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.4,OA Shah,R Dravid,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.5,OA Shah,R Dravid,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,9.6,R Dravid,OA Shah,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.1,OA Shah,R Dravid,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.2,R Dravid,OA Shah,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.3,OA Shah,R Dravid,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.4,OA Shah,R Dravid,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.5,OA Shah,R Dravid,HV Patel,0,1,1,legbyes,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,10.6,R Dravid,OA Shah,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.1,OA Shah,R Dravid,KP Appanna,0,0,0,NA,1,stumped,OA Shah,AB de Villiers,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.2,SP Goswami,R Dravid,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.3,R Dravid,SP Goswami,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.4,R Dravid,SP Goswami,KP Appanna,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.5,R Dravid,SP Goswami,KP Appanna,0,2,2,wides,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.6,SP Goswami,R Dravid,KP Appanna,0,0,0,NA,1,caught,SP Goswami,MA Agarwal,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,11.7,R Dravid,BJ Hodge,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.1,R Dravid,BJ Hodge,DL Vettori,0,1,1,legbyes,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.2,BJ Hodge,R Dravid,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.3,R Dravid,BJ Hodge,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.4,R Dravid,BJ Hodge,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.5,R Dravid,BJ Hodge,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,12.6,BJ Hodge,R Dravid,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.1,R Dravid,BJ Hodge,KP Appanna,0,0,0,NA,1,caught,R Dravid,TM Dilshan,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.2,STR Binny,BJ Hodge,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.3,STR Binny,BJ Hodge,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.4,STR Binny,BJ Hodge,KP Appanna,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.5,STR Binny,BJ Hodge,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,13.6,BJ Hodge,STR Binny,KP Appanna,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.1,BJ Hodge,STR Binny,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.2,BJ Hodge,STR Binny,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.3,BJ Hodge,STR Binny,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.4,BJ Hodge,STR Binny,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.5,BJ Hodge,STR Binny,HV Patel,0,0,0,NA,1,caught,BJ Hodge,MA Agarwal,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.6,STR Binny,KK Cooper,HV Patel,0,1,1,wides,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,14.7,STR Binny,KK Cooper,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.1,STR Binny,KK Cooper,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.2,STR Binny,KK Cooper,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.3,STR Binny,KK Cooper,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.4,STR Binny,KK Cooper,DL Vettori,0,1,1,legbyes,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.5,KK Cooper,STR Binny,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,15.6,KK Cooper,STR Binny,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.1,STR Binny,KK Cooper,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.2,KK Cooper,STR Binny,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.3,KK Cooper,STR Binny,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.4,KK Cooper,STR Binny,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.5,KK Cooper,STR Binny,Z Khan,0,0,0,NA,1,caught,KK Cooper,DL Vettori,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,16.6,STR Binny,GB Hogg,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.1,GB Hogg,STR Binny,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.2,STR Binny,GB Hogg,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.3,GB Hogg,STR Binny,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.4,STR Binny,GB Hogg,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.5,STR Binny,GB Hogg,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,17.6,GB Hogg,STR Binny,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.1,GB Hogg,STR Binny,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.2,STR Binny,GB Hogg,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.3,STR Binny,GB Hogg,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.4,GB Hogg,STR Binny,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.5,STR Binny,GB Hogg,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,18.6,GB Hogg,STR Binny,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.1,GB Hogg,STR Binny,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.2,GB Hogg,STR Binny,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.3,STR Binny,GB Hogg,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.4,GB Hogg,STR Binny,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.5,GB Hogg,STR Binny,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548336,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,19.6,GB Hogg,STR Binny,HV Patel,0,0,0,NA,1,caught,GB Hogg,R Vinay Kumar,0

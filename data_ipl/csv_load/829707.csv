@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.1,DR Smith,BB McCullum,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.2,DR Smith,BB McCullum,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.3,DR Smith,BB McCullum,JA Morkel,0,4,4,legbyes,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.4,DR Smith,BB McCullum,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.5,DR Smith,BB McCullum,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,0.6,DR Smith,BB McCullum,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.1,BB McCullum,DR Smith,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.2,BB McCullum,DR Smith,NM Coulter-Nile,0,0,0,NA,1,caught,BB McCullum,Yuvraj Singh,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.3,DR Smith,SK Raina,NM Coulter-Nile,0,1,1,noballs,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.4,DR Smith,SK Raina,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.5,SK Raina,DR Smith,NM Coulter-Nile,3,0,3,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.6,DR Smith,SK Raina,NM Coulter-Nile,0,1,1,legbyes,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,1.7,SK Raina,DR Smith,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.1,DR Smith,SK Raina,DJ Muthuswami,0,4,4,legbyes,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.2,DR Smith,SK Raina,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.3,DR Smith,SK Raina,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.4,DR Smith,SK Raina,DJ Muthuswami,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.5,DR Smith,SK Raina,DJ Muthuswami,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,2.6,DR Smith,SK Raina,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.1,SK Raina,DR Smith,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.2,DR Smith,SK Raina,NM Coulter-Nile,0,1,1,byes,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.3,SK Raina,DR Smith,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.4,SK Raina,DR Smith,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.5,SK Raina,DR Smith,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,3.6,SK Raina,DR Smith,NM Coulter-Nile,0,0,0,NA,1,bowled,SK Raina,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.1,DR Smith,F du Plessis,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.2,DR Smith,F du Plessis,DJ Muthuswami,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.3,F du Plessis,DR Smith,DJ Muthuswami,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.4,DR Smith,F du Plessis,DJ Muthuswami,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.5,DR Smith,F du Plessis,DJ Muthuswami,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,4.6,F du Plessis,DR Smith,DJ Muthuswami,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.1,DR Smith,F du Plessis,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.2,F du Plessis,DR Smith,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.3,F du Plessis,DR Smith,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.4,DR Smith,F du Plessis,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.5,F du Plessis,DR Smith,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.6,F du Plessis,DR Smith,JA Morkel,0,1,1,wides,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,5.7,F du Plessis,DR Smith,JA Morkel,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.1,DR Smith,F du Plessis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.2,DR Smith,F du Plessis,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.3,F du Plessis,DR Smith,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.4,DR Smith,F du Plessis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.5,DR Smith,F du Plessis,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,6.6,DR Smith,F du Plessis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.1,F du Plessis,DR Smith,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.2,F du Plessis,DR Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.3,DR Smith,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.4,F du Plessis,DR Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.5,DR Smith,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,7.6,DR Smith,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.1,DR Smith,F du Plessis,Imran Tahir,0,0,0,NA,1,caught,DR Smith,NM Coulter-Nile,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.2,F du Plessis,RA Jadeja,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.3,F du Plessis,RA Jadeja,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.4,F du Plessis,RA Jadeja,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.5,RA Jadeja,F du Plessis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,8.6,RA Jadeja,F du Plessis,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.1,F du Plessis,RA Jadeja,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.2,F du Plessis,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.3,RA Jadeja,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.4,RA Jadeja,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.5,RA Jadeja,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,9.6,RA Jadeja,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.1,RA Jadeja,F du Plessis,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.2,RA Jadeja,F du Plessis,JP Duminy,0,1,1,wides,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.3,RA Jadeja,F du Plessis,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.4,F du Plessis,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.5,F du Plessis,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.6,F du Plessis,RA Jadeja,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,10.7,F du Plessis,RA Jadeja,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.1,RA Jadeja,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.2,RA Jadeja,F du Plessis,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.3,RA Jadeja,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.4,F du Plessis,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.5,F du Plessis,RA Jadeja,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,11.6,F du Plessis,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.1,F du Plessis,RA Jadeja,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.2,F du Plessis,RA Jadeja,JP Duminy,0,0,0,NA,1,caught,F du Plessis,SS Iyer,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.3,RA Jadeja,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.4,MS Dhoni,RA Jadeja,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.5,RA Jadeja,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,12.6,MS Dhoni,RA Jadeja,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.1,RA Jadeja,MS Dhoni,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.2,RA Jadeja,MS Dhoni,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.3,MS Dhoni,RA Jadeja,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.4,MS Dhoni,RA Jadeja,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.5,MS Dhoni,RA Jadeja,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,13.6,RA Jadeja,MS Dhoni,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.1,MS Dhoni,RA Jadeja,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.2,RA Jadeja,MS Dhoni,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.3,MS Dhoni,RA Jadeja,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.4,MS Dhoni,RA Jadeja,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.5,MS Dhoni,RA Jadeja,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,14.6,MS Dhoni,RA Jadeja,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.1,MS Dhoni,RA Jadeja,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.2,RA Jadeja,MS Dhoni,A Mishra,0,0,0,NA,1,stumped,RA Jadeja,CM Gautam,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.3,DJ Bravo,MS Dhoni,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.4,MS Dhoni,DJ Bravo,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.5,MS Dhoni,DJ Bravo,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,15.6,DJ Bravo,MS Dhoni,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.1,MS Dhoni,DJ Bravo,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.2,MS Dhoni,DJ Bravo,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.3,MS Dhoni,DJ Bravo,DJ Muthuswami,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.4,DJ Bravo,MS Dhoni,DJ Muthuswami,0,0,0,NA,1,lbw,DJ Bravo,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.5,R Ashwin,MS Dhoni,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,16.6,R Ashwin,MS Dhoni,DJ Muthuswami,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.1,MS Dhoni,R Ashwin,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.2,MS Dhoni,R Ashwin,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.3,MS Dhoni,R Ashwin,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.4,MS Dhoni,R Ashwin,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.5,MS Dhoni,R Ashwin,NM Coulter-Nile,0,1,1,legbyes,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,17.6,R Ashwin,MS Dhoni,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.1,MS Dhoni,R Ashwin,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.2,R Ashwin,MS Dhoni,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.3,R Ashwin,MS Dhoni,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.4,R Ashwin,MS Dhoni,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.5,MS Dhoni,R Ashwin,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,18.6,R Ashwin,MS Dhoni,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.1,MS Dhoni,R Ashwin,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.2,R Ashwin,MS Dhoni,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.3,MS Dhoni,R Ashwin,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.4,MS Dhoni,R Ashwin,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.5,MS Dhoni,R Ashwin,NM Coulter-Nile,0,0,0,NA,1,caught,MS Dhoni,MA Agarwal,1
+829707,1st innings,Chennai Super Kings,Delhi Daredevils,19.6,MM Sharma,R Ashwin,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.1,MA Agarwal,CM Gautam,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.2,MA Agarwal,CM Gautam,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.3,MA Agarwal,CM Gautam,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.4,MA Agarwal,CM Gautam,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.5,MA Agarwal,CM Gautam,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,0.6,MA Agarwal,CM Gautam,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.1,CM Gautam,MA Agarwal,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.2,MA Agarwal,CM Gautam,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.3,MA Agarwal,CM Gautam,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.4,CM Gautam,MA Agarwal,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.5,MA Agarwal,CM Gautam,MM Sharma,6,0,6,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,1.6,MA Agarwal,CM Gautam,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.1,CM Gautam,MA Agarwal,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.2,CM Gautam,MA Agarwal,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.3,CM Gautam,MA Agarwal,A Nehra,0,0,0,NA,1,caught,CM Gautam,DJ Bravo,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.4,JA Morkel,MA Agarwal,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.5,MA Agarwal,JA Morkel,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,2.6,MA Agarwal,JA Morkel,A Nehra,0,0,0,NA,1,caught,MA Agarwal,MS Dhoni,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.1,JA Morkel,SS Iyer,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.2,SS Iyer,JA Morkel,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.3,JA Morkel,SS Iyer,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.4,JA Morkel,SS Iyer,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.5,SS Iyer,JA Morkel,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.6,JA Morkel,SS Iyer,MM Sharma,0,1,1,wides,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,3.7,JA Morkel,SS Iyer,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.1,SS Iyer,JA Morkel,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.2,SS Iyer,JA Morkel,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.3,JA Morkel,SS Iyer,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.4,SS Iyer,JA Morkel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.5,SS Iyer,JA Morkel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,4.6,SS Iyer,JA Morkel,A Nehra,0,0,0,NA,1,caught,SS Iyer,F du Plessis,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.1,JA Morkel,KM Jadhav,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.2,JA Morkel,KM Jadhav,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.3,JA Morkel,KM Jadhav,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.4,KM Jadhav,JA Morkel,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.5,KM Jadhav,JA Morkel,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,5.6,KM Jadhav,JA Morkel,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.1,JA Morkel,KM Jadhav,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.2,JA Morkel,KM Jadhav,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.3,JA Morkel,KM Jadhav,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.4,JA Morkel,KM Jadhav,IC Pandey,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.5,JA Morkel,KM Jadhav,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,6.6,JA Morkel,KM Jadhav,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.1,JA Morkel,KM Jadhav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.2,KM Jadhav,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.3,JA Morkel,KM Jadhav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.4,JA Morkel,KM Jadhav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.5,JA Morkel,KM Jadhav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,7.6,KM Jadhav,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.1,KM Jadhav,JA Morkel,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.2,JA Morkel,KM Jadhav,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.3,JA Morkel,KM Jadhav,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.4,JA Morkel,KM Jadhav,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.5,KM Jadhav,JA Morkel,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,8.6,KM Jadhav,JA Morkel,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.1,KM Jadhav,JA Morkel,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.2,KM Jadhav,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.3,JA Morkel,KM Jadhav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.4,JA Morkel,KM Jadhav,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.5,JA Morkel,KM Jadhav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,9.6,KM Jadhav,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.1,KM Jadhav,JA Morkel,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.2,KM Jadhav,JA Morkel,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.3,JA Morkel,KM Jadhav,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.4,JA Morkel,KM Jadhav,IC Pandey,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.5,JA Morkel,KM Jadhav,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,10.6,KM Jadhav,JA Morkel,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.1,JA Morkel,KM Jadhav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.2,JA Morkel,KM Jadhav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.3,KM Jadhav,JA Morkel,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.4,KM Jadhav,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.5,JA Morkel,KM Jadhav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,11.6,KM Jadhav,JA Morkel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.1,JA Morkel,KM Jadhav,DJ Bravo,0,1,1,wides,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.2,JA Morkel,KM Jadhav,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.3,KM Jadhav,JA Morkel,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.4,JA Morkel,KM Jadhav,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.5,JA Morkel,KM Jadhav,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.6,KM Jadhav,JA Morkel,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,12.7,JA Morkel,KM Jadhav,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.1,KM Jadhav,JA Morkel,MM Sharma,0,0,0,NA,1,caught,KM Jadhav,RA Jadeja,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.2,Yuvraj Singh,JA Morkel,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.3,JA Morkel,Yuvraj Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.4,Yuvraj Singh,JA Morkel,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.5,Yuvraj Singh,JA Morkel,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,13.6,Yuvraj Singh,JA Morkel,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.1,JA Morkel,Yuvraj Singh,DJ Bravo,0,1,1,wides,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.2,JA Morkel,Yuvraj Singh,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.3,Yuvraj Singh,JA Morkel,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.4,Yuvraj Singh,JA Morkel,DJ Bravo,0,0,0,NA,1,caught,Yuvraj Singh,IC Pandey,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.5,JP Duminy,JA Morkel,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.6,JA Morkel,JP Duminy,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,14.7,JP Duminy,JA Morkel,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.1,JP Duminy,JA Morkel,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.2,JA Morkel,JP Duminy,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.3,JP Duminy,JA Morkel,IC Pandey,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.4,JP Duminy,JA Morkel,IC Pandey,0,0,0,NA,1,bowled,JP Duminy,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.5,NM Coulter-Nile,JA Morkel,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,15.6,NM Coulter-Nile,JA Morkel,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.1,JA Morkel,NM Coulter-Nile,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.2,JA Morkel,NM Coulter-Nile,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.3,JA Morkel,NM Coulter-Nile,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.4,NM Coulter-Nile,JA Morkel,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.5,JA Morkel,NM Coulter-Nile,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,16.6,JA Morkel,NM Coulter-Nile,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.1,JA Morkel,NM Coulter-Nile,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.2,JA Morkel,NM Coulter-Nile,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.3,JA Morkel,NM Coulter-Nile,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.4,JA Morkel,NM Coulter-Nile,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.5,NM Coulter-Nile,JA Morkel,R Ashwin,0,0,0,NA,1,bowled,NM Coulter-Nile,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.6,A Mishra,JA Morkel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,17.7,A Mishra,JA Morkel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.1,A Mishra,JA Morkel,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.2,JA Morkel,A Mishra,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.3,JA Morkel,A Mishra,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.4,A Mishra,JA Morkel,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.5,A Mishra,JA Morkel,A Nehra,0,1,1,wides,1,run out,A Mishra,MS Dhoni,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.6,JA Morkel,Imran Tahir,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,18.7,Imran Tahir,JA Morkel,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.1,JA Morkel,Imran Tahir,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.2,JA Morkel,Imran Tahir,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.3,Imran Tahir,JA Morkel,DJ Bravo,0,0,0,NA,1,caught,Imran Tahir,SK Raina,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.4,JA Morkel,DJ Muthuswami,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.5,JA Morkel,DJ Muthuswami,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+829707,2nd innings,Delhi Daredevils,Chennai Super Kings,19.6,JA Morkel,DJ Muthuswami,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0

@@ -1,0 +1,242 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.1,TL Suman,AC Gilchrist,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.2,AC Gilchrist,TL Suman,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.3,AC Gilchrist,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.4,AC Gilchrist,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.5,AC Gilchrist,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.6,AC Gilchrist,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,0.7,AC Gilchrist,TL Suman,M Morkel,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.1,TL Suman,AC Gilchrist,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.2,TL Suman,AC Gilchrist,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.3,TL Suman,AC Gilchrist,MM Patel,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.4,TL Suman,AC Gilchrist,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.5,TL Suman,AC Gilchrist,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,1.6,AC Gilchrist,TL Suman,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.1,TL Suman,AC Gilchrist,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.2,TL Suman,AC Gilchrist,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.3,TL Suman,AC Gilchrist,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.4,AC Gilchrist,TL Suman,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.5,TL Suman,AC Gilchrist,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,2.6,AC Gilchrist,TL Suman,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.1,AC Gilchrist,TL Suman,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.2,AC Gilchrist,TL Suman,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.3,AC Gilchrist,TL Suman,YK Pathan,0,0,0,NA,1,lbw,AC Gilchrist,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.4,RG Sharma,TL Suman,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.5,RG Sharma,TL Suman,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,3.6,TL Suman,RG Sharma,YK Pathan,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.1,RG Sharma,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.2,RG Sharma,TL Suman,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.3,TL Suman,RG Sharma,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.4,TL Suman,RG Sharma,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.5,TL Suman,RG Sharma,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,4.6,RG Sharma,TL Suman,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.1,TL Suman,RG Sharma,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.2,TL Suman,RG Sharma,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.3,TL Suman,RG Sharma,SK Trivedi,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.4,TL Suman,RG Sharma,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.5,TL Suman,RG Sharma,SK Trivedi,0,0,0,NA,1,caught,TL Suman,LA Carseldine,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,5.6,RG Sharma,A Symonds,SK Trivedi,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.1,A Symonds,RG Sharma,SK Warne,3,0,3,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.2,RG Sharma,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.3,A Symonds,RG Sharma,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.4,A Symonds,RG Sharma,SK Warne,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.5,A Symonds,RG Sharma,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,6.6,RG Sharma,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.1,RG Sharma,A Symonds,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.2,A Symonds,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.3,RG Sharma,A Symonds,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.4,A Symonds,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.5,A Symonds,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,7.6,RG Sharma,A Symonds,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.1,RG Sharma,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.2,A Symonds,RG Sharma,SK Warne,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.3,A Symonds,RG Sharma,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.4,RG Sharma,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.5,A Symonds,RG Sharma,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,8.6,A Symonds,RG Sharma,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.1,A Symonds,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.2,A Symonds,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.3,RG Sharma,A Symonds,RA Jadeja,0,0,0,NA,1,stumped,RG Sharma,NV Ojha,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.4,DR Smith,A Symonds,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.5,A Symonds,DR Smith,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,9.6,A Symonds,DR Smith,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.1,DR Smith,A Symonds,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.2,DR Smith,A Symonds,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.3,DR Smith,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.4,A Symonds,DR Smith,SK Warne,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.5,A Symonds,DR Smith,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,10.6,DR Smith,A Symonds,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.1,DR Smith,A Symonds,RA Jadeja,0,1,1,legbyes,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.2,A Symonds,DR Smith,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.3,A Symonds,DR Smith,RA Jadeja,0,0,0,NA,1,bowled,A Symonds,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.4,WPUJC Vaas,DR Smith,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.5,DR Smith,WPUJC Vaas,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,11.6,DR Smith,WPUJC Vaas,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.1,WPUJC Vaas,DR Smith,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.2,DR Smith,WPUJC Vaas,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.3,WPUJC Vaas,DR Smith,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.4,WPUJC Vaas,DR Smith,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.5,WPUJC Vaas,DR Smith,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,12.6,DR Smith,WPUJC Vaas,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.1,WPUJC Vaas,DR Smith,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.2,DR Smith,WPUJC Vaas,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.3,WPUJC Vaas,DR Smith,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.4,DR Smith,WPUJC Vaas,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.5,WPUJC Vaas,DR Smith,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,13.6,DR Smith,WPUJC Vaas,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.1,DR Smith,WPUJC Vaas,AS Raut,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.2,WPUJC Vaas,DR Smith,AS Raut,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.3,WPUJC Vaas,DR Smith,AS Raut,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.4,WPUJC Vaas,DR Smith,AS Raut,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.5,DR Smith,WPUJC Vaas,AS Raut,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,14.6,WPUJC Vaas,DR Smith,AS Raut,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.1,DR Smith,WPUJC Vaas,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.2,DR Smith,WPUJC Vaas,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.3,DR Smith,WPUJC Vaas,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.4,WPUJC Vaas,DR Smith,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.5,DR Smith,WPUJC Vaas,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,15.6,DR Smith,WPUJC Vaas,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.1,WPUJC Vaas,DR Smith,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.2,WPUJC Vaas,DR Smith,YK Pathan,0,0,0,NA,1,caught,WPUJC Vaas,LA Carseldine,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.3,DR Smith,Y Venugopal Rao,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.4,Y Venugopal Rao,DR Smith,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.5,DR Smith,Y Venugopal Rao,YK Pathan,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,16.6,DR Smith,Y Venugopal Rao,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.1,Y Venugopal Rao,DR Smith,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.2,Y Venugopal Rao,DR Smith,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.3,DR Smith,Y Venugopal Rao,SK Trivedi,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.4,DR Smith,Y Venugopal Rao,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.5,Y Venugopal Rao,DR Smith,SK Trivedi,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,17.6,Y Venugopal Rao,DR Smith,SK Trivedi,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.1,Y Venugopal Rao,DR Smith,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.2,DR Smith,Y Venugopal Rao,SK Warne,6,0,6,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.3,DR Smith,Y Venugopal Rao,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.4,Y Venugopal Rao,DR Smith,SK Warne,0,0,0,NA,1,caught,Y Venugopal Rao,RA Jadeja,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.5,DR Smith,DB Ravi Teja,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,18.6,DR Smith,DB Ravi Teja,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.1,DR Smith,DB Ravi Teja,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.2,DR Smith,DB Ravi Teja,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.3,DB Ravi Teja,DR Smith,YK Pathan,4,0,4,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.4,DB Ravi Teja,DR Smith,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.5,DR Smith,DB Ravi Teja,YK Pathan,0,0,0,NA,1,caught,DR Smith,AS Raut,1
+392220,1st innings,Deccan Chargers,Rajasthan Royals,19.6,DB Ravi Teja,RP Singh,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.1,GC Smith,SA Asnodkar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.2,GC Smith,SA Asnodkar,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.3,SA Asnodkar,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.4,SA Asnodkar,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.5,SA Asnodkar,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,0.6,SA Asnodkar,GC Smith,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.1,GC Smith,SA Asnodkar,WPUJC Vaas,0,0,0,NA,1,lbw,GC Smith,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.2,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.3,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.4,LA Carseldine,SA Asnodkar,WPUJC Vaas,3,0,3,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.5,SA Asnodkar,LA Carseldine,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,1.6,SA Asnodkar,LA Carseldine,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.1,LA Carseldine,SA Asnodkar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.2,LA Carseldine,SA Asnodkar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.3,LA Carseldine,SA Asnodkar,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.4,SA Asnodkar,LA Carseldine,RP Singh,0,1,1,wides,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.5,SA Asnodkar,LA Carseldine,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.6,SA Asnodkar,LA Carseldine,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,2.7,SA Asnodkar,LA Carseldine,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.1,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.2,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,1,1,wides,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.3,LA Carseldine,SA Asnodkar,WPUJC Vaas,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.4,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.5,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.6,LA Carseldine,SA Asnodkar,WPUJC Vaas,0,0,0,NA,1,stumped,LA Carseldine,AC Gilchrist,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,3.7,NV Ojha,SA Asnodkar,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.1,NV Ojha,SA Asnodkar,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.2,NV Ojha,SA Asnodkar,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.3,NV Ojha,SA Asnodkar,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.4,NV Ojha,SA Asnodkar,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.5,NV Ojha,SA Asnodkar,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,4.6,SA Asnodkar,NV Ojha,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.1,NV Ojha,SA Asnodkar,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.2,NV Ojha,SA Asnodkar,WPUJC Vaas,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.3,NV Ojha,SA Asnodkar,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.4,SA Asnodkar,NV Ojha,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.5,SA Asnodkar,NV Ojha,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,5.6,SA Asnodkar,NV Ojha,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.1,NV Ojha,SA Asnodkar,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.2,SA Asnodkar,NV Ojha,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.3,SA Asnodkar,NV Ojha,A Symonds,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.4,SA Asnodkar,NV Ojha,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.5,SA Asnodkar,NV Ojha,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,6.6,NV Ojha,SA Asnodkar,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.1,NV Ojha,SA Asnodkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.2,SA Asnodkar,NV Ojha,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.3,SA Asnodkar,NV Ojha,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.4,NV Ojha,SA Asnodkar,PP Ojha,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.5,NV Ojha,SA Asnodkar,PP Ojha,0,0,0,NA,1,run out,NV Ojha,DB Ravi Teja,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,7.6,SA Asnodkar,YK Pathan,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.1,YK Pathan,SA Asnodkar,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.2,SA Asnodkar,YK Pathan,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.3,SA Asnodkar,YK Pathan,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.4,YK Pathan,SA Asnodkar,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.5,SA Asnodkar,YK Pathan,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,8.6,SA Asnodkar,YK Pathan,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.1,SA Asnodkar,YK Pathan,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.2,SA Asnodkar,YK Pathan,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.3,SA Asnodkar,YK Pathan,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.4,YK Pathan,SA Asnodkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.5,SA Asnodkar,YK Pathan,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,9.6,YK Pathan,SA Asnodkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.1,YK Pathan,SA Asnodkar,A Symonds,0,1,1,legbyes,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.2,SA Asnodkar,YK Pathan,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.3,SA Asnodkar,YK Pathan,A Symonds,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.4,SA Asnodkar,YK Pathan,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.5,SA Asnodkar,YK Pathan,A Symonds,6,0,6,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,10.6,SA Asnodkar,YK Pathan,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.1,YK Pathan,SA Asnodkar,PP Ojha,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.2,YK Pathan,SA Asnodkar,PP Ojha,0,0,0,NA,1,caught,YK Pathan,DR Smith,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.3,SA Asnodkar,RA Jadeja,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.4,RA Jadeja,SA Asnodkar,PP Ojha,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.5,RA Jadeja,SA Asnodkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,11.6,SA Asnodkar,RA Jadeja,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.1,RA Jadeja,SA Asnodkar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.2,SA Asnodkar,RA Jadeja,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.3,RA Jadeja,SA Asnodkar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.4,SA Asnodkar,RA Jadeja,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.5,SA Asnodkar,RA Jadeja,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,12.6,RA Jadeja,SA Asnodkar,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.1,SA Asnodkar,RA Jadeja,RG Sharma,1,0,1,NA,1,run out,SA Asnodkar,AC Gilchrist,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.2,AS Raut,RA Jadeja,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.3,RA Jadeja,AS Raut,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.4,AS Raut,RA Jadeja,RG Sharma,0,0,0,NA,1,bowled,AS Raut,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.5,M Morkel,RA Jadeja,RG Sharma,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,13.6,M Morkel,RA Jadeja,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.1,M Morkel,RA Jadeja,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.2,RA Jadeja,M Morkel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.3,M Morkel,RA Jadeja,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.4,M Morkel,RA Jadeja,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.5,M Morkel,RA Jadeja,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.6,M Morkel,RA Jadeja,RP Singh,0,1,1,wides,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,14.7,M Morkel,RA Jadeja,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.1,RA Jadeja,M Morkel,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.2,M Morkel,RA Jadeja,RG Sharma,0,0,0,NA,1,caught,M Morkel,DB Ravi Teja,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.3,RA Jadeja,SK Warne,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.4,SK Warne,RA Jadeja,RG Sharma,0,0,0,NA,1,bowled,SK Warne,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.5,SK Trivedi,RA Jadeja,RG Sharma,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,15.6,SK Trivedi,RA Jadeja,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.1,SK Trivedi,RA Jadeja,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.2,SK Trivedi,RA Jadeja,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.3,SK Trivedi,RA Jadeja,RP Singh,0,0,0,NA,1,bowled,SK Trivedi,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.4,MM Patel,RA Jadeja,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.5,RA Jadeja,MM Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,16.6,RA Jadeja,MM Patel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.1,RA Jadeja,MM Patel,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.2,MM Patel,RA Jadeja,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.3,RA Jadeja,MM Patel,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.4,MM Patel,RA Jadeja,RG Sharma,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.5,MM Patel,RA Jadeja,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,17.6,RA Jadeja,MM Patel,RG Sharma,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.1,RA Jadeja,MM Patel,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.2,MM Patel,RA Jadeja,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.3,RA Jadeja,MM Patel,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.4,RA Jadeja,MM Patel,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.5,MM Patel,RA Jadeja,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,18.6,RA Jadeja,MM Patel,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,19.1,RA Jadeja,MM Patel,PP Ojha,2,0,2,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,19.2,RA Jadeja,MM Patel,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+392220,2nd innings,Rajasthan Royals,Deccan Chargers,19.3,MM Patel,RA Jadeja,PP Ojha,0,0,0,NA,1,run out,MM Patel,TL Suman,0

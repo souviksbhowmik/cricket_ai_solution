@@ -1,0 +1,241 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.1,AJ Finch,BB McCullum,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.2,AJ Finch,BB McCullum,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.3,AJ Finch,BB McCullum,S Aravind,0,1,1,legbyes,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.4,BB McCullum,AJ Finch,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.5,BB McCullum,AJ Finch,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,0.6,BB McCullum,AJ Finch,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.1,BB McCullum,AJ Finch,Iqbal Abdulla,0,0,0,NA,1,caught,BB McCullum,AB de Villiers,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.2,AJ Finch,SK Raina,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.3,AJ Finch,SK Raina,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.4,AJ Finch,SK Raina,Iqbal Abdulla,0,0,0,NA,1,caught,AJ Finch,CH Gayle,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.5,KD Karthik,SK Raina,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,1.6,SK Raina,KD Karthik,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.1,KD Karthik,SK Raina,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.2,SK Raina,KD Karthik,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.3,SK Raina,KD Karthik,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.4,SK Raina,KD Karthik,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.5,SK Raina,KD Karthik,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,2.6,KD Karthik,SK Raina,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.1,SK Raina,KD Karthik,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.2,SK Raina,KD Karthik,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.3,SK Raina,KD Karthik,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.4,SK Raina,KD Karthik,SR Watson,0,0,0,NA,1,caught,SK Raina,S Aravind,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.5,DR Smith,KD Karthik,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,3.6,DR Smith,KD Karthik,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.1,DR Smith,KD Karthik,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.2,DR Smith,KD Karthik,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.3,KD Karthik,DR Smith,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.4,DR Smith,KD Karthik,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.5,DR Smith,KD Karthik,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,4.6,DR Smith,KD Karthik,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.1,KD Karthik,DR Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.2,KD Karthik,DR Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.3,DR Smith,KD Karthik,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.4,KD Karthik,DR Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.5,KD Karthik,DR Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,5.6,KD Karthik,DR Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.1,KD Karthik,DR Smith,CJ Jordan,0,1,1,wides,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.2,KD Karthik,DR Smith,CJ Jordan,0,1,1,legbyes,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.3,DR Smith,KD Karthik,CJ Jordan,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.4,DR Smith,KD Karthik,CJ Jordan,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.5,DR Smith,KD Karthik,CJ Jordan,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.6,DR Smith,KD Karthik,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,6.7,KD Karthik,DR Smith,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.1,KD Karthik,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.2,DR Smith,KD Karthik,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.3,KD Karthik,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.4,DR Smith,KD Karthik,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.5,KD Karthik,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,7.6,DR Smith,KD Karthik,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.1,KD Karthik,DR Smith,STR Binny,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.2,DR Smith,KD Karthik,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.3,DR Smith,KD Karthik,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.4,DR Smith,KD Karthik,STR Binny,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.5,KD Karthik,DR Smith,STR Binny,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,8.6,DR Smith,KD Karthik,STR Binny,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.1,DR Smith,KD Karthik,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.2,DR Smith,KD Karthik,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.3,DR Smith,KD Karthik,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.4,DR Smith,KD Karthik,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.5,KD Karthik,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,9.6,DR Smith,KD Karthik,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.1,KD Karthik,DR Smith,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.2,KD Karthik,DR Smith,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.3,DR Smith,KD Karthik,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.4,KD Karthik,DR Smith,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.5,KD Karthik,DR Smith,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,10.6,KD Karthik,DR Smith,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.1,DR Smith,KD Karthik,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.2,DR Smith,KD Karthik,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.3,KD Karthik,DR Smith,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.4,KD Karthik,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.5,DR Smith,KD Karthik,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,11.6,DR Smith,KD Karthik,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.1,KD Karthik,DR Smith,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.2,KD Karthik,DR Smith,Iqbal Abdulla,0,1,1,wides,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.3,KD Karthik,DR Smith,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.4,KD Karthik,DR Smith,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.5,DR Smith,KD Karthik,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.6,DR Smith,KD Karthik,Iqbal Abdulla,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,12.7,DR Smith,KD Karthik,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.1,DR Smith,KD Karthik,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.2,KD Karthik,DR Smith,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.3,DR Smith,KD Karthik,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.4,KD Karthik,DR Smith,CJ Jordan,2,0,2,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.5,KD Karthik,DR Smith,CJ Jordan,0,0,0,NA,1,bowled,KD Karthik,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,13.6,RA Jadeja,DR Smith,CJ Jordan,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.1,DR Smith,RA Jadeja,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.2,RA Jadeja,DR Smith,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.3,DR Smith,RA Jadeja,S Aravind,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.4,DR Smith,RA Jadeja,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.5,DR Smith,RA Jadeja,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,14.6,RA Jadeja,DR Smith,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.1,RA Jadeja,DR Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.2,RA Jadeja,DR Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.3,RA Jadeja,DR Smith,SR Watson,0,1,1,wides,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.4,RA Jadeja,DR Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.5,DR Smith,RA Jadeja,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.6,RA Jadeja,DR Smith,SR Watson,0,0,0,NA,1,caught,RA Jadeja,CH Gayle,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,15.7,DJ Bravo,DR Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.1,DJ Bravo,DR Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.2,DR Smith,DJ Bravo,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.3,DR Smith,DJ Bravo,YS Chahal,0,0,0,NA,1,caught,DR Smith,V Kohli,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.4,DJ Bravo,ER Dwivedi,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.5,ER Dwivedi,DJ Bravo,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,16.6,ER Dwivedi,DJ Bravo,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.1,ER Dwivedi,DJ Bravo,CJ Jordan,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.2,ER Dwivedi,DJ Bravo,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.3,DJ Bravo,ER Dwivedi,CJ Jordan,0,1,1,wides,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.4,DJ Bravo,ER Dwivedi,CJ Jordan,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.5,DJ Bravo,ER Dwivedi,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.6,ER Dwivedi,DJ Bravo,CJ Jordan,0,4,4,legbyes,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,17.7,ER Dwivedi,DJ Bravo,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.1,ER Dwivedi,DJ Bravo,SR Watson,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.2,ER Dwivedi,DJ Bravo,SR Watson,6,0,6,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.3,ER Dwivedi,DJ Bravo,SR Watson,0,0,0,NA,1,caught,ER Dwivedi,V Kohli,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.4,DJ Bravo,P Kumar,SR Watson,0,0,0,NA,1,bowled,DJ Bravo,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.5,P Kumar,DS Kulkarni,SR Watson,0,1,1,wides,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.6,DS Kulkarni,P Kumar,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,18.7,DS Kulkarni,P Kumar,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.1,P Kumar,DS Kulkarni,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.2,DS Kulkarni,P Kumar,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.3,P Kumar,DS Kulkarni,CJ Jordan,0,0,0,NA,1,bowled,P Kumar,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.4,SB Jakati,DS Kulkarni,CJ Jordan,0,0,0,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.5,SB Jakati,DS Kulkarni,CJ Jordan,1,0,1,NA,0,NA,NA,NA,0
+981013,1st innings,Gujarat Lions,Royal Challengers Bangalore,19.6,DS Kulkarni,SB Jakati,CJ Jordan,1,0,1,NA,1,run out,DS Kulkarni,Sachin Baby,0
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.1,CH Gayle,V Kohli,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.2,CH Gayle,V Kohli,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.3,CH Gayle,V Kohli,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.4,CH Gayle,V Kohli,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.5,CH Gayle,V Kohli,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.6,CH Gayle,V Kohli,P Kumar,0,5,5,wides,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.7,CH Gayle,V Kohli,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,0.8,V Kohli,CH Gayle,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.1,CH Gayle,V Kohli,DS Kulkarni,0,1,1,legbyes,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.2,V Kohli,CH Gayle,DS Kulkarni,0,0,0,NA,1,bowled,V Kohli,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.3,AB de Villiers,CH Gayle,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.4,AB de Villiers,CH Gayle,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.5,CH Gayle,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,1.6,CH Gayle,AB de Villiers,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.1,AB de Villiers,CH Gayle,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.2,AB de Villiers,CH Gayle,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.3,AB de Villiers,CH Gayle,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.4,AB de Villiers,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.5,CH Gayle,AB de Villiers,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,2.6,CH Gayle,AB de Villiers,P Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.1,CH Gayle,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.2,CH Gayle,AB de Villiers,DS Kulkarni,0,0,0,NA,1,bowled,CH Gayle,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.3,KL Rahul,AB de Villiers,DS Kulkarni,0,0,0,NA,1,caught,KL Rahul,DR Smith,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.4,SR Watson,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.5,SR Watson,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,3.6,SR Watson,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.1,AB de Villiers,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.2,SR Watson,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.3,AB de Villiers,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.4,SR Watson,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.5,SR Watson,AB de Villiers,RA Jadeja,0,0,0,NA,1,caught,SR Watson,DR Smith,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,4.6,Sachin Baby,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.1,AB de Villiers,Sachin Baby,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.2,Sachin Baby,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.3,Sachin Baby,AB de Villiers,DS Kulkarni,0,0,0,NA,1,caught,Sachin Baby,SB Jakati,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.4,STR Binny,AB de Villiers,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.5,STR Binny,AB de Villiers,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,5.6,AB de Villiers,STR Binny,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.1,AB de Villiers,STR Binny,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.2,STR Binny,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.3,STR Binny,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.4,STR Binny,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.5,AB de Villiers,STR Binny,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,6.6,AB de Villiers,STR Binny,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.1,STR Binny,AB de Villiers,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.2,AB de Villiers,STR Binny,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.3,STR Binny,AB de Villiers,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.4,STR Binny,AB de Villiers,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.5,AB de Villiers,STR Binny,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,7.6,AB de Villiers,STR Binny,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.1,AB de Villiers,STR Binny,SB Jakati,3,0,3,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.2,STR Binny,AB de Villiers,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.3,STR Binny,AB de Villiers,SB Jakati,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.4,STR Binny,AB de Villiers,SB Jakati,0,1,1,wides,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.5,STR Binny,AB de Villiers,SB Jakati,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.6,STR Binny,AB de Villiers,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,8.7,STR Binny,AB de Villiers,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.1,AB de Villiers,STR Binny,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.2,STR Binny,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.3,AB de Villiers,STR Binny,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.4,STR Binny,AB de Villiers,RA Jadeja,0,0,0,NA,1,lbw,STR Binny,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.5,Iqbal Abdulla,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,9.6,AB de Villiers,Iqbal Abdulla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.1,AB de Villiers,Iqbal Abdulla,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.2,AB de Villiers,Iqbal Abdulla,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.3,Iqbal Abdulla,AB de Villiers,SB Jakati,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.4,Iqbal Abdulla,AB de Villiers,SB Jakati,1,1,2,noballs,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.5,AB de Villiers,Iqbal Abdulla,SB Jakati,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.6,AB de Villiers,Iqbal Abdulla,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,10.7,Iqbal Abdulla,AB de Villiers,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.1,Iqbal Abdulla,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.2,AB de Villiers,Iqbal Abdulla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.3,Iqbal Abdulla,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.4,AB de Villiers,Iqbal Abdulla,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.5,AB de Villiers,Iqbal Abdulla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,11.6,Iqbal Abdulla,AB de Villiers,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.1,AB de Villiers,Iqbal Abdulla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.2,AB de Villiers,Iqbal Abdulla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.3,Iqbal Abdulla,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.4,Iqbal Abdulla,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.5,AB de Villiers,Iqbal Abdulla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,12.6,Iqbal Abdulla,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.1,AB de Villiers,Iqbal Abdulla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.2,Iqbal Abdulla,AB de Villiers,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.3,Iqbal Abdulla,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.4,AB de Villiers,Iqbal Abdulla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.5,Iqbal Abdulla,AB de Villiers,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,13.6,Iqbal Abdulla,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.1,Iqbal Abdulla,AB de Villiers,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.2,Iqbal Abdulla,AB de Villiers,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.3,AB de Villiers,Iqbal Abdulla,DR Smith,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.4,AB de Villiers,Iqbal Abdulla,DR Smith,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.5,AB de Villiers,Iqbal Abdulla,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,14.6,Iqbal Abdulla,AB de Villiers,DR Smith,2,0,2,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.1,AB de Villiers,Iqbal Abdulla,SB Jakati,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.2,AB de Villiers,Iqbal Abdulla,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.3,Iqbal Abdulla,AB de Villiers,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.4,AB de Villiers,Iqbal Abdulla,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.5,Iqbal Abdulla,AB de Villiers,SB Jakati,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,15.6,Iqbal Abdulla,AB de Villiers,SB Jakati,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.1,Iqbal Abdulla,AB de Villiers,P Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.2,AB de Villiers,Iqbal Abdulla,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.3,AB de Villiers,Iqbal Abdulla,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.4,AB de Villiers,Iqbal Abdulla,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.5,AB de Villiers,Iqbal Abdulla,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,16.6,AB de Villiers,Iqbal Abdulla,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.1,AB de Villiers,Iqbal Abdulla,DJ Bravo,0,4,4,legbyes,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.2,AB de Villiers,Iqbal Abdulla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.3,AB de Villiers,Iqbal Abdulla,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.4,AB de Villiers,Iqbal Abdulla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.5,Iqbal Abdulla,AB de Villiers,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.6,Iqbal Abdulla,AB de Villiers,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,17.7,Iqbal Abdulla,AB de Villiers,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,18.1,AB de Villiers,Iqbal Abdulla,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+981013,2nd innings,Royal Challengers Bangalore,Gujarat Lions,18.2,Iqbal Abdulla,AB de Villiers,P Kumar,2,0,2,NA,0,NA,NA,NA,1

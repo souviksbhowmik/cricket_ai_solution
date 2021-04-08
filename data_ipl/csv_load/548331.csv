@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.1,N Saini,PC Valthaty,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.2,N Saini,PC Valthaty,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.3,N Saini,PC Valthaty,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.4,N Saini,PC Valthaty,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.5,N Saini,PC Valthaty,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.6,PC Valthaty,N Saini,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.1,N Saini,PC Valthaty,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.2,N Saini,PC Valthaty,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.3,N Saini,PC Valthaty,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.4,PC Valthaty,N Saini,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.5,PC Valthaty,N Saini,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.6,PC Valthaty,N Saini,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.1,N Saini,PC Valthaty,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.2,N Saini,PC Valthaty,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.3,N Saini,PC Valthaty,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.4,N Saini,PC Valthaty,Z Khan,0,0,0,NA,1,bowled,N Saini,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.5,SE Marsh,PC Valthaty,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.6,PC Valthaty,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.1,SE Marsh,PC Valthaty,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.2,SE Marsh,PC Valthaty,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.3,SE Marsh,PC Valthaty,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.4,SE Marsh,PC Valthaty,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.5,PC Valthaty,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.6,PC Valthaty,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.1,SE Marsh,PC Valthaty,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.2,PC Valthaty,SE Marsh,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.3,PC Valthaty,SE Marsh,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.4,PC Valthaty,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.5,PC Valthaty,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.6,PC Valthaty,SE Marsh,Z Khan,0,0,0,NA,1,caught,PC Valthaty,AB de Villiers,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.1,DJ Hussey,SE Marsh,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.2,SE Marsh,DJ Hussey,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.3,SE Marsh,DJ Hussey,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.4,SE Marsh,DJ Hussey,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.5,SE Marsh,DJ Hussey,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.6,DJ Hussey,SE Marsh,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.1,SE Marsh,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.2,DJ Hussey,SE Marsh,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.3,SE Marsh,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.4,DJ Hussey,SE Marsh,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.5,SE Marsh,DJ Hussey,AB McDonald,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.6,SE Marsh,DJ Hussey,AB McDonald,6,0,6,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.1,DJ Hussey,SE Marsh,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.2,DJ Hussey,SE Marsh,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.3,SE Marsh,DJ Hussey,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.4,DJ Hussey,SE Marsh,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.5,DJ Hussey,SE Marsh,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.6,SE Marsh,DJ Hussey,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.1,SE Marsh,DJ Hussey,AB McDonald,0,0,0,NA,1,bowled,SE Marsh,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.2,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.3,DJ Hussey,DA Miller,AB McDonald,0,1,1,legbyes,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.4,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.5,DJ Hussey,DA Miller,AB McDonald,0,1,1,wides,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.6,DJ Hussey,DA Miller,AB McDonald,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.7,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.1,DJ Hussey,DA Miller,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.2,DJ Hussey,DA Miller,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.3,DJ Hussey,DA Miller,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.4,DJ Hussey,DA Miller,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.5,DJ Hussey,DA Miller,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.6,DJ Hussey,DA Miller,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.1,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.2,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.3,DA Miller,DJ Hussey,AB McDonald,0,1,1,byes,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.4,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.5,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.6,DJ Hussey,DA Miller,AB McDonald,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.1,DA Miller,DJ Hussey,DL Vettori,0,1,1,legbyes,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.2,DJ Hussey,DA Miller,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.3,DJ Hussey,DA Miller,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.4,DA Miller,DJ Hussey,DL Vettori,0,1,1,wides,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.5,DA Miller,DJ Hussey,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.6,DJ Hussey,DA Miller,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.7,DA Miller,DJ Hussey,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.1,DA Miller,DJ Hussey,HV Patel,0,1,1,legbyes,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.2,DJ Hussey,DA Miller,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.3,DJ Hussey,DA Miller,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.4,DJ Hussey,DA Miller,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.5,DJ Hussey,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.6,DA Miller,DJ Hussey,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.1,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.2,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.3,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.4,DA Miller,DJ Hussey,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.5,DJ Hussey,DA Miller,AB McDonald,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.6,DA Miller,DJ Hussey,AB McDonald,0,0,0,NA,1,caught,DA Miller,Z Khan,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.1,DJ Hussey,Mandeep Singh,HV Patel,0,1,1,wides,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.2,DJ Hussey,Mandeep Singh,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.3,DJ Hussey,Mandeep Singh,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.4,Mandeep Singh,DJ Hussey,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.5,Mandeep Singh,DJ Hussey,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.6,DJ Hussey,Mandeep Singh,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.7,DJ Hussey,Mandeep Singh,HV Patel,0,0,0,NA,1,bowled,DJ Hussey,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.1,Mandeep Singh,Azhar Mahmood,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.2,Azhar Mahmood,Mandeep Singh,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.3,Mandeep Singh,Azhar Mahmood,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.4,Mandeep Singh,Azhar Mahmood,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.5,Azhar Mahmood,Mandeep Singh,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.6,Mandeep Singh,Azhar Mahmood,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.1,Mandeep Singh,Azhar Mahmood,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.2,Azhar Mahmood,Mandeep Singh,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.3,Azhar Mahmood,Mandeep Singh,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.4,Mandeep Singh,Azhar Mahmood,HV Patel,0,1,1,legbyes,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.5,Azhar Mahmood,Mandeep Singh,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.6,Azhar Mahmood,Mandeep Singh,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.1,Mandeep Singh,Azhar Mahmood,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.2,Mandeep Singh,Azhar Mahmood,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.3,Azhar Mahmood,Mandeep Singh,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.4,Azhar Mahmood,Mandeep Singh,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.5,Azhar Mahmood,Mandeep Singh,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.6,Azhar Mahmood,Mandeep Singh,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.1,Azhar Mahmood,Mandeep Singh,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.2,Mandeep Singh,Azhar Mahmood,Z Khan,3,0,3,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.3,Azhar Mahmood,Mandeep Singh,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.4,Mandeep Singh,Azhar Mahmood,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.5,Mandeep Singh,Azhar Mahmood,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.6,Mandeep Singh,Azhar Mahmood,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.1,Mandeep Singh,Azhar Mahmood,R Vinay Kumar,0,0,0,NA,1,caught,Mandeep Singh,V Kohli,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.2,Azhar Mahmood,PP Chawla,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.3,Azhar Mahmood,PP Chawla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.4,PP Chawla,Azhar Mahmood,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.5,PP Chawla,Azhar Mahmood,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+548331,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.6,PP Chawla,Azhar Mahmood,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.1,MA Agarwal,CH Gayle,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.2,MA Agarwal,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.3,CH Gayle,MA Agarwal,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.4,CH Gayle,MA Agarwal,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.5,CH Gayle,MA Agarwal,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.6,CH Gayle,MA Agarwal,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.7,CH Gayle,MA Agarwal,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.1,CH Gayle,MA Agarwal,P Awana,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.2,MA Agarwal,CH Gayle,P Awana,0,0,0,NA,1,lbw,MA Agarwal,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.3,V Kohli,CH Gayle,P Awana,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.4,V Kohli,CH Gayle,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.5,V Kohli,CH Gayle,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.6,V Kohli,CH Gayle,P Awana,0,0,0,NA,1,caught,V Kohli,SE Marsh,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.1,CH Gayle,SS Tiwary,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.2,CH Gayle,SS Tiwary,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.3,CH Gayle,SS Tiwary,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.4,CH Gayle,SS Tiwary,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.5,CH Gayle,SS Tiwary,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.6,CH Gayle,SS Tiwary,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.7,CH Gayle,SS Tiwary,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.1,SS Tiwary,CH Gayle,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.2,SS Tiwary,CH Gayle,P Awana,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.3,CH Gayle,SS Tiwary,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.4,CH Gayle,SS Tiwary,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.5,CH Gayle,SS Tiwary,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.6,CH Gayle,SS Tiwary,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.1,SS Tiwary,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.2,CH Gayle,SS Tiwary,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.3,SS Tiwary,CH Gayle,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.4,SS Tiwary,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.5,CH Gayle,SS Tiwary,P Kumar,3,0,3,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.6,SS Tiwary,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.1,SS Tiwary,CH Gayle,P Awana,0,0,0,NA,1,caught,SS Tiwary,N Saini,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.2,AB de Villiers,CH Gayle,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.3,AB de Villiers,CH Gayle,P Awana,3,0,3,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.4,CH Gayle,AB de Villiers,P Awana,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.5,CH Gayle,AB de Villiers,P Awana,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.6,CH Gayle,AB de Villiers,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.1,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.2,CH Gayle,AB de Villiers,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.3,CH Gayle,AB de Villiers,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.4,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.5,CH Gayle,AB de Villiers,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.6,CH Gayle,AB de Villiers,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.1,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.2,CH Gayle,AB de Villiers,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.3,CH Gayle,AB de Villiers,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.4,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.5,CH Gayle,AB de Villiers,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.6,CH Gayle,AB de Villiers,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.1,AB de Villiers,CH Gayle,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.2,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.3,CH Gayle,AB de Villiers,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.4,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.5,CH Gayle,AB de Villiers,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.6,CH Gayle,AB de Villiers,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.1,CH Gayle,AB de Villiers,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.2,AB de Villiers,CH Gayle,Harmeet Singh,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.3,AB de Villiers,CH Gayle,Harmeet Singh,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.4,AB de Villiers,CH Gayle,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.5,AB de Villiers,CH Gayle,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.6,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.1,AB de Villiers,CH Gayle,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.2,CH Gayle,AB de Villiers,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.3,CH Gayle,AB de Villiers,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.4,CH Gayle,AB de Villiers,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.5,AB de Villiers,CH Gayle,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.6,CH Gayle,AB de Villiers,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.1,CH Gayle,AB de Villiers,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.2,CH Gayle,AB de Villiers,Harmeet Singh,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.3,CH Gayle,AB de Villiers,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.4,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.5,CH Gayle,AB de Villiers,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.6,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.1,AB de Villiers,CH Gayle,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.2,AB de Villiers,CH Gayle,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.3,CH Gayle,AB de Villiers,Azhar Mahmood,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.4,CH Gayle,AB de Villiers,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.5,AB de Villiers,CH Gayle,Azhar Mahmood,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.6,AB de Villiers,CH Gayle,Azhar Mahmood,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.1,CH Gayle,AB de Villiers,Harmeet Singh,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.2,CH Gayle,AB de Villiers,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.3,CH Gayle,AB de Villiers,Harmeet Singh,6,0,6,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.4,CH Gayle,AB de Villiers,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.5,AB de Villiers,CH Gayle,Harmeet Singh,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.6,AB de Villiers,CH Gayle,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.7,AB de Villiers,CH Gayle,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.1,AB de Villiers,CH Gayle,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.2,AB de Villiers,CH Gayle,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.3,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.4,CH Gayle,AB de Villiers,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.5,AB de Villiers,CH Gayle,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.6,AB de Villiers,CH Gayle,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.1,AB de Villiers,CH Gayle,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.2,AB de Villiers,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.3,CH Gayle,AB de Villiers,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.4,CH Gayle,AB de Villiers,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.5,CH Gayle,AB de Villiers,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.6,AB de Villiers,CH Gayle,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.7,CH Gayle,AB de Villiers,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.8,CH Gayle,AB de Villiers,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.1,CH Gayle,AB de Villiers,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.2,AB de Villiers,CH Gayle,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.3,AB de Villiers,CH Gayle,Azhar Mahmood,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.4,AB de Villiers,CH Gayle,Azhar Mahmood,2,0,2,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.5,AB de Villiers,CH Gayle,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.6,AB de Villiers,CH Gayle,Azhar Mahmood,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.7,AB de Villiers,CH Gayle,Azhar Mahmood,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.1,CH Gayle,AB de Villiers,P Awana,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.2,CH Gayle,AB de Villiers,P Awana,0,1,1,wides,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.3,CH Gayle,AB de Villiers,P Awana,0,1,1,noballs,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.4,CH Gayle,AB de Villiers,P Awana,6,0,6,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.5,CH Gayle,AB de Villiers,P Awana,4,0,4,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.6,CH Gayle,AB de Villiers,P Awana,0,0,0,NA,1,caught,CH Gayle,DJ Hussey,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.7,AB McDonald,AB de Villiers,P Awana,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.8,AB McDonald,AB de Villiers,P Awana,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.1,AB McDonald,AB de Villiers,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.2,AB de Villiers,AB McDonald,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.3,AB de Villiers,AB McDonald,PP Chawla,0,0,0,NA,1,lbw,AB de Villiers,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.4,DL Vettori,AB McDonald,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.5,DL Vettori,AB McDonald,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.6,AB McDonald,DL Vettori,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.1,AB McDonald,DL Vettori,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.2,DL Vettori,AB McDonald,Azhar Mahmood,1,0,1,NA,0,NA,NA,NA,1
+548331,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.3,AB McDonald,DL Vettori,Azhar Mahmood,4,0,4,NA,0,NA,NA,NA,1

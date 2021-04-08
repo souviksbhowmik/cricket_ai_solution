@@ -1,0 +1,241 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.1,AJ Finch,PA Patel,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.2,AJ Finch,PA Patel,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.3,PA Patel,AJ Finch,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.4,AJ Finch,PA Patel,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.5,AJ Finch,PA Patel,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,0.6,AJ Finch,PA Patel,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.1,PA Patel,AJ Finch,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.2,PA Patel,AJ Finch,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.3,PA Patel,AJ Finch,CH Morris,3,0,3,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.4,AJ Finch,PA Patel,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.5,AJ Finch,PA Patel,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,1.6,AJ Finch,PA Patel,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.1,PA Patel,AJ Finch,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.2,PA Patel,AJ Finch,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.3,AJ Finch,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.4,AJ Finch,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.5,AJ Finch,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,2.6,AJ Finch,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.1,PA Patel,AJ Finch,STR Binny,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.2,AJ Finch,PA Patel,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.3,AJ Finch,PA Patel,STR Binny,1,0,1,NA,1,retired hurt,AJ Finch,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.4,PA Patel,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.5,PA Patel,UBT Chand,STR Binny,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,3.6,PA Patel,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.1,UBT Chand,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.2,UBT Chand,PA Patel,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.3,UBT Chand,PA Patel,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.4,PA Patel,UBT Chand,DS Kulkarni,0,0,0,NA,1,caught,PA Patel,CH Morris,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.5,RG Sharma,UBT Chand,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,4.6,RG Sharma,UBT Chand,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.1,UBT Chand,RG Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.2,UBT Chand,RG Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.3,UBT Chand,RG Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.4,UBT Chand,RG Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.5,UBT Chand,RG Sharma,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,5.6,UBT Chand,RG Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.1,RG Sharma,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.2,RG Sharma,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.3,RG Sharma,UBT Chand,STR Binny,0,0,0,NA,1,caught,RG Sharma,SPD Smith,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.4,CJ Anderson,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.5,CJ Anderson,UBT Chand,STR Binny,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,6.6,CJ Anderson,UBT Chand,STR Binny,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.1,UBT Chand,CJ Anderson,DJ Hooda,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.2,UBT Chand,CJ Anderson,DJ Hooda,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.3,CJ Anderson,UBT Chand,DJ Hooda,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.4,CJ Anderson,UBT Chand,DJ Hooda,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.5,UBT Chand,CJ Anderson,DJ Hooda,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,7.6,CJ Anderson,UBT Chand,DJ Hooda,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.1,UBT Chand,CJ Anderson,JP Faulkner,0,1,1,legbyes,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.2,CJ Anderson,UBT Chand,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.3,CJ Anderson,UBT Chand,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.4,CJ Anderson,UBT Chand,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.5,CJ Anderson,UBT Chand,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,8.6,CJ Anderson,UBT Chand,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.1,UBT Chand,CJ Anderson,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.2,UBT Chand,CJ Anderson,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.3,CJ Anderson,UBT Chand,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.4,UBT Chand,CJ Anderson,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.5,UBT Chand,CJ Anderson,PV Tambe,0,0,0,NA,1,bowled,UBT Chand,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,9.6,KA Pollard,CJ Anderson,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.1,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.2,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.3,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.4,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.5,CJ Anderson,KA Pollard,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,10.6,KA Pollard,CJ Anderson,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.1,CJ Anderson,KA Pollard,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.2,KA Pollard,CJ Anderson,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.3,KA Pollard,CJ Anderson,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.4,KA Pollard,CJ Anderson,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.5,CJ Anderson,KA Pollard,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,11.6,CJ Anderson,KA Pollard,PV Tambe,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.1,KA Pollard,CJ Anderson,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.2,KA Pollard,CJ Anderson,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.3,KA Pollard,CJ Anderson,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.4,CJ Anderson,KA Pollard,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.5,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,12.6,CJ Anderson,KA Pollard,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.1,KA Pollard,CJ Anderson,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.2,KA Pollard,CJ Anderson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.3,KA Pollard,CJ Anderson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.4,KA Pollard,CJ Anderson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.5,CJ Anderson,KA Pollard,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,13.6,CJ Anderson,KA Pollard,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.1,KA Pollard,CJ Anderson,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.2,CJ Anderson,KA Pollard,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.3,KA Pollard,CJ Anderson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.4,KA Pollard,CJ Anderson,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.5,KA Pollard,CJ Anderson,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.6,CJ Anderson,KA Pollard,DS Kulkarni,0,1,1,noballs,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,14.7,CJ Anderson,KA Pollard,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.1,CJ Anderson,KA Pollard,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.2,CJ Anderson,KA Pollard,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.3,CJ Anderson,KA Pollard,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.4,KA Pollard,CJ Anderson,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.5,KA Pollard,CJ Anderson,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,15.6,CJ Anderson,KA Pollard,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.1,KA Pollard,CJ Anderson,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.2,KA Pollard,CJ Anderson,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.3,KA Pollard,CJ Anderson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.4,KA Pollard,CJ Anderson,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.5,KA Pollard,CJ Anderson,JP Faulkner,0,1,1,legbyes,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,16.6,CJ Anderson,KA Pollard,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.1,KA Pollard,CJ Anderson,PV Tambe,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.2,KA Pollard,CJ Anderson,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.3,KA Pollard,CJ Anderson,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.4,CJ Anderson,KA Pollard,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.5,KA Pollard,CJ Anderson,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,17.6,KA Pollard,CJ Anderson,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.1,KA Pollard,CJ Anderson,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.2,KA Pollard,CJ Anderson,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.3,KA Pollard,CJ Anderson,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.4,KA Pollard,CJ Anderson,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.5,KA Pollard,CJ Anderson,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,18.6,KA Pollard,CJ Anderson,TG Southee,0,0,0,NA,1,caught,KA Pollard,KK Nair,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.1,CJ Anderson,J Suchith,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.2,CJ Anderson,J Suchith,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.3,CJ Anderson,J Suchith,CH Morris,6,0,6,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.4,CJ Anderson,J Suchith,CH Morris,0,0,0,NA,1,bowled,CJ Anderson,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.5,S Gopal,J Suchith,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+829721,1st innings,Mumbai Indians,Rajasthan Royals,19.6,J Suchith,S Gopal,CH Morris,0,2,2,byes,0,NA,NA,NA,0
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.1,AM Rahane,SV Samson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.2,AM Rahane,SV Samson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.3,AM Rahane,SV Samson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.4,AM Rahane,SV Samson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.5,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,0.6,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.1,AM Rahane,SV Samson,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.2,SV Samson,AM Rahane,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.3,SV Samson,AM Rahane,P Suyal,0,1,1,noballs,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.4,SV Samson,AM Rahane,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.5,SV Samson,AM Rahane,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.6,SV Samson,AM Rahane,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,1.7,AM Rahane,SV Samson,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.1,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.2,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.3,SV Samson,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.4,AM Rahane,SV Samson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.5,SV Samson,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,2.6,AM Rahane,SV Samson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.1,SV Samson,AM Rahane,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.2,AM Rahane,SV Samson,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.3,AM Rahane,SV Samson,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.4,SV Samson,AM Rahane,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.5,AM Rahane,SV Samson,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,3.6,AM Rahane,SV Samson,P Suyal,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.1,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.2,SV Samson,AM Rahane,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.3,SV Samson,AM Rahane,R Vinay Kumar,0,0,0,NA,1,caught,SV Samson,RG Sharma,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.4,SPD Smith,AM Rahane,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.5,AM Rahane,SPD Smith,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,4.6,AM Rahane,SPD Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.1,SPD Smith,AM Rahane,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.2,AM Rahane,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.3,SPD Smith,AM Rahane,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.4,SPD Smith,AM Rahane,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.5,SPD Smith,AM Rahane,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,5.6,AM Rahane,SPD Smith,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.1,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.2,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.3,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.4,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.5,SPD Smith,AM Rahane,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,6.6,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.1,SPD Smith,AM Rahane,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.2,SPD Smith,AM Rahane,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.3,SPD Smith,AM Rahane,CJ Anderson,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.4,SPD Smith,AM Rahane,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.5,AM Rahane,SPD Smith,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,7.6,AM Rahane,SPD Smith,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.1,AM Rahane,SPD Smith,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.2,AM Rahane,SPD Smith,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.3,AM Rahane,SPD Smith,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.4,AM Rahane,SPD Smith,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.5,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,8.6,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.1,SPD Smith,AM Rahane,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.2,AM Rahane,SPD Smith,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.3,SPD Smith,AM Rahane,CJ Anderson,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.4,SPD Smith,AM Rahane,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.5,SPD Smith,AM Rahane,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,9.6,SPD Smith,AM Rahane,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.1,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.2,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.3,AM Rahane,SPD Smith,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.4,AM Rahane,SPD Smith,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.5,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,10.6,SPD Smith,AM Rahane,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.1,AM Rahane,SPD Smith,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.2,AM Rahane,SPD Smith,S Gopal,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.3,AM Rahane,SPD Smith,S Gopal,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.4,AM Rahane,SPD Smith,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.5,SPD Smith,AM Rahane,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,11.6,AM Rahane,SPD Smith,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.1,AM Rahane,SPD Smith,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.2,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.3,SPD Smith,AM Rahane,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.4,SPD Smith,AM Rahane,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.5,AM Rahane,SPD Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,12.6,SPD Smith,AM Rahane,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.1,AM Rahane,SPD Smith,S Gopal,0,0,0,NA,1,caught,AM Rahane,CJ Anderson,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.2,SPD Smith,DJ Hooda,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.3,DJ Hooda,SPD Smith,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.4,SPD Smith,DJ Hooda,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.5,DJ Hooda,SPD Smith,S Gopal,6,0,6,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,13.6,DJ Hooda,SPD Smith,S Gopal,6,0,6,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.1,SPD Smith,DJ Hooda,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.2,SPD Smith,DJ Hooda,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.3,SPD Smith,DJ Hooda,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.4,SPD Smith,DJ Hooda,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.5,SPD Smith,DJ Hooda,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.6,DJ Hooda,SPD Smith,SL Malinga,0,0,0,NA,1,bowled,DJ Hooda,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,14.7,JP Faulkner,SPD Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.1,SPD Smith,JP Faulkner,P Suyal,3,0,3,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.2,JP Faulkner,SPD Smith,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.3,SPD Smith,JP Faulkner,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.4,SPD Smith,JP Faulkner,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.5,SPD Smith,JP Faulkner,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.6,SPD Smith,JP Faulkner,P Suyal,2,1,3,noballs,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.7,SPD Smith,JP Faulkner,P Suyal,0,1,1,noballs,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,15.8,SPD Smith,JP Faulkner,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.1,SPD Smith,JP Faulkner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.2,SPD Smith,JP Faulkner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.3,SPD Smith,JP Faulkner,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.4,SPD Smith,JP Faulkner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.5,SPD Smith,JP Faulkner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,16.6,SPD Smith,JP Faulkner,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.1,SPD Smith,JP Faulkner,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.2,JP Faulkner,SPD Smith,P Suyal,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.3,JP Faulkner,SPD Smith,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.4,SPD Smith,JP Faulkner,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.5,SPD Smith,JP Faulkner,P Suyal,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,17.6,SPD Smith,JP Faulkner,P Suyal,6,0,6,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.1,JP Faulkner,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.2,SPD Smith,JP Faulkner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.3,SPD Smith,JP Faulkner,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.4,SPD Smith,JP Faulkner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.5,SPD Smith,JP Faulkner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,18.6,SPD Smith,JP Faulkner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829721,2nd innings,Rajasthan Royals,Mumbai Indians,19.1,JP Faulkner,SPD Smith,S Gopal,1,0,1,NA,0,NA,NA,NA,1

@@ -1,0 +1,227 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.1,DPMD Jayawardene,V Sehwag,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.2,DPMD Jayawardene,V Sehwag,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.3,DPMD Jayawardene,V Sehwag,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.4,DPMD Jayawardene,V Sehwag,P Kumar,0,0,0,NA,1,caught,DPMD Jayawardene,DJ Hussey,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.5,RE van der Merwe,V Sehwag,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.6,V Sehwag,RE van der Merwe,P Kumar,0,1,1,wides,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,0.7,V Sehwag,RE van der Merwe,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.1,RE van der Merwe,V Sehwag,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.2,V Sehwag,RE van der Merwe,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.3,RE van der Merwe,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.4,RE van der Merwe,V Sehwag,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.5,V Sehwag,RE van der Merwe,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,1.6,RE van der Merwe,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.1,V Sehwag,RE van der Merwe,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.2,V Sehwag,RE van der Merwe,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.3,V Sehwag,RE van der Merwe,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.4,RE van der Merwe,V Sehwag,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.5,RE van der Merwe,V Sehwag,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,2.6,V Sehwag,RE van der Merwe,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.1,RE van der Merwe,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.2,RE van der Merwe,V Sehwag,P Awana,0,0,0,NA,1,caught,RE van der Merwe,Mandeep Singh,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.3,DA Warner,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.4,DA Warner,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.5,DA Warner,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,3.6,DA Warner,V Sehwag,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.1,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.2,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.3,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.4,V Sehwag,DA Warner,Harmeet Singh,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.5,V Sehwag,DA Warner,Harmeet Singh,6,0,6,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,4.6,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.1,DA Warner,V Sehwag,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.2,V Sehwag,DA Warner,P Awana,2,0,2,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.3,V Sehwag,DA Warner,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.4,V Sehwag,DA Warner,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.5,V Sehwag,DA Warner,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,5.6,DA Warner,V Sehwag,P Awana,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.1,V Sehwag,DA Warner,Harmeet Singh,0,1,1,legbyes,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.2,DA Warner,V Sehwag,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.3,V Sehwag,DA Warner,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.4,DA Warner,V Sehwag,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.5,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.6,V Sehwag,DA Warner,Harmeet Singh,0,1,1,wides,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,6.7,V Sehwag,DA Warner,Harmeet Singh,0,0,0,NA,1,caught,V Sehwag,Mandeep Singh,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.1,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.2,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.3,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.4,MC Juneja,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.5,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,7.6,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.1,DA Warner,MC Juneja,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.2,DA Warner,MC Juneja,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.3,MC Juneja,DA Warner,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.4,MC Juneja,DA Warner,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.5,MC Juneja,DA Warner,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,8.6,MC Juneja,DA Warner,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.1,DA Warner,MC Juneja,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.2,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.3,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.4,DA Warner,MC Juneja,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.5,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,9.6,MC Juneja,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.1,DA Warner,MC Juneja,PP Chawla,6,0,6,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.2,DA Warner,MC Juneja,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.3,DA Warner,MC Juneja,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.4,MC Juneja,DA Warner,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.5,MC Juneja,DA Warner,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,10.6,DA Warner,MC Juneja,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.1,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.2,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.3,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.4,DA Warner,MC Juneja,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.5,DA Warner,MC Juneja,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,11.6,MC Juneja,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.1,MC Juneja,DA Warner,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.2,MC Juneja,DA Warner,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.3,MC Juneja,DA Warner,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.4,DA Warner,MC Juneja,BA Bhatt,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.5,DA Warner,MC Juneja,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,12.6,MC Juneja,DA Warner,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.1,MC Juneja,DA Warner,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.2,DA Warner,MC Juneja,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.3,MC Juneja,DA Warner,Harmeet Singh,0,0,0,NA,1,caught,MC Juneja,P Awana,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.4,KM Jadhav,DA Warner,Harmeet Singh,0,1,1,wides,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.5,KM Jadhav,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.6,KM Jadhav,DA Warner,Harmeet Singh,0,0,0,NA,1,caught,KM Jadhav,Mandeep Singh,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,13.7,DA Warner,J Botha,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.1,DA Warner,J Botha,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.2,J Botha,DA Warner,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.3,DA Warner,J Botha,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.4,J Botha,DA Warner,BA Bhatt,0,0,0,NA,1,caught,J Botha,DA Miller,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.5,IK Pathan,DA Warner,BA Bhatt,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,14.6,DA Warner,IK Pathan,BA Bhatt,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.1,IK Pathan,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.2,IK Pathan,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.3,IK Pathan,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.4,IK Pathan,DA Warner,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.5,IK Pathan,DA Warner,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,15.6,DA Warner,IK Pathan,DJ Hussey,0,2,2,legbyes,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.1,IK Pathan,DA Warner,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.2,IK Pathan,DA Warner,Harmeet Singh,2,0,2,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.3,IK Pathan,DA Warner,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.4,IK Pathan,DA Warner,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.5,DA Warner,IK Pathan,Harmeet Singh,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,16.6,DA Warner,IK Pathan,Harmeet Singh,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.1,DA Warner,IK Pathan,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.2,DA Warner,IK Pathan,P Kumar,0,0,0,NA,1,bowled,DA Warner,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.3,AB Agarkar,IK Pathan,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.4,AB Agarkar,IK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.5,IK Pathan,AB Agarkar,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,17.6,AB Agarkar,IK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.1,AB Agarkar,IK Pathan,P Awana,2,0,2,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.2,AB Agarkar,IK Pathan,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.3,IK Pathan,AB Agarkar,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.4,AB Agarkar,IK Pathan,P Awana,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.5,IK Pathan,AB Agarkar,P Awana,0,0,0,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,18.6,IK Pathan,AB Agarkar,P Awana,4,0,4,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.1,AB Agarkar,IK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.2,IK Pathan,AB Agarkar,P Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.3,AB Agarkar,IK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.4,IK Pathan,AB Agarkar,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.5,AB Agarkar,IK Pathan,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+598059,1st innings,Delhi Daredevils,Kings XI Punjab,19.6,IK Pathan,AB Agarkar,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.1,AC Gilchrist,Mandeep Singh,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.2,AC Gilchrist,Mandeep Singh,IK Pathan,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.3,AC Gilchrist,Mandeep Singh,IK Pathan,0,0,0,NA,1,caught,AC Gilchrist,J Botha,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.4,Mandeep Singh,LA Pomersbach,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.5,Mandeep Singh,LA Pomersbach,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,0.6,Mandeep Singh,LA Pomersbach,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.1,Mandeep Singh,LA Pomersbach,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.2,Mandeep Singh,LA Pomersbach,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.3,Mandeep Singh,LA Pomersbach,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.4,Mandeep Singh,LA Pomersbach,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.5,Mandeep Singh,LA Pomersbach,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,1.6,LA Pomersbach,Mandeep Singh,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.1,LA Pomersbach,Mandeep Singh,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.2,Mandeep Singh,LA Pomersbach,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.3,Mandeep Singh,LA Pomersbach,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.4,Mandeep Singh,LA Pomersbach,IK Pathan,0,2,2,wides,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.5,LA Pomersbach,Mandeep Singh,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.6,LA Pomersbach,Mandeep Singh,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,2.7,LA Pomersbach,Mandeep Singh,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.1,Mandeep Singh,LA Pomersbach,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.2,Mandeep Singh,LA Pomersbach,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.3,Mandeep Singh,LA Pomersbach,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.4,LA Pomersbach,Mandeep Singh,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.5,LA Pomersbach,Mandeep Singh,J Botha,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,3.6,LA Pomersbach,Mandeep Singh,J Botha,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.1,Mandeep Singh,LA Pomersbach,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.2,Mandeep Singh,LA Pomersbach,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.3,LA Pomersbach,Mandeep Singh,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.4,LA Pomersbach,Mandeep Singh,RE van der Merwe,0,0,0,NA,1,bowled,LA Pomersbach,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.5,DA Miller,Mandeep Singh,RE van der Merwe,0,0,0,NA,1,run out,Mandeep Singh,DA Warner,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,4.6,DA Miller,M Vohra,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.1,DA Miller,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.2,DA Miller,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.3,DA Miller,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.4,DA Miller,M Vohra,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.5,DA Miller,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,5.6,DA Miller,M Vohra,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.1,DA Miller,M Vohra,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.2,DA Miller,M Vohra,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.3,M Vohra,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.4,M Vohra,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.5,M Vohra,DA Miller,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,6.6,DA Miller,M Vohra,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.1,DA Miller,M Vohra,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.2,M Vohra,DA Miller,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.3,M Vohra,DA Miller,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.4,M Vohra,DA Miller,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.5,DA Miller,M Vohra,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,7.6,DA Miller,M Vohra,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.1,DA Miller,M Vohra,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.2,M Vohra,DA Miller,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.3,M Vohra,DA Miller,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.4,DA Miller,M Vohra,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.5,DA Miller,M Vohra,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,8.6,M Vohra,DA Miller,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.1,M Vohra,DA Miller,J Botha,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.2,M Vohra,DA Miller,J Botha,0,0,0,NA,1,caught and bowled,M Vohra,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.3,DJ Hussey,DA Miller,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.4,DA Miller,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.5,DJ Hussey,DA Miller,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,9.6,DA Miller,DJ Hussey,J Botha,0,4,4,byes,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.1,DJ Hussey,DA Miller,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.2,DA Miller,DJ Hussey,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.3,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.4,DJ Hussey,DA Miller,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.5,DJ Hussey,DA Miller,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,10.6,DA Miller,DJ Hussey,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.1,DA Miller,DJ Hussey,J Botha,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.2,DA Miller,DJ Hussey,J Botha,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.3,DA Miller,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.4,DJ Hussey,DA Miller,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.5,DJ Hussey,DA Miller,J Botha,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,11.6,DA Miller,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.1,DJ Hussey,DA Miller,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.2,DA Miller,DJ Hussey,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.3,DA Miller,DJ Hussey,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.4,DA Miller,DJ Hussey,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.5,DJ Hussey,DA Miller,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,12.6,DJ Hussey,DA Miller,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.1,DA Miller,DJ Hussey,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.2,DA Miller,DJ Hussey,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.3,DA Miller,DJ Hussey,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.4,DJ Hussey,DA Miller,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.5,DA Miller,DJ Hussey,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,13.6,DJ Hussey,DA Miller,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.1,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.2,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.3,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.4,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.5,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,14.6,DJ Hussey,DA Miller,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.1,DA Miller,DJ Hussey,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.2,DA Miller,DJ Hussey,A Nehra,2,0,2,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.3,DA Miller,DJ Hussey,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.4,DJ Hussey,DA Miller,A Nehra,6,0,6,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.5,DJ Hussey,DA Miller,A Nehra,0,0,0,NA,1,caught,DJ Hussey,J Botha,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,15.6,DA Miller,PP Chawla,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.1,DA Miller,PP Chawla,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.2,DA Miller,PP Chawla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.3,DA Miller,PP Chawla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.4,PP Chawla,DA Miller,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.5,PP Chawla,DA Miller,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+598059,2nd innings,Kings XI Punjab,Delhi Daredevils,16.6,PP Chawla,DA Miller,UT Yadav,1,0,1,NA,0,NA,NA,NA,1

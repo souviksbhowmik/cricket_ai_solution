@@ -1,0 +1,222 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.1,J Arunkumar,V Kohli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.2,V Kohli,J Arunkumar,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.3,V Kohli,J Arunkumar,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.4,V Kohli,J Arunkumar,S Sreesanth,2,0,2,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.5,V Kohli,J Arunkumar,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,0.6,V Kohli,J Arunkumar,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.1,J Arunkumar,V Kohli,IK Pathan,0,1,1,legbyes,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.2,V Kohli,J Arunkumar,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.3,V Kohli,J Arunkumar,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.4,V Kohli,J Arunkumar,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.5,V Kohli,J Arunkumar,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,1.6,V Kohli,J Arunkumar,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.1,J Arunkumar,V Kohli,S Sreesanth,0,0,0,NA,1,caught,J Arunkumar,DPMD Jayawardene,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.2,Misbah-ul-Haq,V Kohli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.3,V Kohli,Misbah-ul-Haq,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.4,V Kohli,Misbah-ul-Haq,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.5,Misbah-ul-Haq,V Kohli,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,2.6,Misbah-ul-Haq,V Kohli,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.1,V Kohli,Misbah-ul-Haq,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.2,V Kohli,Misbah-ul-Haq,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.3,V Kohli,Misbah-ul-Haq,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.4,V Kohli,Misbah-ul-Haq,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.5,V Kohli,Misbah-ul-Haq,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,3.6,Misbah-ul-Haq,V Kohli,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.1,Misbah-ul-Haq,V Kohli,S Sreesanth,6,0,6,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.2,Misbah-ul-Haq,V Kohli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.3,V Kohli,Misbah-ul-Haq,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.4,V Kohli,Misbah-ul-Haq,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.5,Misbah-ul-Haq,V Kohli,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,4.6,Misbah-ul-Haq,V Kohli,S Sreesanth,0,0,0,NA,1,hit wicket,Misbah-ul-Haq,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.1,V Kohli,CL White,PP Chawla,0,5,5,wides,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.2,V Kohli,CL White,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.3,V Kohli,CL White,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.4,V Kohli,CL White,PP Chawla,0,0,0,NA,1,bowled,V Kohli,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.5,R Dravid,CL White,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.6,CL White,R Dravid,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,5.7,CL White,R Dravid,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.1,R Dravid,CL White,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.2,R Dravid,CL White,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.3,R Dravid,CL White,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.4,CL White,R Dravid,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.5,R Dravid,CL White,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,6.6,R Dravid,CL White,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.1,R Dravid,CL White,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.2,CL White,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.3,R Dravid,CL White,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.4,CL White,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.5,R Dravid,CL White,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,7.6,CL White,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.1,CL White,R Dravid,VRV Singh,2,0,2,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.2,CL White,R Dravid,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.3,R Dravid,CL White,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.4,CL White,R Dravid,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.5,CL White,R Dravid,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,8.6,CL White,R Dravid,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.1,CL White,R Dravid,Yuvraj Singh,0,1,1,wides,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.2,CL White,R Dravid,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.3,R Dravid,CL White,Yuvraj Singh,2,0,2,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.4,R Dravid,CL White,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.5,R Dravid,CL White,Yuvraj Singh,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.6,R Dravid,CL White,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,9.7,CL White,R Dravid,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.1,CL White,R Dravid,PP Chawla,0,0,0,NA,1,caught and bowled,CL White,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.2,R Dravid,MV Boucher,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.3,MV Boucher,R Dravid,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.4,MV Boucher,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.5,R Dravid,MV Boucher,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,10.6,MV Boucher,R Dravid,PP Chawla,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.1,R Dravid,MV Boucher,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.2,MV Boucher,R Dravid,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.3,R Dravid,MV Boucher,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.4,MV Boucher,R Dravid,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.5,MV Boucher,R Dravid,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,11.6,MV Boucher,R Dravid,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.1,MV Boucher,R Dravid,PP Chawla,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.2,MV Boucher,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.3,R Dravid,MV Boucher,PP Chawla,2,0,2,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.4,R Dravid,MV Boucher,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.5,MV Boucher,R Dravid,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,12.6,R Dravid,MV Boucher,PP Chawla,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.1,R Dravid,MV Boucher,JR Hopes,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.2,MV Boucher,R Dravid,JR Hopes,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.3,MV Boucher,R Dravid,JR Hopes,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.4,MV Boucher,R Dravid,JR Hopes,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.5,MV Boucher,R Dravid,JR Hopes,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,13.6,R Dravid,MV Boucher,JR Hopes,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.1,MV Boucher,R Dravid,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.2,R Dravid,MV Boucher,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.3,MV Boucher,R Dravid,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.4,R Dravid,MV Boucher,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.5,MV Boucher,R Dravid,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,14.6,R Dravid,MV Boucher,IK Pathan,0,0,0,NA,1,bowled,R Dravid,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.1,MV Boucher,P Kumar,JR Hopes,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.2,P Kumar,MV Boucher,JR Hopes,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.3,MV Boucher,P Kumar,JR Hopes,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.4,MV Boucher,P Kumar,JR Hopes,6,0,6,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.5,MV Boucher,P Kumar,JR Hopes,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,15.6,MV Boucher,P Kumar,JR Hopes,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.1,P Kumar,MV Boucher,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.2,P Kumar,MV Boucher,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.3,MV Boucher,P Kumar,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.4,MV Boucher,P Kumar,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.5,P Kumar,MV Boucher,VRV Singh,2,0,2,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,16.6,P Kumar,MV Boucher,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.1,P Kumar,MV Boucher,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.2,P Kumar,MV Boucher,S Sreesanth,0,0,0,NA,1,bowled,P Kumar,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.3,R Vinay Kumar,MV Boucher,S Sreesanth,0,1,1,wides,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.4,R Vinay Kumar,MV Boucher,S Sreesanth,0,1,1,legbyes,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.5,MV Boucher,R Vinay Kumar,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.6,R Vinay Kumar,MV Boucher,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,17.7,MV Boucher,R Vinay Kumar,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.1,MV Boucher,R Vinay Kumar,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.2,R Vinay Kumar,MV Boucher,VRV Singh,0,0,0,NA,1,bowled,R Vinay Kumar,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.3,Z Khan,MV Boucher,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.4,Z Khan,MV Boucher,VRV Singh,0,1,1,byes,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.5,MV Boucher,Z Khan,VRV Singh,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,18.6,Z Khan,MV Boucher,VRV Singh,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.1,MV Boucher,Z Khan,IK Pathan,0,1,1,wides,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.2,MV Boucher,Z Khan,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.3,Z Khan,MV Boucher,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.4,MV Boucher,Z Khan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.5,MV Boucher,Z Khan,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.6,MV Boucher,Z Khan,IK Pathan,1,0,1,NA,1,run out,MV Boucher,PP Chawla,0
+336016,1st innings,Royal Challengers Bangalore,Kings XI Punjab,19.7,A Kumble,Z Khan,IK Pathan,0,4,4,byes,0,NA,NA,NA,0
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.1,SE Marsh,JR Hopes,DW Steyn,0,2,2,wides,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.2,JR Hopes,SE Marsh,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.3,SE Marsh,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.4,SE Marsh,JR Hopes,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.5,SE Marsh,JR Hopes,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.6,SE Marsh,JR Hopes,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,0.7,JR Hopes,SE Marsh,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.1,SE Marsh,JR Hopes,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.2,SE Marsh,JR Hopes,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.3,SE Marsh,JR Hopes,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.4,SE Marsh,JR Hopes,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.5,SE Marsh,JR Hopes,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,1.6,SE Marsh,JR Hopes,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.1,SE Marsh,JR Hopes,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.2,SE Marsh,JR Hopes,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.3,JR Hopes,SE Marsh,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.4,SE Marsh,JR Hopes,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.5,JR Hopes,SE Marsh,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,2.6,SE Marsh,JR Hopes,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.1,JR Hopes,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.2,JR Hopes,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.3,JR Hopes,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.4,JR Hopes,SE Marsh,Z Khan,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.5,JR Hopes,SE Marsh,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,3.6,SE Marsh,JR Hopes,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.1,SE Marsh,JR Hopes,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.2,JR Hopes,SE Marsh,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.3,JR Hopes,SE Marsh,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.4,JR Hopes,SE Marsh,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.5,SE Marsh,JR Hopes,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,4.6,SE Marsh,JR Hopes,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.1,JR Hopes,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.2,JR Hopes,SE Marsh,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.3,JR Hopes,SE Marsh,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.4,SE Marsh,JR Hopes,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.5,JR Hopes,SE Marsh,Z Khan,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,5.6,JR Hopes,SE Marsh,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.1,JR Hopes,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.2,JR Hopes,SE Marsh,R Vinay Kumar,0,0,0,NA,1,caught,JR Hopes,DW Steyn,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.3,SE Marsh,LA Pomersbach,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.4,LA Pomersbach,SE Marsh,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.5,LA Pomersbach,SE Marsh,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,6.6,SE Marsh,LA Pomersbach,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.1,SE Marsh,LA Pomersbach,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.2,LA Pomersbach,SE Marsh,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.3,SE Marsh,LA Pomersbach,A Kumble,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.4,SE Marsh,LA Pomersbach,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.5,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,7.6,LA Pomersbach,SE Marsh,A Kumble,0,4,4,legbyes,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.1,SE Marsh,LA Pomersbach,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.2,SE Marsh,LA Pomersbach,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.3,SE Marsh,LA Pomersbach,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.4,SE Marsh,LA Pomersbach,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.5,SE Marsh,LA Pomersbach,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,8.6,SE Marsh,LA Pomersbach,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.1,LA Pomersbach,SE Marsh,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.2,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.3,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.4,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.5,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,9.6,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.1,SE Marsh,LA Pomersbach,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.2,SE Marsh,LA Pomersbach,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.3,SE Marsh,LA Pomersbach,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.4,SE Marsh,LA Pomersbach,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.5,SE Marsh,LA Pomersbach,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.6,SE Marsh,LA Pomersbach,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,10.7,LA Pomersbach,SE Marsh,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.1,LA Pomersbach,SE Marsh,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.2,SE Marsh,LA Pomersbach,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.3,LA Pomersbach,SE Marsh,A Kumble,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.4,LA Pomersbach,SE Marsh,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.5,SE Marsh,LA Pomersbach,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,11.6,SE Marsh,LA Pomersbach,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.1,SE Marsh,LA Pomersbach,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.2,LA Pomersbach,SE Marsh,V Kohli,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.3,LA Pomersbach,SE Marsh,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.4,SE Marsh,LA Pomersbach,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.5,LA Pomersbach,SE Marsh,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,12.6,SE Marsh,LA Pomersbach,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.1,SE Marsh,LA Pomersbach,A Kumble,0,1,1,wides,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.2,SE Marsh,LA Pomersbach,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.3,LA Pomersbach,SE Marsh,A Kumble,6,0,6,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.4,LA Pomersbach,SE Marsh,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.5,LA Pomersbach,SE Marsh,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.6,SE Marsh,LA Pomersbach,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,13.7,SE Marsh,LA Pomersbach,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.1,LA Pomersbach,SE Marsh,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.2,SE Marsh,LA Pomersbach,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.3,SE Marsh,LA Pomersbach,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.4,SE Marsh,LA Pomersbach,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.5,SE Marsh,LA Pomersbach,Z Khan,0,1,1,legbyes,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,14.6,LA Pomersbach,SE Marsh,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,15.1,SE Marsh,LA Pomersbach,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,15.2,LA Pomersbach,SE Marsh,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,15.3,SE Marsh,LA Pomersbach,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,15.4,SE Marsh,LA Pomersbach,P Kumar,1,0,1,NA,0,NA,NA,NA,1

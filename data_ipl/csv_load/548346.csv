@@ -1,0 +1,233 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.1,PA Patel,S Dhawan,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.2,PA Patel,S Dhawan,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.3,PA Patel,S Dhawan,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.4,PA Patel,S Dhawan,Harbhajan Singh,0,1,1,legbyes,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.5,S Dhawan,PA Patel,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,0.6,S Dhawan,PA Patel,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.1,PA Patel,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.2,PA Patel,S Dhawan,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.3,PA Patel,S Dhawan,RP Singh,6,0,6,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.4,PA Patel,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.5,PA Patel,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,1.6,PA Patel,S Dhawan,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.1,PA Patel,S Dhawan,MM Patel,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.2,PA Patel,S Dhawan,MM Patel,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.3,PA Patel,S Dhawan,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.4,PA Patel,S Dhawan,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.5,S Dhawan,PA Patel,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,2.6,S Dhawan,PA Patel,MM Patel,0,1,1,byes,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.1,S Dhawan,PA Patel,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.2,S Dhawan,PA Patel,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.3,S Dhawan,PA Patel,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.4,S Dhawan,PA Patel,RP Singh,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.5,S Dhawan,PA Patel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,3.6,PA Patel,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.1,S Dhawan,PA Patel,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.2,S Dhawan,PA Patel,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.3,PA Patel,S Dhawan,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.4,S Dhawan,PA Patel,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.5,S Dhawan,PA Patel,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,4.6,S Dhawan,PA Patel,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.1,S Dhawan,PA Patel,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.2,PA Patel,S Dhawan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.3,PA Patel,S Dhawan,RP Singh,0,0,0,NA,1,caught,PA Patel,MM Patel,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.4,IR Jaggi,S Dhawan,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.5,S Dhawan,IR Jaggi,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,5.6,S Dhawan,IR Jaggi,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.1,IR Jaggi,S Dhawan,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.2,IR Jaggi,S Dhawan,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.3,S Dhawan,IR Jaggi,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.4,IR Jaggi,S Dhawan,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.5,IR Jaggi,S Dhawan,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,6.6,IR Jaggi,S Dhawan,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.1,S Dhawan,IR Jaggi,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.2,IR Jaggi,S Dhawan,Harbhajan Singh,0,0,0,NA,1,caught,IR Jaggi,MM Patel,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.3,S Dhawan,CL White,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.4,S Dhawan,CL White,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.5,S Dhawan,CL White,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,7.6,S Dhawan,CL White,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.1,CL White,S Dhawan,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.2,CL White,S Dhawan,SL Malinga,0,0,0,NA,1,caught,CL White,RP Singh,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.3,JP Duminy,S Dhawan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.4,JP Duminy,S Dhawan,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.5,JP Duminy,S Dhawan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.6,JP Duminy,S Dhawan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.7,JP Duminy,S Dhawan,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,8.8,S Dhawan,JP Duminy,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.1,JP Duminy,S Dhawan,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.2,JP Duminy,S Dhawan,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.3,S Dhawan,JP Duminy,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.4,JP Duminy,S Dhawan,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.5,S Dhawan,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,9.6,S Dhawan,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.1,JP Duminy,S Dhawan,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.2,S Dhawan,JP Duminy,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.3,JP Duminy,S Dhawan,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.4,S Dhawan,JP Duminy,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.5,S Dhawan,JP Duminy,JEC Franklin,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,10.6,S Dhawan,JP Duminy,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.1,S Dhawan,JP Duminy,Harbhajan Singh,0,0,0,NA,1,stumped,S Dhawan,KD Karthik,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.2,DT Christian,JP Duminy,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.3,DT Christian,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.4,DT Christian,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.5,DT Christian,JP Duminy,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,11.6,JP Duminy,DT Christian,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.1,DT Christian,JP Duminy,JEC Franklin,0,0,0,NA,1,caught,DT Christian,RG Sharma,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.2,B Chipli,JP Duminy,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.3,B Chipli,JP Duminy,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.4,JP Duminy,B Chipli,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.5,JP Duminy,B Chipli,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,12.6,B Chipli,JP Duminy,JEC Franklin,0,0,0,NA,1,caught,B Chipli,Harbhajan Singh,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.1,A Ashish Reddy,JP Duminy,RJ Peterson,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.2,A Ashish Reddy,JP Duminy,RJ Peterson,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.3,A Ashish Reddy,JP Duminy,RJ Peterson,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.4,A Ashish Reddy,JP Duminy,RJ Peterson,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.5,JP Duminy,A Ashish Reddy,RJ Peterson,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,13.6,A Ashish Reddy,JP Duminy,RJ Peterson,6,0,6,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.1,JP Duminy,A Ashish Reddy,JEC Franklin,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.2,JP Duminy,A Ashish Reddy,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.3,JP Duminy,A Ashish Reddy,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.4,A Ashish Reddy,JP Duminy,JEC Franklin,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.5,A Ashish Reddy,JP Duminy,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,14.6,A Ashish Reddy,JP Duminy,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.1,A Ashish Reddy,JP Duminy,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.2,A Ashish Reddy,JP Duminy,MM Patel,0,0,0,NA,1,caught,A Ashish Reddy,RG Sharma,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.3,JP Duminy,A Mishra,MM Patel,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.4,JP Duminy,A Mishra,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.5,A Mishra,JP Duminy,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,15.6,A Mishra,JP Duminy,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.1,JP Duminy,A Mishra,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.2,A Mishra,JP Duminy,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.3,A Mishra,JP Duminy,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.4,A Mishra,JP Duminy,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.5,JP Duminy,A Mishra,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,16.6,A Mishra,JP Duminy,SL Malinga,0,0,0,NA,1,caught,A Mishra,JEC Franklin,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.1,DW Steyn,JP Duminy,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.2,DW Steyn,JP Duminy,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.3,JP Duminy,DW Steyn,MM Patel,4,0,4,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.4,JP Duminy,DW Steyn,MM Patel,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.5,JP Duminy,DW Steyn,MM Patel,0,1,1,wides,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.6,JP Duminy,DW Steyn,MM Patel,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,17.7,DW Steyn,JP Duminy,MM Patel,2,0,2,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,18.1,JP Duminy,DW Steyn,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,18.2,DW Steyn,JP Duminy,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,18.3,DW Steyn,JP Duminy,SL Malinga,0,0,0,NA,1,caught and bowled,DW Steyn,NA,0
+548346,1st innings,Deccan Chargers,Mumbai Indians,18.4,V Pratap Singh,JP Duminy,SL Malinga,0,0,0,NA,1,caught,V Pratap Singh,RG Sharma,0
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.1,RE Levi,SR Tendulkar,DW Steyn,0,0,0,NA,1,bowled,RE Levi,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.2,RG Sharma,SR Tendulkar,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.3,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.4,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.5,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.6,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,0.7,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.1,SR Tendulkar,RG Sharma,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.2,SR Tendulkar,RG Sharma,V Pratap Singh,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.3,SR Tendulkar,RG Sharma,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.4,SR Tendulkar,RG Sharma,V Pratap Singh,3,0,3,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.5,RG Sharma,SR Tendulkar,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.6,RG Sharma,SR Tendulkar,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,1.7,RG Sharma,SR Tendulkar,V Pratap Singh,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.1,SR Tendulkar,RG Sharma,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.2,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.3,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.4,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.5,RG Sharma,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,2.6,RG Sharma,SR Tendulkar,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.1,RG Sharma,SR Tendulkar,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.2,RG Sharma,SR Tendulkar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.3,SR Tendulkar,RG Sharma,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.4,SR Tendulkar,RG Sharma,V Pratap Singh,0,1,1,legbyes,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.5,RG Sharma,SR Tendulkar,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,3.6,RG Sharma,SR Tendulkar,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.1,SR Tendulkar,RG Sharma,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.2,SR Tendulkar,RG Sharma,DT Christian,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.3,SR Tendulkar,RG Sharma,DT Christian,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.4,SR Tendulkar,RG Sharma,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.5,SR Tendulkar,RG Sharma,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.6,SR Tendulkar,RG Sharma,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,4.7,RG Sharma,SR Tendulkar,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.1,SR Tendulkar,RG Sharma,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.2,RG Sharma,SR Tendulkar,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.3,RG Sharma,SR Tendulkar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.4,SR Tendulkar,RG Sharma,V Pratap Singh,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.5,SR Tendulkar,RG Sharma,V Pratap Singh,0,0,0,NA,1,caught,SR Tendulkar,DT Christian,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,5.6,KD Karthik,RG Sharma,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.1,RG Sharma,KD Karthik,DT Christian,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.2,RG Sharma,KD Karthik,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.3,KD Karthik,RG Sharma,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.4,KD Karthik,RG Sharma,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.5,RG Sharma,KD Karthik,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.6,RG Sharma,KD Karthik,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,6.7,RG Sharma,KD Karthik,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.1,RG Sharma,KD Karthik,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.2,KD Karthik,RG Sharma,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.3,RG Sharma,KD Karthik,V Pratap Singh,6,0,6,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.4,RG Sharma,KD Karthik,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.5,RG Sharma,KD Karthik,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,7.6,KD Karthik,RG Sharma,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.1,RG Sharma,KD Karthik,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.2,RG Sharma,KD Karthik,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.3,KD Karthik,RG Sharma,DW Steyn,0,0,0,NA,1,caught,KD Karthik,PA Patel,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.4,JEC Franklin,RG Sharma,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.5,JEC Franklin,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.6,JEC Franklin,RG Sharma,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.7,JEC Franklin,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,8.8,JEC Franklin,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.1,RG Sharma,JEC Franklin,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.2,RG Sharma,JEC Franklin,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.3,RG Sharma,JEC Franklin,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.4,JEC Franklin,RG Sharma,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.5,JEC Franklin,RG Sharma,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,9.6,RG Sharma,JEC Franklin,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.1,RG Sharma,JEC Franklin,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.2,RG Sharma,JEC Franklin,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.3,RG Sharma,JEC Franklin,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.4,RG Sharma,JEC Franklin,A Ashish Reddy,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.5,RG Sharma,JEC Franklin,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,10.6,JEC Franklin,RG Sharma,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.1,RG Sharma,JEC Franklin,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.2,JEC Franklin,RG Sharma,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.3,JEC Franklin,RG Sharma,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.4,JEC Franklin,RG Sharma,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.5,RG Sharma,JEC Franklin,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,11.6,RG Sharma,JEC Franklin,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.1,JEC Franklin,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.2,JEC Franklin,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.3,JEC Franklin,RG Sharma,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.4,RG Sharma,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.5,JEC Franklin,RG Sharma,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,12.6,RG Sharma,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.1,RG Sharma,JEC Franklin,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.2,JEC Franklin,RG Sharma,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.3,RG Sharma,JEC Franklin,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.4,JEC Franklin,RG Sharma,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.5,RG Sharma,JEC Franklin,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,13.6,RG Sharma,JEC Franklin,JP Duminy,0,0,0,NA,1,caught,RG Sharma,IR Jaggi,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.1,JEC Franklin,AT Rayudu,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.2,JEC Franklin,AT Rayudu,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.3,AT Rayudu,JEC Franklin,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.4,AT Rayudu,JEC Franklin,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.5,AT Rayudu,JEC Franklin,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,14.6,AT Rayudu,JEC Franklin,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.1,AT Rayudu,JEC Franklin,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.2,JEC Franklin,AT Rayudu,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.3,AT Rayudu,JEC Franklin,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.4,AT Rayudu,JEC Franklin,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.5,JEC Franklin,AT Rayudu,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,15.6,AT Rayudu,JEC Franklin,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.1,JEC Franklin,AT Rayudu,A Ashish Reddy,0,0,0,NA,1,caught,JEC Franklin,PA Patel,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.2,RJ Peterson,AT Rayudu,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.3,RJ Peterson,AT Rayudu,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.4,RJ Peterson,AT Rayudu,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.5,AT Rayudu,RJ Peterson,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,16.6,RJ Peterson,AT Rayudu,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.1,AT Rayudu,RJ Peterson,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.2,AT Rayudu,RJ Peterson,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.3,AT Rayudu,RJ Peterson,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.4,RJ Peterson,AT Rayudu,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.5,RJ Peterson,AT Rayudu,A Mishra,0,2,2,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.6,AT Rayudu,RJ Peterson,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,17.7,AT Rayudu,RJ Peterson,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,18.1,AT Rayudu,RJ Peterson,A Ashish Reddy,0,1,1,wides,0,NA,NA,NA,1
+548346,2nd innings,Mumbai Indians,Deccan Chargers,18.2,AT Rayudu,RJ Peterson,A Ashish Reddy,3,0,3,NA,0,NA,NA,NA,1

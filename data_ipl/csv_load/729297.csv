@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.1,DR Smith,BB McCullum,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.2,DR Smith,BB McCullum,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.3,DR Smith,BB McCullum,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.4,DR Smith,BB McCullum,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.5,DR Smith,BB McCullum,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,0.6,DR Smith,BB McCullum,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.1,DR Smith,BB McCullum,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.2,DR Smith,BB McCullum,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.3,DR Smith,BB McCullum,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.4,DR Smith,BB McCullum,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.5,DR Smith,BB McCullum,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,1.6,BB McCullum,DR Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.1,DR Smith,BB McCullum,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.2,BB McCullum,DR Smith,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.3,DR Smith,BB McCullum,JP Faulkner,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.4,DR Smith,BB McCullum,JP Faulkner,6,0,6,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.5,DR Smith,BB McCullum,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,2.6,BB McCullum,DR Smith,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.1,BB McCullum,DR Smith,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.2,BB McCullum,DR Smith,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.3,BB McCullum,DR Smith,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.4,BB McCullum,DR Smith,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.5,DR Smith,BB McCullum,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,3.6,DR Smith,BB McCullum,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.1,DR Smith,BB McCullum,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.2,DR Smith,BB McCullum,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.3,DR Smith,BB McCullum,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.4,BB McCullum,DR Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.5,DR Smith,BB McCullum,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,4.6,DR Smith,BB McCullum,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.1,BB McCullum,DR Smith,JP Faulkner,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.2,BB McCullum,DR Smith,JP Faulkner,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.3,BB McCullum,DR Smith,JP Faulkner,0,0,0,NA,1,caught,BB McCullum,SPD Smith,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.4,DR Smith,SK Raina,JP Faulkner,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.5,DR Smith,SK Raina,JP Faulkner,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.6,DR Smith,SK Raina,JP Faulkner,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,5.7,DR Smith,SK Raina,JP Faulkner,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.1,SK Raina,DR Smith,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.2,SK Raina,DR Smith,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.3,SK Raina,DR Smith,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.4,SK Raina,DR Smith,PV Tambe,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.5,SK Raina,DR Smith,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,6.6,SK Raina,DR Smith,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.1,DR Smith,SK Raina,STR Binny,6,0,6,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.2,DR Smith,SK Raina,STR Binny,0,0,0,NA,1,caught,DR Smith,SR Watson,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.3,SK Raina,F du Plessis,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.4,F du Plessis,SK Raina,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.5,SK Raina,F du Plessis,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,7.6,F du Plessis,SK Raina,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.1,F du Plessis,SK Raina,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.2,SK Raina,F du Plessis,R Bhatia,0,0,0,NA,1,caught,SK Raina,DS Kulkarni,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.3,F du Plessis,MS Dhoni,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.4,F du Plessis,MS Dhoni,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.5,MS Dhoni,F du Plessis,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,8.6,MS Dhoni,F du Plessis,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.1,MS Dhoni,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.2,F du Plessis,MS Dhoni,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.3,F du Plessis,MS Dhoni,PV Tambe,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.4,F du Plessis,MS Dhoni,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.5,MS Dhoni,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,9.6,F du Plessis,MS Dhoni,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.1,MS Dhoni,F du Plessis,R Bhatia,0,0,0,NA,1,run out,F du Plessis,R Bhatia,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.2,MS Dhoni,RA Jadeja,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.3,RA Jadeja,MS Dhoni,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.4,RA Jadeja,MS Dhoni,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.5,MS Dhoni,RA Jadeja,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,10.6,RA Jadeja,MS Dhoni,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.1,MS Dhoni,RA Jadeja,PV Tambe,0,0,0,NA,1,caught,MS Dhoni,JP Faulkner,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.2,RA Jadeja,M Manhas,PV Tambe,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.3,RA Jadeja,M Manhas,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.4,RA Jadeja,M Manhas,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.5,M Manhas,RA Jadeja,PV Tambe,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,11.6,M Manhas,RA Jadeja,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.1,RA Jadeja,M Manhas,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.2,RA Jadeja,M Manhas,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.3,RA Jadeja,M Manhas,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.4,M Manhas,RA Jadeja,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.5,RA Jadeja,M Manhas,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,12.6,M Manhas,RA Jadeja,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.1,M Manhas,RA Jadeja,PV Tambe,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.2,M Manhas,RA Jadeja,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.3,RA Jadeja,M Manhas,PV Tambe,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.4,RA Jadeja,M Manhas,PV Tambe,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.5,M Manhas,RA Jadeja,PV Tambe,0,5,5,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.6,M Manhas,RA Jadeja,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,13.7,M Manhas,RA Jadeja,PV Tambe,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.1,RA Jadeja,M Manhas,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.2,M Manhas,RA Jadeja,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.3,RA Jadeja,M Manhas,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.4,RA Jadeja,M Manhas,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.5,M Manhas,RA Jadeja,R Bhatia,0,0,0,NA,1,caught,M Manhas,AM Nayar,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,14.6,R Ashwin,RA Jadeja,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.1,RA Jadeja,R Ashwin,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.2,R Ashwin,RA Jadeja,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.3,RA Jadeja,R Ashwin,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.4,R Ashwin,RA Jadeja,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.5,R Ashwin,RA Jadeja,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,15.6,RA Jadeja,R Ashwin,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.1,RA Jadeja,R Ashwin,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.2,RA Jadeja,R Ashwin,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.3,RA Jadeja,R Ashwin,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.4,RA Jadeja,R Ashwin,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.5,RA Jadeja,R Ashwin,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.6,RA Jadeja,R Ashwin,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.7,R Ashwin,RA Jadeja,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.8,R Ashwin,RA Jadeja,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.9,R Ashwin,RA Jadeja,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,16.1,R Ashwin,RA Jadeja,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.1,RA Jadeja,R Ashwin,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.2,R Ashwin,RA Jadeja,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.3,R Ashwin,RA Jadeja,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.4,R Ashwin,RA Jadeja,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.5,R Ashwin,RA Jadeja,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,17.6,RA Jadeja,R Ashwin,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.1,RA Jadeja,R Ashwin,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.2,R Ashwin,RA Jadeja,JP Faulkner,4,0,4,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.3,R Ashwin,RA Jadeja,JP Faulkner,0,2,2,legbyes,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.4,R Ashwin,RA Jadeja,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.5,RA Jadeja,R Ashwin,JP Faulkner,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,18.6,RA Jadeja,R Ashwin,JP Faulkner,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.1,RA Jadeja,R Ashwin,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.2,RA Jadeja,R Ashwin,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.3,RA Jadeja,R Ashwin,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.4,R Ashwin,RA Jadeja,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.5,RA Jadeja,R Ashwin,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.6,RA Jadeja,R Ashwin,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+729297,1st innings,Chennai Super Kings,Rajasthan Royals,19.7,RA Jadeja,R Ashwin,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.1,AM Nayar,AM Rahane,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.2,AM Nayar,AM Rahane,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.3,AM Nayar,AM Rahane,BW Hilfenhaus,0,1,1,wides,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.4,AM Nayar,AM Rahane,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.5,AM Nayar,AM Rahane,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.6,AM Rahane,AM Nayar,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,0.7,AM Rahane,AM Nayar,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.1,AM Nayar,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.2,AM Nayar,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.3,AM Nayar,AM Rahane,IC Pandey,0,0,0,NA,1,run out,AM Nayar,BB McCullum,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.4,SV Samson,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.5,SV Samson,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,1.6,SV Samson,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.1,AM Rahane,SV Samson,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.2,AM Rahane,SV Samson,BW Hilfenhaus,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.3,AM Rahane,SV Samson,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.4,AM Rahane,SV Samson,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.5,AM Rahane,SV Samson,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,2.6,SV Samson,AM Rahane,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.1,AM Rahane,SV Samson,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.2,AM Rahane,SV Samson,IC Pandey,3,0,3,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.3,SV Samson,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.4,SV Samson,AM Rahane,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.5,SV Samson,AM Rahane,IC Pandey,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,3.6,SV Samson,AM Rahane,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.1,SV Samson,AM Rahane,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.2,SV Samson,AM Rahane,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.3,SV Samson,AM Rahane,BW Hilfenhaus,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.4,SV Samson,AM Rahane,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.5,AM Rahane,SV Samson,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,4.6,SV Samson,AM Rahane,BW Hilfenhaus,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.1,AM Rahane,SV Samson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.2,AM Rahane,SV Samson,R Ashwin,0,0,0,NA,1,caught,AM Rahane,M Manhas,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.3,SR Watson,SV Samson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.4,SR Watson,SV Samson,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.5,SV Samson,SR Watson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,5.6,SV Samson,SR Watson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.1,SR Watson,SV Samson,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.2,SR Watson,SV Samson,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.3,SR Watson,SV Samson,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.4,SR Watson,SV Samson,RA Jadeja,0,0,0,NA,1,caught,SR Watson,BW Hilfenhaus,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.5,SV Samson,STR Binny,RA Jadeja,0,0,0,NA,1,caught and bowled,SV Samson,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,6.6,SPD Smith,STR Binny,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.1,STR Binny,SPD Smith,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.2,STR Binny,SPD Smith,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.3,STR Binny,SPD Smith,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.4,SPD Smith,STR Binny,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.5,STR Binny,SPD Smith,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,7.6,STR Binny,SPD Smith,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.1,STR Binny,SPD Smith,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.2,SPD Smith,STR Binny,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.3,SPD Smith,STR Binny,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.4,SPD Smith,STR Binny,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.5,SPD Smith,STR Binny,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,8.6,SPD Smith,STR Binny,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.1,SPD Smith,STR Binny,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.2,STR Binny,SPD Smith,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.3,SPD Smith,STR Binny,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.4,SPD Smith,STR Binny,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.5,SPD Smith,STR Binny,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,9.6,STR Binny,SPD Smith,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.1,SPD Smith,STR Binny,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.2,SPD Smith,STR Binny,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.3,STR Binny,SPD Smith,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.4,STR Binny,SPD Smith,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.5,STR Binny,SPD Smith,MM Sharma,0,0,0,NA,1,caught,STR Binny,F du Plessis,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,10.6,SPD Smith,R Bhatia,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.1,R Bhatia,SPD Smith,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.2,SPD Smith,R Bhatia,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.3,R Bhatia,SPD Smith,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.4,R Bhatia,SPD Smith,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.5,R Bhatia,SPD Smith,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,11.6,SPD Smith,R Bhatia,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.1,R Bhatia,SPD Smith,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.2,SPD Smith,R Bhatia,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.3,SPD Smith,R Bhatia,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.4,SPD Smith,R Bhatia,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.5,R Bhatia,SPD Smith,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,12.6,SPD Smith,R Bhatia,RA Jadeja,0,0,0,NA,1,caught,SPD Smith,F du Plessis,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.1,R Bhatia,JP Faulkner,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.2,JP Faulkner,R Bhatia,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.3,JP Faulkner,R Bhatia,IC Pandey,0,0,0,NA,1,caught,JP Faulkner,MS Dhoni,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.4,TG Southee,R Bhatia,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.5,TG Southee,R Bhatia,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,13.6,TG Southee,R Bhatia,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.1,R Bhatia,TG Southee,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.2,TG Southee,R Bhatia,RA Jadeja,0,0,0,NA,1,bowled,TG Southee,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.3,DS Kulkarni,R Bhatia,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.4,R Bhatia,DS Kulkarni,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.5,DS Kulkarni,R Bhatia,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,14.6,DS Kulkarni,R Bhatia,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.1,R Bhatia,DS Kulkarni,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.2,R Bhatia,DS Kulkarni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.3,DS Kulkarni,R Bhatia,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.4,DS Kulkarni,R Bhatia,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.5,R Bhatia,DS Kulkarni,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.6,R Bhatia,DS Kulkarni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,15.7,DS Kulkarni,R Bhatia,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.1,DS Kulkarni,R Bhatia,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.2,DS Kulkarni,R Bhatia,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.3,R Bhatia,DS Kulkarni,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.4,R Bhatia,DS Kulkarni,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.5,DS Kulkarni,R Bhatia,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,16.6,R Bhatia,DS Kulkarni,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.1,DS Kulkarni,R Bhatia,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.2,DS Kulkarni,R Bhatia,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.3,R Bhatia,DS Kulkarni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.4,DS Kulkarni,R Bhatia,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.5,R Bhatia,DS Kulkarni,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,17.6,R Bhatia,DS Kulkarni,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.1,DS Kulkarni,R Bhatia,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.2,R Bhatia,DS Kulkarni,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.3,R Bhatia,DS Kulkarni,BW Hilfenhaus,0,0,0,NA,1,caught,R Bhatia,R Ashwin,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.4,DS Kulkarni,PV Tambe,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.5,PV Tambe,DS Kulkarni,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,18.6,DS Kulkarni,PV Tambe,BW Hilfenhaus,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,19.1,PV Tambe,DS Kulkarni,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,19.2,DS Kulkarni,PV Tambe,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,19.3,DS Kulkarni,PV Tambe,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,19.4,DS Kulkarni,PV Tambe,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+729297,2nd innings,Rajasthan Royals,Chennai Super Kings,19.5,DS Kulkarni,PV Tambe,R Ashwin,1,0,1,NA,1,run out,PV Tambe,F du Plessis,0

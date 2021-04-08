@@ -1,0 +1,196 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.1,NV Ojha,MJ Lumb,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.2,NV Ojha,MJ Lumb,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.3,MJ Lumb,NV Ojha,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.4,MJ Lumb,NV Ojha,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.5,MJ Lumb,NV Ojha,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,0.6,NV Ojha,MJ Lumb,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.1,NV Ojha,MJ Lumb,DW Steyn,3,0,3,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.2,MJ Lumb,NV Ojha,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.3,MJ Lumb,NV Ojha,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.4,MJ Lumb,NV Ojha,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.5,MJ Lumb,NV Ojha,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,1.6,NV Ojha,MJ Lumb,DW Steyn,3,0,3,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.1,NV Ojha,MJ Lumb,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.2,NV Ojha,MJ Lumb,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.3,NV Ojha,MJ Lumb,P Kumar,0,1,1,wides,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.4,NV Ojha,MJ Lumb,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.5,MJ Lumb,NV Ojha,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.6,MJ Lumb,NV Ojha,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,2.7,MJ Lumb,NV Ojha,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.1,MJ Lumb,NV Ojha,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.2,NV Ojha,MJ Lumb,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.3,NV Ojha,MJ Lumb,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.4,NV Ojha,MJ Lumb,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.5,NV Ojha,MJ Lumb,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.6,NV Ojha,MJ Lumb,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,3.7,NV Ojha,MJ Lumb,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.1,NV Ojha,MJ Lumb,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.2,NV Ojha,MJ Lumb,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.3,MJ Lumb,NV Ojha,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.4,NV Ojha,MJ Lumb,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.5,NV Ojha,MJ Lumb,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,4.6,MJ Lumb,NV Ojha,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.1,NV Ojha,MJ Lumb,JH Kallis,0,0,0,NA,1,caught,NV Ojha,RV Uthappa,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.2,MJ Lumb,DR Martyn,JH Kallis,0,1,1,noballs,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.3,MJ Lumb,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.4,DR Martyn,MJ Lumb,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.5,MJ Lumb,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.6,DR Martyn,MJ Lumb,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,5.7,DR Martyn,MJ Lumb,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.1,MJ Lumb,DR Martyn,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.2,MJ Lumb,DR Martyn,A Kumble,0,0,0,NA,1,stumped,MJ Lumb,MV Boucher,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.3,AA Jhunjhunwala,DR Martyn,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.4,DR Martyn,AA Jhunjhunwala,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.5,AA Jhunjhunwala,DR Martyn,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,6.6,AA Jhunjhunwala,DR Martyn,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.1,DR Martyn,AA Jhunjhunwala,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.2,AA Jhunjhunwala,DR Martyn,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.3,AA Jhunjhunwala,DR Martyn,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.4,AA Jhunjhunwala,DR Martyn,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.5,AA Jhunjhunwala,DR Martyn,JH Kallis,0,0,0,NA,1,bowled,AA Jhunjhunwala,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,7.6,YK Pathan,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.1,YK Pathan,DR Martyn,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.2,DR Martyn,YK Pathan,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.3,YK Pathan,DR Martyn,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.4,DR Martyn,YK Pathan,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.5,DR Martyn,YK Pathan,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,8.6,DR Martyn,YK Pathan,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.1,DR Martyn,YK Pathan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.2,DR Martyn,YK Pathan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.3,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.4,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.5,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,9.6,YK Pathan,DR Martyn,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.1,YK Pathan,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.2,DR Martyn,YK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.3,YK Pathan,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.4,DR Martyn,YK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.5,YK Pathan,DR Martyn,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,10.6,YK Pathan,DR Martyn,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.1,DR Martyn,YK Pathan,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.2,YK Pathan,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.3,YK Pathan,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.4,YK Pathan,DR Martyn,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.5,YK Pathan,DR Martyn,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,11.6,YK Pathan,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.1,DR Martyn,YK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.2,YK Pathan,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.3,DR Martyn,YK Pathan,JH Kallis,0,1,1,wides,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.4,DR Martyn,YK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.5,YK Pathan,DR Martyn,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.6,YK Pathan,DR Martyn,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,12.7,DR Martyn,YK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.1,DR Martyn,YK Pathan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.2,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.3,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.4,YK Pathan,DR Martyn,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.5,YK Pathan,DR Martyn,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,13.6,YK Pathan,DR Martyn,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.1,DR Martyn,YK Pathan,A Kumble,0,0,0,NA,1,run out,YK Pathan,V Kohli,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.2,P Dogra,DR Martyn,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.3,DR Martyn,P Dogra,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.4,DR Martyn,P Dogra,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.5,P Dogra,DR Martyn,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,14.6,P Dogra,DR Martyn,A Kumble,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.1,P Dogra,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.2,P Dogra,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.3,P Dogra,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.4,P Dogra,DR Martyn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.5,P Dogra,DR Martyn,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,15.6,DR Martyn,P Dogra,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.1,DR Martyn,P Dogra,P Kumar,0,1,1,wides,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.2,DR Martyn,P Dogra,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.3,DR Martyn,P Dogra,P Kumar,0,0,0,NA,1,bowled,DR Martyn,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.4,S Narwal,P Dogra,P Kumar,0,0,0,NA,1,caught,S Narwal,MK Pandey,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.5,P Dogra,SK Warne,P Kumar,0,0,0,NA,1,bowled,P Dogra,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.6,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,16.7,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.1,SK Warne,M Morkel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.2,SK Warne,M Morkel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.3,SK Warne,M Morkel,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.4,SK Warne,M Morkel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.5,SK Warne,M Morkel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,17.6,M Morkel,SK Warne,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.1,SK Warne,M Morkel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.2,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.3,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.4,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.5,M Morkel,SK Warne,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,18.6,M Morkel,SK Warne,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.1,SK Warne,M Morkel,A Kumble,0,0,0,NA,1,bowled,SK Warne,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.2,MM Patel,M Morkel,A Kumble,0,0,0,NA,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.3,MM Patel,M Morkel,A Kumble,0,1,1,legbyes,0,NA,NA,NA,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.4,M Morkel,MM Patel,A Kumble,0,0,0,NA,1,stumped,M Morkel,MV Boucher,0
+419115,1st innings,Rajasthan Royals,Royal Challengers Bangalore,19.5,SK Trivedi,MM Patel,A Kumble,0,0,0,NA,1,run out,MM Patel,R Dravid,0
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.1,MK Pandey,JH Kallis,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.2,MK Pandey,JH Kallis,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.3,JH Kallis,MK Pandey,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.4,MK Pandey,JH Kallis,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.5,MK Pandey,JH Kallis,MM Patel,2,0,2,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,0.6,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.1,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.2,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.3,JH Kallis,MK Pandey,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.4,JH Kallis,MK Pandey,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.5,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.6,JH Kallis,MK Pandey,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.7,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.8,JH Kallis,MK Pandey,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,1.9,JH Kallis,MK Pandey,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.1,JH Kallis,MK Pandey,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.2,MK Pandey,JH Kallis,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.3,JH Kallis,MK Pandey,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.4,JH Kallis,MK Pandey,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.5,JH Kallis,MK Pandey,MM Patel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,2.6,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.1,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.2,JH Kallis,MK Pandey,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.3,JH Kallis,MK Pandey,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.4,JH Kallis,MK Pandey,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.5,JH Kallis,MK Pandey,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.6,JH Kallis,MK Pandey,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,3.7,JH Kallis,MK Pandey,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.1,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.2,MK Pandey,JH Kallis,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.3,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.4,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.5,MK Pandey,JH Kallis,MM Patel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,4.6,MK Pandey,JH Kallis,MM Patel,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.1,JH Kallis,MK Pandey,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.2,JH Kallis,MK Pandey,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.3,MK Pandey,JH Kallis,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.4,JH Kallis,MK Pandey,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.5,MK Pandey,JH Kallis,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,5.6,MK Pandey,JH Kallis,SK Warne,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.1,JH Kallis,MK Pandey,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.2,JH Kallis,MK Pandey,S Narwal,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.3,MK Pandey,JH Kallis,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.4,MK Pandey,JH Kallis,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.5,MK Pandey,JH Kallis,S Narwal,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,6.6,JH Kallis,MK Pandey,S Narwal,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.1,JH Kallis,MK Pandey,SK Warne,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.2,MK Pandey,JH Kallis,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.3,MK Pandey,JH Kallis,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.4,MK Pandey,JH Kallis,SK Warne,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.5,MK Pandey,JH Kallis,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,7.6,MK Pandey,JH Kallis,SK Warne,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.1,JH Kallis,MK Pandey,S Narwal,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.2,JH Kallis,MK Pandey,S Narwal,2,0,2,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.3,JH Kallis,MK Pandey,S Narwal,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.4,JH Kallis,MK Pandey,S Narwal,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.5,MK Pandey,JH Kallis,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.6,MK Pandey,JH Kallis,S Narwal,4,0,4,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,8.7,MK Pandey,JH Kallis,S Narwal,6,0,6,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.1,JH Kallis,MK Pandey,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.2,MK Pandey,JH Kallis,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.3,JH Kallis,MK Pandey,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.4,MK Pandey,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.5,MK Pandey,JH Kallis,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,9.6,JH Kallis,MK Pandey,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.1,JH Kallis,MK Pandey,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.2,JH Kallis,MK Pandey,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.3,JH Kallis,MK Pandey,S Narwal,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.4,JH Kallis,MK Pandey,S Narwal,0,0,0,NA,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.5,JH Kallis,MK Pandey,S Narwal,0,1,1,wides,0,NA,NA,NA,1
+419115,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,10.6,JH Kallis,MK Pandey,S Narwal,1,0,1,NA,0,NA,NA,NA,1

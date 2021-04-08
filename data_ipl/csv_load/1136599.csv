@@ -1,0 +1,250 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.1,AD Hales,S Dhawan,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.2,S Dhawan,AD Hales,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.3,AD Hales,S Dhawan,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.4,AD Hales,S Dhawan,MM Ali,0,1,1,legbyes,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.5,S Dhawan,AD Hales,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.6,S Dhawan,AD Hales,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.1,S Dhawan,AD Hales,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.2,S Dhawan,AD Hales,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.3,S Dhawan,AD Hales,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.4,S Dhawan,AD Hales,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.5,S Dhawan,AD Hales,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.6,S Dhawan,AD Hales,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.7,AD Hales,S Dhawan,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.1,S Dhawan,AD Hales,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.2,S Dhawan,AD Hales,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.3,AD Hales,S Dhawan,TG Southee,0,0,0,NA,1,bowled,AD Hales,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.4,KS Williamson,S Dhawan,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.5,KS Williamson,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.6,S Dhawan,KS Williamson,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.1,KS Williamson,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.2,S Dhawan,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.3,KS Williamson,S Dhawan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.4,KS Williamson,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.5,S Dhawan,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.6,KS Williamson,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.1,KS Williamson,S Dhawan,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.2,KS Williamson,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.3,S Dhawan,KS Williamson,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.4,KS Williamson,S Dhawan,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.5,KS Williamson,S Dhawan,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.6,KS Williamson,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.7,S Dhawan,KS Williamson,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.1,S Dhawan,KS Williamson,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.2,KS Williamson,S Dhawan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.3,S Dhawan,KS Williamson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.4,S Dhawan,KS Williamson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.5,S Dhawan,KS Williamson,Mohammed Siraj,0,0,0,NA,1,caught,S Dhawan,TG Southee,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.6,KS Williamson,MK Pandey,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.1,MK Pandey,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.2,KS Williamson,MK Pandey,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.3,KS Williamson,MK Pandey,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.4,MK Pandey,KS Williamson,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.5,MK Pandey,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.6,KS Williamson,MK Pandey,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.1,KS Williamson,MK Pandey,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.2,MK Pandey,KS Williamson,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.3,MK Pandey,KS Williamson,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.4,KS Williamson,MK Pandey,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.5,KS Williamson,MK Pandey,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.6,MK Pandey,KS Williamson,MM Ali,2,0,2,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.1,KS Williamson,MK Pandey,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.2,MK Pandey,KS Williamson,YS Chahal,0,0,0,NA,1,caught,MK Pandey,V Kohli,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.3,Shakib Al Hasan,KS Williamson,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.4,Shakib Al Hasan,KS Williamson,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.5,Shakib Al Hasan,KS Williamson,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.6,Shakib Al Hasan,KS Williamson,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.1,KS Williamson,Shakib Al Hasan,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.2,Shakib Al Hasan,KS Williamson,MM Ali,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.3,Shakib Al Hasan,KS Williamson,MM Ali,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.4,Shakib Al Hasan,KS Williamson,MM Ali,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.5,Shakib Al Hasan,KS Williamson,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.6,KS Williamson,Shakib Al Hasan,MM Ali,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.1,KS Williamson,Shakib Al Hasan,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.2,KS Williamson,Shakib Al Hasan,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.3,KS Williamson,Shakib Al Hasan,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.4,KS Williamson,Shakib Al Hasan,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.5,Shakib Al Hasan,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.6,KS Williamson,Shakib Al Hasan,YS Chahal,0,1,1,noballs,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.7,KS Williamson,Shakib Al Hasan,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.1,Shakib Al Hasan,KS Williamson,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.2,Shakib Al Hasan,KS Williamson,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.3,Shakib Al Hasan,KS Williamson,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.4,KS Williamson,Shakib Al Hasan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.5,Shakib Al Hasan,KS Williamson,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.6,Shakib Al Hasan,KS Williamson,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.7,Shakib Al Hasan,KS Williamson,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.1,Shakib Al Hasan,KS Williamson,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.2,KS Williamson,Shakib Al Hasan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.3,Shakib Al Hasan,KS Williamson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.4,Shakib Al Hasan,KS Williamson,Mohammed Siraj,0,1,1,wides,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.5,Shakib Al Hasan,KS Williamson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.6,Shakib Al Hasan,KS Williamson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.7,Shakib Al Hasan,KS Williamson,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.1,Shakib Al Hasan,KS Williamson,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.2,Shakib Al Hasan,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.3,KS Williamson,Shakib Al Hasan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.4,KS Williamson,Shakib Al Hasan,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.5,KS Williamson,Shakib Al Hasan,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.6,KS Williamson,Shakib Al Hasan,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.7,KS Williamson,Shakib Al Hasan,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.1,Shakib Al Hasan,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.2,KS Williamson,Shakib Al Hasan,YS Chahal,6,0,6,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.3,KS Williamson,Shakib Al Hasan,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.4,Shakib Al Hasan,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.5,KS Williamson,Shakib Al Hasan,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.6,Shakib Al Hasan,KS Williamson,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.1,Shakib Al Hasan,KS Williamson,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.2,Shakib Al Hasan,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.3,KS Williamson,Shakib Al Hasan,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.4,KS Williamson,Shakib Al Hasan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.5,Shakib Al Hasan,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.6,KS Williamson,Shakib Al Hasan,UT Yadav,0,0,0,NA,1,caught,KS Williamson,Mandeep Singh,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.1,YK Pathan,Shakib Al Hasan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.2,Shakib Al Hasan,YK Pathan,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.3,Shakib Al Hasan,YK Pathan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.4,Shakib Al Hasan,YK Pathan,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.5,Shakib Al Hasan,YK Pathan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.6,YK Pathan,Shakib Al Hasan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.1,YK Pathan,Shakib Al Hasan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.2,Shakib Al Hasan,YK Pathan,TG Southee,0,0,0,NA,1,caught,Shakib Al Hasan,UT Yadav,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.3,WP Saha,YK Pathan,TG Southee,0,1,1,legbyes,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.4,YK Pathan,WP Saha,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.5,YK Pathan,WP Saha,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.6,YK Pathan,WP Saha,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.1,YK Pathan,WP Saha,Mohammed Siraj,0,0,0,NA,1,bowled,YK Pathan,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.2,Rashid Khan,WP Saha,Mohammed Siraj,0,1,1,legbyes,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.3,WP Saha,Rashid Khan,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.4,WP Saha,Rashid Khan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.5,WP Saha,Rashid Khan,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.6,WP Saha,Rashid Khan,Mohammed Siraj,0,0,0,NA,1,bowled,WP Saha,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.1,Rashid Khan,B Kumar,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.2,Rashid Khan,B Kumar,TG Southee,1,0,1,NA,1,run out,Rashid Khan,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.3,S Kaul,B Kumar,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.4,B Kumar,S Kaul,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.5,B Kumar,S Kaul,TG Southee,1,0,1,NA,1,run out,S Kaul,NA,1
+1136599,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.6,Sandeep Sharma,B Kumar,TG Southee,0,0,0,NA,1,lbw,Sandeep Sharma,NA,1
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.1,M Vohra,PA Patel,Sandeep Sharma,0,1,1,wides,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.2,M Vohra,PA Patel,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.3,PA Patel,M Vohra,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.4,PA Patel,M Vohra,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.5,M Vohra,PA Patel,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.6,M Vohra,PA Patel,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.7,M Vohra,PA Patel,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.1,PA Patel,M Vohra,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.2,PA Patel,M Vohra,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.3,PA Patel,M Vohra,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.4,PA Patel,M Vohra,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.5,PA Patel,M Vohra,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.6,PA Patel,M Vohra,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.1,PA Patel,M Vohra,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.2,PA Patel,M Vohra,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.3,PA Patel,M Vohra,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.4,PA Patel,M Vohra,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.5,PA Patel,M Vohra,Shakib Al Hasan,0,0,0,NA,1,lbw,PA Patel,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.6,V Kohli,M Vohra,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.1,V Kohli,M Vohra,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.2,V Kohli,M Vohra,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.3,V Kohli,M Vohra,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.4,M Vohra,V Kohli,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.5,V Kohli,M Vohra,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.6,V Kohli,M Vohra,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.1,V Kohli,M Vohra,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.2,V Kohli,M Vohra,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.3,V Kohli,M Vohra,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.4,V Kohli,M Vohra,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.5,V Kohli,M Vohra,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.6,V Kohli,M Vohra,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.1,V Kohli,M Vohra,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.2,V Kohli,M Vohra,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.3,M Vohra,V Kohli,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.4,V Kohli,M Vohra,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.5,V Kohli,M Vohra,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.6,M Vohra,V Kohli,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.1,M Vohra,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.2,V Kohli,M Vohra,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.3,M Vohra,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.4,V Kohli,M Vohra,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.5,V Kohli,M Vohra,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.6,V Kohli,M Vohra,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.1,M Vohra,V Kohli,Sandeep Sharma,0,0,0,NA,1,bowled,M Vohra,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.2,AB de Villiers,V Kohli,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.3,V Kohli,AB de Villiers,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.4,AB de Villiers,V Kohli,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.5,V Kohli,AB de Villiers,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.6,AB de Villiers,V Kohli,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.1,V Kohli,AB de Villiers,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.2,V Kohli,AB de Villiers,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.3,V Kohli,AB de Villiers,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.4,V Kohli,AB de Villiers,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.5,AB de Villiers,V Kohli,Rashid Khan,0,1,1,wides,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.6,AB de Villiers,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.7,V Kohli,AB de Villiers,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.1,AB de Villiers,V Kohli,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.2,V Kohli,AB de Villiers,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.3,AB de Villiers,V Kohli,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.4,V Kohli,AB de Villiers,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.5,V Kohli,AB de Villiers,Shakib Al Hasan,0,0,0,NA,1,caught,V Kohli,YK Pathan,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.6,MM Ali,AB de Villiers,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.1,MM Ali,AB de Villiers,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.2,MM Ali,AB de Villiers,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.3,AB de Villiers,MM Ali,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.4,AB de Villiers,MM Ali,Rashid Khan,0,0,0,NA,1,bowled,AB de Villiers,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.5,Mandeep Singh,MM Ali,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.6,Mandeep Singh,MM Ali,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.1,MM Ali,Mandeep Singh,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.2,MM Ali,Mandeep Singh,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.3,MM Ali,Mandeep Singh,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.4,MM Ali,Mandeep Singh,S Kaul,0,0,0,NA,1,caught,MM Ali,WP Saha,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.5,C de Grandhomme,Mandeep Singh,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.6,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.1,C de Grandhomme,Mandeep Singh,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.2,C de Grandhomme,Mandeep Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.3,Mandeep Singh,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.4,Mandeep Singh,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.5,Mandeep Singh,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.6,Mandeep Singh,C de Grandhomme,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.1,Mandeep Singh,C de Grandhomme,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.2,Mandeep Singh,C de Grandhomme,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.3,C de Grandhomme,Mandeep Singh,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.4,Mandeep Singh,C de Grandhomme,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.5,C de Grandhomme,Mandeep Singh,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.6,C de Grandhomme,Mandeep Singh,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.1,C de Grandhomme,Mandeep Singh,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.2,C de Grandhomme,Mandeep Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.3,Mandeep Singh,C de Grandhomme,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.4,C de Grandhomme,Mandeep Singh,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.5,Mandeep Singh,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.6,Mandeep Singh,C de Grandhomme,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.1,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.2,Mandeep Singh,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.3,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.4,Mandeep Singh,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.5,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.6,Mandeep Singh,C de Grandhomme,S Kaul,0,1,1,legbyes,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.1,Mandeep Singh,C de Grandhomme,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.2,C de Grandhomme,Mandeep Singh,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.3,C de Grandhomme,Mandeep Singh,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.4,C de Grandhomme,Mandeep Singh,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.5,C de Grandhomme,Mandeep Singh,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.6,C de Grandhomme,Mandeep Singh,Rashid Khan,0,1,1,wides,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.7,C de Grandhomme,Mandeep Singh,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.1,Mandeep Singh,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.2,C de Grandhomme,Mandeep Singh,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.3,C de Grandhomme,Mandeep Singh,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.4,C de Grandhomme,Mandeep Singh,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.5,C de Grandhomme,Mandeep Singh,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.6,C de Grandhomme,Mandeep Singh,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.1,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.2,Mandeep Singh,C de Grandhomme,S Kaul,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.3,Mandeep Singh,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.4,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.5,Mandeep Singh,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.6,C de Grandhomme,Mandeep Singh,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.1,C de Grandhomme,Mandeep Singh,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.2,Mandeep Singh,C de Grandhomme,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.3,Mandeep Singh,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.4,C de Grandhomme,Mandeep Singh,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.5,Mandeep Singh,C de Grandhomme,B Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+1136599,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.6,C de Grandhomme,Mandeep Singh,B Kumar,0,0,0,NA,1,bowled,C de Grandhomme,NA,0

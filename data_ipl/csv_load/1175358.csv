@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.1,PP Shaw,S Dhawan,Rasikh Salam,1,1,2,noballs,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.2,S Dhawan,PP Shaw,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.3,PP Shaw,S Dhawan,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.4,S Dhawan,PP Shaw,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.5,S Dhawan,PP Shaw,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.6,PP Shaw,S Dhawan,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,0.7,S Dhawan,PP Shaw,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.1,PP Shaw,S Dhawan,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.2,PP Shaw,S Dhawan,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.3,PP Shaw,S Dhawan,MJ McClenaghan,0,0,0,NA,1,caught,PP Shaw,Q de Kock,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.4,SS Iyer,S Dhawan,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.5,SS Iyer,S Dhawan,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,1.6,S Dhawan,SS Iyer,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.1,SS Iyer,S Dhawan,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.2,SS Iyer,S Dhawan,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.3,SS Iyer,S Dhawan,Rasikh Salam,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.4,SS Iyer,S Dhawan,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.5,S Dhawan,SS Iyer,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.6,S Dhawan,SS Iyer,Rasikh Salam,1,1,2,noballs,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,2.7,SS Iyer,S Dhawan,Rasikh Salam,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.1,S Dhawan,SS Iyer,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.2,SS Iyer,S Dhawan,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.3,SS Iyer,S Dhawan,MJ McClenaghan,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.4,SS Iyer,S Dhawan,MJ McClenaghan,0,0,0,NA,1,caught,SS Iyer,KA Pollard,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.5,CA Ingram,S Dhawan,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,3.6,CA Ingram,S Dhawan,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.1,S Dhawan,CA Ingram,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.2,CA Ingram,S Dhawan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.3,CA Ingram,S Dhawan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.4,S Dhawan,CA Ingram,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.5,S Dhawan,CA Ingram,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,4.6,S Dhawan,CA Ingram,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.1,S Dhawan,CA Ingram,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.2,S Dhawan,CA Ingram,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.3,CA Ingram,S Dhawan,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.4,S Dhawan,CA Ingram,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.5,CA Ingram,S Dhawan,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,5.6,S Dhawan,CA Ingram,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.1,S Dhawan,CA Ingram,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.2,S Dhawan,CA Ingram,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.3,CA Ingram,S Dhawan,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.4,CA Ingram,S Dhawan,Rasikh Salam,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.5,CA Ingram,S Dhawan,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,6.6,S Dhawan,CA Ingram,Rasikh Salam,2,0,2,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.1,CA Ingram,S Dhawan,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.2,CA Ingram,S Dhawan,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.3,CA Ingram,S Dhawan,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.4,S Dhawan,CA Ingram,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.5,CA Ingram,S Dhawan,HH Pandya,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,7.6,CA Ingram,S Dhawan,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.1,CA Ingram,S Dhawan,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.2,CA Ingram,S Dhawan,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.3,S Dhawan,CA Ingram,KH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.4,S Dhawan,CA Ingram,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.5,CA Ingram,S Dhawan,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,8.6,S Dhawan,CA Ingram,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.1,S Dhawan,CA Ingram,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.2,S Dhawan,CA Ingram,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.3,CA Ingram,S Dhawan,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.4,S Dhawan,CA Ingram,MJ McClenaghan,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.5,S Dhawan,CA Ingram,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,9.6,S Dhawan,CA Ingram,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.1,CA Ingram,S Dhawan,KH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.2,CA Ingram,S Dhawan,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.3,CA Ingram,S Dhawan,KH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.4,CA Ingram,S Dhawan,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.5,CA Ingram,S Dhawan,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,10.6,CA Ingram,S Dhawan,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.1,CA Ingram,S Dhawan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.2,CA Ingram,S Dhawan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.3,S Dhawan,CA Ingram,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.4,S Dhawan,CA Ingram,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.5,CA Ingram,S Dhawan,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,11.6,CA Ingram,S Dhawan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.1,CA Ingram,S Dhawan,BCJ Cutting,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.2,CA Ingram,S Dhawan,BCJ Cutting,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.3,CA Ingram,S Dhawan,BCJ Cutting,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.4,S Dhawan,CA Ingram,BCJ Cutting,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.5,S Dhawan,CA Ingram,BCJ Cutting,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,12.6,CA Ingram,S Dhawan,BCJ Cutting,0,0,0,NA,1,caught,CA Ingram,HH Pandya,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.1,RR Pant,S Dhawan,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.2,RR Pant,S Dhawan,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.3,RR Pant,S Dhawan,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.4,RR Pant,S Dhawan,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.5,RR Pant,S Dhawan,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,13.6,S Dhawan,RR Pant,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.1,S Dhawan,RR Pant,BCJ Cutting,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.2,RR Pant,S Dhawan,BCJ Cutting,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.3,RR Pant,S Dhawan,BCJ Cutting,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.4,S Dhawan,RR Pant,BCJ Cutting,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.5,RR Pant,S Dhawan,BCJ Cutting,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,14.6,RR Pant,S Dhawan,BCJ Cutting,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.1,S Dhawan,RR Pant,HH Pandya,0,0,0,NA,1,caught,S Dhawan,SA Yadav,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.2,KMA Paul,RR Pant,HH Pandya,0,1,1,wides,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.3,KMA Paul,RR Pant,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.4,KMA Paul,RR Pant,HH Pandya,0,1,1,legbyes,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.5,RR Pant,KMA Paul,HH Pandya,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.6,RR Pant,KMA Paul,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,15.7,RR Pant,KMA Paul,HH Pandya,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.1,KMA Paul,RR Pant,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.2,KMA Paul,RR Pant,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.3,RR Pant,KMA Paul,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.4,RR Pant,KMA Paul,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.5,KMA Paul,RR Pant,MJ McClenaghan,0,0,0,NA,1,caught,KMA Paul,Q de Kock,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,16.6,RR Pant,AR Patel,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.1,AR Patel,RR Pant,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.2,AR Patel,RR Pant,JJ Bumrah,0,0,0,NA,1,caught,AR Patel,Rasikh Salam,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.3,RR Pant,R Tewatia,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.4,RR Pant,R Tewatia,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.5,RR Pant,R Tewatia,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,17.6,RR Pant,R Tewatia,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.1,RR Pant,R Tewatia,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.2,R Tewatia,RR Pant,Rasikh Salam,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.3,RR Pant,R Tewatia,Rasikh Salam,2,0,2,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.4,RR Pant,R Tewatia,Rasikh Salam,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.5,RR Pant,R Tewatia,Rasikh Salam,0,1,1,wides,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.6,RR Pant,R Tewatia,Rasikh Salam,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,18.7,RR Pant,R Tewatia,Rasikh Salam,4,0,4,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.1,R Tewatia,RR Pant,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.2,RR Pant,R Tewatia,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.3,RR Pant,R Tewatia,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.4,R Tewatia,RR Pant,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.5,R Tewatia,RR Pant,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,1st innings,Delhi Capitals,Mumbai Indians,19.6,RR Pant,R Tewatia,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.1,RG Sharma,Q de Kock,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.2,Q de Kock,RG Sharma,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.3,RG Sharma,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.4,RG Sharma,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.5,RG Sharma,Q de Kock,TA Boult,2,0,2,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,0.6,RG Sharma,Q de Kock,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.1,RG Sharma,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.2,RG Sharma,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.3,Q de Kock,RG Sharma,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.4,RG Sharma,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.5,RG Sharma,Q de Kock,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,1.6,RG Sharma,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.1,Q de Kock,RG Sharma,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.2,RG Sharma,Q de Kock,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.3,Q de Kock,RG Sharma,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.4,Q de Kock,RG Sharma,TA Boult,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.5,Q de Kock,RG Sharma,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,2.6,Q de Kock,RG Sharma,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.1,Q de Kock,RG Sharma,I Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.2,RG Sharma,Q de Kock,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.3,RG Sharma,Q de Kock,I Sharma,0,0,0,NA,1,caught,RG Sharma,R Tewatia,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.4,SA Yadav,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.5,SA Yadav,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,3.6,SA Yadav,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.1,Q de Kock,SA Yadav,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.2,Q de Kock,SA Yadav,K Rabada,0,1,1,legbyes,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.3,SA Yadav,Q de Kock,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.4,Q de Kock,SA Yadav,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.5,SA Yadav,Q de Kock,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,4.6,Q de Kock,SA Yadav,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.1,SA Yadav,Q de Kock,I Sharma,0,0,0,NA,1,run out,SA Yadav,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.2,Q de Kock,Yuvraj Singh,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.3,Q de Kock,Yuvraj Singh,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.4,Q de Kock,Yuvraj Singh,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.5,Q de Kock,Yuvraj Singh,I Sharma,0,0,0,NA,1,caught,Q de Kock,TA Boult,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,5.6,KA Pollard,Yuvraj Singh,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.1,KA Pollard,Yuvraj Singh,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.2,KA Pollard,Yuvraj Singh,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.3,KA Pollard,Yuvraj Singh,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.4,Yuvraj Singh,KA Pollard,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.5,KA Pollard,Yuvraj Singh,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,6.6,Yuvraj Singh,KA Pollard,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.1,KA Pollard,Yuvraj Singh,R Tewatia,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.2,KA Pollard,Yuvraj Singh,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.3,Yuvraj Singh,KA Pollard,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.4,Yuvraj Singh,KA Pollard,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.5,Yuvraj Singh,KA Pollard,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,7.6,KA Pollard,Yuvraj Singh,R Tewatia,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.1,Yuvraj Singh,KA Pollard,KMA Paul,0,1,1,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.2,Yuvraj Singh,KA Pollard,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.3,KA Pollard,Yuvraj Singh,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.4,Yuvraj Singh,KA Pollard,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.5,Yuvraj Singh,KA Pollard,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.6,Yuvraj Singh,KA Pollard,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,8.7,Yuvraj Singh,KA Pollard,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.1,Yuvraj Singh,KA Pollard,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.2,Yuvraj Singh,KA Pollard,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.3,KA Pollard,Yuvraj Singh,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.4,KA Pollard,Yuvraj Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.5,Yuvraj Singh,KA Pollard,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,9.6,Yuvraj Singh,KA Pollard,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.1,KA Pollard,Yuvraj Singh,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.2,Yuvraj Singh,KA Pollard,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.3,Yuvraj Singh,KA Pollard,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.4,Yuvraj Singh,KA Pollard,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.5,KA Pollard,Yuvraj Singh,KMA Paul,0,0,0,NA,1,caught,KA Pollard,R Tewatia,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,10.6,Yuvraj Singh,HH Pandya,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.1,HH Pandya,Yuvraj Singh,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.2,HH Pandya,Yuvraj Singh,AR Patel,0,0,0,NA,1,caught and bowled,HH Pandya,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.3,KH Pandya,Yuvraj Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.4,Yuvraj Singh,KH Pandya,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.5,Yuvraj Singh,KH Pandya,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,11.6,KH Pandya,Yuvraj Singh,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.1,Yuvraj Singh,KH Pandya,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.2,Yuvraj Singh,KH Pandya,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.3,Yuvraj Singh,KH Pandya,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.4,Yuvraj Singh,KH Pandya,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.5,KH Pandya,Yuvraj Singh,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.6,KH Pandya,Yuvraj Singh,KMA Paul,0,1,1,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,12.7,KH Pandya,Yuvraj Singh,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.1,KH Pandya,Yuvraj Singh,I Sharma,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.2,KH Pandya,Yuvraj Singh,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.3,KH Pandya,Yuvraj Singh,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.4,KH Pandya,Yuvraj Singh,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.5,KH Pandya,Yuvraj Singh,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,13.6,KH Pandya,Yuvraj Singh,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.1,KH Pandya,Yuvraj Singh,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.2,KH Pandya,Yuvraj Singh,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.3,Yuvraj Singh,KH Pandya,TA Boult,0,1,1,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.4,Yuvraj Singh,KH Pandya,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.5,KH Pandya,Yuvraj Singh,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.6,KH Pandya,Yuvraj Singh,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,14.7,KH Pandya,Yuvraj Singh,TA Boult,0,0,0,NA,1,caught,KH Pandya,R Tewatia,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.1,Yuvraj Singh,BCJ Cutting,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.2,BCJ Cutting,Yuvraj Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.3,Yuvraj Singh,BCJ Cutting,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.4,Yuvraj Singh,BCJ Cutting,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.5,BCJ Cutting,Yuvraj Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,15.6,Yuvraj Singh,BCJ Cutting,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.1,BCJ Cutting,Yuvraj Singh,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.2,Yuvraj Singh,BCJ Cutting,K Rabada,0,2,2,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.3,BCJ Cutting,Yuvraj Singh,K Rabada,0,0,0,NA,1,caught,BCJ Cutting,RR Pant,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.4,MJ McClenaghan,Yuvraj Singh,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.5,MJ McClenaghan,Yuvraj Singh,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.6,Yuvraj Singh,MJ McClenaghan,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,16.7,MJ McClenaghan,Yuvraj Singh,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.1,Yuvraj Singh,MJ McClenaghan,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.2,Yuvraj Singh,MJ McClenaghan,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.3,Yuvraj Singh,MJ McClenaghan,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.4,Yuvraj Singh,MJ McClenaghan,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.5,MJ McClenaghan,Yuvraj Singh,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,17.6,MJ McClenaghan,Yuvraj Singh,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.1,Yuvraj Singh,MJ McClenaghan,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.2,Yuvraj Singh,MJ McClenaghan,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.3,Yuvraj Singh,MJ McClenaghan,K Rabada,0,0,0,NA,1,caught,Yuvraj Singh,R Tewatia,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.4,Rasikh Salam,MJ McClenaghan,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.5,Rasikh Salam,MJ McClenaghan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.6,Rasikh Salam,MJ McClenaghan,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.7,Rasikh Salam,MJ McClenaghan,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,18.8,MJ McClenaghan,Rasikh Salam,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,19.1,MJ McClenaghan,Rasikh Salam,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1175358,2nd innings,Mumbai Indians,Delhi Capitals,19.2,MJ McClenaghan,Rasikh Salam,R Tewatia,0,0,0,NA,1,stumped,MJ McClenaghan,RR Pant,0

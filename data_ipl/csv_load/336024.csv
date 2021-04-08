@@ -1,0 +1,253 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.1,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.2,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,0,1,1,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.3,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.4,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.5,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.6,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,0.7,ST Jayasuriya,SR Tendulkar,DP Vijaykumar,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.1,SR Tendulkar,ST Jayasuriya,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.2,ST Jayasuriya,SR Tendulkar,DNT Zoysa,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.3,ST Jayasuriya,SR Tendulkar,DNT Zoysa,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.4,ST Jayasuriya,SR Tendulkar,DNT Zoysa,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.5,ST Jayasuriya,SR Tendulkar,DNT Zoysa,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,1.6,ST Jayasuriya,SR Tendulkar,DNT Zoysa,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.1,SR Tendulkar,ST Jayasuriya,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.2,ST Jayasuriya,SR Tendulkar,Y Venugopal Rao,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.3,ST Jayasuriya,SR Tendulkar,Y Venugopal Rao,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.4,ST Jayasuriya,SR Tendulkar,Y Venugopal Rao,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.5,ST Jayasuriya,SR Tendulkar,Y Venugopal Rao,0,0,0,NA,1,caught,ST Jayasuriya,RP Singh,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,2.6,DJ Thornely,SR Tendulkar,Y Venugopal Rao,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.1,SR Tendulkar,DJ Thornely,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.2,SR Tendulkar,DJ Thornely,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.3,SR Tendulkar,DJ Thornely,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.4,SR Tendulkar,DJ Thornely,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.5,SR Tendulkar,DJ Thornely,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,3.6,DJ Thornely,SR Tendulkar,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.1,SR Tendulkar,DJ Thornely,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.2,DJ Thornely,SR Tendulkar,DNT Zoysa,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.3,DJ Thornely,SR Tendulkar,DNT Zoysa,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.4,DJ Thornely,SR Tendulkar,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.5,SR Tendulkar,DJ Thornely,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,4.6,DJ Thornely,SR Tendulkar,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.1,DJ Thornely,SR Tendulkar,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.2,DJ Thornely,SR Tendulkar,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.3,DJ Thornely,SR Tendulkar,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.4,SR Tendulkar,DJ Thornely,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.5,SR Tendulkar,DJ Thornely,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,5.6,SR Tendulkar,DJ Thornely,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.1,DJ Thornely,SR Tendulkar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.2,DJ Thornely,SR Tendulkar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.3,SR Tendulkar,DJ Thornely,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.4,DJ Thornely,SR Tendulkar,Shahid Afridi,0,4,4,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.5,DJ Thornely,SR Tendulkar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,6.6,SR Tendulkar,DJ Thornely,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.1,DJ Thornely,SR Tendulkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.2,SR Tendulkar,DJ Thornely,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.3,SR Tendulkar,DJ Thornely,PP Ojha,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.4,SR Tendulkar,DJ Thornely,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.5,SR Tendulkar,DJ Thornely,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,7.6,DJ Thornely,SR Tendulkar,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.1,DJ Thornely,SR Tendulkar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.2,SR Tendulkar,DJ Thornely,Shahid Afridi,0,0,0,NA,1,caught,SR Tendulkar,LPC Silva,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.3,DJ Thornely,AM Nayar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.4,DJ Thornely,AM Nayar,Shahid Afridi,0,0,0,NA,1,lbw,DJ Thornely,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.5,RV Uthappa,AM Nayar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,8.6,RV Uthappa,AM Nayar,Shahid Afridi,0,2,2,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.1,AM Nayar,RV Uthappa,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.2,RV Uthappa,AM Nayar,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.3,RV Uthappa,AM Nayar,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.4,RV Uthappa,AM Nayar,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.5,RV Uthappa,AM Nayar,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,9.6,RV Uthappa,AM Nayar,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.1,RV Uthappa,AM Nayar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.2,RV Uthappa,AM Nayar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.3,AM Nayar,RV Uthappa,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.4,RV Uthappa,AM Nayar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.5,RV Uthappa,AM Nayar,Shahid Afridi,0,1,1,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.6,RV Uthappa,AM Nayar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,10.7,AM Nayar,RV Uthappa,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.1,AM Nayar,RV Uthappa,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.2,RV Uthappa,AM Nayar,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.3,AM Nayar,RV Uthappa,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.4,RV Uthappa,AM Nayar,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.5,AM Nayar,RV Uthappa,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,11.6,AM Nayar,RV Uthappa,PP Ojha,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.1,RV Uthappa,AM Nayar,Y Venugopal Rao,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.2,RV Uthappa,AM Nayar,Y Venugopal Rao,0,2,2,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.3,AM Nayar,RV Uthappa,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.4,RV Uthappa,AM Nayar,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.5,AM Nayar,RV Uthappa,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.6,RV Uthappa,AM Nayar,Y Venugopal Rao,0,0,0,NA,1,caught,RV Uthappa,Shahid Afridi,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,12.7,AM Nayar,DJ Bravo,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.1,AM Nayar,DJ Bravo,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.2,AM Nayar,DJ Bravo,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.3,DJ Bravo,AM Nayar,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.4,DJ Bravo,AM Nayar,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.5,AM Nayar,DJ Bravo,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,13.6,DJ Bravo,AM Nayar,PP Ojha,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.1,AM Nayar,DJ Bravo,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.2,DJ Bravo,AM Nayar,Y Venugopal Rao,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.3,DJ Bravo,AM Nayar,Y Venugopal Rao,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.4,DJ Bravo,AM Nayar,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.5,AM Nayar,DJ Bravo,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,14.6,DJ Bravo,AM Nayar,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.1,DJ Bravo,AM Nayar,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.2,DJ Bravo,AM Nayar,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.3,DJ Bravo,AM Nayar,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.4,DJ Bravo,AM Nayar,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.5,AM Nayar,DJ Bravo,Shahid Afridi,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,15.6,AM Nayar,DJ Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.1,AM Nayar,DJ Bravo,DNT Zoysa,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.2,AM Nayar,DJ Bravo,DNT Zoysa,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.3,AM Nayar,DJ Bravo,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.4,DJ Bravo,AM Nayar,DNT Zoysa,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.5,DJ Bravo,AM Nayar,DNT Zoysa,2,1,3,noballs,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.6,DJ Bravo,AM Nayar,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,16.7,AM Nayar,DJ Bravo,DNT Zoysa,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.1,AM Nayar,DJ Bravo,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.2,AM Nayar,DJ Bravo,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.3,DJ Bravo,AM Nayar,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.4,AM Nayar,DJ Bravo,RP Singh,0,0,0,NA,1,caught,AM Nayar,RG Sharma,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.5,DJ Bravo,PR Shah,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,17.6,DJ Bravo,PR Shah,RP Singh,0,0,0,NA,1,bowled,DJ Bravo,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.1,PR Shah,YV Takawale,DP Vijaykumar,0,1,1,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.2,PR Shah,YV Takawale,DP Vijaykumar,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.3,PR Shah,YV Takawale,DP Vijaykumar,0,1,1,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.4,PR Shah,YV Takawale,DP Vijaykumar,1,1,2,noballs,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.5,YV Takawale,PR Shah,DP Vijaykumar,0,1,1,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.6,PR Shah,YV Takawale,DP Vijaykumar,0,1,1,wides,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.7,PR Shah,YV Takawale,DP Vijaykumar,0,1,1,legbyes,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.8,YV Takawale,PR Shah,DP Vijaykumar,2,0,2,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.9,YV Takawale,PR Shah,DP Vijaykumar,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,18.1,PR Shah,YV Takawale,DP Vijaykumar,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.1,PR Shah,YV Takawale,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.2,PR Shah,YV Takawale,RP Singh,0,0,0,NA,1,bowled,PR Shah,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.3,RR Raje,YV Takawale,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.4,RR Raje,YV Takawale,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.5,YV Takawale,RR Raje,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+336024,1st innings,Mumbai Indians,Deccan Chargers,19.6,YV Takawale,RR Raje,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.1,AC Gilchrist,Shahid Afridi,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.2,AC Gilchrist,Shahid Afridi,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.3,AC Gilchrist,Shahid Afridi,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.4,AC Gilchrist,Shahid Afridi,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.5,AC Gilchrist,Shahid Afridi,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,0.6,AC Gilchrist,Shahid Afridi,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.1,AC Gilchrist,Shahid Afridi,DJ Bravo,0,1,1,wides,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.2,AC Gilchrist,Shahid Afridi,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.3,Shahid Afridi,AC Gilchrist,DJ Bravo,0,0,0,NA,1,caught,Shahid Afridi,DJ Thornely,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.4,AC Gilchrist,RG Sharma,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.5,AC Gilchrist,RG Sharma,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.6,RG Sharma,AC Gilchrist,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,1.7,RG Sharma,AC Gilchrist,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.1,AC Gilchrist,RG Sharma,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.2,AC Gilchrist,RG Sharma,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.3,RG Sharma,AC Gilchrist,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.4,RG Sharma,AC Gilchrist,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.5,AC Gilchrist,RG Sharma,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,2.6,AC Gilchrist,RG Sharma,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.1,RG Sharma,AC Gilchrist,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.2,RG Sharma,AC Gilchrist,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.3,RG Sharma,AC Gilchrist,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.4,AC Gilchrist,RG Sharma,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.5,RG Sharma,AC Gilchrist,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,3.6,RG Sharma,AC Gilchrist,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.1,AC Gilchrist,RG Sharma,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.2,AC Gilchrist,RG Sharma,CRD Fernando,0,0,0,NA,1,caught,AC Gilchrist,PR Shah,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.3,RG Sharma,LPC Silva,CRD Fernando,0,0,0,NA,1,lbw,RG Sharma,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.4,Y Venugopal Rao,LPC Silva,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.5,Y Venugopal Rao,LPC Silva,CRD Fernando,0,1,1,wides,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.6,Y Venugopal Rao,LPC Silva,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,4.7,LPC Silva,Y Venugopal Rao,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.1,LPC Silva,Y Venugopal Rao,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.2,LPC Silva,Y Venugopal Rao,RR Raje,0,1,1,wides,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.3,LPC Silva,Y Venugopal Rao,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.4,LPC Silva,Y Venugopal Rao,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.5,LPC Silva,Y Venugopal Rao,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.6,LPC Silva,Y Venugopal Rao,RR Raje,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,5.7,LPC Silva,Y Venugopal Rao,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.1,Y Venugopal Rao,LPC Silva,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.2,LPC Silva,Y Venugopal Rao,CRD Fernando,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.3,LPC Silva,Y Venugopal Rao,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.4,Y Venugopal Rao,LPC Silva,CRD Fernando,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.5,Y Venugopal Rao,LPC Silva,CRD Fernando,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,6.6,Y Venugopal Rao,LPC Silva,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.1,LPC Silva,Y Venugopal Rao,AM Nayar,0,1,1,byes,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.2,Y Venugopal Rao,LPC Silva,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.3,LPC Silva,Y Venugopal Rao,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.4,Y Venugopal Rao,LPC Silva,AM Nayar,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.5,Y Venugopal Rao,LPC Silva,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,7.6,Y Venugopal Rao,LPC Silva,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.1,Y Venugopal Rao,LPC Silva,DJ Thornely,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.2,Y Venugopal Rao,LPC Silva,DJ Thornely,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.3,Y Venugopal Rao,LPC Silva,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.4,LPC Silva,Y Venugopal Rao,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.5,Y Venugopal Rao,LPC Silva,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,8.6,LPC Silva,Y Venugopal Rao,DJ Thornely,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.1,LPC Silva,Y Venugopal Rao,AM Nayar,0,0,0,NA,1,caught,LPC Silva,YV Takawale,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.2,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.3,DB Ravi Teja,Y Venugopal Rao,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.4,Y Venugopal Rao,DB Ravi Teja,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.5,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,9.6,DB Ravi Teja,Y Venugopal Rao,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.1,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.2,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.3,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.4,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.5,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,10.6,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.1,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.2,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.3,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.4,DB Ravi Teja,Y Venugopal Rao,AM Nayar,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.5,DB Ravi Teja,Y Venugopal Rao,AM Nayar,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,11.6,DB Ravi Teja,Y Venugopal Rao,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.1,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.2,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.3,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.4,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.5,Y Venugopal Rao,DB Ravi Teja,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,12.6,DB Ravi Teja,Y Venugopal Rao,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.1,DB Ravi Teja,Y Venugopal Rao,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.2,Y Venugopal Rao,DB Ravi Teja,RR Raje,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.3,Y Venugopal Rao,DB Ravi Teja,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.4,DB Ravi Teja,Y Venugopal Rao,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.5,Y Venugopal Rao,DB Ravi Teja,RR Raje,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,13.6,Y Venugopal Rao,DB Ravi Teja,RR Raje,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.1,Y Venugopal Rao,DB Ravi Teja,A Nehra,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.2,Y Venugopal Rao,DB Ravi Teja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.3,DB Ravi Teja,Y Venugopal Rao,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.4,Y Venugopal Rao,DB Ravi Teja,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.5,Y Venugopal Rao,DB Ravi Teja,A Nehra,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,14.6,Y Venugopal Rao,DB Ravi Teja,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.1,DB Ravi Teja,Y Venugopal Rao,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.2,Y Venugopal Rao,DB Ravi Teja,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.3,DB Ravi Teja,Y Venugopal Rao,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.4,Y Venugopal Rao,DB Ravi Teja,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.5,DB Ravi Teja,Y Venugopal Rao,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,15.6,DB Ravi Teja,Y Venugopal Rao,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.1,Y Venugopal Rao,DB Ravi Teja,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.2,Y Venugopal Rao,DB Ravi Teja,CRD Fernando,0,1,1,legbyes,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.3,DB Ravi Teja,Y Venugopal Rao,CRD Fernando,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.4,DB Ravi Teja,Y Venugopal Rao,CRD Fernando,1,1,2,noballs,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.5,Y Venugopal Rao,DB Ravi Teja,CRD Fernando,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.6,Y Venugopal Rao,DB Ravi Teja,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,16.7,Y Venugopal Rao,DB Ravi Teja,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.1,Y Venugopal Rao,DB Ravi Teja,DJ Bravo,0,0,0,NA,1,caught,Y Venugopal Rao,PR Shah,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.2,DB Ravi Teja,DNT Zoysa,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.3,DB Ravi Teja,DNT Zoysa,DJ Bravo,0,0,0,NA,1,bowled,DB Ravi Teja,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.4,H Das,DNT Zoysa,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.5,H Das,DNT Zoysa,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,17.6,H Das,DNT Zoysa,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.1,H Das,DNT Zoysa,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.2,DNT Zoysa,H Das,CRD Fernando,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.3,DNT Zoysa,H Das,CRD Fernando,4,0,4,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.4,DNT Zoysa,H Das,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.5,H Das,DNT Zoysa,CRD Fernando,0,0,0,NA,1,run out,H Das,YV Takawale,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,18.6,DNT Zoysa,RP Singh,CRD Fernando,2,0,2,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.1,RP Singh,DNT Zoysa,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.2,DNT Zoysa,RP Singh,A Nehra,0,1,1,legbyes,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.3,RP Singh,DNT Zoysa,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.4,DNT Zoysa,RP Singh,A Nehra,0,1,1,legbyes,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.5,RP Singh,DNT Zoysa,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336024,2nd innings,Deccan Chargers,Mumbai Indians,19.6,DNT Zoysa,RP Singh,A Nehra,1,0,1,NA,0,NA,NA,NA,0

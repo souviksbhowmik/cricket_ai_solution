@@ -1,0 +1,237 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.1,JC Buttler,DJM Short,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.2,DJM Short,JC Buttler,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.3,DJM Short,JC Buttler,R Ashwin,0,0,0,NA,1,caught,DJM Short,AJ Tye,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.4,JC Buttler,AM Rahane,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.5,JC Buttler,AM Rahane,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,0.6,JC Buttler,AM Rahane,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.1,AM Rahane,JC Buttler,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.2,JC Buttler,AM Rahane,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.3,JC Buttler,AM Rahane,AS Rajpoot,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.4,JC Buttler,AM Rahane,AS Rajpoot,0,4,4,byes,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.5,JC Buttler,AM Rahane,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,1.6,JC Buttler,AM Rahane,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.1,AM Rahane,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.2,JC Buttler,AM Rahane,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.3,AM Rahane,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.4,JC Buttler,AM Rahane,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.5,JC Buttler,AM Rahane,Mujeeb Ur Rahman,0,1,1,legbyes,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,2.6,AM Rahane,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.1,AM Rahane,JC Buttler,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.2,AM Rahane,JC Buttler,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.3,JC Buttler,AM Rahane,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.4,AM Rahane,JC Buttler,AR Patel,0,0,0,NA,1,caught,AM Rahane,CH Gayle,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.5,SV Samson,JC Buttler,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,3.6,JC Buttler,SV Samson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.1,JC Buttler,SV Samson,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.2,SV Samson,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.3,JC Buttler,SV Samson,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.4,SV Samson,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.5,JC Buttler,SV Samson,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,4.6,SV Samson,JC Buttler,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.1,JC Buttler,SV Samson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.2,SV Samson,JC Buttler,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.3,SV Samson,JC Buttler,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.4,SV Samson,JC Buttler,AR Patel,0,1,1,legbyes,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.5,JC Buttler,SV Samson,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,5.6,JC Buttler,SV Samson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.1,JC Buttler,SV Samson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.2,JC Buttler,SV Samson,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.3,SV Samson,JC Buttler,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.4,SV Samson,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.5,SV Samson,JC Buttler,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,6.6,SV Samson,JC Buttler,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.1,SV Samson,JC Buttler,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.2,SV Samson,JC Buttler,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.3,JC Buttler,SV Samson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.4,SV Samson,JC Buttler,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.5,JC Buttler,SV Samson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,7.6,SV Samson,JC Buttler,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.1,SV Samson,JC Buttler,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.2,JC Buttler,SV Samson,AJ Tye,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.3,JC Buttler,SV Samson,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.4,SV Samson,JC Buttler,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.5,JC Buttler,SV Samson,AJ Tye,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,8.6,JC Buttler,SV Samson,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.1,SV Samson,JC Buttler,MP Stoinis,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.2,SV Samson,JC Buttler,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.3,JC Buttler,SV Samson,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.4,SV Samson,JC Buttler,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.5,JC Buttler,SV Samson,MP Stoinis,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,9.6,JC Buttler,SV Samson,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.1,JC Buttler,SV Samson,AJ Tye,0,1,1,legbyes,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.2,SV Samson,JC Buttler,AJ Tye,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.3,SV Samson,JC Buttler,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.4,JC Buttler,SV Samson,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.5,SV Samson,JC Buttler,AJ Tye,0,0,0,NA,1,caught,SV Samson,KK Nair,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,10.6,BA Stokes,JC Buttler,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.1,BA Stokes,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.2,BA Stokes,JC Buttler,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.3,JC Buttler,BA Stokes,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.4,JC Buttler,BA Stokes,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.5,BA Stokes,JC Buttler,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,11.6,BA Stokes,JC Buttler,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.1,BA Stokes,JC Buttler,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.2,BA Stokes,JC Buttler,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.3,BA Stokes,JC Buttler,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.4,JC Buttler,BA Stokes,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.5,BA Stokes,JC Buttler,Mujeeb Ur Rahman,0,0,0,NA,1,caught,BA Stokes,MK Tiwary,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,12.6,JC Buttler,RA Tripathi,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.1,RA Tripathi,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.2,RA Tripathi,JC Buttler,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.3,JC Buttler,RA Tripathi,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.4,RA Tripathi,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.5,RA Tripathi,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,13.6,RA Tripathi,JC Buttler,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.1,JC Buttler,RA Tripathi,Mujeeb Ur Rahman,0,0,0,NA,1,caught,JC Buttler,KL Rahul,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.2,JC Archer,RA Tripathi,Mujeeb Ur Rahman,0,0,0,NA,1,bowled,JC Archer,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.3,K Gowtham,RA Tripathi,Mujeeb Ur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.4,K Gowtham,RA Tripathi,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.5,RA Tripathi,K Gowtham,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.6,RA Tripathi,K Gowtham,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,14.7,RA Tripathi,K Gowtham,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.1,K Gowtham,RA Tripathi,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.2,K Gowtham,RA Tripathi,AS Rajpoot,0,0,0,NA,1,caught,K Gowtham,MP Stoinis,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.3,S Gopal,RA Tripathi,AS Rajpoot,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.4,S Gopal,RA Tripathi,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.5,RA Tripathi,S Gopal,AS Rajpoot,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,15.6,RA Tripathi,S Gopal,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.1,S Gopal,RA Tripathi,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.2,S Gopal,RA Tripathi,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.3,S Gopal,RA Tripathi,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.4,RA Tripathi,S Gopal,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.5,S Gopal,RA Tripathi,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,16.6,RA Tripathi,S Gopal,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.1,RA Tripathi,S Gopal,AJ Tye,0,0,0,NA,1,caught,RA Tripathi,R Ashwin,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.2,S Gopal,JD Unadkat,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.3,JD Unadkat,S Gopal,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.4,S Gopal,JD Unadkat,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.5,JD Unadkat,S Gopal,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,17.6,S Gopal,JD Unadkat,AJ Tye,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.1,JD Unadkat,S Gopal,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.2,S Gopal,JD Unadkat,AS Rajpoot,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.3,S Gopal,JD Unadkat,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.4,S Gopal,JD Unadkat,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.5,S Gopal,JD Unadkat,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,18.6,JD Unadkat,S Gopal,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.1,JD Unadkat,S Gopal,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.2,S Gopal,JD Unadkat,AJ Tye,0,0,0,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.3,S Gopal,JD Unadkat,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.4,JD Unadkat,S Gopal,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.5,S Gopal,JD Unadkat,AJ Tye,1,0,1,NA,0,NA,NA,NA,0
+1136598,1st innings,Rajasthan Royals,Kings XI Punjab,19.6,JD Unadkat,S Gopal,AJ Tye,0,0,0,NA,1,run out,S Gopal,NA,0
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.1,KL Rahul,CH Gayle,K Gowtham,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.2,CH Gayle,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.3,CH Gayle,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.4,CH Gayle,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.5,CH Gayle,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,0.6,CH Gayle,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.1,KL Rahul,CH Gayle,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.2,KL Rahul,CH Gayle,JC Archer,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.3,CH Gayle,KL Rahul,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.4,CH Gayle,KL Rahul,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.5,CH Gayle,KL Rahul,JC Archer,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,1.6,CH Gayle,KL Rahul,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.1,KL Rahul,CH Gayle,K Gowtham,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.2,KL Rahul,CH Gayle,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.3,KL Rahul,CH Gayle,K Gowtham,0,1,1,wides,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.4,KL Rahul,CH Gayle,K Gowtham,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.5,KL Rahul,CH Gayle,K Gowtham,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.6,KL Rahul,CH Gayle,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,2.7,KL Rahul,CH Gayle,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.1,CH Gayle,KL Rahul,JC Archer,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.2,CH Gayle,KL Rahul,JC Archer,0,0,0,NA,1,caught,CH Gayle,SV Samson,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.3,MA Agarwal,KL Rahul,JC Archer,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.4,KL Rahul,MA Agarwal,JC Archer,0,1,1,wides,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.5,KL Rahul,MA Agarwal,JC Archer,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.6,KL Rahul,MA Agarwal,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,3.7,KL Rahul,MA Agarwal,JC Archer,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.1,MA Agarwal,KL Rahul,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.2,KL Rahul,MA Agarwal,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.3,KL Rahul,MA Agarwal,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.4,MA Agarwal,KL Rahul,BA Stokes,0,0,0,NA,1,caught,MA Agarwal,RA Tripathi,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.5,KK Nair,KL Rahul,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,4.6,KK Nair,KL Rahul,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.1,KL Rahul,KK Nair,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.2,KK Nair,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.3,KK Nair,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.4,KK Nair,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.5,KK Nair,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,5.6,KK Nair,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.1,KL Rahul,KK Nair,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.2,KK Nair,KL Rahul,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.3,KK Nair,KL Rahul,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.4,KK Nair,KL Rahul,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.5,KL Rahul,KK Nair,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,6.6,KK Nair,KL Rahul,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.1,KK Nair,KL Rahul,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.2,KL Rahul,KK Nair,S Gopal,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.3,KL Rahul,KK Nair,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.4,KK Nair,KL Rahul,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.5,KK Nair,KL Rahul,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,7.6,KL Rahul,KK Nair,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.1,KL Rahul,KK Nair,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.2,KL Rahul,KK Nair,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.3,KK Nair,KL Rahul,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.4,KL Rahul,KK Nair,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.5,KL Rahul,KK Nair,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,8.6,KL Rahul,KK Nair,Anureet Singh,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.1,KK Nair,KL Rahul,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.2,KL Rahul,KK Nair,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.3,KK Nair,KL Rahul,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.4,KL Rahul,KK Nair,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.5,KK Nair,KL Rahul,S Gopal,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,9.6,KK Nair,KL Rahul,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.1,KL Rahul,KK Nair,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.2,KK Nair,KL Rahul,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.3,KK Nair,KL Rahul,Anureet Singh,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.4,KK Nair,KL Rahul,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.5,KK Nair,KL Rahul,Anureet Singh,0,0,0,NA,1,bowled,KK Nair,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,10.6,AR Patel,KL Rahul,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.1,AR Patel,KL Rahul,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.2,KL Rahul,AR Patel,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.3,KL Rahul,AR Patel,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.4,KL Rahul,AR Patel,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.5,AR Patel,KL Rahul,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,11.6,KL Rahul,AR Patel,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.1,AR Patel,KL Rahul,K Gowtham,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.2,KL Rahul,AR Patel,K Gowtham,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.3,KL Rahul,AR Patel,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.4,KL Rahul,AR Patel,K Gowtham,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.5,AR Patel,KL Rahul,K Gowtham,0,0,0,NA,1,caught,AR Patel,DJM Short,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,12.6,MP Stoinis,KL Rahul,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.1,KL Rahul,MP Stoinis,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.2,KL Rahul,MP Stoinis,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.3,MP Stoinis,KL Rahul,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.4,MP Stoinis,KL Rahul,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.5,MP Stoinis,KL Rahul,S Gopal,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,13.6,MP Stoinis,KL Rahul,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.1,MP Stoinis,KL Rahul,JD Unadkat,0,1,1,wides,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.2,MP Stoinis,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.3,MP Stoinis,KL Rahul,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.4,MP Stoinis,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.5,MP Stoinis,KL Rahul,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.6,KL Rahul,MP Stoinis,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,14.7,KL Rahul,MP Stoinis,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.1,KL Rahul,MP Stoinis,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.2,MP Stoinis,KL Rahul,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.3,KL Rahul,MP Stoinis,BA Stokes,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.4,KL Rahul,MP Stoinis,BA Stokes,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.5,KL Rahul,MP Stoinis,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,15.6,MP Stoinis,KL Rahul,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.1,MP Stoinis,KL Rahul,JC Archer,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.2,MP Stoinis,KL Rahul,JC Archer,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.3,MP Stoinis,KL Rahul,JC Archer,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.4,KL Rahul,MP Stoinis,JC Archer,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.5,KL Rahul,MP Stoinis,JC Archer,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,16.6,MP Stoinis,KL Rahul,JC Archer,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.1,KL Rahul,MP Stoinis,JD Unadkat,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.2,KL Rahul,MP Stoinis,JD Unadkat,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.3,KL Rahul,MP Stoinis,JD Unadkat,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.4,KL Rahul,MP Stoinis,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.5,KL Rahul,MP Stoinis,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,17.6,MP Stoinis,KL Rahul,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,18.1,KL Rahul,MP Stoinis,JC Archer,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,18.2,KL Rahul,MP Stoinis,JC Archer,6,0,6,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,18.3,KL Rahul,MP Stoinis,JC Archer,2,0,2,NA,0,NA,NA,NA,1
+1136598,2nd innings,Kings XI Punjab,Rajasthan Royals,18.4,KL Rahul,MP Stoinis,JC Archer,4,0,4,NA,0,NA,NA,NA,1

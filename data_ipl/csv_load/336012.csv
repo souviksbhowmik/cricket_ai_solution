@@ -1,0 +1,218 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.1,MV Boucher,SP Goswami,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.2,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.3,MV Boucher,SP Goswami,SM Pollock,3,0,3,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.4,SP Goswami,MV Boucher,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.5,SP Goswami,MV Boucher,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.6,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.1,SP Goswami,MV Boucher,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.2,SP Goswami,MV Boucher,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.3,SP Goswami,MV Boucher,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.4,SP Goswami,MV Boucher,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.5,SP Goswami,MV Boucher,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.6,MV Boucher,SP Goswami,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.1,SP Goswami,MV Boucher,SM Pollock,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.2,SP Goswami,MV Boucher,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.3,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.4,MV Boucher,SP Goswami,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.5,MV Boucher,SP Goswami,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.6,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.1,SP Goswami,MV Boucher,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.2,MV Boucher,SP Goswami,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.3,MV Boucher,SP Goswami,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.4,MV Boucher,SP Goswami,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.5,MV Boucher,SP Goswami,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.6,MV Boucher,SP Goswami,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.1,SP Goswami,MV Boucher,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.2,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.3,MV Boucher,SP Goswami,SM Pollock,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.4,MV Boucher,SP Goswami,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.5,MV Boucher,SP Goswami,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.6,SP Goswami,MV Boucher,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.1,SP Goswami,MV Boucher,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.2,MV Boucher,SP Goswami,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.3,MV Boucher,SP Goswami,CRD Fernando,0,0,0,NA,1,caught,MV Boucher,RV Uthappa,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.4,SP Goswami,Misbah-ul-Haq,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.5,SP Goswami,Misbah-ul-Haq,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.6,Misbah-ul-Haq,SP Goswami,CRD Fernando,0,0,0,NA,1,caught,Misbah-ul-Haq,SR Tendulkar,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.1,SP Goswami,R Dravid,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.2,R Dravid,SP Goswami,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.3,R Dravid,SP Goswami,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.4,SP Goswami,R Dravid,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.5,SP Goswami,R Dravid,SM Pollock,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.6,R Dravid,SP Goswami,SM Pollock,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.1,SP Goswami,R Dravid,CRD Fernando,0,0,0,NA,1,caught,SP Goswami,A Nehra,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.2,R Dravid,CL White,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.3,CL White,R Dravid,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.4,CL White,R Dravid,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.5,CL White,R Dravid,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.6,CL White,R Dravid,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.1,R Dravid,CL White,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.2,CL White,R Dravid,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.3,R Dravid,CL White,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.4,CL White,R Dravid,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.5,CL White,R Dravid,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.6,R Dravid,CL White,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.7,R Dravid,CL White,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.1,CL White,R Dravid,DR Smith,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.2,CL White,R Dravid,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.3,R Dravid,CL White,DR Smith,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.4,R Dravid,CL White,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.5,CL White,R Dravid,DR Smith,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.6,CL White,R Dravid,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.1,CL White,R Dravid,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.2,R Dravid,CL White,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.3,CL White,R Dravid,DS Kulkarni,4,1,5,noballs,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.4,CL White,R Dravid,DS Kulkarni,6,0,6,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.5,CL White,R Dravid,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.6,CL White,R Dravid,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.7,CL White,R Dravid,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.1,CL White,R Dravid,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.2,CL White,R Dravid,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.3,CL White,R Dravid,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.4,CL White,R Dravid,DR Smith,0,0,0,NA,1,caught,CL White,CRD Fernando,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.5,R Dravid,V Kohli,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.6,R Dravid,V Kohli,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.1,R Dravid,V Kohli,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.2,V Kohli,R Dravid,A Nehra,0,0,0,NA,1,caught,V Kohli,YV Takawale,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.3,B Akhil,R Dravid,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.4,B Akhil,R Dravid,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.5,B Akhil,R Dravid,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.6,R Dravid,B Akhil,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.1,R Dravid,B Akhil,DR Smith,0,0,0,NA,1,bowled,R Dravid,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.2,P Kumar,B Akhil,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.3,P Kumar,B Akhil,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.4,B Akhil,P Kumar,DR Smith,0,0,0,NA,1,lbw,B Akhil,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.5,R Vinay Kumar,P Kumar,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.6,R Vinay Kumar,P Kumar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.1,R Vinay Kumar,P Kumar,CRD Fernando,0,1,1,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.2,R Vinay Kumar,P Kumar,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.3,R Vinay Kumar,P Kumar,CRD Fernando,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.4,R Vinay Kumar,P Kumar,CRD Fernando,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.5,R Vinay Kumar,P Kumar,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.6,R Vinay Kumar,P Kumar,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.7,P Kumar,R Vinay Kumar,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.1,R Vinay Kumar,P Kumar,DR Smith,0,5,5,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.2,R Vinay Kumar,P Kumar,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.3,R Vinay Kumar,P Kumar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.4,P Kumar,R Vinay Kumar,DR Smith,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.5,P Kumar,R Vinay Kumar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.6,R Vinay Kumar,P Kumar,DR Smith,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.7,R Vinay Kumar,P Kumar,DR Smith,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.1,R Vinay Kumar,P Kumar,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.2,P Kumar,R Vinay Kumar,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.3,P Kumar,R Vinay Kumar,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.4,P Kumar,R Vinay Kumar,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.5,R Vinay Kumar,P Kumar,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.6,R Vinay Kumar,P Kumar,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.7,R Vinay Kumar,P Kumar,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.8,R Vinay Kumar,P Kumar,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.9,R Vinay Kumar,P Kumar,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.1,P Kumar,R Vinay Kumar,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.2,P Kumar,R Vinay Kumar,CRD Fernando,1,0,1,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.3,R Vinay Kumar,P Kumar,CRD Fernando,0,0,0,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.4,R Vinay Kumar,P Kumar,CRD Fernando,6,0,6,NA,0,NA,NA,NA,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.5,R Vinay Kumar,P Kumar,CRD Fernando,0,0,0,NA,1,caught,R Vinay Kumar,RV Uthappa,0
+336012,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.6,P Kumar,A Kumble,CRD Fernando,0,0,0,NA,1,run out,P Kumar,YV Takawale,0
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.1,ST Jayasuriya,SR Tendulkar,A Kumble,2,0,2,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.2,ST Jayasuriya,SR Tendulkar,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.3,ST Jayasuriya,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.4,SR Tendulkar,ST Jayasuriya,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.5,ST Jayasuriya,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.6,SR Tendulkar,ST Jayasuriya,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.1,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.2,ST Jayasuriya,SR Tendulkar,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.3,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.4,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.5,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.6,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.7,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.1,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.2,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.3,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.4,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.5,SR Tendulkar,ST Jayasuriya,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.6,ST Jayasuriya,SR Tendulkar,P Kumar,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.1,SR Tendulkar,ST Jayasuriya,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.2,SR Tendulkar,ST Jayasuriya,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.3,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.4,ST Jayasuriya,SR Tendulkar,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.5,SR Tendulkar,ST Jayasuriya,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.6,ST Jayasuriya,SR Tendulkar,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.7,ST Jayasuriya,SR Tendulkar,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.1,ST Jayasuriya,SR Tendulkar,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.2,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.3,SR Tendulkar,ST Jayasuriya,P Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.4,SR Tendulkar,ST Jayasuriya,P Kumar,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.5,SR Tendulkar,ST Jayasuriya,P Kumar,2,0,2,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.6,SR Tendulkar,ST Jayasuriya,P Kumar,0,1,1,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.7,SR Tendulkar,ST Jayasuriya,P Kumar,0,5,5,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.8,SR Tendulkar,ST Jayasuriya,P Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.1,SR Tendulkar,ST Jayasuriya,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.2,SR Tendulkar,ST Jayasuriya,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.3,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.4,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.5,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.6,SR Tendulkar,ST Jayasuriya,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.1,SR Tendulkar,ST Jayasuriya,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.2,SR Tendulkar,ST Jayasuriya,B Akhil,0,2,2,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.3,ST Jayasuriya,SR Tendulkar,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.4,ST Jayasuriya,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.5,SR Tendulkar,ST Jayasuriya,B Akhil,0,1,1,legbyes,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.6,ST Jayasuriya,SR Tendulkar,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.7,ST Jayasuriya,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.1,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.2,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.3,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.4,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.5,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.6,ST Jayasuriya,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.1,SR Tendulkar,ST Jayasuriya,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.2,SR Tendulkar,ST Jayasuriya,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.3,ST Jayasuriya,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.4,SR Tendulkar,ST Jayasuriya,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.5,ST Jayasuriya,SR Tendulkar,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.6,ST Jayasuriya,SR Tendulkar,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.1,SR Tendulkar,ST Jayasuriya,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.2,ST Jayasuriya,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.3,SR Tendulkar,ST Jayasuriya,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.4,ST Jayasuriya,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.5,SR Tendulkar,ST Jayasuriya,B Akhil,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.6,SR Tendulkar,ST Jayasuriya,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.1,ST Jayasuriya,SR Tendulkar,A Kumble,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.2,ST Jayasuriya,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.3,SR Tendulkar,ST Jayasuriya,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.4,ST Jayasuriya,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.5,SR Tendulkar,ST Jayasuriya,A Kumble,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.6,SR Tendulkar,ST Jayasuriya,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.1,SR Tendulkar,ST Jayasuriya,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.2,SR Tendulkar,ST Jayasuriya,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.3,ST Jayasuriya,SR Tendulkar,DW Steyn,0,0,0,NA,1,caught,ST Jayasuriya,B Akhil,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.4,RV Uthappa,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.5,RV Uthappa,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.6,RV Uthappa,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.1,SR Tendulkar,RV Uthappa,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.2,SR Tendulkar,RV Uthappa,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.3,RV Uthappa,SR Tendulkar,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.4,RV Uthappa,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.5,RV Uthappa,SR Tendulkar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.6,RV Uthappa,SR Tendulkar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.1,RV Uthappa,SR Tendulkar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.2,RV Uthappa,SR Tendulkar,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.3,RV Uthappa,SR Tendulkar,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.4,SR Tendulkar,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.5,SR Tendulkar,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.6,SR Tendulkar,RV Uthappa,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.7,SR Tendulkar,RV Uthappa,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.1,RV Uthappa,SR Tendulkar,B Akhil,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.2,RV Uthappa,SR Tendulkar,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.3,RV Uthappa,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.4,SR Tendulkar,RV Uthappa,B Akhil,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.5,SR Tendulkar,RV Uthappa,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.6,RV Uthappa,SR Tendulkar,B Akhil,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.1,RV Uthappa,SR Tendulkar,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.2,RV Uthappa,SR Tendulkar,A Kumble,1,0,1,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.3,SR Tendulkar,RV Uthappa,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.4,SR Tendulkar,RV Uthappa,A Kumble,0,0,0,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.5,SR Tendulkar,RV Uthappa,A Kumble,4,0,4,NA,0,NA,NA,NA,1
+336012,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.6,SR Tendulkar,RV Uthappa,A Kumble,4,0,4,NA,0,NA,NA,NA,1

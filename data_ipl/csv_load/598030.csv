@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.1,Q de Kock,S Dhawan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.2,Q de Kock,S Dhawan,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.3,Q de Kock,S Dhawan,MM Sharma,0,0,0,NA,1,caught,Q de Kock,M Vijay,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.4,GH Vihari,S Dhawan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.5,GH Vihari,S Dhawan,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,0.6,S Dhawan,GH Vihari,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.1,S Dhawan,GH Vihari,JO Holder,0,1,1,wides,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.2,S Dhawan,GH Vihari,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.3,S Dhawan,GH Vihari,JO Holder,0,1,1,wides,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.4,S Dhawan,GH Vihari,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.5,GH Vihari,S Dhawan,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.6,S Dhawan,GH Vihari,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.7,S Dhawan,GH Vihari,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,1.8,S Dhawan,GH Vihari,JO Holder,0,0,0,NA,1,run out,GH Vihari,SK Raina,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.1,S Dhawan,CL White,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.2,S Dhawan,CL White,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.3,S Dhawan,CL White,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.4,S Dhawan,CL White,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.5,S Dhawan,CL White,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,2.6,CL White,S Dhawan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.1,S Dhawan,CL White,JO Holder,0,4,4,legbyes,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.2,S Dhawan,CL White,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.3,S Dhawan,CL White,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.4,S Dhawan,CL White,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.5,S Dhawan,CL White,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,3.6,CL White,S Dhawan,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.1,S Dhawan,CL White,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.2,S Dhawan,CL White,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.3,S Dhawan,CL White,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.4,S Dhawan,CL White,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.5,CL White,S Dhawan,MM Sharma,0,0,0,NA,1,caught,CL White,MS Dhoni,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,4.6,A Mishra,S Dhawan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.1,S Dhawan,A Mishra,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.2,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.3,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.4,A Mishra,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.5,S Dhawan,A Mishra,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,5.6,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.1,S Dhawan,A Mishra,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.2,A Mishra,S Dhawan,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.3,A Mishra,S Dhawan,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.4,A Mishra,S Dhawan,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.5,A Mishra,S Dhawan,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,6.6,A Mishra,S Dhawan,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.1,S Dhawan,A Mishra,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.2,A Mishra,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.3,S Dhawan,A Mishra,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.4,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.5,A Mishra,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,7.6,S Dhawan,A Mishra,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.1,A Mishra,S Dhawan,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.2,A Mishra,S Dhawan,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.3,S Dhawan,A Mishra,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.4,A Mishra,S Dhawan,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.5,A Mishra,S Dhawan,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,8.6,A Mishra,S Dhawan,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.1,S Dhawan,A Mishra,R Ashwin,0,1,1,legbyes,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.2,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.3,A Mishra,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.4,S Dhawan,A Mishra,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.5,S Dhawan,A Mishra,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.6,A Mishra,S Dhawan,R Ashwin,0,0,0,NA,1,caught,A Mishra,DJ Bravo,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,9.7,S Dhawan,X Thalaivan Sargunam,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.1,S Dhawan,X Thalaivan Sargunam,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.2,X Thalaivan Sargunam,S Dhawan,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.3,X Thalaivan Sargunam,S Dhawan,CH Morris,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.4,X Thalaivan Sargunam,S Dhawan,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.5,X Thalaivan Sargunam,S Dhawan,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,10.6,S Dhawan,X Thalaivan Sargunam,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.1,S Dhawan,X Thalaivan Sargunam,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.2,S Dhawan,X Thalaivan Sargunam,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.3,X Thalaivan Sargunam,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.4,X Thalaivan Sargunam,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.5,X Thalaivan Sargunam,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,11.6,S Dhawan,X Thalaivan Sargunam,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.1,X Thalaivan Sargunam,S Dhawan,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.2,S Dhawan,X Thalaivan Sargunam,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.3,X Thalaivan Sargunam,S Dhawan,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.4,X Thalaivan Sargunam,S Dhawan,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.5,S Dhawan,X Thalaivan Sargunam,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,12.6,X Thalaivan Sargunam,S Dhawan,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.1,X Thalaivan Sargunam,S Dhawan,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.2,X Thalaivan Sargunam,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.3,S Dhawan,X Thalaivan Sargunam,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.4,DJG Sammy,X Thalaivan Sargunam,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.5,DJG Sammy,X Thalaivan Sargunam,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,13.6,X Thalaivan Sargunam,DJG Sammy,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.1,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.2,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.3,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.4,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.5,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,14.6,DJG Sammy,X Thalaivan Sargunam,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.1,X Thalaivan Sargunam,DJG Sammy,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.2,X Thalaivan Sargunam,DJG Sammy,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.3,X Thalaivan Sargunam,DJG Sammy,DJ Bravo,0,0,0,NA,1,caught and bowled,X Thalaivan Sargunam,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.4,DJG Sammy,A Ashish Reddy,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.5,A Ashish Reddy,DJG Sammy,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,15.6,A Ashish Reddy,DJG Sammy,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.1,A Ashish Reddy,DJG Sammy,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.2,DJG Sammy,A Ashish Reddy,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.3,DJG Sammy,A Ashish Reddy,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.4,A Ashish Reddy,DJG Sammy,CH Morris,6,0,6,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.5,A Ashish Reddy,DJG Sammy,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,16.6,A Ashish Reddy,DJG Sammy,CH Morris,3,0,3,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.1,A Ashish Reddy,DJG Sammy,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.2,DJG Sammy,A Ashish Reddy,DJ Bravo,0,0,0,NA,1,caught,DJG Sammy,CH Morris,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.3,S Dhawan,A Ashish Reddy,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.4,A Ashish Reddy,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.5,S Dhawan,A Ashish Reddy,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,17.6,S Dhawan,A Ashish Reddy,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.1,A Ashish Reddy,S Dhawan,MM Sharma,6,0,6,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.2,A Ashish Reddy,S Dhawan,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.3,S Dhawan,A Ashish Reddy,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.4,S Dhawan,A Ashish Reddy,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.5,S Dhawan,A Ashish Reddy,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,18.6,S Dhawan,A Ashish Reddy,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.1,A Ashish Reddy,S Dhawan,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.2,A Ashish Reddy,S Dhawan,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.3,A Ashish Reddy,S Dhawan,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.4,A Ashish Reddy,S Dhawan,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.5,A Ashish Reddy,S Dhawan,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+598030,1st innings,Sunrisers Hyderabad,Chennai Super Kings,19.6,A Ashish Reddy,S Dhawan,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.1,MEK Hussey,M Vijay,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.2,MEK Hussey,M Vijay,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.3,M Vijay,MEK Hussey,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.4,M Vijay,MEK Hussey,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.5,MEK Hussey,M Vijay,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,0.6,M Vijay,MEK Hussey,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.1,M Vijay,MEK Hussey,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.2,M Vijay,MEK Hussey,I Sharma,0,1,1,wides,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.3,M Vijay,MEK Hussey,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.4,M Vijay,MEK Hussey,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.5,M Vijay,MEK Hussey,I Sharma,3,0,3,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.6,MEK Hussey,M Vijay,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,1.7,MEK Hussey,M Vijay,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.1,MEK Hussey,M Vijay,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.2,MEK Hussey,M Vijay,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.3,MEK Hussey,M Vijay,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.4,M Vijay,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.5,M Vijay,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.6,M Vijay,MEK Hussey,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,2.7,M Vijay,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.1,MEK Hussey,M Vijay,DJG Sammy,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.2,MEK Hussey,M Vijay,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.3,M Vijay,MEK Hussey,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.4,M Vijay,MEK Hussey,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.5,MEK Hussey,M Vijay,DJG Sammy,0,1,1,wides,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.6,MEK Hussey,M Vijay,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,3.7,MEK Hussey,M Vijay,DJG Sammy,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.1,M Vijay,MEK Hussey,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.2,M Vijay,MEK Hussey,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.3,M Vijay,MEK Hussey,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.4,MEK Hussey,M Vijay,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.5,M Vijay,MEK Hussey,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,4.6,MEK Hussey,M Vijay,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.1,MEK Hussey,M Vijay,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.2,MEK Hussey,M Vijay,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.3,MEK Hussey,M Vijay,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.4,M Vijay,MEK Hussey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.5,MEK Hussey,M Vijay,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,5.6,MEK Hussey,M Vijay,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.1,M Vijay,MEK Hussey,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.2,M Vijay,MEK Hussey,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.3,M Vijay,MEK Hussey,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.4,MEK Hussey,M Vijay,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.5,MEK Hussey,M Vijay,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,6.6,MEK Hussey,M Vijay,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.1,MEK Hussey,M Vijay,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.2,MEK Hussey,M Vijay,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.3,M Vijay,MEK Hussey,A Mishra,0,0,0,NA,1,stumped,M Vijay,Q de Kock,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.4,SK Raina,MEK Hussey,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.5,SK Raina,MEK Hussey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,7.6,MEK Hussey,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.1,SK Raina,MEK Hussey,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.2,MEK Hussey,SK Raina,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.3,SK Raina,MEK Hussey,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.4,SK Raina,MEK Hussey,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.5,SK Raina,MEK Hussey,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,8.6,SK Raina,MEK Hussey,I Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.1,SK Raina,MEK Hussey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.2,MEK Hussey,SK Raina,A Mishra,0,0,0,NA,1,caught,MEK Hussey,Q de Kock,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.3,MS Dhoni,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.4,MS Dhoni,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.5,MS Dhoni,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,9.6,MS Dhoni,SK Raina,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.1,SK Raina,MS Dhoni,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.2,SK Raina,MS Dhoni,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.3,MS Dhoni,SK Raina,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.4,MS Dhoni,SK Raina,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.5,MS Dhoni,SK Raina,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,10.6,MS Dhoni,SK Raina,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.1,MS Dhoni,SK Raina,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.2,MS Dhoni,SK Raina,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.3,MS Dhoni,SK Raina,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.4,SK Raina,MS Dhoni,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.5,MS Dhoni,SK Raina,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,11.6,MS Dhoni,SK Raina,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.1,SK Raina,MS Dhoni,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.2,MS Dhoni,SK Raina,DJG Sammy,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.3,MS Dhoni,SK Raina,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.4,MS Dhoni,SK Raina,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.5,MS Dhoni,SK Raina,DJG Sammy,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,12.6,MS Dhoni,SK Raina,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.1,MS Dhoni,SK Raina,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.2,SK Raina,MS Dhoni,A Mishra,0,0,0,NA,1,caught,SK Raina,DJG Sammy,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.3,DJ Bravo,MS Dhoni,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.4,DJ Bravo,MS Dhoni,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.5,DJ Bravo,MS Dhoni,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,13.6,MS Dhoni,DJ Bravo,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.1,MS Dhoni,DJ Bravo,I Sharma,0,1,1,noballs,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.2,MS Dhoni,DJ Bravo,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.3,MS Dhoni,DJ Bravo,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.4,MS Dhoni,DJ Bravo,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.5,MS Dhoni,DJ Bravo,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.6,DJ Bravo,MS Dhoni,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,14.7,DJ Bravo,MS Dhoni,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.1,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.2,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.3,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.4,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.5,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,15.6,DJ Bravo,MS Dhoni,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.1,MS Dhoni,DJ Bravo,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.2,MS Dhoni,DJ Bravo,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.3,MS Dhoni,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.4,DJ Bravo,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.5,DJ Bravo,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,16.6,DJ Bravo,MS Dhoni,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.1,DJ Bravo,MS Dhoni,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.2,DJ Bravo,MS Dhoni,I Sharma,0,0,0,NA,1,caught,DJ Bravo,A Ashish Reddy,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.3,RA Jadeja,MS Dhoni,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.4,RA Jadeja,MS Dhoni,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.5,MS Dhoni,RA Jadeja,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,17.6,RA Jadeja,MS Dhoni,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.1,MS Dhoni,RA Jadeja,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.2,MS Dhoni,RA Jadeja,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.3,MS Dhoni,RA Jadeja,DW Steyn,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.4,MS Dhoni,RA Jadeja,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.5,RA Jadeja,MS Dhoni,DW Steyn,0,0,0,NA,1,caught,RA Jadeja,A Mishra,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,18.6,CH Morris,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,19.1,MS Dhoni,CH Morris,A Ashish Reddy,0,1,1,wides,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,19.2,MS Dhoni,CH Morris,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,19.3,MS Dhoni,CH Morris,A Ashish Reddy,6,0,6,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,19.4,MS Dhoni,CH Morris,A Ashish Reddy,4,0,4,NA,0,NA,NA,NA,1
+598030,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,19.5,MS Dhoni,CH Morris,A Ashish Reddy,4,0,4,NA,0,NA,NA,NA,1

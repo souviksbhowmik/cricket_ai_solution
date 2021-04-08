@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.1,CH Gayle,V Kohli,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.2,CH Gayle,V Kohli,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.3,CH Gayle,V Kohli,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.4,CH Gayle,V Kohli,MJ McClenaghan,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.5,CH Gayle,V Kohli,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.6,CH Gayle,V Kohli,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.7,V Kohli,CH Gayle,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.1,CH Gayle,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.2,CH Gayle,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.3,CH Gayle,V Kohli,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.4,V Kohli,CH Gayle,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.5,CH Gayle,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.6,CH Gayle,V Kohli,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.1,V Kohli,CH Gayle,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.2,V Kohli,CH Gayle,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.3,V Kohli,CH Gayle,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.4,CH Gayle,V Kohli,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.5,V Kohli,CH Gayle,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.6,V Kohli,CH Gayle,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.1,CH Gayle,V Kohli,SL Malinga,0,0,0,NA,1,caught,CH Gayle,LMP Simmons,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.2,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.3,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.4,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.5,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.6,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.1,V Kohli,AB de Villiers,JJ Bumrah,0,1,1,wides,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.2,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.3,AB de Villiers,V Kohli,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.4,V Kohli,AB de Villiers,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.5,V Kohli,AB de Villiers,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.6,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.7,AB de Villiers,V Kohli,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.1,AB de Villiers,V Kohli,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.2,V Kohli,AB de Villiers,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.3,AB de Villiers,V Kohli,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.4,AB de Villiers,V Kohli,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.5,AB de Villiers,V Kohli,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.6,AB de Villiers,V Kohli,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.1,V Kohli,AB de Villiers,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.2,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.3,AB de Villiers,V Kohli,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.4,AB de Villiers,V Kohli,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.5,AB de Villiers,V Kohli,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.6,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.1,V Kohli,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.2,AB de Villiers,V Kohli,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.3,AB de Villiers,V Kohli,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.4,V Kohli,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.5,AB de Villiers,V Kohli,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.6,AB de Villiers,V Kohli,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.1,V Kohli,AB de Villiers,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.2,V Kohli,AB de Villiers,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.3,AB de Villiers,V Kohli,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.4,AB de Villiers,V Kohli,J Suchith,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.5,AB de Villiers,V Kohli,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.6,AB de Villiers,V Kohli,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.1,AB de Villiers,V Kohli,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.2,V Kohli,AB de Villiers,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.3,V Kohli,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.4,AB de Villiers,V Kohli,Harbhajan Singh,0,3,3,wides,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.5,AB de Villiers,V Kohli,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.6,V Kohli,AB de Villiers,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.7,V Kohli,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.1,V Kohli,AB de Villiers,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.2,V Kohli,AB de Villiers,J Suchith,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.3,V Kohli,AB de Villiers,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.4,AB de Villiers,V Kohli,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.5,AB de Villiers,V Kohli,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.6,V Kohli,AB de Villiers,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.1,V Kohli,AB de Villiers,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.2,V Kohli,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.3,AB de Villiers,V Kohli,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.4,V Kohli,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.5,AB de Villiers,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.6,AB de Villiers,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.1,V Kohli,AB de Villiers,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.2,AB de Villiers,V Kohli,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.3,V Kohli,AB de Villiers,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.4,V Kohli,AB de Villiers,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.5,AB de Villiers,V Kohli,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.6,AB de Villiers,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.1,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.2,AB de Villiers,V Kohli,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.3,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.4,AB de Villiers,V Kohli,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.5,AB de Villiers,V Kohli,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.6,AB de Villiers,V Kohli,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.1,V Kohli,AB de Villiers,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.2,AB de Villiers,V Kohli,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.3,AB de Villiers,V Kohli,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.4,AB de Villiers,V Kohli,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.5,AB de Villiers,V Kohli,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.6,V Kohli,AB de Villiers,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.1,V Kohli,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.2,AB de Villiers,V Kohli,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.3,AB de Villiers,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.4,AB de Villiers,V Kohli,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.5,V Kohli,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.6,AB de Villiers,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.1,V Kohli,AB de Villiers,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.2,V Kohli,AB de Villiers,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.3,AB de Villiers,V Kohli,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.4,AB de Villiers,V Kohli,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.5,AB de Villiers,V Kohli,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.6,AB de Villiers,V Kohli,JJ Bumrah,1,1,2,noballs,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.7,V Kohli,AB de Villiers,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.1,AB de Villiers,V Kohli,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.2,AB de Villiers,V Kohli,HH Pandya,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.3,AB de Villiers,V Kohli,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.4,AB de Villiers,V Kohli,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.5,V Kohli,AB de Villiers,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.6,V Kohli,AB de Villiers,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.1,AB de Villiers,V Kohli,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.2,AB de Villiers,V Kohli,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.3,AB de Villiers,V Kohli,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.4,V Kohli,AB de Villiers,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.5,AB de Villiers,V Kohli,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.6,AB de Villiers,V Kohli,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.7,AB de Villiers,V Kohli,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.1,AB de Villiers,V Kohli,HH Pandya,1,0,1,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.2,V Kohli,AB de Villiers,HH Pandya,2,0,2,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.3,V Kohli,AB de Villiers,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.4,V Kohli,AB de Villiers,HH Pandya,4,0,4,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.5,V Kohli,AB de Villiers,HH Pandya,6,0,6,NA,0,NA,NA,NA,1
+829795,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.6,V Kohli,AB de Villiers,HH Pandya,0,0,0,NA,0,NA,NA,NA,1
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.1,PA Patel,LMP Simmons,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.2,PA Patel,LMP Simmons,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.3,LMP Simmons,PA Patel,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.4,PA Patel,LMP Simmons,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.5,LMP Simmons,PA Patel,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.6,LMP Simmons,PA Patel,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.7,LMP Simmons,PA Patel,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.1,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.2,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.3,LMP Simmons,PA Patel,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.4,PA Patel,LMP Simmons,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.5,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.6,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.1,PA Patel,LMP Simmons,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.2,PA Patel,LMP Simmons,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.3,PA Patel,LMP Simmons,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.4,PA Patel,LMP Simmons,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.5,PA Patel,LMP Simmons,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.6,PA Patel,LMP Simmons,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.1,LMP Simmons,PA Patel,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.2,PA Patel,LMP Simmons,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.3,LMP Simmons,PA Patel,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.4,PA Patel,LMP Simmons,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.5,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.6,LMP Simmons,PA Patel,S Aravind,0,0,0,NA,1,run out,PA Patel,V Kohli,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.1,LMP Simmons,RG Sharma,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.2,LMP Simmons,RG Sharma,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.3,RG Sharma,LMP Simmons,D Wiese,0,1,1,wides,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.4,RG Sharma,LMP Simmons,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.5,RG Sharma,LMP Simmons,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.6,RG Sharma,LMP Simmons,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.7,RG Sharma,LMP Simmons,D Wiese,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.1,LMP Simmons,RG Sharma,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.2,LMP Simmons,RG Sharma,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.3,LMP Simmons,RG Sharma,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.4,LMP Simmons,RG Sharma,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.5,LMP Simmons,RG Sharma,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.6,RG Sharma,LMP Simmons,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.1,RG Sharma,LMP Simmons,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.2,LMP Simmons,RG Sharma,D Wiese,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.3,LMP Simmons,RG Sharma,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.4,RG Sharma,LMP Simmons,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.5,RG Sharma,LMP Simmons,D Wiese,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.6,RG Sharma,LMP Simmons,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.1,RG Sharma,LMP Simmons,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.2,LMP Simmons,RG Sharma,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.3,LMP Simmons,RG Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.4,RG Sharma,LMP Simmons,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.5,RG Sharma,LMP Simmons,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.6,LMP Simmons,RG Sharma,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.1,RG Sharma,LMP Simmons,HV Patel,0,0,0,NA,1,caught,RG Sharma,Mandeep Singh,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.2,KA Pollard,LMP Simmons,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.3,LMP Simmons,KA Pollard,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.4,KA Pollard,LMP Simmons,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.5,KA Pollard,LMP Simmons,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.6,LMP Simmons,KA Pollard,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.1,KA Pollard,LMP Simmons,S Aravind,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.2,KA Pollard,LMP Simmons,S Aravind,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.3,KA Pollard,LMP Simmons,S Aravind,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.4,KA Pollard,LMP Simmons,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.5,LMP Simmons,KA Pollard,S Aravind,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.6,LMP Simmons,KA Pollard,S Aravind,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.1,KA Pollard,LMP Simmons,HV Patel,0,1,1,legbyes,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.2,LMP Simmons,KA Pollard,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.3,KA Pollard,LMP Simmons,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.4,KA Pollard,LMP Simmons,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.5,LMP Simmons,KA Pollard,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.6,KA Pollard,LMP Simmons,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.1,LMP Simmons,KA Pollard,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.2,KA Pollard,LMP Simmons,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.3,KA Pollard,LMP Simmons,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.4,LMP Simmons,KA Pollard,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.5,KA Pollard,LMP Simmons,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.6,LMP Simmons,KA Pollard,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.1,KA Pollard,LMP Simmons,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.2,KA Pollard,LMP Simmons,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.3,KA Pollard,LMP Simmons,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.4,KA Pollard,LMP Simmons,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.5,LMP Simmons,KA Pollard,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.6,KA Pollard,LMP Simmons,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.1,LMP Simmons,KA Pollard,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.2,KA Pollard,LMP Simmons,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.3,LMP Simmons,KA Pollard,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.4,LMP Simmons,KA Pollard,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.5,KA Pollard,LMP Simmons,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.6,KA Pollard,LMP Simmons,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.1,KA Pollard,LMP Simmons,S Aravind,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.2,KA Pollard,LMP Simmons,S Aravind,0,0,0,NA,1,caught,KA Pollard,MA Starc,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.3,LMP Simmons,HH Pandya,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.4,LMP Simmons,HH Pandya,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.5,HH Pandya,LMP Simmons,S Aravind,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.6,LMP Simmons,HH Pandya,S Aravind,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.1,HH Pandya,LMP Simmons,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.2,LMP Simmons,HH Pandya,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.3,HH Pandya,LMP Simmons,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.4,HH Pandya,LMP Simmons,YS Chahal,0,0,0,NA,1,stumped,HH Pandya,KD Karthik,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.5,AT Rayudu,LMP Simmons,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.6,AT Rayudu,LMP Simmons,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.1,LMP Simmons,AT Rayudu,D Wiese,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.2,LMP Simmons,AT Rayudu,D Wiese,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.3,LMP Simmons,AT Rayudu,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.4,LMP Simmons,AT Rayudu,D Wiese,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.5,LMP Simmons,AT Rayudu,D Wiese,4,0,4,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.6,LMP Simmons,AT Rayudu,D Wiese,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.1,LMP Simmons,AT Rayudu,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.2,AT Rayudu,LMP Simmons,HV Patel,0,1,1,wides,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.3,AT Rayudu,LMP Simmons,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.4,AT Rayudu,LMP Simmons,HV Patel,0,0,0,NA,1,caught,AT Rayudu,AB de Villiers,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.5,LMP Simmons,Harbhajan Singh,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.6,LMP Simmons,Harbhajan Singh,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.7,Harbhajan Singh,LMP Simmons,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.1,Harbhajan Singh,LMP Simmons,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.2,Harbhajan Singh,LMP Simmons,MA Starc,0,0,0,NA,1,caught,Harbhajan Singh,V Kohli,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.3,LMP Simmons,J Suchith,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.4,J Suchith,LMP Simmons,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.5,LMP Simmons,J Suchith,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.6,J Suchith,LMP Simmons,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.1,J Suchith,LMP Simmons,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.2,J Suchith,LMP Simmons,YS Chahal,0,0,0,NA,1,caught,J Suchith,KD Karthik,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.3,MJ McClenaghan,LMP Simmons,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.4,MJ McClenaghan,LMP Simmons,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.5,MJ McClenaghan,LMP Simmons,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+829795,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.6,MJ McClenaghan,LMP Simmons,YS Chahal,6,0,6,NA,0,NA,NA,NA,0

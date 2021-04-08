@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.1,KL Rahul,SM Curran,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.2,KL Rahul,SM Curran,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.3,KL Rahul,SM Curran,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.4,KL Rahul,SM Curran,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.5,KL Rahul,SM Curran,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,0.6,KL Rahul,SM Curran,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.1,KL Rahul,SM Curran,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.2,KL Rahul,SM Curran,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.3,KL Rahul,SM Curran,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.4,KL Rahul,SM Curran,CH Morris,6,0,6,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.5,KL Rahul,SM Curran,CH Morris,0,0,0,NA,1,lbw,KL Rahul,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,1.6,MA Agarwal,SM Curran,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.1,SM Curran,MA Agarwal,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.2,SM Curran,MA Agarwal,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.3,SM Curran,MA Agarwal,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.4,SM Curran,MA Agarwal,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.5,SM Curran,MA Agarwal,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,2.6,SM Curran,MA Agarwal,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.1,MA Agarwal,SM Curran,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.2,SM Curran,MA Agarwal,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.3,SM Curran,MA Agarwal,S Lamichhane,2,0,2,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.4,SM Curran,MA Agarwal,S Lamichhane,6,0,6,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.5,SM Curran,MA Agarwal,S Lamichhane,0,0,0,NA,1,lbw,SM Curran,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,3.6,SN Khan,MA Agarwal,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.1,SN Khan,MA Agarwal,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.2,SN Khan,MA Agarwal,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.3,SN Khan,MA Agarwal,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.4,SN Khan,MA Agarwal,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.5,MA Agarwal,SN Khan,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,4.6,MA Agarwal,SN Khan,K Rabada,2,0,2,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.1,SN Khan,MA Agarwal,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.2,SN Khan,MA Agarwal,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.3,SN Khan,MA Agarwal,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.4,SN Khan,MA Agarwal,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.5,SN Khan,MA Agarwal,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,5.6,MA Agarwal,SN Khan,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.1,MA Agarwal,SN Khan,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.2,MA Agarwal,SN Khan,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.3,MA Agarwal,SN Khan,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.4,SN Khan,MA Agarwal,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.5,MA Agarwal,SN Khan,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,6.6,SN Khan,MA Agarwal,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.1,SN Khan,MA Agarwal,HV Patel,0,0,0,NA,1,run out,MA Agarwal,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.2,SN Khan,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.3,DA Miller,SN Khan,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.4,DA Miller,SN Khan,HV Patel,0,5,5,wides,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.5,DA Miller,SN Khan,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.6,DA Miller,SN Khan,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,7.7,DA Miller,SN Khan,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.1,DA Miller,SN Khan,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.2,DA Miller,SN Khan,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.3,SN Khan,DA Miller,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.4,SN Khan,DA Miller,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.5,SN Khan,DA Miller,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,8.6,SN Khan,DA Miller,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.1,SN Khan,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.2,DA Miller,SN Khan,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.3,DA Miller,SN Khan,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.4,SN Khan,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.5,DA Miller,SN Khan,HV Patel,6,0,6,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.6,DA Miller,SN Khan,HV Patel,0,1,1,wides,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,9.7,DA Miller,SN Khan,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.1,DA Miller,SN Khan,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.2,SN Khan,DA Miller,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.3,DA Miller,SN Khan,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.4,SN Khan,DA Miller,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.5,DA Miller,SN Khan,GH Vihari,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,10.6,SN Khan,DA Miller,GH Vihari,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.1,DA Miller,SN Khan,S Lamichhane,0,1,1,byes,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.2,SN Khan,DA Miller,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.3,SN Khan,DA Miller,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.4,DA Miller,SN Khan,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.5,SN Khan,DA Miller,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,11.6,DA Miller,SN Khan,S Lamichhane,6,0,6,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.1,SN Khan,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.2,DA Miller,SN Khan,HV Patel,2,0,2,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.3,DA Miller,SN Khan,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.4,DA Miller,SN Khan,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.5,DA Miller,SN Khan,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,12.6,DA Miller,SN Khan,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.1,DA Miller,SN Khan,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.2,DA Miller,SN Khan,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.3,SN Khan,DA Miller,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.4,DA Miller,SN Khan,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.5,SN Khan,DA Miller,S Lamichhane,0,0,0,NA,1,caught,SN Khan,RR Pant,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,13.6,Mandeep Singh,DA Miller,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.1,Mandeep Singh,DA Miller,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.2,Mandeep Singh,DA Miller,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.3,DA Miller,Mandeep Singh,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.4,DA Miller,Mandeep Singh,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.5,Mandeep Singh,DA Miller,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.6,DA Miller,Mandeep Singh,Avesh Khan,0,1,1,wides,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,14.7,DA Miller,Mandeep Singh,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.1,Mandeep Singh,DA Miller,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.2,Mandeep Singh,DA Miller,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.3,Mandeep Singh,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.4,DA Miller,Mandeep Singh,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.5,DA Miller,Mandeep Singh,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,15.6,Mandeep Singh,DA Miller,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.1,Mandeep Singh,DA Miller,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.2,DA Miller,Mandeep Singh,CH Morris,0,0,0,NA,1,caught,DA Miller,RR Pant,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.3,Mandeep Singh,GC Viljoen,CH Morris,0,1,1,wides,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.4,Mandeep Singh,GC Viljoen,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.5,GC Viljoen,Mandeep Singh,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.6,Mandeep Singh,GC Viljoen,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,16.7,GC Viljoen,Mandeep Singh,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.1,Mandeep Singh,GC Viljoen,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.2,Mandeep Singh,GC Viljoen,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.3,GC Viljoen,Mandeep Singh,K Rabada,0,0,0,NA,1,caught,GC Viljoen,CH Morris,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.4,Mandeep Singh,R Ashwin,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.5,Mandeep Singh,R Ashwin,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,17.6,R Ashwin,Mandeep Singh,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.1,R Ashwin,Mandeep Singh,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.2,Mandeep Singh,R Ashwin,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.3,R Ashwin,Mandeep Singh,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.4,Mandeep Singh,R Ashwin,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.5,R Ashwin,Mandeep Singh,CH Morris,0,0,0,NA,1,bowled,R Ashwin,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,18.6,M Ashwin,Mandeep Singh,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.1,M Ashwin,Mandeep Singh,K Rabada,0,0,0,NA,1,caught,M Ashwin,Avesh Khan,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.2,Mandeep Singh,Mohammed Shami,K Rabada,2,0,2,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.3,Mandeep Singh,Mohammed Shami,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.4,Mohammed Shami,Mandeep Singh,K Rabada,0,0,0,NA,1,run out,Mohammed Shami,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.5,Mandeep Singh,Mujeeb Ur Rahman,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1175368,1st innings,Kings XI Punjab,Delhi Capitals,19.6,Mandeep Singh,Mujeeb Ur Rahman,K Rabada,6,0,6,NA,0,NA,NA,NA,1
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.1,PP Shaw,S Dhawan,R Ashwin,0,0,0,NA,1,caught,PP Shaw,KL Rahul,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.2,SS Iyer,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.3,S Dhawan,SS Iyer,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.4,S Dhawan,SS Iyer,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.5,S Dhawan,SS Iyer,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.6,S Dhawan,SS Iyer,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,0.7,SS Iyer,S Dhawan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.1,S Dhawan,SS Iyer,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.2,S Dhawan,SS Iyer,SM Curran,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.3,S Dhawan,SS Iyer,SM Curran,0,1,1,legbyes,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.4,SS Iyer,S Dhawan,SM Curran,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.5,SS Iyer,S Dhawan,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,1.6,S Dhawan,SS Iyer,SM Curran,0,1,1,legbyes,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.1,S Dhawan,SS Iyer,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.2,S Dhawan,SS Iyer,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.3,S Dhawan,SS Iyer,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.4,S Dhawan,SS Iyer,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.5,SS Iyer,S Dhawan,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.6,SS Iyer,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.7,S Dhawan,SS Iyer,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,2.8,S Dhawan,SS Iyer,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.1,S Dhawan,SS Iyer,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.2,SS Iyer,S Dhawan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.3,SS Iyer,S Dhawan,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.4,S Dhawan,SS Iyer,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.5,S Dhawan,SS Iyer,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,3.6,SS Iyer,S Dhawan,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.1,SS Iyer,S Dhawan,GC Viljoen,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.2,SS Iyer,S Dhawan,GC Viljoen,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.3,SS Iyer,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.4,SS Iyer,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.5,SS Iyer,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,4.6,SS Iyer,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.1,S Dhawan,SS Iyer,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.2,S Dhawan,SS Iyer,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.3,S Dhawan,SS Iyer,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.4,SS Iyer,S Dhawan,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.5,SS Iyer,S Dhawan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,5.6,SS Iyer,S Dhawan,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.1,SS Iyer,S Dhawan,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.2,SS Iyer,S Dhawan,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.3,S Dhawan,SS Iyer,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.4,SS Iyer,S Dhawan,Mujeeb Ur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.5,SS Iyer,S Dhawan,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.6,S Dhawan,SS Iyer,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,6.7,S Dhawan,SS Iyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.1,SS Iyer,S Dhawan,GC Viljoen,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.2,SS Iyer,S Dhawan,GC Viljoen,0,0,0,NA,1,bowled,SS Iyer,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.3,RR Pant,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.4,RR Pant,S Dhawan,GC Viljoen,0,4,4,legbyes,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.5,RR Pant,S Dhawan,GC Viljoen,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,7.6,RR Pant,S Dhawan,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.1,S Dhawan,RR Pant,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.2,RR Pant,S Dhawan,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.3,RR Pant,S Dhawan,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.4,RR Pant,S Dhawan,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.5,S Dhawan,RR Pant,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,8.6,RR Pant,S Dhawan,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.1,RR Pant,S Dhawan,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.2,RR Pant,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.3,S Dhawan,RR Pant,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.4,RR Pant,S Dhawan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.5,S Dhawan,RR Pant,R Ashwin,0,0,0,NA,1,lbw,S Dhawan,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,9.6,CA Ingram,RR Pant,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.1,CA Ingram,RR Pant,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.2,RR Pant,CA Ingram,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.3,CA Ingram,RR Pant,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.4,CA Ingram,RR Pant,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.5,CA Ingram,RR Pant,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,10.6,CA Ingram,RR Pant,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.1,CA Ingram,RR Pant,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.2,CA Ingram,RR Pant,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.3,RR Pant,CA Ingram,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.4,RR Pant,CA Ingram,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.5,CA Ingram,RR Pant,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,11.6,CA Ingram,RR Pant,M Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.1,RR Pant,CA Ingram,GC Viljoen,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.2,CA Ingram,RR Pant,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.3,CA Ingram,RR Pant,GC Viljoen,2,0,2,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.4,CA Ingram,RR Pant,GC Viljoen,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.5,CA Ingram,RR Pant,GC Viljoen,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,12.6,CA Ingram,RR Pant,GC Viljoen,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.1,CA Ingram,RR Pant,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.2,RR Pant,CA Ingram,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.3,RR Pant,CA Ingram,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.4,CA Ingram,RR Pant,M Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.5,CA Ingram,RR Pant,M Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,13.6,CA Ingram,RR Pant,M Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.1,CA Ingram,RR Pant,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.2,CA Ingram,RR Pant,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.3,CA Ingram,RR Pant,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.4,RR Pant,CA Ingram,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.5,RR Pant,CA Ingram,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,14.6,RR Pant,CA Ingram,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.1,CA Ingram,RR Pant,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.2,RR Pant,CA Ingram,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.3,RR Pant,CA Ingram,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.4,RR Pant,CA Ingram,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.5,RR Pant,CA Ingram,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,15.6,CA Ingram,RR Pant,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.1,CA Ingram,RR Pant,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.2,CA Ingram,RR Pant,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.3,RR Pant,CA Ingram,Mohammed Shami,6,0,6,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.4,RR Pant,CA Ingram,Mohammed Shami,0,0,0,NA,1,bowled,RR Pant,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.5,CH Morris,CA Ingram,Mohammed Shami,0,0,0,NA,1,run out,CH Morris,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,16.6,CA Ingram,GH Vihari,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.1,GH Vihari,CA Ingram,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.2,CA Ingram,GH Vihari,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.3,GH Vihari,CA Ingram,SM Curran,1,0,1,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.4,CA Ingram,GH Vihari,SM Curran,0,0,0,NA,1,caught,CA Ingram,KK Nair (sub),0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.5,HV Patel,GH Vihari,SM Curran,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.6,HV Patel,GH Vihari,SM Curran,0,1,1,wides,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,17.7,HV Patel,GH Vihari,SM Curran,0,0,0,NA,1,caught,HV Patel,KL Rahul,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.1,GH Vihari,K Rabada,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.2,GH Vihari,K Rabada,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.3,GH Vihari,K Rabada,Mohammed Shami,0,0,0,NA,1,bowled,GH Vihari,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.4,Avesh Khan,K Rabada,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.5,Avesh Khan,K Rabada,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,18.6,Avesh Khan,K Rabada,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,19.1,K Rabada,Avesh Khan,SM Curran,0,0,0,NA,1,bowled,K Rabada,NA,0
+1175368,2nd innings,Delhi Capitals,Kings XI Punjab,19.2,S Lamichhane,Avesh Khan,SM Curran,0,0,0,NA,1,bowled,S Lamichhane,NA,0

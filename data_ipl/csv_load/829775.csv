@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.1,LMP Simmons,PA Patel,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.2,LMP Simmons,PA Patel,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.3,LMP Simmons,PA Patel,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.4,LMP Simmons,PA Patel,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.5,PA Patel,LMP Simmons,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,0.6,PA Patel,LMP Simmons,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.1,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.2,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.3,LMP Simmons,PA Patel,Anureet Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.4,LMP Simmons,PA Patel,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.5,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,1.6,LMP Simmons,PA Patel,Anureet Singh,0,1,1,legbyes,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.1,LMP Simmons,PA Patel,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.2,PA Patel,LMP Simmons,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.3,PA Patel,LMP Simmons,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.4,PA Patel,LMP Simmons,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.5,PA Patel,LMP Simmons,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,2.6,PA Patel,LMP Simmons,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.1,PA Patel,LMP Simmons,Anureet Singh,0,1,1,legbyes,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.2,LMP Simmons,PA Patel,Anureet Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.3,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.4,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.5,LMP Simmons,PA Patel,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,3.6,LMP Simmons,PA Patel,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.1,LMP Simmons,PA Patel,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.2,PA Patel,LMP Simmons,MG Johnson,6,0,6,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.3,PA Patel,LMP Simmons,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.4,PA Patel,LMP Simmons,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.5,PA Patel,LMP Simmons,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,4.6,PA Patel,LMP Simmons,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.1,PA Patel,LMP Simmons,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.2,PA Patel,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.3,LMP Simmons,PA Patel,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.4,LMP Simmons,PA Patel,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.5,PA Patel,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,5.6,LMP Simmons,PA Patel,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.1,PA Patel,LMP Simmons,Karanveer Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.2,PA Patel,LMP Simmons,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.3,PA Patel,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.4,LMP Simmons,PA Patel,Karanveer Singh,3,0,3,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.5,PA Patel,LMP Simmons,Karanveer Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,6.6,PA Patel,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.1,PA Patel,LMP Simmons,MG Johnson,6,0,6,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.2,PA Patel,LMP Simmons,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.3,PA Patel,LMP Simmons,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.4,LMP Simmons,PA Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.5,LMP Simmons,PA Patel,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,7.6,PA Patel,LMP Simmons,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.1,LMP Simmons,PA Patel,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.2,PA Patel,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.3,LMP Simmons,PA Patel,Karanveer Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.4,LMP Simmons,PA Patel,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.5,PA Patel,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,8.6,LMP Simmons,PA Patel,Karanveer Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.1,PA Patel,LMP Simmons,M Vijay,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.2,LMP Simmons,PA Patel,M Vijay,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.3,LMP Simmons,PA Patel,M Vijay,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.4,LMP Simmons,PA Patel,M Vijay,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.5,PA Patel,LMP Simmons,M Vijay,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,9.6,PA Patel,LMP Simmons,M Vijay,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.1,LMP Simmons,PA Patel,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.2,PA Patel,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.3,LMP Simmons,PA Patel,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.4,PA Patel,LMP Simmons,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.5,PA Patel,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,10.6,LMP Simmons,PA Patel,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.1,PA Patel,LMP Simmons,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.2,LMP Simmons,PA Patel,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.3,LMP Simmons,PA Patel,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.4,LMP Simmons,PA Patel,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.5,LMP Simmons,PA Patel,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,11.6,PA Patel,LMP Simmons,GJ Maxwell,6,0,6,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.1,LMP Simmons,PA Patel,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.2,PA Patel,LMP Simmons,Karanveer Singh,0,0,0,NA,1,caught,PA Patel,M Vijay,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.3,LMP Simmons,RG Sharma,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.4,LMP Simmons,RG Sharma,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.5,LMP Simmons,RG Sharma,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,12.6,LMP Simmons,RG Sharma,Karanveer Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.1,RG Sharma,LMP Simmons,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.2,LMP Simmons,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.3,LMP Simmons,RG Sharma,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.4,LMP Simmons,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.5,LMP Simmons,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,13.6,LMP Simmons,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.1,RG Sharma,LMP Simmons,Karanveer Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.2,RG Sharma,LMP Simmons,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.3,RG Sharma,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.4,LMP Simmons,RG Sharma,Karanveer Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.5,LMP Simmons,RG Sharma,Karanveer Singh,0,1,1,legbyes,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,14.6,RG Sharma,LMP Simmons,Karanveer Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.1,RG Sharma,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.2,LMP Simmons,RG Sharma,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.3,RG Sharma,LMP Simmons,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.4,RG Sharma,LMP Simmons,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.5,LMP Simmons,RG Sharma,AR Patel,6,0,6,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,15.6,LMP Simmons,RG Sharma,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.1,RG Sharma,LMP Simmons,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.2,RG Sharma,LMP Simmons,Anureet Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.3,RG Sharma,LMP Simmons,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.4,RG Sharma,LMP Simmons,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.5,RG Sharma,LMP Simmons,Anureet Singh,0,1,1,wides,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.6,RG Sharma,LMP Simmons,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,16.7,RG Sharma,LMP Simmons,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.1,RG Sharma,LMP Simmons,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.2,RG Sharma,LMP Simmons,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.3,RG Sharma,LMP Simmons,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.4,RG Sharma,LMP Simmons,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.5,RG Sharma,LMP Simmons,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,17.6,RG Sharma,LMP Simmons,MG Johnson,0,0,0,NA,1,caught,RG Sharma,Anureet Singh,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.1,KA Pollard,LMP Simmons,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.2,LMP Simmons,KA Pollard,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.3,KA Pollard,LMP Simmons,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.4,LMP Simmons,KA Pollard,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.5,LMP Simmons,KA Pollard,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,18.6,KA Pollard,LMP Simmons,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.1,KA Pollard,LMP Simmons,Anureet Singh,2,0,2,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.2,KA Pollard,LMP Simmons,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.3,LMP Simmons,KA Pollard,Anureet Singh,0,0,0,NA,1,caught,LMP Simmons,AR Patel,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.4,KA Pollard,AT Rayudu,Anureet Singh,0,1,1,wides,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.5,KA Pollard,AT Rayudu,Anureet Singh,0,0,0,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.6,KA Pollard,AT Rayudu,Anureet Singh,1,0,1,NA,0,NA,NA,NA,1
+829775,1st innings,Mumbai Indians,Kings XI Punjab,19.7,AT Rayudu,KA Pollard,Anureet Singh,4,0,4,NA,0,NA,NA,NA,1
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.1,M Vijay,V Sehwag,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.2,V Sehwag,M Vijay,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.3,M Vijay,V Sehwag,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.4,M Vijay,V Sehwag,MJ McClenaghan,0,1,1,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.5,V Sehwag,M Vijay,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.6,V Sehwag,M Vijay,MJ McClenaghan,0,4,4,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,0.7,V Sehwag,M Vijay,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.1,V Sehwag,M Vijay,SL Malinga,0,0,0,NA,1,caught,V Sehwag,KA Pollard,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.2,GJ Maxwell,M Vijay,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.3,GJ Maxwell,M Vijay,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.4,GJ Maxwell,M Vijay,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.5,M Vijay,GJ Maxwell,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,1.6,M Vijay,GJ Maxwell,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.1,GJ Maxwell,M Vijay,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.2,GJ Maxwell,M Vijay,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.3,GJ Maxwell,M Vijay,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.4,M Vijay,GJ Maxwell,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.5,M Vijay,GJ Maxwell,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,2.6,M Vijay,GJ Maxwell,MJ McClenaghan,3,0,3,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.1,M Vijay,GJ Maxwell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.2,M Vijay,GJ Maxwell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.3,M Vijay,GJ Maxwell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.4,M Vijay,GJ Maxwell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.5,M Vijay,GJ Maxwell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,3.6,GJ Maxwell,M Vijay,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.1,M Vijay,GJ Maxwell,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.2,GJ Maxwell,M Vijay,J Suchith,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.3,GJ Maxwell,M Vijay,J Suchith,0,0,0,NA,1,caught,GJ Maxwell,R Vinay Kumar,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.4,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.5,DA Miller,M Vijay,J Suchith,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,4.6,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.1,DA Miller,M Vijay,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.2,DA Miller,M Vijay,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.3,M Vijay,DA Miller,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.4,DA Miller,M Vijay,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.5,DA Miller,M Vijay,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,5.6,M Vijay,DA Miller,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.1,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.2,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.3,DA Miller,M Vijay,J Suchith,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.4,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.5,M Vijay,DA Miller,J Suchith,0,1,1,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,6.6,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.1,DA Miller,M Vijay,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.2,DA Miller,M Vijay,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.3,M Vijay,DA Miller,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.4,M Vijay,DA Miller,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.5,M Vijay,DA Miller,Harbhajan Singh,3,0,3,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,7.6,DA Miller,M Vijay,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.1,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.2,DA Miller,M Vijay,J Suchith,6,0,6,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.3,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.4,M Vijay,DA Miller,J Suchith,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.5,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.6,DA Miller,M Vijay,J Suchith,0,1,1,wides,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,8.7,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.1,DA Miller,M Vijay,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.2,M Vijay,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.3,DA Miller,M Vijay,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.4,DA Miller,M Vijay,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.5,M Vijay,DA Miller,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,9.6,M Vijay,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.1,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.2,DA Miller,M Vijay,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.3,M Vijay,DA Miller,J Suchith,6,0,6,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.4,M Vijay,DA Miller,J Suchith,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.5,DA Miller,M Vijay,J Suchith,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,10.6,DA Miller,M Vijay,J Suchith,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.1,M Vijay,DA Miller,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.2,M Vijay,DA Miller,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.3,M Vijay,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.4,DA Miller,M Vijay,Harbhajan Singh,0,1,1,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.5,M Vijay,DA Miller,Harbhajan Singh,0,0,0,NA,1,caught,M Vijay,UBT Chand,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,11.6,DA Miller,GJ Bailey,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.1,GJ Bailey,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.2,DA Miller,GJ Bailey,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.3,GJ Bailey,DA Miller,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.4,GJ Bailey,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.5,DA Miller,GJ Bailey,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,12.6,DA Miller,GJ Bailey,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.1,GJ Bailey,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.2,DA Miller,GJ Bailey,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.3,DA Miller,GJ Bailey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.4,GJ Bailey,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.5,DA Miller,GJ Bailey,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,13.6,GJ Bailey,DA Miller,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.1,DA Miller,GJ Bailey,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.2,GJ Bailey,DA Miller,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.3,DA Miller,GJ Bailey,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.4,GJ Bailey,DA Miller,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.5,GJ Bailey,DA Miller,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,14.6,DA Miller,GJ Bailey,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.1,GJ Bailey,DA Miller,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.2,GJ Bailey,DA Miller,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.3,DA Miller,GJ Bailey,MJ McClenaghan,0,1,1,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.4,GJ Bailey,DA Miller,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.5,DA Miller,GJ Bailey,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,15.6,DA Miller,GJ Bailey,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.1,GJ Bailey,DA Miller,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.2,DA Miller,GJ Bailey,SL Malinga,0,0,0,NA,1,caught,DA Miller,RG Sharma,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.3,WP Saha,GJ Bailey,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.4,GJ Bailey,WP Saha,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.5,GJ Bailey,WP Saha,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,16.6,WP Saha,GJ Bailey,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.1,WP Saha,GJ Bailey,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.2,GJ Bailey,WP Saha,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.3,WP Saha,GJ Bailey,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.4,WP Saha,GJ Bailey,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.5,WP Saha,GJ Bailey,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,17.6,WP Saha,GJ Bailey,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.1,WP Saha,GJ Bailey,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.2,WP Saha,GJ Bailey,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.3,GJ Bailey,WP Saha,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.4,GJ Bailey,WP Saha,SL Malinga,0,1,1,legbyes,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.5,WP Saha,GJ Bailey,SL Malinga,0,1,1,wides,1,run out,GJ Bailey,PA Patel,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.6,AR Patel,WP Saha,SL Malinga,0,0,0,NA,1,run out,AR Patel,SL Malinga,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,18.7,WP Saha,MG Johnson,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.1,MG Johnson,WP Saha,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.2,WP Saha,MG Johnson,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.3,WP Saha,MG Johnson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.4,MG Johnson,WP Saha,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.5,MG Johnson,WP Saha,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+829775,2nd innings,Kings XI Punjab,Mumbai Indians,19.6,MG Johnson,WP Saha,R Vinay Kumar,1,0,1,NA,1,run out,WP Saha,J Suchith,0

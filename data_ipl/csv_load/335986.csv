@@ -1,0 +1,241 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.1,AC Gilchrist,Y Venugopal Rao,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.2,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,1,1,noballs,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.3,Y Venugopal Rao,AC Gilchrist,AB Dinda,2,0,2,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.4,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.5,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.6,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,0.7,Y Venugopal Rao,AC Gilchrist,AB Dinda,5,0,5,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.1,Y Venugopal Rao,AC Gilchrist,I Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.2,AC Gilchrist,Y Venugopal Rao,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.3,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.4,Y Venugopal Rao,AC Gilchrist,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.5,AC Gilchrist,Y Venugopal Rao,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.6,AC Gilchrist,Y Venugopal Rao,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.7,AC Gilchrist,Y Venugopal Rao,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,1.8,AC Gilchrist,Y Venugopal Rao,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.1,Y Venugopal Rao,AC Gilchrist,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.2,AC Gilchrist,Y Venugopal Rao,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.3,AC Gilchrist,Y Venugopal Rao,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.4,AC Gilchrist,Y Venugopal Rao,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.5,Y Venugopal Rao,AC Gilchrist,AB Dinda,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,2.6,Y Venugopal Rao,AC Gilchrist,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.1,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.2,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,NA,1,caught,Y Venugopal Rao,M Kartik,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.3,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.4,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.5,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,3.6,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.1,AC Gilchrist,VVS Laxman,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.2,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.3,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,NA,1,caught,VVS Laxman,LR Shukla,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.4,AC Gilchrist,A Symonds,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.5,A Symonds,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,4.6,A Symonds,AC Gilchrist,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.1,AC Gilchrist,A Symonds,AB Agarkar,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.2,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.3,AC Gilchrist,A Symonds,AB Agarkar,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.4,AC Gilchrist,A Symonds,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.5,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,5.6,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.1,A Symonds,AC Gilchrist,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.2,AC Gilchrist,A Symonds,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.3,AC Gilchrist,A Symonds,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.4,A Symonds,AC Gilchrist,M Kartik,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.5,A Symonds,AC Gilchrist,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,6.6,A Symonds,AC Gilchrist,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.1,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.2,AC Gilchrist,A Symonds,Mohammad Hafeez,0,1,1,noballs,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.3,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.4,AC Gilchrist,A Symonds,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.5,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.6,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,7.7,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.1,AC Gilchrist,A Symonds,M Kartik,0,0,0,NA,1,caught,AC Gilchrist,Mohammad Hafeez,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.2,RG Sharma,A Symonds,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.3,RG Sharma,A Symonds,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.4,RG Sharma,A Symonds,M Kartik,0,0,0,NA,1,caught,RG Sharma,WP Saha,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.5,SB Styris,A Symonds,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,8.6,SB Styris,A Symonds,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.1,SB Styris,A Symonds,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.2,A Symonds,SB Styris,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.3,SB Styris,A Symonds,Mohammad Hafeez,0,1,1,legbyes,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.4,A Symonds,SB Styris,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.5,A Symonds,SB Styris,Mohammad Hafeez,0,1,1,legbyes,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,9.6,SB Styris,A Symonds,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.1,A Symonds,SB Styris,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.2,A Symonds,SB Styris,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.3,A Symonds,SB Styris,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.4,A Symonds,SB Styris,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.5,A Symonds,SB Styris,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,10.6,SB Styris,A Symonds,M Kartik,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.1,A Symonds,SB Styris,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.2,A Symonds,SB Styris,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.3,A Symonds,SB Styris,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.4,SB Styris,A Symonds,Mohammad Hafeez,0,0,0,NA,1,bowled,SB Styris,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.5,AS Yadav,A Symonds,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,11.6,A Symonds,AS Yadav,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.1,AS Yadav,A Symonds,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.2,A Symonds,AS Yadav,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.3,AS Yadav,A Symonds,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.4,AS Yadav,A Symonds,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.5,A Symonds,AS Yadav,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,12.6,A Symonds,AS Yadav,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.1,AS Yadav,A Symonds,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.2,AS Yadav,A Symonds,Mohammad Hafeez,0,1,1,legbyes,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.3,A Symonds,AS Yadav,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.4,A Symonds,AS Yadav,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.5,A Symonds,AS Yadav,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,13.6,AS Yadav,A Symonds,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.1,AS Yadav,A Symonds,DJ Hussey,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.2,AS Yadav,A Symonds,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.3,AS Yadav,A Symonds,DJ Hussey,0,0,0,NA,1,caught,AS Yadav,AB Dinda,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.4,A Symonds,SB Bangar,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.5,SB Bangar,A Symonds,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,14.6,A Symonds,SB Bangar,DJ Hussey,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.1,SB Bangar,A Symonds,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.2,SB Bangar,A Symonds,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.3,A Symonds,SB Bangar,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.4,A Symonds,SB Bangar,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.5,A Symonds,SB Bangar,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.6,A Symonds,SB Bangar,I Sharma,2,0,2,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,15.7,A Symonds,SB Bangar,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.1,A Symonds,SB Bangar,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.2,A Symonds,SB Bangar,DJ Hussey,0,1,1,wides,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.3,A Symonds,SB Bangar,DJ Hussey,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.4,A Symonds,SB Bangar,DJ Hussey,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.5,A Symonds,SB Bangar,DJ Hussey,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.6,SB Bangar,A Symonds,DJ Hussey,6,0,6,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,16.7,SB Bangar,A Symonds,DJ Hussey,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.1,A Symonds,SB Bangar,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.2,SB Bangar,A Symonds,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.3,SB Bangar,A Symonds,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.4,A Symonds,SB Bangar,AB Agarkar,0,0,0,NA,1,caught,A Symonds,DJ Hussey,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.5,SB Bangar,WPUJC Vaas,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,17.6,WPUJC Vaas,SB Bangar,AB Agarkar,0,0,0,NA,1,caught,WPUJC Vaas,SC Ganguly,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,18.1,RP Singh,SB Bangar,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,18.2,SB Bangar,RP Singh,M Kartik,4,0,4,NA,0,NA,NA,NA,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,18.3,SB Bangar,RP Singh,M Kartik,0,0,0,NA,1,caught,SB Bangar,WP Saha,0
+335986,1st innings,Deccan Chargers,Kolkata Knight Riders,18.4,RP Singh,PP Ojha,M Kartik,0,0,0,NA,1,run out,PP Ojha,Mohammad Hafeez,0
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.1,WP Saha,BB McCullum,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.2,BB McCullum,WP Saha,WPUJC Vaas,4,0,4,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.3,BB McCullum,WP Saha,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.4,BB McCullum,WP Saha,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.5,WP Saha,BB McCullum,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,0.6,WP Saha,BB McCullum,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.1,BB McCullum,WP Saha,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.2,BB McCullum,WP Saha,RP Singh,0,0,0,NA,1,caught,BB McCullum,RG Sharma,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.3,WP Saha,RT Ponting,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.4,WP Saha,RT Ponting,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.5,WP Saha,RT Ponting,RP Singh,0,4,4,legbyes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,1.6,WP Saha,RT Ponting,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.1,RT Ponting,WP Saha,WPUJC Vaas,0,0,0,NA,1,lbw,RT Ponting,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.2,SC Ganguly,WP Saha,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.3,SC Ganguly,WP Saha,WPUJC Vaas,0,1,1,legbyes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.4,WP Saha,SC Ganguly,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.5,WP Saha,SC Ganguly,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,2.6,WP Saha,SC Ganguly,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.1,WP Saha,SC Ganguly,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.2,WP Saha,SC Ganguly,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.3,WP Saha,SC Ganguly,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.4,SC Ganguly,WP Saha,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.5,WP Saha,SC Ganguly,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,3.6,WP Saha,SC Ganguly,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.1,WP Saha,SC Ganguly,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.2,WP Saha,SC Ganguly,WPUJC Vaas,0,0,0,NA,1,caught,WP Saha,SB Styris,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.3,DJ Hussey,SC Ganguly,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.4,DJ Hussey,SC Ganguly,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.5,SC Ganguly,DJ Hussey,WPUJC Vaas,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,4.6,SC Ganguly,DJ Hussey,WPUJC Vaas,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.1,SC Ganguly,DJ Hussey,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.2,DJ Hussey,SC Ganguly,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.3,DJ Hussey,SC Ganguly,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.4,DJ Hussey,SC Ganguly,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.5,DJ Hussey,SC Ganguly,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,5.6,SC Ganguly,DJ Hussey,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.1,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.2,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.3,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.4,SC Ganguly,DJ Hussey,SB Bangar,0,5,5,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.5,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.6,SC Ganguly,DJ Hussey,SB Bangar,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,6.7,DJ Hussey,SC Ganguly,SB Bangar,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.1,DJ Hussey,SC Ganguly,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.2,DJ Hussey,SC Ganguly,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.3,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.4,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.5,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,7.6,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.1,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.2,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.3,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.4,DJ Hussey,SC Ganguly,SB Bangar,0,1,1,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.5,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.6,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,8.7,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.1,SC Ganguly,DJ Hussey,SB Styris,2,0,2,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.2,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.3,SC Ganguly,DJ Hussey,SB Styris,0,1,1,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.4,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.5,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.6,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,9.7,SC Ganguly,DJ Hussey,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.1,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.2,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.3,DJ Hussey,SC Ganguly,SB Bangar,6,0,6,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.4,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.5,DJ Hussey,SC Ganguly,SB Bangar,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,10.6,SC Ganguly,DJ Hussey,SB Bangar,4,0,4,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.1,DJ Hussey,SC Ganguly,A Symonds,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.2,DJ Hussey,SC Ganguly,A Symonds,0,4,4,byes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.3,DJ Hussey,SC Ganguly,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.4,SC Ganguly,DJ Hussey,A Symonds,0,1,1,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.5,SC Ganguly,DJ Hussey,A Symonds,0,5,5,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.6,SC Ganguly,DJ Hussey,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.7,DJ Hussey,SC Ganguly,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.8,SC Ganguly,DJ Hussey,A Symonds,0,1,1,noballs,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,11.9,SC Ganguly,DJ Hussey,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.1,SC Ganguly,DJ Hussey,PP Ojha,0,1,1,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.2,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.3,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.4,SC Ganguly,DJ Hussey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.5,DJ Hussey,SC Ganguly,PP Ojha,0,1,1,wides,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.6,DJ Hussey,SC Ganguly,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.7,DJ Hussey,SC Ganguly,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,12.8,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,NA,1,bowled,SC Ganguly,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.1,DJ Hussey,Mohammad Hafeez,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.2,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.3,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.4,Mohammad Hafeez,DJ Hussey,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.5,DJ Hussey,Mohammad Hafeez,A Symonds,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,13.6,Mohammad Hafeez,DJ Hussey,A Symonds,6,0,6,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.1,DJ Hussey,Mohammad Hafeez,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.2,Mohammad Hafeez,DJ Hussey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.3,Mohammad Hafeez,DJ Hussey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.4,DJ Hussey,Mohammad Hafeez,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.5,Mohammad Hafeez,DJ Hussey,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,14.6,DJ Hussey,Mohammad Hafeez,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.1,Mohammad Hafeez,DJ Hussey,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.2,Mohammad Hafeez,DJ Hussey,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.3,DJ Hussey,Mohammad Hafeez,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.4,Mohammad Hafeez,DJ Hussey,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.5,Mohammad Hafeez,DJ Hussey,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,15.6,Mohammad Hafeez,DJ Hussey,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.1,DJ Hussey,Mohammad Hafeez,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.2,DJ Hussey,Mohammad Hafeez,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.3,Mohammad Hafeez,DJ Hussey,PP Ojha,0,0,0,NA,1,caught,Mohammad Hafeez,A Symonds,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.4,DJ Hussey,LR Shukla,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.5,LR Shukla,DJ Hussey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,16.6,DJ Hussey,LR Shukla,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.1,LR Shukla,DJ Hussey,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.2,DJ Hussey,LR Shukla,SB Styris,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.3,LR Shukla,DJ Hussey,SB Styris,0,1,1,legbyes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.4,DJ Hussey,LR Shukla,SB Styris,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.5,DJ Hussey,LR Shukla,SB Styris,6,0,6,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,17.6,DJ Hussey,LR Shukla,SB Styris,4,0,4,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.1,LR Shukla,DJ Hussey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.2,DJ Hussey,LR Shukla,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.3,LR Shukla,DJ Hussey,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.4,LR Shukla,DJ Hussey,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.5,DJ Hussey,LR Shukla,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+335986,2nd innings,Kolkata Knight Riders,Deccan Chargers,18.6,DJ Hussey,LR Shukla,PP Ojha,6,0,6,NA,0,NA,NA,NA,1

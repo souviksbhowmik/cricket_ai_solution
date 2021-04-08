@@ -1,0 +1,240 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.1,JL Denly,Shubman Gill,I Sharma,0,0,0,NA,1,bowled,JL Denly,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.2,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.3,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.4,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.5,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,0.6,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.1,Shubman Gill,RV Uthappa,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.2,Shubman Gill,RV Uthappa,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.3,RV Uthappa,Shubman Gill,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.4,RV Uthappa,Shubman Gill,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.5,RV Uthappa,Shubman Gill,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,1.6,Shubman Gill,RV Uthappa,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.1,Shubman Gill,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.2,Shubman Gill,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.3,Shubman Gill,RV Uthappa,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.4,RV Uthappa,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.5,RV Uthappa,Shubman Gill,I Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,2.6,Shubman Gill,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.1,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.2,RV Uthappa,Shubman Gill,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.3,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.4,RV Uthappa,Shubman Gill,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.5,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,3.6,RV Uthappa,Shubman Gill,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.1,Shubman Gill,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.2,Shubman Gill,RV Uthappa,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.3,Shubman Gill,RV Uthappa,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.4,Shubman Gill,RV Uthappa,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.5,RV Uthappa,Shubman Gill,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,4.6,Shubman Gill,RV Uthappa,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.1,Shubman Gill,RV Uthappa,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.2,Shubman Gill,RV Uthappa,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.3,Shubman Gill,RV Uthappa,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.4,RV Uthappa,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.5,RV Uthappa,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,5.6,RV Uthappa,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.1,Shubman Gill,RV Uthappa,KMA Paul,2,0,2,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.2,Shubman Gill,RV Uthappa,KMA Paul,1,1,2,noballs,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.3,RV Uthappa,Shubman Gill,KMA Paul,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.4,RV Uthappa,Shubman Gill,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.5,Shubman Gill,RV Uthappa,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.6,Shubman Gill,RV Uthappa,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,6.7,RV Uthappa,Shubman Gill,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.1,RV Uthappa,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.2,RV Uthappa,Shubman Gill,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.3,Shubman Gill,RV Uthappa,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.4,RV Uthappa,Shubman Gill,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.5,Shubman Gill,RV Uthappa,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,7.6,RV Uthappa,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.1,Shubman Gill,RV Uthappa,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.2,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.3,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.4,RV Uthappa,Shubman Gill,K Rabada,0,0,0,NA,1,caught,RV Uthappa,RR Pant,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.5,N Rana,Shubman Gill,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,8.6,Shubman Gill,N Rana,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.1,N Rana,Shubman Gill,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.2,Shubman Gill,N Rana,KMA Paul,2,0,2,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.3,Shubman Gill,N Rana,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.4,N Rana,Shubman Gill,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.5,Shubman Gill,N Rana,KMA Paul,2,0,2,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,9.6,Shubman Gill,N Rana,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.1,Shubman Gill,N Rana,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.2,Shubman Gill,N Rana,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.3,Shubman Gill,N Rana,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.4,N Rana,Shubman Gill,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.5,Shubman Gill,N Rana,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.6,N Rana,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.7,N Rana,Shubman Gill,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,10.8,N Rana,Shubman Gill,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.1,Shubman Gill,N Rana,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.2,N Rana,Shubman Gill,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.3,Shubman Gill,N Rana,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.4,Shubman Gill,N Rana,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.5,N Rana,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,11.6,N Rana,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.1,Shubman Gill,N Rana,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.2,N Rana,Shubman Gill,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.3,N Rana,Shubman Gill,CH Morris,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.4,N Rana,Shubman Gill,CH Morris,0,0,0,NA,1,bowled,N Rana,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.5,AD Russell,Shubman Gill,CH Morris,0,1,1,wides,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.6,AD Russell,Shubman Gill,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,12.7,AD Russell,Shubman Gill,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.1,AD Russell,Shubman Gill,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.2,AD Russell,Shubman Gill,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.3,AD Russell,Shubman Gill,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.4,Shubman Gill,AD Russell,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.5,Shubman Gill,AD Russell,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,13.6,Shubman Gill,AD Russell,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.1,Shubman Gill,AD Russell,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.2,Shubman Gill,AD Russell,KMA Paul,0,0,0,NA,1,caught,Shubman Gill,AR Patel,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.3,KD Karthik,AD Russell,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.4,AD Russell,KD Karthik,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.5,AD Russell,KD Karthik,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,14.6,KD Karthik,AD Russell,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.1,KD Karthik,AD Russell,K Rabada,0,0,0,NA,1,caught,KD Karthik,S Dhawan,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.2,AD Russell,CR Brathwaite,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.3,AD Russell,CR Brathwaite,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.4,AD Russell,CR Brathwaite,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.5,AD Russell,CR Brathwaite,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,15.6,CR Brathwaite,AD Russell,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.1,CR Brathwaite,AD Russell,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.2,AD Russell,CR Brathwaite,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.3,CR Brathwaite,AD Russell,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.4,AD Russell,CR Brathwaite,CH Morris,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.5,AD Russell,CR Brathwaite,CH Morris,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,16.6,AD Russell,CR Brathwaite,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.1,AD Russell,CR Brathwaite,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.2,AD Russell,CR Brathwaite,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.3,AD Russell,CR Brathwaite,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.4,AD Russell,CR Brathwaite,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.5,CR Brathwaite,AD Russell,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,17.6,AD Russell,CR Brathwaite,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.1,CR Brathwaite,AD Russell,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.2,AD Russell,CR Brathwaite,CH Morris,0,0,0,NA,1,caught,AD Russell,K Rabada,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.3,PP Chawla,CR Brathwaite,CH Morris,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.4,PP Chawla,CR Brathwaite,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.5,CR Brathwaite,PP Chawla,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,18.6,PP Chawla,CR Brathwaite,CH Morris,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.1,PP Chawla,CR Brathwaite,KMA Paul,3,0,3,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.2,CR Brathwaite,PP Chawla,KMA Paul,0,0,0,NA,1,caught,CR Brathwaite,R Tewatia,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.3,PP Chawla,Kuldeep Yadav,KMA Paul,4,0,4,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.4,PP Chawla,Kuldeep Yadav,KMA Paul,1,0,1,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.5,Kuldeep Yadav,PP Chawla,KMA Paul,0,0,0,NA,0,NA,NA,NA,0
+1178401,1st innings,Kolkata Knight Riders,Delhi Capitals,19.6,Kuldeep Yadav,PP Chawla,KMA Paul,2,0,2,NA,0,NA,NA,NA,0
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.1,PP Shaw,S Dhawan,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.2,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.3,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.4,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.5,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,0.6,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.1,PP Shaw,S Dhawan,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.2,S Dhawan,PP Shaw,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.3,PP Shaw,S Dhawan,LH Ferguson,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.4,PP Shaw,S Dhawan,LH Ferguson,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.5,PP Shaw,S Dhawan,LH Ferguson,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,1.6,PP Shaw,S Dhawan,LH Ferguson,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.1,S Dhawan,PP Shaw,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.2,S Dhawan,PP Shaw,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.3,S Dhawan,PP Shaw,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.4,S Dhawan,PP Shaw,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.5,S Dhawan,PP Shaw,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,2.6,PP Shaw,S Dhawan,M Prasidh Krishna,0,0,0,NA,1,caught,PP Shaw,KD Karthik,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.1,S Dhawan,SS Iyer,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.2,S Dhawan,SS Iyer,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.3,S Dhawan,SS Iyer,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.4,S Dhawan,SS Iyer,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.5,S Dhawan,SS Iyer,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,3.6,S Dhawan,SS Iyer,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.1,S Dhawan,SS Iyer,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.2,SS Iyer,S Dhawan,LH Ferguson,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.3,SS Iyer,S Dhawan,LH Ferguson,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.4,SS Iyer,S Dhawan,LH Ferguson,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.5,SS Iyer,S Dhawan,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,4.6,S Dhawan,SS Iyer,LH Ferguson,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.1,SS Iyer,S Dhawan,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.2,S Dhawan,SS Iyer,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.3,S Dhawan,SS Iyer,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.4,SS Iyer,S Dhawan,AD Russell,0,0,0,NA,1,caught,SS Iyer,KD Karthik,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.5,RR Pant,S Dhawan,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,5.6,RR Pant,S Dhawan,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.1,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.2,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.3,RR Pant,S Dhawan,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.4,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.5,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,6.6,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.1,RR Pant,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.2,S Dhawan,RR Pant,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.3,S Dhawan,RR Pant,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.4,RR Pant,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.5,S Dhawan,RR Pant,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,7.6,RR Pant,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.1,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.2,RR Pant,S Dhawan,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.3,RR Pant,S Dhawan,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.4,RR Pant,S Dhawan,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.5,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,8.6,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.1,S Dhawan,RR Pant,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.2,RR Pant,S Dhawan,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.3,S Dhawan,RR Pant,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.4,S Dhawan,RR Pant,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.5,S Dhawan,RR Pant,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,9.6,S Dhawan,RR Pant,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.1,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.2,RR Pant,S Dhawan,Kuldeep Yadav,0,1,1,wides,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.3,RR Pant,S Dhawan,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.4,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.5,S Dhawan,RR Pant,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.6,S Dhawan,RR Pant,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,10.7,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.1,S Dhawan,RR Pant,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.2,RR Pant,S Dhawan,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.3,S Dhawan,RR Pant,N Rana,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.4,S Dhawan,RR Pant,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.5,RR Pant,S Dhawan,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,11.6,S Dhawan,RR Pant,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.1,S Dhawan,RR Pant,LH Ferguson,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.2,S Dhawan,RR Pant,LH Ferguson,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.3,S Dhawan,RR Pant,LH Ferguson,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.4,S Dhawan,RR Pant,LH Ferguson,0,1,1,wides,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.5,S Dhawan,RR Pant,LH Ferguson,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.6,S Dhawan,RR Pant,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,12.7,RR Pant,S Dhawan,LH Ferguson,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.1,RR Pant,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.2,RR Pant,S Dhawan,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.3,RR Pant,S Dhawan,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.4,RR Pant,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.5,S Dhawan,RR Pant,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,13.6,RR Pant,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.1,S Dhawan,RR Pant,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.2,S Dhawan,RR Pant,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.3,S Dhawan,RR Pant,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.4,RR Pant,S Dhawan,M Prasidh Krishna,0,1,1,legbyes,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.5,S Dhawan,RR Pant,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,14.6,S Dhawan,RR Pant,M Prasidh Krishna,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.1,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.2,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.3,RR Pant,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.4,S Dhawan,RR Pant,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.5,S Dhawan,RR Pant,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,15.6,RR Pant,S Dhawan,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.1,S Dhawan,RR Pant,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.2,RR Pant,S Dhawan,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.3,RR Pant,S Dhawan,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.4,RR Pant,S Dhawan,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.5,S Dhawan,RR Pant,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,16.6,S Dhawan,RR Pant,AD Russell,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.1,RR Pant,S Dhawan,N Rana,0,0,0,NA,1,caught,RR Pant,Kuldeep Yadav,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.2,S Dhawan,CA Ingram,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.3,CA Ingram,S Dhawan,N Rana,0,0,0,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.4,CA Ingram,S Dhawan,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.5,S Dhawan,CA Ingram,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,17.6,CA Ingram,S Dhawan,N Rana,2,0,2,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,18.1,S Dhawan,CA Ingram,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,18.2,CA Ingram,S Dhawan,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,18.3,CA Ingram,S Dhawan,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,18.4,S Dhawan,CA Ingram,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178401,2nd innings,Delhi Capitals,Kolkata Knight Riders,18.5,CA Ingram,S Dhawan,PP Chawla,6,0,6,NA,0,NA,NA,NA,1

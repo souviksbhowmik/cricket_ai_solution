@@ -1,0 +1,248 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.1,DA Warner,S Dhawan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.2,DA Warner,S Dhawan,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.3,DA Warner,S Dhawan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.4,DA Warner,S Dhawan,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.5,DA Warner,S Dhawan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,0.6,DA Warner,S Dhawan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.1,S Dhawan,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.2,S Dhawan,DA Warner,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.3,DA Warner,S Dhawan,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.4,DA Warner,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.5,S Dhawan,DA Warner,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,1.6,DA Warner,S Dhawan,UT Yadav,3,0,3,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.1,DA Warner,S Dhawan,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.2,DA Warner,S Dhawan,CR Woakes,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.3,DA Warner,S Dhawan,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.4,DA Warner,S Dhawan,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.5,S Dhawan,DA Warner,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,2.6,S Dhawan,DA Warner,CR Woakes,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.1,DA Warner,S Dhawan,YK Pathan,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.2,DA Warner,S Dhawan,YK Pathan,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.3,DA Warner,S Dhawan,YK Pathan,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.4,DA Warner,S Dhawan,YK Pathan,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.5,DA Warner,S Dhawan,YK Pathan,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,3.6,DA Warner,S Dhawan,YK Pathan,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.1,DA Warner,S Dhawan,SP Narine,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.2,DA Warner,S Dhawan,SP Narine,0,1,1,wides,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.3,DA Warner,S Dhawan,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.4,DA Warner,S Dhawan,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.5,DA Warner,S Dhawan,SP Narine,3,0,3,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.6,S Dhawan,DA Warner,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,4.7,S Dhawan,DA Warner,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.1,S Dhawan,DA Warner,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.2,S Dhawan,DA Warner,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.3,S Dhawan,DA Warner,Kuldeep Yadav,0,2,2,wides,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.4,DA Warner,S Dhawan,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.5,DA Warner,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.6,S Dhawan,DA Warner,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.7,S Dhawan,DA Warner,Kuldeep Yadav,0,1,1,wides,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,5.8,S Dhawan,DA Warner,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.1,DA Warner,S Dhawan,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.2,DA Warner,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.3,S Dhawan,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.4,S Dhawan,DA Warner,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.5,DA Warner,S Dhawan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,6.6,DA Warner,S Dhawan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.1,S Dhawan,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.2,DA Warner,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.3,S Dhawan,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.4,DA Warner,S Dhawan,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.5,DA Warner,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,7.6,S Dhawan,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.1,S Dhawan,DA Warner,NM Coulter-Nile,0,1,1,legbyes,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.2,DA Warner,S Dhawan,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.3,S Dhawan,DA Warner,NM Coulter-Nile,0,1,1,wides,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.4,S Dhawan,DA Warner,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.5,DA Warner,S Dhawan,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.6,DA Warner,S Dhawan,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,8.7,DA Warner,S Dhawan,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.1,DA Warner,S Dhawan,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.2,S Dhawan,DA Warner,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.3,S Dhawan,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.4,DA Warner,S Dhawan,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.5,DA Warner,S Dhawan,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,9.6,DA Warner,S Dhawan,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.1,S Dhawan,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.2,S Dhawan,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.3,S Dhawan,DA Warner,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.4,DA Warner,S Dhawan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.5,DA Warner,S Dhawan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,10.6,DA Warner,S Dhawan,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.1,S Dhawan,DA Warner,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.2,DA Warner,S Dhawan,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.3,S Dhawan,DA Warner,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.4,DA Warner,S Dhawan,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.5,S Dhawan,DA Warner,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,11.6,DA Warner,S Dhawan,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.1,S Dhawan,DA Warner,CR Woakes,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.2,S Dhawan,DA Warner,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.3,S Dhawan,DA Warner,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.4,S Dhawan,DA Warner,CR Woakes,0,0,0,NA,1,run out,S Dhawan,Kuldeep Yadav,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.5,DA Warner,KS Williamson,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,12.6,DA Warner,KS Williamson,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.1,DA Warner,KS Williamson,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.2,KS Williamson,DA Warner,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.3,KS Williamson,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.4,DA Warner,KS Williamson,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.5,DA Warner,KS Williamson,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,13.6,KS Williamson,DA Warner,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.1,KS Williamson,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.2,KS Williamson,DA Warner,UT Yadav,0,1,1,legbyes,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.3,DA Warner,KS Williamson,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.4,KS Williamson,DA Warner,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.5,KS Williamson,DA Warner,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,14.6,KS Williamson,DA Warner,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.1,DA Warner,KS Williamson,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.2,DA Warner,KS Williamson,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.3,DA Warner,KS Williamson,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.4,DA Warner,KS Williamson,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.5,KS Williamson,DA Warner,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,15.6,DA Warner,KS Williamson,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.1,DA Warner,KS Williamson,CR Woakes,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.2,DA Warner,KS Williamson,CR Woakes,0,0,0,NA,1,caught,DA Warner,G Gambhir,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.3,KS Williamson,Yuvraj Singh,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.4,Yuvraj Singh,KS Williamson,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.5,KS Williamson,Yuvraj Singh,CR Woakes,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,16.6,KS Williamson,Yuvraj Singh,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.1,Yuvraj Singh,KS Williamson,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.2,KS Williamson,Yuvraj Singh,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.3,Yuvraj Singh,KS Williamson,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.4,KS Williamson,Yuvraj Singh,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.5,KS Williamson,Yuvraj Singh,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,17.6,KS Williamson,Yuvraj Singh,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.1,Yuvraj Singh,KS Williamson,CR Woakes,0,1,1,wides,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.2,Yuvraj Singh,KS Williamson,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.3,KS Williamson,Yuvraj Singh,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.4,KS Williamson,Yuvraj Singh,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.5,KS Williamson,Yuvraj Singh,CR Woakes,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.6,KS Williamson,Yuvraj Singh,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,18.7,KS Williamson,Yuvraj Singh,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.1,Yuvraj Singh,KS Williamson,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.2,KS Williamson,Yuvraj Singh,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.3,KS Williamson,Yuvraj Singh,NM Coulter-Nile,2,0,2,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.4,KS Williamson,Yuvraj Singh,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.5,KS Williamson,Yuvraj Singh,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1082627,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,19.6,Yuvraj Singh,KS Williamson,NM Coulter-Nile,1,0,1,NA,1,run out,KS Williamson,NM Coulter-Nile,1
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.1,SP Narine,G Gambhir,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.2,SP Narine,G Gambhir,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.3,G Gambhir,SP Narine,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.4,G Gambhir,SP Narine,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.5,G Gambhir,SP Narine,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,0.6,G Gambhir,SP Narine,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.1,SP Narine,G Gambhir,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.2,SP Narine,G Gambhir,Mohammed Siraj,0,0,0,NA,1,caught,SP Narine,DA Warner,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.3,G Gambhir,RV Uthappa,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.4,G Gambhir,RV Uthappa,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.5,G Gambhir,RV Uthappa,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,1.6,G Gambhir,RV Uthappa,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.1,G Gambhir,RV Uthappa,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.2,G Gambhir,RV Uthappa,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.3,G Gambhir,RV Uthappa,S Kaul,0,0,0,NA,1,caught,G Gambhir,Rashid Khan,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.4,RV Uthappa,MK Pandey,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.5,RV Uthappa,MK Pandey,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,2.6,RV Uthappa,MK Pandey,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.1,MK Pandey,RV Uthappa,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.2,MK Pandey,RV Uthappa,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.3,RV Uthappa,MK Pandey,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.4,RV Uthappa,MK Pandey,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.5,RV Uthappa,MK Pandey,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,3.6,RV Uthappa,MK Pandey,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.1,MK Pandey,RV Uthappa,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.2,MK Pandey,RV Uthappa,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.3,MK Pandey,RV Uthappa,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.4,RV Uthappa,MK Pandey,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.5,MK Pandey,RV Uthappa,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,4.6,MK Pandey,RV Uthappa,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.1,MK Pandey,RV Uthappa,MC Henriques,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.2,MK Pandey,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.3,RV Uthappa,MK Pandey,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.4,MK Pandey,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.5,RV Uthappa,MK Pandey,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,5.6,MK Pandey,RV Uthappa,MC Henriques,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.1,RV Uthappa,MK Pandey,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.2,RV Uthappa,MK Pandey,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.3,RV Uthappa,MK Pandey,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.4,RV Uthappa,MK Pandey,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.5,MK Pandey,RV Uthappa,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,6.6,MK Pandey,RV Uthappa,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.1,MK Pandey,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.2,RV Uthappa,MK Pandey,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.3,MK Pandey,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.4,RV Uthappa,MK Pandey,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.5,MK Pandey,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,7.6,RV Uthappa,MK Pandey,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.1,RV Uthappa,MK Pandey,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.2,RV Uthappa,MK Pandey,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.3,RV Uthappa,MK Pandey,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.4,MK Pandey,RV Uthappa,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.5,MK Pandey,RV Uthappa,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,8.6,MK Pandey,RV Uthappa,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.1,MK Pandey,RV Uthappa,Bipul Sharma,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.2,MK Pandey,RV Uthappa,Bipul Sharma,0,1,1,wides,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.3,MK Pandey,RV Uthappa,Bipul Sharma,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.4,MK Pandey,RV Uthappa,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.5,RV Uthappa,MK Pandey,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.6,MK Pandey,RV Uthappa,Bipul Sharma,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,9.7,MK Pandey,RV Uthappa,Bipul Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.1,MK Pandey,RV Uthappa,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.2,MK Pandey,RV Uthappa,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.3,RV Uthappa,MK Pandey,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.4,MK Pandey,RV Uthappa,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.5,MK Pandey,RV Uthappa,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,10.6,MK Pandey,RV Uthappa,B Kumar,0,0,0,NA,1,caught and bowled,MK Pandey,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.1,RV Uthappa,YK Pathan,MC Henriques,6,0,6,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.2,RV Uthappa,YK Pathan,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.3,YK Pathan,RV Uthappa,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.4,RV Uthappa,YK Pathan,MC Henriques,6,0,6,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.5,RV Uthappa,YK Pathan,MC Henriques,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,11.6,YK Pathan,RV Uthappa,MC Henriques,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.1,RV Uthappa,YK Pathan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.2,YK Pathan,RV Uthappa,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.3,RV Uthappa,YK Pathan,Mohammed Siraj,0,0,0,NA,1,caught,RV Uthappa,DA Warner,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.4,SP Jackson,YK Pathan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.5,SP Jackson,YK Pathan,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,12.6,SP Jackson,YK Pathan,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.1,SP Jackson,YK Pathan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.2,YK Pathan,SP Jackson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.3,SP Jackson,YK Pathan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.4,SP Jackson,YK Pathan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.5,YK Pathan,SP Jackson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,13.6,SP Jackson,YK Pathan,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.1,YK Pathan,SP Jackson,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.2,YK Pathan,SP Jackson,S Kaul,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.3,YK Pathan,SP Jackson,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.4,YK Pathan,SP Jackson,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.5,YK Pathan,SP Jackson,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,14.6,SP Jackson,YK Pathan,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.1,SP Jackson,YK Pathan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.2,SP Jackson,YK Pathan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.3,YK Pathan,SP Jackson,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.4,YK Pathan,SP Jackson,Rashid Khan,0,3,3,wides,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.5,YK Pathan,SP Jackson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.6,SP Jackson,YK Pathan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,15.7,YK Pathan,SP Jackson,Rashid Khan,0,0,0,NA,1,caught,YK Pathan,S Kaul,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.1,SP Jackson,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.2,C de Grandhomme,SP Jackson,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.3,C de Grandhomme,SP Jackson,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.4,C de Grandhomme,SP Jackson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.5,SP Jackson,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,16.6,C de Grandhomme,SP Jackson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.1,C de Grandhomme,SP Jackson,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.2,C de Grandhomme,SP Jackson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.3,C de Grandhomme,SP Jackson,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.4,C de Grandhomme,SP Jackson,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.5,C de Grandhomme,SP Jackson,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,17.6,SP Jackson,C de Grandhomme,Mohammed Siraj,2,0,2,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.1,C de Grandhomme,SP Jackson,B Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.2,SP Jackson,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.3,C de Grandhomme,SP Jackson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.4,SP Jackson,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.5,C de Grandhomme,SP Jackson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,18.6,SP Jackson,C de Grandhomme,B Kumar,0,0,0,NA,1,caught,SP Jackson,Rashid Khan,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.1,CR Woakes,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.2,C de Grandhomme,CR Woakes,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.3,CR Woakes,C de Grandhomme,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.4,CR Woakes,C de Grandhomme,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.5,C de Grandhomme,CR Woakes,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1082627,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,19.6,C de Grandhomme,CR Woakes,S Kaul,0,0,0,NA,1,caught,C de Grandhomme,Rashid Khan,0

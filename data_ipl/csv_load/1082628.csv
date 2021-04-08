@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.1,V Kohli,Mandeep Singh,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.2,Mandeep Singh,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.3,Mandeep Singh,V Kohli,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.4,Mandeep Singh,V Kohli,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.5,Mandeep Singh,V Kohli,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,0.6,Mandeep Singh,V Kohli,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.1,Mandeep Singh,V Kohli,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.2,V Kohli,Mandeep Singh,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.3,V Kohli,Mandeep Singh,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.4,Mandeep Singh,V Kohli,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.5,Mandeep Singh,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,1.6,Mandeep Singh,V Kohli,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.1,V Kohli,Mandeep Singh,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.2,V Kohli,Mandeep Singh,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.3,Mandeep Singh,V Kohli,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.4,Mandeep Singh,V Kohli,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.5,V Kohli,Mandeep Singh,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,2.6,Mandeep Singh,V Kohli,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.1,V Kohli,Mandeep Singh,KV Sharma,0,1,1,wides,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.2,V Kohli,Mandeep Singh,KV Sharma,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.3,V Kohli,Mandeep Singh,KV Sharma,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.4,V Kohli,Mandeep Singh,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.5,Mandeep Singh,V Kohli,KV Sharma,0,0,0,NA,1,caught,Mandeep Singh,HH Pandya,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.6,TM Head,V Kohli,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,3.7,TM Head,V Kohli,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.1,V Kohli,TM Head,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.2,V Kohli,TM Head,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.3,V Kohli,TM Head,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.4,V Kohli,TM Head,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.5,TM Head,V Kohli,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,4.6,TM Head,V Kohli,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.1,V Kohli,TM Head,MJ McClenaghan,0,0,0,NA,1,caught,V Kohli,RG Sharma,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.2,AB de Villiers,TM Head,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.3,AB de Villiers,TM Head,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.4,AB de Villiers,TM Head,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.5,AB de Villiers,TM Head,MJ McClenaghan,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,5.6,AB de Villiers,TM Head,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.1,TM Head,AB de Villiers,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.2,AB de Villiers,TM Head,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.3,AB de Villiers,TM Head,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.4,TM Head,AB de Villiers,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.5,TM Head,AB de Villiers,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,6.6,AB de Villiers,TM Head,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.1,AB de Villiers,TM Head,SL Malinga,0,1,1,legbyes,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.2,TM Head,AB de Villiers,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.3,AB de Villiers,TM Head,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.4,AB de Villiers,TM Head,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.5,AB de Villiers,TM Head,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,7.6,TM Head,AB de Villiers,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.1,AB de Villiers,TM Head,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.2,AB de Villiers,TM Head,KH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.3,AB de Villiers,TM Head,KH Pandya,0,1,1,wides,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.4,AB de Villiers,TM Head,KH Pandya,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.5,AB de Villiers,TM Head,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.6,TM Head,AB de Villiers,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,8.7,TM Head,AB de Villiers,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.1,TM Head,AB de Villiers,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.2,AB de Villiers,TM Head,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.3,AB de Villiers,TM Head,KV Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.4,AB de Villiers,TM Head,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.5,TM Head,AB de Villiers,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,9.6,AB de Villiers,TM Head,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.1,AB de Villiers,TM Head,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.2,TM Head,AB de Villiers,KH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.3,TM Head,AB de Villiers,KH Pandya,0,0,0,NA,1,caught,TM Head,HH Pandya,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.4,KM Jadhav,AB de Villiers,KH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.5,KM Jadhav,AB de Villiers,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,10.6,AB de Villiers,KM Jadhav,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.1,AB de Villiers,KM Jadhav,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.2,KM Jadhav,AB de Villiers,KV Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.3,KM Jadhav,AB de Villiers,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.4,AB de Villiers,KM Jadhav,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.5,KM Jadhav,AB de Villiers,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,11.6,AB de Villiers,KM Jadhav,KV Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.1,AB de Villiers,KM Jadhav,KH Pandya,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.2,AB de Villiers,KM Jadhav,KH Pandya,0,0,0,NA,1,caught,AB de Villiers,JJ Bumrah,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.3,KM Jadhav,SR Watson,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.4,SR Watson,KM Jadhav,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.5,KM Jadhav,SR Watson,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,12.6,SR Watson,KM Jadhav,KH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.1,SR Watson,KM Jadhav,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.2,SR Watson,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.3,KM Jadhav,SR Watson,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.4,SR Watson,KM Jadhav,JJ Bumrah,0,0,0,NA,1,bowled,SR Watson,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.5,P Negi,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,13.6,KM Jadhav,P Negi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.1,P Negi,KM Jadhav,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.2,P Negi,KM Jadhav,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.3,P Negi,KM Jadhav,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.4,P Negi,KM Jadhav,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.5,KM Jadhav,P Negi,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,14.6,KM Jadhav,P Negi,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.1,KM Jadhav,P Negi,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.2,P Negi,KM Jadhav,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.3,P Negi,KM Jadhav,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.4,KM Jadhav,P Negi,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.5,P Negi,KM Jadhav,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,15.6,KM Jadhav,P Negi,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.1,KM Jadhav,P Negi,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.2,P Negi,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.3,KM Jadhav,P Negi,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.4,KM Jadhav,P Negi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.5,P Negi,KM Jadhav,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,16.6,P Negi,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.1,P Negi,KM Jadhav,SL Malinga,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.2,P Negi,KM Jadhav,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.3,KM Jadhav,P Negi,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.4,P Negi,KM Jadhav,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.5,P Negi,KM Jadhav,SL Malinga,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,17.6,P Negi,KM Jadhav,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.1,P Negi,KM Jadhav,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.2,P Negi,KM Jadhav,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.3,P Negi,KM Jadhav,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.4,P Negi,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.5,KM Jadhav,P Negi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,18.6,KM Jadhav,P Negi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.1,KM Jadhav,P Negi,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.2,P Negi,KM Jadhav,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.3,P Negi,KM Jadhav,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.4,P Negi,KM Jadhav,MJ McClenaghan,0,0,0,NA,1,caught,P Negi,KA Pollard,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.5,KM Jadhav,AF Milne,MJ McClenaghan,0,0,0,NA,1,caught,KM Jadhav,KA Pollard,0
+1082628,1st innings,Royal Challengers Bangalore,Mumbai Indians,19.6,AF Milne,S Aravind,MJ McClenaghan,0,0,0,NA,1,run out,S Aravind,PA Patel,0
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.1,PA Patel,JC Buttler,A Choudhary,0,0,0,NA,1,caught,PA Patel,YS Chahal,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.2,N Rana,JC Buttler,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.3,N Rana,JC Buttler,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.4,JC Buttler,N Rana,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.5,N Rana,JC Buttler,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,0.6,N Rana,JC Buttler,A Choudhary,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.1,JC Buttler,N Rana,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.2,JC Buttler,N Rana,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.3,N Rana,JC Buttler,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.4,N Rana,JC Buttler,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.5,N Rana,JC Buttler,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,1.6,N Rana,JC Buttler,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.1,JC Buttler,N Rana,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.2,JC Buttler,N Rana,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.3,JC Buttler,N Rana,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.4,N Rana,JC Buttler,AF Milne,0,1,1,wides,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.5,N Rana,JC Buttler,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.6,N Rana,JC Buttler,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,2.7,JC Buttler,N Rana,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.1,N Rana,JC Buttler,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.2,JC Buttler,N Rana,A Choudhary,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.3,JC Buttler,N Rana,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.4,JC Buttler,N Rana,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.5,JC Buttler,N Rana,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,3.6,N Rana,JC Buttler,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.1,JC Buttler,N Rana,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.2,N Rana,JC Buttler,S Aravind,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.3,N Rana,JC Buttler,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.4,N Rana,JC Buttler,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.5,JC Buttler,N Rana,S Aravind,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,4.6,JC Buttler,N Rana,S Aravind,0,1,1,legbyes,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.1,JC Buttler,N Rana,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.2,JC Buttler,N Rana,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.3,N Rana,JC Buttler,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.4,N Rana,JC Buttler,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.5,N Rana,JC Buttler,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,5.6,JC Buttler,N Rana,YS Chahal,6,0,6,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.1,N Rana,JC Buttler,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.2,N Rana,JC Buttler,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.3,JC Buttler,N Rana,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.4,N Rana,JC Buttler,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.5,N Rana,JC Buttler,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,6.6,JC Buttler,N Rana,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.1,N Rana,JC Buttler,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.2,JC Buttler,N Rana,P Negi,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.3,JC Buttler,N Rana,P Negi,0,0,0,NA,1,caught,JC Buttler,TM Head,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.4,RG Sharma,N Rana,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.5,RG Sharma,N Rana,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,7.6,N Rana,RG Sharma,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.1,RG Sharma,N Rana,SR Watson,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.2,RG Sharma,N Rana,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.3,N Rana,RG Sharma,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.4,N Rana,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.5,RG Sharma,N Rana,SR Watson,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,8.6,RG Sharma,N Rana,SR Watson,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.1,N Rana,RG Sharma,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.2,N Rana,RG Sharma,P Negi,0,0,0,NA,1,caught,N Rana,TM Head,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.3,RG Sharma,KA Pollard,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.4,KA Pollard,RG Sharma,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.5,RG Sharma,KA Pollard,P Negi,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,9.6,RG Sharma,KA Pollard,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.1,KA Pollard,RG Sharma,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.2,RG Sharma,KA Pollard,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.3,RG Sharma,KA Pollard,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.4,RG Sharma,KA Pollard,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.5,KA Pollard,RG Sharma,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,10.6,KA Pollard,RG Sharma,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.1,RG Sharma,KA Pollard,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.2,RG Sharma,KA Pollard,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.3,KA Pollard,RG Sharma,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.4,KA Pollard,RG Sharma,P Negi,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.5,KA Pollard,RG Sharma,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,11.6,KA Pollard,RG Sharma,P Negi,0,1,1,legbyes,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.1,KA Pollard,RG Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.2,RG Sharma,KA Pollard,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.3,KA Pollard,RG Sharma,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.4,KA Pollard,RG Sharma,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.5,KA Pollard,RG Sharma,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,12.6,KA Pollard,RG Sharma,YS Chahal,0,0,0,NA,1,caught,KA Pollard,TM Head,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.1,KH Pandya,RG Sharma,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.2,RG Sharma,KH Pandya,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.3,KH Pandya,RG Sharma,P Negi,1,0,1,NA,1,retired hurt,KH Pandya,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.4,RG Sharma,KV Sharma,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.5,KV Sharma,RG Sharma,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,13.6,RG Sharma,KV Sharma,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.1,RG Sharma,KV Sharma,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.2,RG Sharma,KV Sharma,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.3,KV Sharma,RG Sharma,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.4,KV Sharma,RG Sharma,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.5,RG Sharma,KV Sharma,A Choudhary,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,14.6,RG Sharma,KV Sharma,A Choudhary,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.1,KV Sharma,RG Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.2,RG Sharma,KV Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.3,KV Sharma,RG Sharma,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.4,KV Sharma,RG Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.5,RG Sharma,KV Sharma,YS Chahal,0,2,2,wides,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.6,KV Sharma,RG Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,15.7,RG Sharma,KV Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.1,RG Sharma,KV Sharma,SR Watson,4,0,4,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.2,RG Sharma,KV Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.3,KV Sharma,RG Sharma,SR Watson,0,0,0,NA,1,caught,KV Sharma,AF Milne,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.4,RG Sharma,HH Pandya,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.5,HH Pandya,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,16.6,RG Sharma,HH Pandya,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.1,RG Sharma,HH Pandya,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.2,HH Pandya,RG Sharma,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.3,RG Sharma,HH Pandya,A Choudhary,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.4,HH Pandya,RG Sharma,A Choudhary,2,0,2,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.5,HH Pandya,RG Sharma,A Choudhary,0,0,0,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.6,HH Pandya,RG Sharma,A Choudhary,0,1,1,wides,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,17.7,HH Pandya,RG Sharma,A Choudhary,6,0,6,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.1,RG Sharma,HH Pandya,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.2,HH Pandya,RG Sharma,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.3,RG Sharma,HH Pandya,S Aravind,6,0,6,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.4,RG Sharma,HH Pandya,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.5,HH Pandya,RG Sharma,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,18.6,RG Sharma,HH Pandya,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.1,RG Sharma,HH Pandya,SR Watson,0,1,1,wides,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.2,RG Sharma,HH Pandya,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.3,HH Pandya,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.4,RG Sharma,HH Pandya,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.5,HH Pandya,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,1
+1082628,2nd innings,Mumbai Indians,Royal Challengers Bangalore,19.6,RG Sharma,HH Pandya,SR Watson,4,0,4,NA,0,NA,NA,NA,1

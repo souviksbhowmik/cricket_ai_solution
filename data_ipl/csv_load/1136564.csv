@@ -1,0 +1,226 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.1,AM Rahane,DJM Short,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.2,AM Rahane,DJM Short,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.3,DJM Short,AM Rahane,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.4,DJM Short,AM Rahane,B Kumar,0,1,1,wides,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.5,DJM Short,AM Rahane,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.6,DJM Short,AM Rahane,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,0.7,DJM Short,AM Rahane,B Kumar,0,0,0,NA,1,run out,DJM Short,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.1,SV Samson,AM Rahane,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.2,SV Samson,AM Rahane,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.3,SV Samson,AM Rahane,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.4,SV Samson,AM Rahane,B Stanlake,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.5,SV Samson,AM Rahane,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,1.6,SV Samson,AM Rahane,B Stanlake,3,0,3,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.1,SV Samson,AM Rahane,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.2,SV Samson,AM Rahane,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.3,SV Samson,AM Rahane,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.4,SV Samson,AM Rahane,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.5,AM Rahane,SV Samson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,2.6,SV Samson,AM Rahane,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.1,AM Rahane,SV Samson,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.2,AM Rahane,SV Samson,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.3,AM Rahane,SV Samson,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.4,AM Rahane,SV Samson,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.5,SV Samson,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,3.6,AM Rahane,SV Samson,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.1,SV Samson,AM Rahane,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.2,AM Rahane,SV Samson,B Stanlake,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.3,AM Rahane,SV Samson,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.4,SV Samson,AM Rahane,B Stanlake,0,1,1,wides,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.5,SV Samson,AM Rahane,B Stanlake,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.6,SV Samson,AM Rahane,B Stanlake,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,4.7,SV Samson,AM Rahane,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.1,SV Samson,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.2,SV Samson,AM Rahane,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.3,SV Samson,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.4,SV Samson,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.5,AM Rahane,SV Samson,Shakib Al Hasan,0,1,1,legbyes,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,5.6,SV Samson,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.1,SV Samson,AM Rahane,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.2,SV Samson,AM Rahane,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.3,AM Rahane,SV Samson,S Kaul,0,1,1,wides,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.4,AM Rahane,SV Samson,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.5,SV Samson,AM Rahane,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.6,AM Rahane,SV Samson,S Kaul,0,0,0,NA,1,caught,AM Rahane,Rashid Khan,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,6.7,SV Samson,BA Stokes,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.1,BA Stokes,SV Samson,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.2,BA Stokes,SV Samson,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.3,BA Stokes,SV Samson,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.4,BA Stokes,SV Samson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.5,SV Samson,BA Stokes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,7.6,SV Samson,BA Stokes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.1,BA Stokes,SV Samson,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.2,SV Samson,BA Stokes,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.3,BA Stokes,SV Samson,B Stanlake,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.4,BA Stokes,SV Samson,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.5,SV Samson,BA Stokes,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,8.6,BA Stokes,SV Samson,B Stanlake,0,0,0,NA,1,caught,BA Stokes,KS Williamson,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.1,SV Samson,RA Tripathi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.2,RA Tripathi,SV Samson,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.3,SV Samson,RA Tripathi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.4,RA Tripathi,SV Samson,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.5,SV Samson,RA Tripathi,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,9.6,SV Samson,RA Tripathi,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.1,RA Tripathi,SV Samson,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.2,SV Samson,RA Tripathi,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.3,RA Tripathi,SV Samson,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.4,RA Tripathi,SV Samson,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.5,RA Tripathi,SV Samson,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,10.6,SV Samson,RA Tripathi,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.1,SV Samson,RA Tripathi,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.2,RA Tripathi,SV Samson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.3,SV Samson,RA Tripathi,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.4,RA Tripathi,SV Samson,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.5,RA Tripathi,SV Samson,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,11.6,RA Tripathi,SV Samson,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.1,RA Tripathi,SV Samson,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.2,SV Samson,RA Tripathi,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.3,RA Tripathi,SV Samson,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.4,SV Samson,RA Tripathi,S Kaul,0,1,1,legbyes,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.5,RA Tripathi,SV Samson,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,12.6,SV Samson,RA Tripathi,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.1,RA Tripathi,SV Samson,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.2,RA Tripathi,SV Samson,Shakib Al Hasan,0,0,0,NA,1,caught,RA Tripathi,MK Pandey,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.3,SV Samson,JC Buttler,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.4,JC Buttler,SV Samson,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.5,SV Samson,JC Buttler,Shakib Al Hasan,0,0,0,NA,1,caught,SV Samson,Rashid Khan,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,13.6,JC Buttler,K Gowtham,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.1,JC Buttler,K Gowtham,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.2,JC Buttler,K Gowtham,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.3,K Gowtham,JC Buttler,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.4,K Gowtham,JC Buttler,S Kaul,0,0,0,NA,1,caught,K Gowtham,WP Saha,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.5,S Gopal,JC Buttler,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,14.6,S Gopal,JC Buttler,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.1,S Gopal,JC Buttler,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.2,S Gopal,JC Buttler,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.3,S Gopal,JC Buttler,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.4,JC Buttler,S Gopal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.5,S Gopal,JC Buttler,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,15.6,S Gopal,JC Buttler,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.1,S Gopal,JC Buttler,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.2,S Gopal,JC Buttler,B Kumar,0,1,1,wides,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.3,S Gopal,JC Buttler,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.4,S Gopal,JC Buttler,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.5,JC Buttler,S Gopal,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.6,S Gopal,JC Buttler,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,16.7,JC Buttler,S Gopal,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.1,JC Buttler,S Gopal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.2,JC Buttler,S Gopal,Rashid Khan,0,0,0,NA,1,bowled,JC Buttler,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.3,DS Kulkarni,S Gopal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.4,S Gopal,DS Kulkarni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.5,S Gopal,DS Kulkarni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,17.6,S Gopal,DS Kulkarni,Rashid Khan,0,1,1,legbyes,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.1,S Gopal,DS Kulkarni,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.2,S Gopal,DS Kulkarni,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.3,S Gopal,DS Kulkarni,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.4,DS Kulkarni,S Gopal,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.5,DS Kulkarni,S Gopal,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.6,S Gopal,DS Kulkarni,B Kumar,0,1,1,wides,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,18.7,S Gopal,DS Kulkarni,B Kumar,0,0,0,NA,1,caught,S Gopal,YK Pathan,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.1,JD Unadkat,DS Kulkarni,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.2,JD Unadkat,DS Kulkarni,S Kaul,1,0,1,NA,1,run out,JD Unadkat,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.3,B Laughlin,DS Kulkarni,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.4,DS Kulkarni,B Laughlin,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.5,B Laughlin,DS Kulkarni,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,1st innings,Rajasthan Royals,Sunrisers Hyderabad,19.6,B Laughlin,DS Kulkarni,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.1,WP Saha,S Dhawan,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.2,WP Saha,S Dhawan,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.3,S Dhawan,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.4,S Dhawan,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.5,S Dhawan,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,0.6,S Dhawan,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.1,WP Saha,S Dhawan,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.2,WP Saha,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.3,WP Saha,S Dhawan,JD Unadkat,0,1,1,wides,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.4,WP Saha,S Dhawan,JD Unadkat,0,0,0,NA,1,caught,WP Saha,B Laughlin,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.5,S Dhawan,KS Williamson,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.6,S Dhawan,KS Williamson,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,1.7,S Dhawan,KS Williamson,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.1,S Dhawan,KS Williamson,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.2,S Dhawan,KS Williamson,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.3,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.4,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.5,S Dhawan,KS Williamson,DS Kulkarni,6,0,6,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.6,S Dhawan,KS Williamson,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,2.7,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.1,KS Williamson,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.2,KS Williamson,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.3,KS Williamson,S Dhawan,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.4,KS Williamson,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.5,KS Williamson,S Dhawan,JD Unadkat,6,0,6,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,3.6,KS Williamson,S Dhawan,JD Unadkat,2,0,2,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.1,S Dhawan,KS Williamson,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.2,S Dhawan,KS Williamson,K Gowtham,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.3,S Dhawan,KS Williamson,K Gowtham,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.4,S Dhawan,KS Williamson,K Gowtham,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.5,KS Williamson,S Dhawan,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,4.6,KS Williamson,S Dhawan,K Gowtham,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.1,S Dhawan,KS Williamson,B Laughlin,1,1,2,noballs,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.2,KS Williamson,S Dhawan,B Laughlin,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.3,KS Williamson,S Dhawan,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.4,S Dhawan,KS Williamson,B Laughlin,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.5,S Dhawan,KS Williamson,B Laughlin,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.6,S Dhawan,KS Williamson,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,5.7,KS Williamson,S Dhawan,B Laughlin,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.1,S Dhawan,KS Williamson,S Gopal,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.2,S Dhawan,KS Williamson,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.3,KS Williamson,S Dhawan,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.4,KS Williamson,S Dhawan,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.5,S Dhawan,KS Williamson,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,6.6,S Dhawan,KS Williamson,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.1,S Dhawan,KS Williamson,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.2,S Dhawan,KS Williamson,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.3,S Dhawan,KS Williamson,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.4,KS Williamson,S Dhawan,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.5,S Dhawan,KS Williamson,BA Stokes,0,1,1,wides,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.6,S Dhawan,KS Williamson,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,7.7,S Dhawan,KS Williamson,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.1,KS Williamson,S Dhawan,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.2,S Dhawan,KS Williamson,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.3,KS Williamson,S Dhawan,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.4,KS Williamson,S Dhawan,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.5,KS Williamson,S Dhawan,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,8.6,S Dhawan,KS Williamson,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.1,S Dhawan,KS Williamson,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.2,S Dhawan,KS Williamson,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.3,S Dhawan,KS Williamson,BA Stokes,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.4,S Dhawan,KS Williamson,BA Stokes,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.5,S Dhawan,KS Williamson,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,9.6,KS Williamson,S Dhawan,BA Stokes,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.1,KS Williamson,S Dhawan,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.2,KS Williamson,S Dhawan,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.3,S Dhawan,KS Williamson,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.4,KS Williamson,S Dhawan,S Gopal,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.5,KS Williamson,S Dhawan,S Gopal,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,10.6,KS Williamson,S Dhawan,S Gopal,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.1,KS Williamson,S Dhawan,B Laughlin,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.2,KS Williamson,S Dhawan,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.3,S Dhawan,KS Williamson,B Laughlin,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.4,S Dhawan,KS Williamson,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.5,KS Williamson,S Dhawan,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.6,S Dhawan,KS Williamson,B Laughlin,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,11.7,S Dhawan,KS Williamson,B Laughlin,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.1,S Dhawan,KS Williamson,DJM Short,4,0,4,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.2,S Dhawan,KS Williamson,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.3,S Dhawan,KS Williamson,DJM Short,2,0,2,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.4,S Dhawan,KS Williamson,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.5,S Dhawan,KS Williamson,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,12.6,S Dhawan,KS Williamson,DJM Short,0,4,4,byes,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.1,KS Williamson,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.2,KS Williamson,S Dhawan,JD Unadkat,2,0,2,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.3,KS Williamson,S Dhawan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.4,KS Williamson,S Dhawan,JD Unadkat,2,0,2,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.5,KS Williamson,S Dhawan,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,13.6,S Dhawan,KS Williamson,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.1,S Dhawan,KS Williamson,DJM Short,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.2,KS Williamson,S Dhawan,DJM Short,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.3,S Dhawan,KS Williamson,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.4,S Dhawan,KS Williamson,DJM Short,1,0,1,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.5,KS Williamson,S Dhawan,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,14.6,KS Williamson,S Dhawan,DJM Short,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,15.1,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,15.2,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,15.3,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,15.4,S Dhawan,KS Williamson,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1136564,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,15.5,S Dhawan,KS Williamson,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1

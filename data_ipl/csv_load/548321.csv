@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.1,KC Sangakkara,S Dhawan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.2,KC Sangakkara,S Dhawan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.3,KC Sangakkara,S Dhawan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.4,KC Sangakkara,S Dhawan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.5,KC Sangakkara,S Dhawan,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,0.6,S Dhawan,KC Sangakkara,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.1,S Dhawan,KC Sangakkara,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.2,S Dhawan,KC Sangakkara,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.3,S Dhawan,KC Sangakkara,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.4,S Dhawan,KC Sangakkara,KP Pietersen,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.5,S Dhawan,KC Sangakkara,KP Pietersen,3,0,3,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,1.6,KC Sangakkara,S Dhawan,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.1,S Dhawan,KC Sangakkara,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.2,KC Sangakkara,S Dhawan,M Morkel,0,0,0,NA,1,caught,KC Sangakkara,Y Nagar,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.3,S Dhawan,PA Patel,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.4,S Dhawan,PA Patel,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.5,S Dhawan,PA Patel,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,2.6,PA Patel,S Dhawan,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.1,PA Patel,S Dhawan,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.2,S Dhawan,PA Patel,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.3,PA Patel,S Dhawan,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.4,PA Patel,S Dhawan,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.5,PA Patel,S Dhawan,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,3.6,PA Patel,S Dhawan,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.1,S Dhawan,PA Patel,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.2,S Dhawan,PA Patel,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.3,PA Patel,S Dhawan,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.4,S Dhawan,PA Patel,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.5,S Dhawan,PA Patel,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,4.6,PA Patel,S Dhawan,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.1,S Dhawan,PA Patel,AB Agarkar,6,0,6,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.2,S Dhawan,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.3,PA Patel,S Dhawan,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.4,PA Patel,S Dhawan,AB Agarkar,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.5,PA Patel,S Dhawan,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,5.6,S Dhawan,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.1,S Dhawan,PA Patel,KP Pietersen,0,1,1,wides,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.2,S Dhawan,PA Patel,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.3,PA Patel,S Dhawan,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.4,S Dhawan,PA Patel,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.5,S Dhawan,PA Patel,KP Pietersen,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.6,S Dhawan,PA Patel,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,6.7,PA Patel,S Dhawan,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.1,PA Patel,S Dhawan,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.2,PA Patel,S Dhawan,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.3,S Dhawan,PA Patel,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.4,S Dhawan,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.5,PA Patel,S Dhawan,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,7.6,S Dhawan,PA Patel,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.1,PA Patel,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.2,S Dhawan,PA Patel,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.3,S Dhawan,PA Patel,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.4,S Dhawan,PA Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.5,PA Patel,S Dhawan,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.6,PA Patel,S Dhawan,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,8.7,S Dhawan,PA Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.1,S Dhawan,PA Patel,S Nadeem,0,0,0,NA,1,lbw,S Dhawan,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.2,DT Christian,PA Patel,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.3,DT Christian,PA Patel,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.4,PA Patel,DT Christian,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.5,PA Patel,DT Christian,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,9.6,DT Christian,PA Patel,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.1,DT Christian,PA Patel,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.2,DT Christian,PA Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.3,PA Patel,DT Christian,UT Yadav,6,0,6,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.4,PA Patel,DT Christian,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.5,DT Christian,PA Patel,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.6,DT Christian,PA Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.7,PA Patel,DT Christian,UT Yadav,1,1,2,noballs,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,10.8,DT Christian,PA Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.1,DT Christian,PA Patel,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.2,PA Patel,DT Christian,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.3,DT Christian,PA Patel,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.4,PA Patel,DT Christian,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.5,DT Christian,PA Patel,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,11.6,PA Patel,DT Christian,S Nadeem,0,0,0,NA,1,caught,PA Patel,DPMD Jayawardene,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.1,JP Duminy,DT Christian,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.2,JP Duminy,DT Christian,IK Pathan,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.3,JP Duminy,DT Christian,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.4,DT Christian,JP Duminy,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.5,DT Christian,JP Duminy,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,12.6,DT Christian,JP Duminy,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.1,DT Christian,JP Duminy,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.2,JP Duminy,DT Christian,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.3,DT Christian,JP Duminy,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.4,JP Duminy,DT Christian,S Nadeem,0,0,0,NA,1,caught,JP Duminy,V Sehwag,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.5,B Chipli,DT Christian,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,13.6,B Chipli,DT Christian,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.1,DT Christian,B Chipli,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.2,DT Christian,B Chipli,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.3,B Chipli,DT Christian,IK Pathan,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.4,B Chipli,DT Christian,IK Pathan,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.5,B Chipli,DT Christian,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,14.6,DT Christian,B Chipli,IK Pathan,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.1,DT Christian,B Chipli,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.2,B Chipli,DT Christian,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.3,DT Christian,B Chipli,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.4,B Chipli,DT Christian,S Nadeem,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.5,B Chipli,DT Christian,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,15.6,B Chipli,DT Christian,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.1,DT Christian,B Chipli,UT Yadav,0,0,0,NA,1,caught,DT Christian,S Nadeem,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.2,B Chipli,AA Jhunjhunwala,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.3,AA Jhunjhunwala,B Chipli,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.4,AA Jhunjhunwala,B Chipli,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.5,AA Jhunjhunwala,B Chipli,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,16.6,AA Jhunjhunwala,B Chipli,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.1,B Chipli,AA Jhunjhunwala,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.2,AA Jhunjhunwala,B Chipli,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.3,AA Jhunjhunwala,B Chipli,M Morkel,0,0,0,NA,1,caught,AA Jhunjhunwala,NV Ojha,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.4,DW Steyn,B Chipli,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.5,DW Steyn,B Chipli,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.6,DW Steyn,B Chipli,M Morkel,0,0,0,NA,1,caught,DW Steyn,V Sehwag,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,17.7,A Mishra,B Chipli,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.1,A Mishra,B Chipli,AB Agarkar,0,1,1,wides,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.2,A Mishra,B Chipli,AB Agarkar,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.3,B Chipli,A Mishra,AB Agarkar,6,0,6,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.4,B Chipli,A Mishra,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.5,B Chipli,A Mishra,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.6,B Chipli,A Mishra,AB Agarkar,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,18.7,B Chipli,A Mishra,AB Agarkar,4,0,4,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.1,A Mishra,B Chipli,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.2,B Chipli,A Mishra,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.3,A Mishra,B Chipli,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.4,A Mishra,B Chipli,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.5,A Mishra,B Chipli,M Morkel,1,0,1,NA,1,run out,A Mishra,KP Pietersen,0
+548321,1st innings,Deccan Chargers,Delhi Daredevils,19.6,Ankit Sharma,B Chipli,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.1,NV Ojha,V Sehwag,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.2,NV Ojha,V Sehwag,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.3,V Sehwag,NV Ojha,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.4,NV Ojha,V Sehwag,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.5,NV Ojha,V Sehwag,V Pratap Singh,0,0,0,NA,1,caught,NV Ojha,JP Duminy,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,0.6,V Sehwag,KP Pietersen,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.1,KP Pietersen,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.2,KP Pietersen,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.3,KP Pietersen,V Sehwag,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.4,KP Pietersen,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.5,KP Pietersen,V Sehwag,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,1.6,KP Pietersen,V Sehwag,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.1,KP Pietersen,V Sehwag,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.2,KP Pietersen,V Sehwag,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.3,KP Pietersen,V Sehwag,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.4,KP Pietersen,V Sehwag,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.5,V Sehwag,KP Pietersen,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,2.6,V Sehwag,KP Pietersen,V Pratap Singh,2,0,2,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.1,KP Pietersen,V Sehwag,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.2,V Sehwag,KP Pietersen,DW Steyn,0,0,0,NA,1,caught,V Sehwag,DT Christian,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.3,DPMD Jayawardene,KP Pietersen,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.4,DPMD Jayawardene,KP Pietersen,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.5,DPMD Jayawardene,KP Pietersen,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,3.6,KP Pietersen,DPMD Jayawardene,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.1,DPMD Jayawardene,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.2,KP Pietersen,DPMD Jayawardene,DT Christian,0,1,1,wides,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.3,KP Pietersen,DPMD Jayawardene,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.4,DPMD Jayawardene,KP Pietersen,DT Christian,0,0,0,NA,1,caught,DPMD Jayawardene,KC Sangakkara,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.5,KP Pietersen,LRPL Taylor,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.6,KP Pietersen,LRPL Taylor,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,4.7,KP Pietersen,LRPL Taylor,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.1,LRPL Taylor,KP Pietersen,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.2,LRPL Taylor,KP Pietersen,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.3,LRPL Taylor,KP Pietersen,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.4,KP Pietersen,LRPL Taylor,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.5,LRPL Taylor,KP Pietersen,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,5.6,LRPL Taylor,KP Pietersen,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.1,LRPL Taylor,KP Pietersen,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.2,KP Pietersen,LRPL Taylor,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.3,KP Pietersen,LRPL Taylor,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.4,KP Pietersen,LRPL Taylor,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.5,LRPL Taylor,KP Pietersen,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,6.6,LRPL Taylor,KP Pietersen,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.1,KP Pietersen,LRPL Taylor,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.2,KP Pietersen,LRPL Taylor,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.3,KP Pietersen,LRPL Taylor,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.4,KP Pietersen,LRPL Taylor,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.5,KP Pietersen,LRPL Taylor,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.6,KP Pietersen,LRPL Taylor,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,7.7,KP Pietersen,LRPL Taylor,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.1,LRPL Taylor,KP Pietersen,Ankit Sharma,3,0,3,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.2,KP Pietersen,LRPL Taylor,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.3,KP Pietersen,LRPL Taylor,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.4,KP Pietersen,LRPL Taylor,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.5,KP Pietersen,LRPL Taylor,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,8.6,KP Pietersen,LRPL Taylor,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.1,KP Pietersen,LRPL Taylor,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.2,LRPL Taylor,KP Pietersen,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.3,LRPL Taylor,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.4,KP Pietersen,LRPL Taylor,DT Christian,0,0,0,NA,1,run out,LRPL Taylor,S Dhawan,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.5,IK Pathan,KP Pietersen,DT Christian,0,1,1,wides,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.6,IK Pathan,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,9.7,KP Pietersen,IK Pathan,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.1,IK Pathan,KP Pietersen,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.2,IK Pathan,KP Pietersen,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.3,KP Pietersen,IK Pathan,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.4,KP Pietersen,IK Pathan,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.5,KP Pietersen,IK Pathan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,10.6,IK Pathan,KP Pietersen,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.1,KP Pietersen,IK Pathan,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.2,IK Pathan,KP Pietersen,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.3,IK Pathan,KP Pietersen,Ankit Sharma,0,1,1,wides,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.4,IK Pathan,KP Pietersen,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.5,KP Pietersen,IK Pathan,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.6,KP Pietersen,IK Pathan,Ankit Sharma,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,11.7,KP Pietersen,IK Pathan,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.1,KP Pietersen,IK Pathan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.2,IK Pathan,KP Pietersen,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.3,KP Pietersen,IK Pathan,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.4,KP Pietersen,IK Pathan,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.5,KP Pietersen,IK Pathan,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,12.6,KP Pietersen,IK Pathan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.1,KP Pietersen,IK Pathan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.2,KP Pietersen,IK Pathan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.3,IK Pathan,KP Pietersen,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.4,IK Pathan,KP Pietersen,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.5,KP Pietersen,IK Pathan,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,13.6,KP Pietersen,IK Pathan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.1,KP Pietersen,IK Pathan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.2,KP Pietersen,IK Pathan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.3,IK Pathan,KP Pietersen,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.4,IK Pathan,KP Pietersen,DW Steyn,0,0,0,NA,1,caught,IK Pathan,PA Patel,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.5,Y Nagar,KP Pietersen,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,14.6,KP Pietersen,Y Nagar,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.1,Y Nagar,KP Pietersen,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.2,Y Nagar,KP Pietersen,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.3,Y Nagar,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.4,KP Pietersen,Y Nagar,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.5,KP Pietersen,Y Nagar,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,15.6,Y Nagar,KP Pietersen,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.1,KP Pietersen,Y Nagar,V Pratap Singh,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.2,KP Pietersen,Y Nagar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.3,Y Nagar,KP Pietersen,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.4,Y Nagar,KP Pietersen,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.5,KP Pietersen,Y Nagar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,16.6,Y Nagar,KP Pietersen,V Pratap Singh,2,0,2,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.1,KP Pietersen,Y Nagar,DT Christian,6,0,6,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.2,KP Pietersen,Y Nagar,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.3,Y Nagar,KP Pietersen,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.4,Y Nagar,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.5,KP Pietersen,Y Nagar,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,17.6,Y Nagar,KP Pietersen,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.1,Y Nagar,KP Pietersen,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.2,Y Nagar,KP Pietersen,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.3,KP Pietersen,Y Nagar,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.4,Y Nagar,KP Pietersen,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.5,KP Pietersen,Y Nagar,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,18.6,Y Nagar,KP Pietersen,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+548321,2nd innings,Delhi Daredevils,Deccan Chargers,19.1,KP Pietersen,Y Nagar,Ankit Sharma,6,0,6,NA,0,NA,NA,NA,1

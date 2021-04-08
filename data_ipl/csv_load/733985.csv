@@ -1,0 +1,234 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.1,Q de Kock,M Vijay,SA Yadav,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.2,Q de Kock,M Vijay,SA Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.3,M Vijay,Q de Kock,SA Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.4,M Vijay,Q de Kock,SA Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.5,M Vijay,Q de Kock,SA Yadav,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,0.6,M Vijay,Q de Kock,SA Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.1,M Vijay,Q de Kock,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.2,M Vijay,Q de Kock,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.3,Q de Kock,M Vijay,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.4,Q de Kock,M Vijay,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.5,Q de Kock,M Vijay,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,1.6,Q de Kock,M Vijay,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.1,Q de Kock,M Vijay,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.2,Q de Kock,M Vijay,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.3,Q de Kock,M Vijay,UT Yadav,0,0,0,NA,1,caught,Q de Kock,G Gambhir,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.4,M Vijay,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.5,M Vijay,KP Pietersen,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,2.6,M Vijay,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.1,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.2,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.3,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.4,KP Pietersen,M Vijay,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.5,M Vijay,KP Pietersen,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,3.6,M Vijay,KP Pietersen,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.1,M Vijay,KP Pietersen,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.2,KP Pietersen,M Vijay,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.3,KP Pietersen,M Vijay,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.4,KP Pietersen,M Vijay,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.5,KP Pietersen,M Vijay,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,4.6,KP Pietersen,M Vijay,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.1,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.2,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.3,KP Pietersen,M Vijay,Shakib Al Hasan,0,0,0,NA,1,run out,KP Pietersen,RV Uthappa,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.4,KD Karthik,M Vijay,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.5,M Vijay,KD Karthik,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,5.6,KD Karthik,M Vijay,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.1,KD Karthik,M Vijay,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.2,M Vijay,KD Karthik,UT Yadav,0,1,1,legbyes,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.3,KD Karthik,M Vijay,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.4,KD Karthik,M Vijay,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.5,KD Karthik,M Vijay,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.6,KD Karthik,M Vijay,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,6.7,KD Karthik,M Vijay,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.1,KD Karthik,M Vijay,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.2,M Vijay,KD Karthik,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.3,M Vijay,KD Karthik,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.4,KD Karthik,M Vijay,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.5,M Vijay,KD Karthik,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,7.6,KD Karthik,M Vijay,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.1,M Vijay,KD Karthik,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.2,KD Karthik,M Vijay,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.3,KD Karthik,M Vijay,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.4,KD Karthik,M Vijay,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.5,M Vijay,KD Karthik,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,8.6,M Vijay,KD Karthik,JH Kallis,0,0,0,NA,1,caught,M Vijay,SP Narine,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.1,KD Karthik,JP Duminy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.2,JP Duminy,KD Karthik,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.3,KD Karthik,JP Duminy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.4,JP Duminy,KD Karthik,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.5,JP Duminy,KD Karthik,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,9.6,KD Karthik,JP Duminy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.1,KD Karthik,JP Duminy,JH Kallis,6,0,6,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.2,KD Karthik,JP Duminy,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.3,KD Karthik,JP Duminy,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.4,JP Duminy,KD Karthik,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.5,KD Karthik,JP Duminy,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,10.6,KD Karthik,JP Duminy,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.1,JP Duminy,KD Karthik,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.2,JP Duminy,KD Karthik,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.3,JP Duminy,KD Karthik,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.4,JP Duminy,KD Karthik,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.5,KD Karthik,JP Duminy,Shakib Al Hasan,0,0,0,NA,1,caught,KD Karthik,JH Kallis,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,11.6,JP Duminy,LR Shukla,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.1,LR Shukla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.2,JP Duminy,LR Shukla,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.3,LR Shukla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.4,JP Duminy,LR Shukla,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.5,JP Duminy,LR Shukla,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.6,JP Duminy,LR Shukla,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,12.7,LR Shukla,JP Duminy,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.1,JP Duminy,LR Shukla,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.2,JP Duminy,LR Shukla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.3,LR Shukla,JP Duminy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.4,LR Shukla,JP Duminy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.5,LR Shukla,JP Duminy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,13.6,JP Duminy,LR Shukla,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.1,JP Duminy,LR Shukla,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.2,LR Shukla,JP Duminy,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.3,LR Shukla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.4,JP Duminy,LR Shukla,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.5,LR Shukla,JP Duminy,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,14.6,LR Shukla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.1,LR Shukla,JP Duminy,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.2,LR Shukla,JP Duminy,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.3,LR Shukla,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.4,JP Duminy,LR Shukla,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.5,LR Shukla,JP Duminy,SP Narine,0,0,0,NA,1,bowled,LR Shukla,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,15.6,KM Jadhav,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.1,KM Jadhav,JP Duminy,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.2,KM Jadhav,JP Duminy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.3,KM Jadhav,JP Duminy,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.4,KM Jadhav,JP Duminy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.5,JP Duminy,KM Jadhav,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,16.6,KM Jadhav,JP Duminy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.1,KM Jadhav,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.2,JP Duminy,KM Jadhav,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.3,JP Duminy,KM Jadhav,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.4,KM Jadhav,JP Duminy,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.5,KM Jadhav,JP Duminy,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,17.6,KM Jadhav,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.1,KM Jadhav,JP Duminy,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.2,JP Duminy,KM Jadhav,JH Kallis,6,0,6,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.3,JP Duminy,KM Jadhav,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.4,JP Duminy,KM Jadhav,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.5,KM Jadhav,JP Duminy,JH Kallis,0,4,4,legbyes,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,18.6,KM Jadhav,JP Duminy,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.1,JP Duminy,KM Jadhav,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.2,KM Jadhav,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.3,JP Duminy,KM Jadhav,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.4,JP Duminy,KM Jadhav,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.5,KM Jadhav,JP Duminy,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+733985,1st innings,Delhi Daredevils,Kolkata Knight Riders,19.6,JP Duminy,KM Jadhav,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.1,RV Uthappa,G Gambhir,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.2,RV Uthappa,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.3,G Gambhir,RV Uthappa,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.4,G Gambhir,RV Uthappa,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.5,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,0.6,RV Uthappa,G Gambhir,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.1,G Gambhir,RV Uthappa,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.2,G Gambhir,RV Uthappa,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.3,G Gambhir,RV Uthappa,WD Parnell,0,1,1,legbyes,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.4,RV Uthappa,G Gambhir,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.5,RV Uthappa,G Gambhir,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,1.6,RV Uthappa,G Gambhir,WD Parnell,0,4,4,legbyes,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.1,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.2,RV Uthappa,G Gambhir,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.3,RV Uthappa,G Gambhir,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.4,RV Uthappa,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.5,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,2.6,RV Uthappa,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.1,RV Uthappa,G Gambhir,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.2,G Gambhir,RV Uthappa,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.3,RV Uthappa,G Gambhir,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.4,RV Uthappa,G Gambhir,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.5,RV Uthappa,G Gambhir,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,3.6,G Gambhir,RV Uthappa,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.1,RV Uthappa,G Gambhir,LR Shukla,0,1,1,wides,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.2,RV Uthappa,G Gambhir,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.3,G Gambhir,RV Uthappa,LR Shukla,0,1,1,legbyes,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.4,RV Uthappa,G Gambhir,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.5,RV Uthappa,G Gambhir,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.6,G Gambhir,RV Uthappa,LR Shukla,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,4.7,G Gambhir,RV Uthappa,LR Shukla,6,0,6,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.1,RV Uthappa,G Gambhir,S Kaul,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.2,RV Uthappa,G Gambhir,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.3,G Gambhir,RV Uthappa,S Kaul,0,4,4,legbyes,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.4,G Gambhir,RV Uthappa,S Kaul,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.5,G Gambhir,RV Uthappa,S Kaul,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,5.6,G Gambhir,RV Uthappa,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.1,G Gambhir,RV Uthappa,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.2,RV Uthappa,G Gambhir,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.3,G Gambhir,RV Uthappa,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.4,RV Uthappa,G Gambhir,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.5,G Gambhir,RV Uthappa,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,6.6,RV Uthappa,G Gambhir,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.1,G Gambhir,RV Uthappa,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.2,G Gambhir,RV Uthappa,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.3,G Gambhir,RV Uthappa,S Nadeem,0,1,1,legbyes,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.4,RV Uthappa,G Gambhir,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.5,G Gambhir,RV Uthappa,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,7.6,G Gambhir,RV Uthappa,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.1,G Gambhir,RV Uthappa,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.2,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.3,RV Uthappa,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.4,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.5,RV Uthappa,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,8.6,G Gambhir,RV Uthappa,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.1,G Gambhir,RV Uthappa,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.2,G Gambhir,RV Uthappa,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.3,RV Uthappa,G Gambhir,S Kaul,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.4,RV Uthappa,G Gambhir,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.5,G Gambhir,RV Uthappa,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,9.6,G Gambhir,RV Uthappa,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.1,G Gambhir,RV Uthappa,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.2,RV Uthappa,G Gambhir,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.3,G Gambhir,RV Uthappa,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.4,RV Uthappa,G Gambhir,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.5,RV Uthappa,G Gambhir,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,10.6,RV Uthappa,G Gambhir,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.1,RV Uthappa,G Gambhir,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.2,RV Uthappa,G Gambhir,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.3,G Gambhir,RV Uthappa,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.4,G Gambhir,RV Uthappa,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.5,RV Uthappa,G Gambhir,WD Parnell,0,0,0,NA,1,lbw,RV Uthappa,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,11.6,MK Pandey,G Gambhir,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.1,MK Pandey,G Gambhir,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.2,G Gambhir,MK Pandey,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.3,G Gambhir,MK Pandey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.4,MK Pandey,G Gambhir,S Nadeem,3,0,3,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.5,G Gambhir,MK Pandey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,12.6,MK Pandey,G Gambhir,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.1,MK Pandey,G Gambhir,LR Shukla,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.2,MK Pandey,G Gambhir,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.3,G Gambhir,MK Pandey,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.4,MK Pandey,G Gambhir,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.5,G Gambhir,MK Pandey,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,13.6,MK Pandey,G Gambhir,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.1,G Gambhir,MK Pandey,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.2,G Gambhir,MK Pandey,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.3,MK Pandey,G Gambhir,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.4,G Gambhir,MK Pandey,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.5,G Gambhir,MK Pandey,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,14.6,G Gambhir,MK Pandey,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.1,MK Pandey,G Gambhir,S Kaul,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.2,MK Pandey,G Gambhir,S Kaul,2,0,2,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.3,MK Pandey,G Gambhir,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.4,G Gambhir,MK Pandey,S Kaul,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.5,G Gambhir,MK Pandey,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,15.6,G Gambhir,MK Pandey,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.1,G Gambhir,MK Pandey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.2,MK Pandey,G Gambhir,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.3,MK Pandey,G Gambhir,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.4,G Gambhir,MK Pandey,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.5,G Gambhir,MK Pandey,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,16.6,G Gambhir,MK Pandey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.1,G Gambhir,MK Pandey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.2,G Gambhir,MK Pandey,WD Parnell,0,0,0,NA,1,caught,G Gambhir,KD Karthik,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.3,JH Kallis,MK Pandey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.4,JH Kallis,MK Pandey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.5,JH Kallis,MK Pandey,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,17.6,JH Kallis,MK Pandey,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,18.1,JH Kallis,MK Pandey,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+733985,2nd innings,Kolkata Knight Riders,Delhi Daredevils,18.2,JH Kallis,MK Pandey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1

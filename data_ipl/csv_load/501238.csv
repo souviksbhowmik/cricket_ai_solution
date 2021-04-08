@@ -1,0 +1,227 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.1,DA Warner,V Sehwag,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.2,V Sehwag,DA Warner,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.3,V Sehwag,DA Warner,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.4,V Sehwag,DA Warner,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.5,V Sehwag,DA Warner,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,0.6,V Sehwag,DA Warner,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.1,DA Warner,V Sehwag,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.2,DA Warner,V Sehwag,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.3,DA Warner,V Sehwag,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.4,DA Warner,V Sehwag,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.5,V Sehwag,DA Warner,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,1.6,DA Warner,V Sehwag,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.1,V Sehwag,DA Warner,P Parameswaran,6,0,6,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.2,V Sehwag,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.3,V Sehwag,DA Warner,P Parameswaran,0,0,0,NA,1,caught,V Sehwag,PA Patel,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.4,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.5,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,2.6,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.1,DA Warner,NV Ojha,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.2,DA Warner,NV Ojha,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.3,DA Warner,NV Ojha,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.4,DA Warner,NV Ojha,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.5,NV Ojha,DA Warner,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,3.6,NV Ojha,DA Warner,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.1,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.2,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.3,NV Ojha,DA Warner,P Parameswaran,6,0,6,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.4,NV Ojha,DA Warner,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.5,NV Ojha,DA Warner,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,4.6,NV Ojha,DA Warner,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.1,NV Ojha,DA Warner,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.2,DA Warner,NV Ojha,S Sreesanth,2,0,2,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.3,DA Warner,NV Ojha,S Sreesanth,0,1,1,noballs,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.4,DA Warner,NV Ojha,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.5,DA Warner,NV Ojha,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.6,DA Warner,NV Ojha,S Sreesanth,0,0,0,NA,1,caught,DA Warner,R Vinay Kumar,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,5.7,Y Nagar,NV Ojha,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.1,NV Ojha,Y Nagar,RP Singh,0,1,1,wides,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.2,NV Ojha,Y Nagar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.3,NV Ojha,Y Nagar,RP Singh,0,0,0,NA,1,caught,NV Ojha,PA Patel,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.4,Y Venugopal Rao,Y Nagar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.5,Y Venugopal Rao,Y Nagar,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.6,Y Venugopal Rao,Y Nagar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,6.7,Y Venugopal Rao,Y Nagar,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.1,Y Venugopal Rao,Y Nagar,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.2,Y Venugopal Rao,Y Nagar,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.3,Y Nagar,Y Venugopal Rao,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.4,Y Nagar,Y Venugopal Rao,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.5,Y Nagar,Y Venugopal Rao,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,7.6,Y Venugopal Rao,Y Nagar,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.1,Y Nagar,Y Venugopal Rao,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.2,Y Venugopal Rao,Y Nagar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.3,Y Nagar,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.4,Y Nagar,Y Venugopal Rao,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.5,Y Venugopal Rao,Y Nagar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,8.6,Y Venugopal Rao,Y Nagar,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.1,Y Nagar,Y Venugopal Rao,RV Gomez,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.2,Y Nagar,Y Venugopal Rao,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.3,Y Venugopal Rao,Y Nagar,RV Gomez,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.4,Y Venugopal Rao,Y Nagar,RV Gomez,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.5,Y Venugopal Rao,Y Nagar,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,9.6,Y Nagar,Y Venugopal Rao,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.1,Y Nagar,Y Venugopal Rao,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.2,Y Venugopal Rao,Y Nagar,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.3,Y Venugopal Rao,Y Nagar,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.4,Y Venugopal Rao,Y Nagar,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.5,Y Nagar,Y Venugopal Rao,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.6,Y Nagar,Y Venugopal Rao,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.7,Y Venugopal Rao,Y Nagar,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,10.8,Y Nagar,Y Venugopal Rao,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.1,Y Venugopal Rao,Y Nagar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.2,Y Venugopal Rao,Y Nagar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.3,Y Nagar,Y Venugopal Rao,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.4,Y Nagar,Y Venugopal Rao,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.5,Y Venugopal Rao,Y Nagar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,11.6,Y Nagar,Y Venugopal Rao,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.1,Y Nagar,Y Venugopal Rao,RV Gomez,2,0,2,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.2,Y Nagar,Y Venugopal Rao,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.3,Y Venugopal Rao,Y Nagar,RV Gomez,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.4,Y Venugopal Rao,Y Nagar,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.5,Y Nagar,Y Venugopal Rao,RV Gomez,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,12.6,Y Venugopal Rao,Y Nagar,RV Gomez,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.1,Y Nagar,Y Venugopal Rao,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.2,Y Venugopal Rao,Y Nagar,RP Singh,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.3,Y Venugopal Rao,Y Nagar,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.4,Y Venugopal Rao,Y Nagar,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.5,Y Nagar,Y Venugopal Rao,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,13.6,Y Venugopal Rao,Y Nagar,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.1,Y Venugopal Rao,Y Nagar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.2,Y Nagar,Y Venugopal Rao,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.3,Y Venugopal Rao,Y Nagar,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.4,Y Venugopal Rao,Y Nagar,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.5,Y Venugopal Rao,Y Nagar,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.6,Y Nagar,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,1,caught,Y Nagar,RP Singh,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,14.7,Y Venugopal Rao,TR Birt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.1,Y Venugopal Rao,TR Birt,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.2,TR Birt,Y Venugopal Rao,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.3,Y Venugopal Rao,TR Birt,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.4,Y Venugopal Rao,TR Birt,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.5,TR Birt,Y Venugopal Rao,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,15.6,TR Birt,Y Venugopal Rao,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.1,TR Birt,Y Venugopal Rao,S Sreesanth,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.2,TR Birt,Y Venugopal Rao,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.3,Y Venugopal Rao,TR Birt,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.4,TR Birt,Y Venugopal Rao,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.5,Y Venugopal Rao,TR Birt,S Sreesanth,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,16.6,TR Birt,Y Venugopal Rao,S Sreesanth,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.1,Y Venugopal Rao,TR Birt,P Parameswaran,0,0,0,NA,1,caught,Y Venugopal Rao,RP Singh,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.2,TR Birt,IK Pathan,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.3,TR Birt,IK Pathan,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.4,TR Birt,IK Pathan,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.5,IK Pathan,TR Birt,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,17.6,TR Birt,IK Pathan,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.1,IK Pathan,TR Birt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.2,IK Pathan,TR Birt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.3,TR Birt,IK Pathan,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.4,TR Birt,IK Pathan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.5,TR Birt,IK Pathan,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,18.6,TR Birt,IK Pathan,R Vinay Kumar,0,0,0,NA,1,caught,TR Birt,PA Patel,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.1,IK Pathan,RE van der Merwe,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.2,RE van der Merwe,IK Pathan,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.3,IK Pathan,RE van der Merwe,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.4,RE van der Merwe,IK Pathan,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.5,IK Pathan,RE van der Merwe,RP Singh,1,0,1,NA,0,NA,NA,NA,0
+501238,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,19.6,RE van der Merwe,IK Pathan,RP Singh,0,0,0,NA,0,NA,NA,NA,0
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.1,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.2,M Klinger,BB McCullum,IK Pathan,0,1,1,legbyes,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.3,BB McCullum,M Klinger,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.4,BB McCullum,M Klinger,IK Pathan,0,5,5,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.5,BB McCullum,M Klinger,IK Pathan,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.6,BB McCullum,M Klinger,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.7,M Klinger,BB McCullum,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.8,M Klinger,BB McCullum,IK Pathan,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,0.9,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.1,BB McCullum,M Klinger,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.2,BB McCullum,M Klinger,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.3,BB McCullum,M Klinger,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.4,BB McCullum,M Klinger,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.5,BB McCullum,M Klinger,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,1.6,BB McCullum,M Klinger,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.1,BB McCullum,M Klinger,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.2,BB McCullum,M Klinger,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.3,BB McCullum,M Klinger,IK Pathan,2,0,2,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.4,BB McCullum,M Klinger,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.5,M Klinger,BB McCullum,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,2.6,BB McCullum,M Klinger,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.1,M Klinger,BB McCullum,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.2,M Klinger,BB McCullum,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.3,BB McCullum,M Klinger,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.4,BB McCullum,M Klinger,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.5,BB McCullum,M Klinger,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.6,BB McCullum,M Klinger,UT Yadav,6,1,7,noballs,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.7,BB McCullum,M Klinger,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,3.8,BB McCullum,M Klinger,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.1,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.2,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.3,M Klinger,BB McCullum,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.4,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.5,M Klinger,BB McCullum,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,4.6,M Klinger,BB McCullum,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.1,BB McCullum,M Klinger,M Morkel,0,0,0,NA,1,caught,BB McCullum,UT Yadav,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.2,PA Patel,M Klinger,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.3,M Klinger,PA Patel,M Morkel,0,1,1,noballs,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.4,M Klinger,PA Patel,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.5,PA Patel,M Klinger,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.6,PA Patel,M Klinger,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.7,PA Patel,M Klinger,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.8,PA Patel,M Klinger,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,5.9,PA Patel,M Klinger,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.1,PA Patel,M Klinger,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.2,M Klinger,PA Patel,AB Agarkar,2,0,2,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.3,M Klinger,PA Patel,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.4,M Klinger,PA Patel,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.5,M Klinger,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,6.6,PA Patel,M Klinger,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.1,M Klinger,PA Patel,RE van der Merwe,0,0,0,NA,1,lbw,M Klinger,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.2,DPMD Jayawardene,PA Patel,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.3,DPMD Jayawardene,PA Patel,RE van der Merwe,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.4,DPMD Jayawardene,PA Patel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.5,PA Patel,DPMD Jayawardene,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.6,DPMD Jayawardene,PA Patel,RE van der Merwe,0,1,1,legbyes,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.7,PA Patel,DPMD Jayawardene,RE van der Merwe,0,1,1,wides,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,7.8,PA Patel,DPMD Jayawardene,RE van der Merwe,2,0,2,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.1,DPMD Jayawardene,PA Patel,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.2,DPMD Jayawardene,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.3,PA Patel,DPMD Jayawardene,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.4,DPMD Jayawardene,PA Patel,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.5,DPMD Jayawardene,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,8.6,PA Patel,DPMD Jayawardene,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.1,PA Patel,DPMD Jayawardene,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.2,DPMD Jayawardene,PA Patel,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.3,DPMD Jayawardene,PA Patel,RE van der Merwe,0,1,1,legbyes,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.4,PA Patel,DPMD Jayawardene,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.5,PA Patel,DPMD Jayawardene,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,9.6,DPMD Jayawardene,PA Patel,RE van der Merwe,0,0,0,NA,1,run out,DPMD Jayawardene,Y Nagar,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.1,PA Patel,BJ Hodge,AB Agarkar,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.2,PA Patel,BJ Hodge,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.3,BJ Hodge,PA Patel,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.4,PA Patel,BJ Hodge,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.5,PA Patel,BJ Hodge,AB Agarkar,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,10.6,PA Patel,BJ Hodge,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.1,BJ Hodge,PA Patel,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.2,PA Patel,BJ Hodge,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.3,PA Patel,BJ Hodge,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.4,PA Patel,BJ Hodge,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.5,BJ Hodge,PA Patel,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,11.6,BJ Hodge,PA Patel,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.1,PA Patel,BJ Hodge,Y Nagar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.2,BJ Hodge,PA Patel,Y Nagar,6,0,6,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.3,BJ Hodge,PA Patel,Y Nagar,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.4,BJ Hodge,PA Patel,Y Nagar,0,1,1,noballs,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.5,BJ Hodge,PA Patel,Y Nagar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.6,PA Patel,BJ Hodge,Y Nagar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,12.7,BJ Hodge,PA Patel,Y Nagar,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.1,BJ Hodge,PA Patel,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.2,PA Patel,BJ Hodge,RE van der Merwe,2,0,2,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.3,PA Patel,BJ Hodge,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.4,PA Patel,BJ Hodge,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.5,PA Patel,BJ Hodge,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,13.6,PA Patel,BJ Hodge,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.1,BJ Hodge,PA Patel,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.2,BJ Hodge,PA Patel,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.3,BJ Hodge,PA Patel,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.4,PA Patel,BJ Hodge,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.5,PA Patel,BJ Hodge,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501238,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,14.6,PA Patel,BJ Hodge,IK Pathan,1,0,1,NA,0,NA,NA,NA,1

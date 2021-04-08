@@ -1,0 +1,244 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.1,F du Plessis,M Vijay,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.2,F du Plessis,M Vijay,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.3,F du Plessis,M Vijay,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.4,F du Plessis,M Vijay,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.5,F du Plessis,M Vijay,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,0.6,M Vijay,F du Plessis,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.1,F du Plessis,M Vijay,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.2,F du Plessis,M Vijay,AB Dinda,6,0,6,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.3,F du Plessis,M Vijay,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.4,F du Plessis,M Vijay,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.5,F du Plessis,M Vijay,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,1.6,M Vijay,F du Plessis,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.1,F du Plessis,M Vijay,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.2,F du Plessis,M Vijay,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.3,M Vijay,F du Plessis,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.4,M Vijay,F du Plessis,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.5,M Vijay,F du Plessis,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,2.6,M Vijay,F du Plessis,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.1,F du Plessis,M Vijay,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.2,F du Plessis,M Vijay,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.3,F du Plessis,M Vijay,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.4,F du Plessis,M Vijay,A Nehra,6,0,6,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.5,F du Plessis,M Vijay,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,3.6,F du Plessis,M Vijay,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.1,M Vijay,F du Plessis,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.2,F du Plessis,M Vijay,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.3,F du Plessis,M Vijay,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.4,M Vijay,F du Plessis,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.5,F du Plessis,M Vijay,R Sharma,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,4.6,F du Plessis,M Vijay,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.1,F du Plessis,M Vijay,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.2,F du Plessis,M Vijay,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.3,M Vijay,F du Plessis,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.4,F du Plessis,M Vijay,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.5,F du Plessis,M Vijay,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,5.6,M Vijay,F du Plessis,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.1,M Vijay,F du Plessis,AD Mathews,0,0,0,NA,1,caught,M Vijay,AB Dinda,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.2,F du Plessis,SK Raina,AD Mathews,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.3,F du Plessis,SK Raina,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.4,SK Raina,F du Plessis,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.5,SK Raina,F du Plessis,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,6.6,SK Raina,F du Plessis,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.1,SK Raina,F du Plessis,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.2,F du Plessis,SK Raina,MN Samuels,0,2,2,wides,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.3,SK Raina,F du Plessis,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.4,F du Plessis,SK Raina,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.5,SK Raina,F du Plessis,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.6,SK Raina,F du Plessis,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,7.7,F du Plessis,SK Raina,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.1,SK Raina,F du Plessis,AD Mathews,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.2,SK Raina,F du Plessis,AD Mathews,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.3,SK Raina,F du Plessis,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.4,F du Plessis,SK Raina,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.5,SK Raina,F du Plessis,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,8.6,F du Plessis,SK Raina,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.1,F du Plessis,SK Raina,R Sharma,0,0,0,NA,1,stumped,F du Plessis,RV Uthappa,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.2,MS Dhoni,SK Raina,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.3,SK Raina,MS Dhoni,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.4,MS Dhoni,SK Raina,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.5,SK Raina,MS Dhoni,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,9.6,MS Dhoni,SK Raina,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.1,SK Raina,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.2,MS Dhoni,SK Raina,AB Dinda,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.3,MS Dhoni,SK Raina,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.4,SK Raina,MS Dhoni,AB Dinda,1,1,2,noballs,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.5,MS Dhoni,SK Raina,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.6,SK Raina,MS Dhoni,AB Dinda,0,1,1,legbyes,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.7,MS Dhoni,SK Raina,AB Dinda,1,1,2,noballs,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,10.8,SK Raina,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.1,SK Raina,MS Dhoni,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.2,MS Dhoni,SK Raina,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.3,SK Raina,MS Dhoni,R Sharma,0,0,0,NA,1,caught,SK Raina,SPD Smith,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.4,RA Jadeja,MS Dhoni,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.5,MS Dhoni,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,11.6,MS Dhoni,RA Jadeja,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.1,MS Dhoni,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.2,RA Jadeja,MS Dhoni,M Kartik,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.3,RA Jadeja,MS Dhoni,M Kartik,6,0,6,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.4,RA Jadeja,MS Dhoni,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.5,RA Jadeja,MS Dhoni,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,12.6,MS Dhoni,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.1,RA Jadeja,MS Dhoni,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.2,RA Jadeja,MS Dhoni,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.3,RA Jadeja,MS Dhoni,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.4,MS Dhoni,RA Jadeja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.5,RA Jadeja,MS Dhoni,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.6,MS Dhoni,RA Jadeja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,13.7,RA Jadeja,MS Dhoni,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.1,RA Jadeja,MS Dhoni,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.2,RA Jadeja,MS Dhoni,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.3,MS Dhoni,RA Jadeja,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.4,RA Jadeja,MS Dhoni,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.5,MS Dhoni,RA Jadeja,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,14.6,RA Jadeja,MS Dhoni,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.1,MS Dhoni,RA Jadeja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.2,RA Jadeja,MS Dhoni,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.3,RA Jadeja,MS Dhoni,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.4,MS Dhoni,RA Jadeja,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.5,MS Dhoni,RA Jadeja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,15.6,RA Jadeja,MS Dhoni,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.1,MS Dhoni,RA Jadeja,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.2,RA Jadeja,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.3,MS Dhoni,RA Jadeja,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.4,RA Jadeja,MS Dhoni,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.5,RA Jadeja,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,16.6,MS Dhoni,RA Jadeja,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.1,RA Jadeja,MS Dhoni,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.2,MS Dhoni,RA Jadeja,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.3,MS Dhoni,RA Jadeja,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.4,MS Dhoni,RA Jadeja,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.5,RA Jadeja,MS Dhoni,MN Samuels,6,0,6,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,17.6,RA Jadeja,MS Dhoni,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.1,RA Jadeja,MS Dhoni,AB Dinda,4,0,4,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.2,RA Jadeja,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.3,MS Dhoni,RA Jadeja,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.4,RA Jadeja,MS Dhoni,AB Dinda,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.5,MS Dhoni,RA Jadeja,AB Dinda,0,0,0,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,18.6,MS Dhoni,RA Jadeja,AB Dinda,0,0,0,NA,1,caught,MS Dhoni,M Kartik,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.1,JA Morkel,RA Jadeja,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.2,RA Jadeja,JA Morkel,A Nehra,0,0,0,NA,1,caught,RA Jadeja,SPD Smith,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.3,JA Morkel,DJ Bravo,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.4,DJ Bravo,JA Morkel,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.5,JA Morkel,DJ Bravo,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+548322,1st innings,Chennai Super Kings,Pune Warriors,19.6,DJ Bravo,JA Morkel,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.1,RV Uthappa,JD Ryder,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.2,RV Uthappa,JD Ryder,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.3,RV Uthappa,JD Ryder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.4,JD Ryder,RV Uthappa,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.5,JD Ryder,RV Uthappa,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.6,JD Ryder,RV Uthappa,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,0.7,JD Ryder,RV Uthappa,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.1,RV Uthappa,JD Ryder,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.2,RV Uthappa,JD Ryder,JA Morkel,6,0,6,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.3,RV Uthappa,JD Ryder,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.4,JD Ryder,RV Uthappa,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.5,RV Uthappa,JD Ryder,JA Morkel,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,1.6,RV Uthappa,JD Ryder,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.1,JD Ryder,RV Uthappa,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.2,JD Ryder,RV Uthappa,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.3,JD Ryder,RV Uthappa,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.4,JD Ryder,RV Uthappa,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.5,JD Ryder,RV Uthappa,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,2.6,JD Ryder,RV Uthappa,KMDN Kulasekara,1,0,1,NA,1,run out,RV Uthappa,DJ Bravo,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.1,SC Ganguly,JD Ryder,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.2,SC Ganguly,JD Ryder,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.3,JD Ryder,SC Ganguly,JA Morkel,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.4,JD Ryder,SC Ganguly,JA Morkel,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.5,JD Ryder,SC Ganguly,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.6,SC Ganguly,JD Ryder,JA Morkel,0,1,1,wides,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,3.7,SC Ganguly,JD Ryder,JA Morkel,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.1,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.2,JD Ryder,SC Ganguly,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.3,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.4,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.5,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,4.6,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.1,SC Ganguly,JD Ryder,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.2,SC Ganguly,JD Ryder,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.3,SC Ganguly,JD Ryder,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.4,JD Ryder,SC Ganguly,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.5,JD Ryder,SC Ganguly,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,5.6,JD Ryder,SC Ganguly,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.1,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.2,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.3,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.4,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.5,JD Ryder,SC Ganguly,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,6.6,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.1,JD Ryder,SC Ganguly,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.2,SC Ganguly,JD Ryder,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.3,SC Ganguly,JD Ryder,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.4,SC Ganguly,JD Ryder,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.5,SC Ganguly,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,7.6,JD Ryder,SC Ganguly,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.1,SC Ganguly,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.2,JD Ryder,SC Ganguly,R Ashwin,1,0,1,NA,1,run out,SC Ganguly,RA Jadeja,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.3,JD Ryder,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.4,MN Samuels,JD Ryder,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.5,MN Samuels,JD Ryder,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,8.6,MN Samuels,JD Ryder,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.1,JD Ryder,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.2,MN Samuels,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.3,JD Ryder,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.4,MN Samuels,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.5,JD Ryder,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,9.6,MN Samuels,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.1,MN Samuels,JD Ryder,VY Mahesh,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.2,MN Samuels,JD Ryder,VY Mahesh,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.3,MN Samuels,JD Ryder,VY Mahesh,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.4,MN Samuels,JD Ryder,VY Mahesh,0,2,2,legbyes,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.5,MN Samuels,JD Ryder,VY Mahesh,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,10.6,JD Ryder,MN Samuels,VY Mahesh,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.1,MN Samuels,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.2,JD Ryder,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.3,JD Ryder,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.4,MN Samuels,JD Ryder,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.5,MN Samuels,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,11.6,JD Ryder,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.1,JD Ryder,MN Samuels,VY Mahesh,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.2,JD Ryder,MN Samuels,VY Mahesh,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.3,JD Ryder,MN Samuels,VY Mahesh,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.4,MN Samuels,JD Ryder,VY Mahesh,0,0,0,NA,1,bowled,MN Samuels,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.5,SPD Smith,JD Ryder,VY Mahesh,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,12.6,SPD Smith,JD Ryder,VY Mahesh,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.1,JD Ryder,SPD Smith,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.2,SPD Smith,JD Ryder,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.3,SPD Smith,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.4,JD Ryder,SPD Smith,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.5,JD Ryder,SPD Smith,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,13.6,SPD Smith,JD Ryder,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.1,SPD Smith,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.2,JD Ryder,SPD Smith,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.3,JD Ryder,SPD Smith,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.4,SPD Smith,JD Ryder,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.5,JD Ryder,SPD Smith,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,14.6,JD Ryder,SPD Smith,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.1,JD Ryder,SPD Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.2,SPD Smith,JD Ryder,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.3,SPD Smith,JD Ryder,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.4,JD Ryder,SPD Smith,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.5,JD Ryder,SPD Smith,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.6,JD Ryder,SPD Smith,DJ Bravo,6,0,6,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,15.7,JD Ryder,SPD Smith,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.1,SPD Smith,JD Ryder,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.2,SPD Smith,JD Ryder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.3,JD Ryder,SPD Smith,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.4,SPD Smith,JD Ryder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.5,JD Ryder,SPD Smith,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,16.6,JD Ryder,SPD Smith,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.1,SPD Smith,JD Ryder,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.2,JD Ryder,SPD Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.3,SPD Smith,JD Ryder,DJ Bravo,6,0,6,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.4,SPD Smith,JD Ryder,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.5,SPD Smith,JD Ryder,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,17.6,SPD Smith,JD Ryder,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.1,JD Ryder,SPD Smith,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.2,SPD Smith,JD Ryder,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.3,SPD Smith,JD Ryder,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.4,SPD Smith,JD Ryder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.5,JD Ryder,SPD Smith,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,18.6,SPD Smith,JD Ryder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,19.1,SPD Smith,JD Ryder,VY Mahesh,4,0,4,NA,0,NA,NA,NA,1
+548322,2nd innings,Pune Warriors,Chennai Super Kings,19.2,SPD Smith,JD Ryder,VY Mahesh,6,0,6,NA,0,NA,NA,NA,1

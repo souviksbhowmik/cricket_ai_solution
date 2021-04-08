@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548348,1st innings,Deccan Chargers,Pune Warriors,0.1,PA Patel,S Dhawan,MN Samuels,0,0,0,NA,1,bowled,PA Patel,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,0.2,CL White,S Dhawan,MN Samuels,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,0.3,CL White,S Dhawan,MN Samuels,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,0.4,CL White,S Dhawan,MN Samuels,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,0.5,S Dhawan,CL White,MN Samuels,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,0.6,S Dhawan,CL White,MN Samuels,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.1,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.2,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.3,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.4,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.5,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,1.6,S Dhawan,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.1,CL White,S Dhawan,MN Samuels,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.2,S Dhawan,CL White,MN Samuels,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.3,S Dhawan,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.4,S Dhawan,CL White,MN Samuels,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.5,S Dhawan,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,2.6,S Dhawan,CL White,MN Samuels,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.1,S Dhawan,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.2,CL White,S Dhawan,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.3,CL White,S Dhawan,A Nehra,0,1,1,legbyes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.4,S Dhawan,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.5,CL White,S Dhawan,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,3.6,CL White,S Dhawan,A Nehra,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.1,S Dhawan,CL White,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.2,S Dhawan,CL White,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.3,CL White,S Dhawan,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.4,S Dhawan,CL White,B Kumar,0,0,0,NA,1,bowled,S Dhawan,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.5,KC Sangakkara,CL White,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,4.6,CL White,KC Sangakkara,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.1,KC Sangakkara,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.2,KC Sangakkara,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.3,KC Sangakkara,CL White,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.4,KC Sangakkara,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.5,KC Sangakkara,CL White,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,5.6,CL White,KC Sangakkara,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.1,KC Sangakkara,CL White,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.2,KC Sangakkara,CL White,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.3,CL White,KC Sangakkara,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.4,KC Sangakkara,CL White,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.5,KC Sangakkara,CL White,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,6.6,CL White,KC Sangakkara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.1,KC Sangakkara,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.2,KC Sangakkara,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.3,KC Sangakkara,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.4,CL White,KC Sangakkara,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.5,KC Sangakkara,CL White,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,7.6,KC Sangakkara,CL White,M Kartik,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.1,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.2,KC Sangakkara,CL White,A Nehra,0,1,1,legbyes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.3,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.4,KC Sangakkara,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.5,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,8.6,KC Sangakkara,CL White,A Nehra,0,1,1,legbyes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.1,KC Sangakkara,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.2,CL White,KC Sangakkara,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.3,CL White,KC Sangakkara,M Kartik,6,0,6,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.4,CL White,KC Sangakkara,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.5,KC Sangakkara,CL White,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,9.6,CL White,KC Sangakkara,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.1,CL White,KC Sangakkara,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.2,KC Sangakkara,CL White,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.3,CL White,KC Sangakkara,SC Ganguly,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.4,CL White,KC Sangakkara,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.5,KC Sangakkara,CL White,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,10.6,CL White,KC Sangakkara,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.1,CL White,KC Sangakkara,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.2,CL White,KC Sangakkara,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.3,CL White,KC Sangakkara,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.4,KC Sangakkara,CL White,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.5,CL White,KC Sangakkara,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,11.6,CL White,KC Sangakkara,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.1,KC Sangakkara,CL White,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.2,CL White,KC Sangakkara,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.3,KC Sangakkara,CL White,SC Ganguly,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.4,KC Sangakkara,CL White,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.5,CL White,KC Sangakkara,SC Ganguly,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,12.6,KC Sangakkara,CL White,SC Ganguly,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.1,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.2,KC Sangakkara,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.3,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.4,KC Sangakkara,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.5,CL White,KC Sangakkara,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,13.6,KC Sangakkara,CL White,A Nehra,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.1,KC Sangakkara,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.2,KC Sangakkara,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.3,KC Sangakkara,CL White,MN Samuels,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.4,KC Sangakkara,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.5,KC Sangakkara,CL White,MN Samuels,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,14.6,KC Sangakkara,CL White,MN Samuels,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.1,KC Sangakkara,CL White,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.2,KC Sangakkara,CL White,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.3,KC Sangakkara,CL White,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.4,KC Sangakkara,CL White,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.5,KC Sangakkara,CL White,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,15.6,CL White,KC Sangakkara,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.1,CL White,KC Sangakkara,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.2,KC Sangakkara,CL White,B Kumar,0,4,4,legbyes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.3,KC Sangakkara,CL White,B Kumar,0,1,1,byes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.4,CL White,KC Sangakkara,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.5,KC Sangakkara,CL White,B Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,16.6,CL White,KC Sangakkara,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.1,KC Sangakkara,CL White,SC Ganguly,0,1,1,byes,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.2,CL White,KC Sangakkara,SC Ganguly,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.3,CL White,KC Sangakkara,SC Ganguly,6,0,6,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.4,CL White,KC Sangakkara,SC Ganguly,6,0,6,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.5,CL White,KC Sangakkara,SC Ganguly,6,0,6,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,17.6,CL White,KC Sangakkara,SC Ganguly,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.1,KC Sangakkara,CL White,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.2,KC Sangakkara,CL White,A Nehra,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.3,KC Sangakkara,CL White,A Nehra,2,0,2,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.4,KC Sangakkara,CL White,A Nehra,6,0,6,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.5,KC Sangakkara,CL White,A Nehra,4,0,4,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.6,KC Sangakkara,CL White,A Nehra,6,1,7,noballs,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,18.7,KC Sangakkara,CL White,A Nehra,0,0,0,NA,1,bowled,KC Sangakkara,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.1,CL White,JP Duminy,WD Parnell,0,0,0,NA,1,caught,CL White,SPD Smith,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.2,JP Duminy,BB Samantray,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.3,BB Samantray,JP Duminy,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.4,JP Duminy,BB Samantray,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.5,BB Samantray,JP Duminy,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+548348,1st innings,Deccan Chargers,Pune Warriors,19.6,JP Duminy,BB Samantray,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.1,MK Pandey,MJ Clarke,Ankit Sharma,0,0,0,NA,1,caught,MK Pandey,KC Sangakkara,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.2,SC Ganguly,MJ Clarke,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.3,SC Ganguly,MJ Clarke,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.4,MJ Clarke,SC Ganguly,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.5,SC Ganguly,MJ Clarke,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,0.6,MJ Clarke,SC Ganguly,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.1,SC Ganguly,MJ Clarke,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.2,SC Ganguly,MJ Clarke,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.3,MJ Clarke,SC Ganguly,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.4,MJ Clarke,SC Ganguly,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.5,SC Ganguly,MJ Clarke,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,1.6,SC Ganguly,MJ Clarke,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.1,MJ Clarke,SC Ganguly,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.2,MJ Clarke,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.3,MJ Clarke,SC Ganguly,V Pratap Singh,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.4,MJ Clarke,SC Ganguly,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.5,MJ Clarke,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,2.6,MJ Clarke,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.1,SC Ganguly,MJ Clarke,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.2,SC Ganguly,MJ Clarke,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.3,SC Ganguly,MJ Clarke,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.4,SC Ganguly,MJ Clarke,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.5,SC Ganguly,MJ Clarke,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,3.6,SC Ganguly,MJ Clarke,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.1,MJ Clarke,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.2,MJ Clarke,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.3,MJ Clarke,SC Ganguly,V Pratap Singh,0,1,1,legbyes,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.4,SC Ganguly,MJ Clarke,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.5,SC Ganguly,MJ Clarke,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,4.6,SC Ganguly,MJ Clarke,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.1,SC Ganguly,MJ Clarke,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.2,SC Ganguly,MJ Clarke,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.3,MJ Clarke,SC Ganguly,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.4,MJ Clarke,SC Ganguly,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.5,MJ Clarke,SC Ganguly,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,5.6,MJ Clarke,SC Ganguly,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.1,SC Ganguly,MJ Clarke,JP Duminy,0,1,1,wides,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.2,SC Ganguly,MJ Clarke,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.3,MJ Clarke,SC Ganguly,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.4,MJ Clarke,SC Ganguly,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.5,SC Ganguly,MJ Clarke,JP Duminy,0,1,1,wides,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.6,SC Ganguly,MJ Clarke,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.7,SC Ganguly,MJ Clarke,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,6.8,MJ Clarke,SC Ganguly,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.1,MJ Clarke,SC Ganguly,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.2,SC Ganguly,MJ Clarke,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.3,SC Ganguly,MJ Clarke,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.4,SC Ganguly,MJ Clarke,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.5,MJ Clarke,SC Ganguly,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,7.6,SC Ganguly,MJ Clarke,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.1,SC Ganguly,MJ Clarke,JP Duminy,0,1,1,wides,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.2,SC Ganguly,MJ Clarke,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.3,MJ Clarke,SC Ganguly,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.4,SC Ganguly,MJ Clarke,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.5,SC Ganguly,MJ Clarke,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.6,MJ Clarke,SC Ganguly,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,8.7,SC Ganguly,MJ Clarke,JP Duminy,6,0,6,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.1,MJ Clarke,SC Ganguly,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.2,SC Ganguly,MJ Clarke,A Mishra,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.3,SC Ganguly,MJ Clarke,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.4,SC Ganguly,MJ Clarke,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.5,MJ Clarke,SC Ganguly,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,9.6,MJ Clarke,SC Ganguly,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.1,SC Ganguly,MJ Clarke,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.2,SC Ganguly,MJ Clarke,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.3,SC Ganguly,MJ Clarke,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.4,MJ Clarke,SC Ganguly,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.5,SC Ganguly,MJ Clarke,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,10.6,MJ Clarke,SC Ganguly,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.1,SC Ganguly,MJ Clarke,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.2,SC Ganguly,MJ Clarke,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.3,MJ Clarke,SC Ganguly,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.4,MJ Clarke,SC Ganguly,V Pratap Singh,1,0,1,NA,1,run out,MJ Clarke,A Mishra,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.5,SPD Smith,SC Ganguly,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,11.6,SPD Smith,SC Ganguly,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.1,SPD Smith,SC Ganguly,S Dhawan,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.2,SPD Smith,SC Ganguly,S Dhawan,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.3,SC Ganguly,SPD Smith,S Dhawan,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.4,SC Ganguly,SPD Smith,S Dhawan,0,0,0,NA,1,caught,SC Ganguly,CL White,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.5,RV Uthappa,SPD Smith,S Dhawan,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,12.6,RV Uthappa,SPD Smith,S Dhawan,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.1,SPD Smith,RV Uthappa,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.2,SPD Smith,RV Uthappa,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.3,SPD Smith,RV Uthappa,A Mishra,6,0,6,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.4,SPD Smith,RV Uthappa,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.5,RV Uthappa,SPD Smith,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,13.6,SPD Smith,RV Uthappa,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.1,RV Uthappa,SPD Smith,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.2,SPD Smith,RV Uthappa,Ankit Sharma,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.3,SPD Smith,RV Uthappa,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.4,SPD Smith,RV Uthappa,Ankit Sharma,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.5,RV Uthappa,SPD Smith,Ankit Sharma,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,14.6,RV Uthappa,SPD Smith,Ankit Sharma,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.1,SPD Smith,RV Uthappa,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.2,SPD Smith,RV Uthappa,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.3,RV Uthappa,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.4,RV Uthappa,SPD Smith,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.5,SPD Smith,RV Uthappa,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,15.6,SPD Smith,RV Uthappa,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.1,SPD Smith,RV Uthappa,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.2,SPD Smith,RV Uthappa,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.3,RV Uthappa,SPD Smith,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.4,RV Uthappa,SPD Smith,A Ashish Reddy,1,1,2,noballs,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.5,SPD Smith,RV Uthappa,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.6,RV Uthappa,SPD Smith,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,16.7,SPD Smith,RV Uthappa,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.1,SPD Smith,RV Uthappa,DW Steyn,4,1,5,noballs,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.2,SPD Smith,RV Uthappa,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.3,RV Uthappa,SPD Smith,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.4,SPD Smith,RV Uthappa,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.5,SPD Smith,RV Uthappa,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.6,RV Uthappa,SPD Smith,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,17.7,RV Uthappa,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.1,SPD Smith,RV Uthappa,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.2,RV Uthappa,SPD Smith,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.3,RV Uthappa,SPD Smith,A Ashish Reddy,6,0,6,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.4,RV Uthappa,SPD Smith,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.5,RV Uthappa,SPD Smith,A Ashish Reddy,0,0,0,NA,1,caught,RV Uthappa,DJ Harris (sub),0
+548348,2nd innings,Pune Warriors,Deccan Chargers,18.6,SPD Smith,M Manhas,A Ashish Reddy,6,0,6,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.1,M Manhas,SPD Smith,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.2,M Manhas,SPD Smith,V Pratap Singh,6,0,6,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.3,M Manhas,SPD Smith,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.4,SPD Smith,M Manhas,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.5,M Manhas,SPD Smith,V Pratap Singh,0,0,0,NA,1,caught,M Manhas,KC Sangakkara,0
+548348,2nd innings,Pune Warriors,Deccan Chargers,19.6,MN Samuels,SPD Smith,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0

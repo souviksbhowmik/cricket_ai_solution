@@ -1,0 +1,232 @@
+{
+  "country_encoding": {
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "country_enc_map.pkl"
+    ]
+  },
+  "location_encoding": {
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "loc_enc_map.pkl",
+      "location_enc_map_for_batsman.pkl"
+    ]
+  },
+  "batsman_encoding": {
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "batsman_enc_map.pkl"
+    ]
+  },
+  "country_embedding_train_xy": {
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "country_emb_team_oh_train_x.pkl",
+      "country_emb_opponent_oh_train_x.pkl",
+      "country_emb_location_oh_train_x.pkl",
+      "country_emb_runs_scored_train_y.pkl"
+    ]
+  },
+  "country_embedding_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-03",
+    "files": [
+      "country_emb_team_oh_test_x.pkl",
+      "country_emb_opponent_oh_test_x.pkl",
+      "country_emb_location_oh_test_x.pkl",
+      "country_emb_runs_scored_test_y"
+    ]
+  },
+  "batsman_embedding_train_xy": {
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "batsman_emb_batsman_oh_train_x.pkl",
+      "batsman_emb_position_oh_train_x.pkl",
+      "batsman_emb_location_oh_train_x.pkl",
+      "batsman_emb_opponent_oh_train_x.pkl",
+      "batsman_emb_runs_scored_train_y.pkl"
+    ]
+  },
+  "batsman_embedding_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-03",
+    "files": [
+      "batsman_emb_batsman_oh_test_x.pkl",
+      "batsman_emb_position_oh_test_x.pkl",
+      "batsman_emb_location_oh_test_x.pkl",
+      "batsman_emb_opponent_oh_test_x.pkl",
+      "batsman_emb_runs_scored_test_y.pkl"
+    ]
+  },
+  "team_opponent_location_embedding": {
+    "train_metrics": [
+      3465.159423828125,
+      21.239791870117188,
+      45.79428482055664
+    ],
+    "test_metrics": [
+      3849.296875,
+      20.220317840576172,
+      47.77474594116211
+    ],
+    "info": "metrics is mse, mape, mae(best mape)",
+    "files": [
+      "group_encode_run_model.json",
+      "group_encode_run_model.h5",
+      "group_encode_model.json",
+      "group_encode_model.h5"
+    ]
+  },
+  "batsman_position_opponent_location_embedding": {
+    "train_metrics": [
+      578.4342651367188,
+      15.370896339416504
+    ],
+    "test_metrics": [
+      675.2092895507812,
+      16.728792190551758
+    ],
+    "info": "metrics is mse,mae(best mae)",
+    "files": [
+      "batsman_group_encode_run_model.json",
+      "batsman_group_encode_run_model.h5",
+      "batsman_group_encode_model.json",
+      "batsman_group_encode_model.h5"
+    ]
+  },
+  "first_innings_base_train_xy": {
+    "start_date": "2015-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "first_innings_base_train_x.pkl",
+      "first_innings_base_train_y.pkl",
+      "first_innings_base_columns.pkl"
+    ]
+  },
+  "first_innings_base_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-06",
+    "files": [
+      "first_innings_base_test_x.pkl",
+      "first_innings_base_test_y.pkl"
+    ]
+  },
+  "selected_first_innings_features": {
+    "train_metrics": [
+      19.306079719092487,
+      41.67732347373021,
+      2905.2528474813125
+    ],
+    "test_metrics": [
+      21.735221042742467,
+      44.35773894773367,
+      3315.753862395753
+    ],
+    "info": "metrics is mape,mae,mse - selected :['team_score', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
+    "files": [
+      "first_innings_selected_features.pkl",
+      "first_innings_model_base.pkl",
+      "first_innings_selected_colindex.pkl"
+    ]
+  },
+  "second_innings_base_train_xy": {
+    "start_date": "2015-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "second_innings_base_train_x.pkl",
+      "second_innings_base_train_y.pkl",
+      "second_innings_base_columns.pkl"
+    ]
+  },
+  "second_innings_base_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-06",
+    "files": [
+      "second_innings_base_test_x.pkl",
+      "second_innings_base_test_y.pkl"
+    ]
+  },
+  "first_innings_train_xy": {
+    "start_date": "2015-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "first_innings_train_x.pkl",
+      "first_innings_train_y.pkl"
+    ]
+  },
+  "first_innings_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-06",
+    "files": [
+      "first_innings_test_x.pkl",
+      "first_innings_test_y.pkl"
+    ]
+  },
+  "second_innings_train_xy": {
+    "start_date": "2015-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "second_innings_train_x.pkl",
+      "second_innings_train_y.pkl"
+    ]
+  },
+  "second_innings_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2021-01-06",
+    "files": [
+      "second_innings_test_x.pkl",
+      "second_innings_test_y.pkl"
+    ]
+  },
+  "first_innings_model": {
+    "train_metrics": [
+      16.75786739550114,
+      36.73267292823263,
+      2165.0836897542067
+    ],
+    "test_metrics": [
+      17.986606905068466,
+      44.52298139193796,
+      3420.174085013703
+    ],
+    "info": "metrics is mape,mae,mse - selected ",
+    "files": [
+      "first_innings_model.pkl"
+    ]
+  },
+  "selected_second_innings_features": {
+    "train_metrics": 0.8833746898263027,
+    "test_metrics": 0.8732394366197183,
+    "info": "metrics is accuracy - selected :['team_score', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'target_score']",
+    "files": [
+      "second_innings_selected_features.pkl",
+      "second_innings_model_base.pkl",
+      "second_innings_selected_colindex.pkl"
+    ]
+  },
+  "second_innings_model": {
+    "train_metrics": 0.8833746898263027,
+    "test_metrics": 0.831858407079646,
+    "info": "metrics is accuracy",
+    "files": [
+      "second_innings_model.pkl"
+    ]
+  },
+  "combined_validation_fie_True_sie_True": {
+    "train_metrics": 0,
+    "test_metrics": 0.8407079646017699,
+    "info": "2019-01-01_to_2020-12-31",
+    "files": []
+  },
+  "combined_validation_fie_True_sie_False": {
+    "train_metrics": 0,
+    "test_metrics": 0.8761061946902655,
+    "info": "2019-01-01_to_2020-12-31: first innings embedding - True: second innings embedding - False",
+    "files": []
+  }
+}

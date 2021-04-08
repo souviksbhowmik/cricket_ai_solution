@@ -1,0 +1,216 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.1,M Vijay,ML Hayden,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.2,M Vijay,ML Hayden,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.3,ML Hayden,M Vijay,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.4,ML Hayden,M Vijay,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.5,ML Hayden,M Vijay,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,0.6,M Vijay,ML Hayden,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.1,ML Hayden,M Vijay,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.2,ML Hayden,M Vijay,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.3,ML Hayden,M Vijay,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.4,ML Hayden,M Vijay,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.5,ML Hayden,M Vijay,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.6,ML Hayden,M Vijay,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,1.7,ML Hayden,M Vijay,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.1,M Vijay,ML Hayden,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.2,M Vijay,ML Hayden,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.3,M Vijay,ML Hayden,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.4,M Vijay,ML Hayden,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.5,ML Hayden,M Vijay,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,2.6,M Vijay,ML Hayden,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.1,ML Hayden,M Vijay,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.2,ML Hayden,M Vijay,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.3,ML Hayden,M Vijay,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.4,M Vijay,ML Hayden,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.5,M Vijay,ML Hayden,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,3.6,M Vijay,ML Hayden,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.1,ML Hayden,M Vijay,DR Smith,0,2,2,wides,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.2,M Vijay,ML Hayden,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.3,ML Hayden,M Vijay,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.4,ML Hayden,M Vijay,DR Smith,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.5,ML Hayden,M Vijay,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.6,M Vijay,ML Hayden,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,4.7,M Vijay,ML Hayden,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.1,M Vijay,ML Hayden,RG Sharma,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.2,ML Hayden,M Vijay,RG Sharma,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.3,ML Hayden,M Vijay,RG Sharma,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.4,ML Hayden,M Vijay,RG Sharma,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.5,ML Hayden,M Vijay,RG Sharma,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,5.6,ML Hayden,M Vijay,RG Sharma,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.1,ML Hayden,M Vijay,Shoaib Ahmed,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.2,ML Hayden,M Vijay,Shoaib Ahmed,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.3,ML Hayden,M Vijay,Shoaib Ahmed,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.4,ML Hayden,M Vijay,Shoaib Ahmed,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.5,ML Hayden,M Vijay,Shoaib Ahmed,0,0,0,NA,1,caught,ML Hayden,RP Singh,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,6.6,MS Dhoni,M Vijay,Shoaib Ahmed,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.1,M Vijay,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.2,MS Dhoni,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.3,M Vijay,MS Dhoni,PP Ojha,0,4,4,legbyes,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.4,M Vijay,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.5,MS Dhoni,M Vijay,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,7.6,MS Dhoni,M Vijay,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.1,M Vijay,MS Dhoni,DR Smith,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.2,M Vijay,MS Dhoni,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.3,M Vijay,MS Dhoni,DR Smith,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.4,M Vijay,MS Dhoni,DR Smith,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.5,M Vijay,MS Dhoni,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,8.6,MS Dhoni,M Vijay,DR Smith,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.1,MS Dhoni,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.2,M Vijay,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.3,MS Dhoni,M Vijay,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.4,MS Dhoni,M Vijay,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.5,MS Dhoni,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,9.6,M Vijay,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.1,M Vijay,MS Dhoni,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.2,MS Dhoni,M Vijay,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.3,M Vijay,MS Dhoni,TL Suman,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.4,M Vijay,MS Dhoni,TL Suman,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.5,M Vijay,MS Dhoni,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,10.6,MS Dhoni,M Vijay,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.1,MS Dhoni,M Vijay,PP Ojha,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.2,MS Dhoni,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.3,M Vijay,MS Dhoni,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.4,M Vijay,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.5,MS Dhoni,M Vijay,PP Ojha,0,1,1,wides,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.6,MS Dhoni,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,11.7,M Vijay,MS Dhoni,PP Ojha,0,1,1,legbyes,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.1,M Vijay,MS Dhoni,TL Suman,0,0,0,NA,1,caught,M Vijay,HH Gibbs,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.2,MS Dhoni,SK Raina,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.3,SK Raina,MS Dhoni,TL Suman,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.4,SK Raina,MS Dhoni,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.5,MS Dhoni,SK Raina,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,12.6,SK Raina,MS Dhoni,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.1,SK Raina,MS Dhoni,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.2,MS Dhoni,SK Raina,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.3,SK Raina,MS Dhoni,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.4,MS Dhoni,SK Raina,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.5,SK Raina,MS Dhoni,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,13.6,MS Dhoni,SK Raina,Shoaib Ahmed,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.1,MS Dhoni,SK Raina,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.2,SK Raina,MS Dhoni,TL Suman,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.3,SK Raina,MS Dhoni,TL Suman,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.4,SK Raina,MS Dhoni,TL Suman,6,0,6,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.5,SK Raina,MS Dhoni,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,14.6,MS Dhoni,SK Raina,TL Suman,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.1,MS Dhoni,SK Raina,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.2,SK Raina,MS Dhoni,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.3,SK Raina,MS Dhoni,PP Ojha,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.4,SK Raina,MS Dhoni,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.5,MS Dhoni,SK Raina,PP Ojha,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,15.6,SK Raina,MS Dhoni,PP Ojha,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.1,MS Dhoni,SK Raina,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.2,MS Dhoni,SK Raina,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.3,SK Raina,MS Dhoni,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.4,SK Raina,MS Dhoni,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.5,MS Dhoni,SK Raina,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,16.6,MS Dhoni,SK Raina,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.1,MS Dhoni,SK Raina,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.2,SK Raina,MS Dhoni,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.3,MS Dhoni,SK Raina,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.4,SK Raina,MS Dhoni,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.5,MS Dhoni,SK Raina,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,17.6,SK Raina,MS Dhoni,RP Singh,0,0,0,NA,1,caught,SK Raina,DR Smith,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.1,MS Dhoni,JA Morkel,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.2,JA Morkel,MS Dhoni,RJ Harris,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.3,JA Morkel,MS Dhoni,RJ Harris,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.4,MS Dhoni,JA Morkel,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.5,MS Dhoni,JA Morkel,RJ Harris,2,0,2,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,18.6,MS Dhoni,JA Morkel,RJ Harris,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.1,JA Morkel,MS Dhoni,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.2,JA Morkel,MS Dhoni,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.3,MS Dhoni,JA Morkel,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.4,MS Dhoni,JA Morkel,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.5,MS Dhoni,JA Morkel,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.6,MS Dhoni,JA Morkel,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+392209,1st innings,Chennai Super Kings,Deccan Chargers,19.7,JA Morkel,MS Dhoni,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.1,AC Gilchrist,HH Gibbs,JA Morkel,0,0,0,NA,1,lbw,AC Gilchrist,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.2,VVS Laxman,HH Gibbs,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.3,VVS Laxman,HH Gibbs,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.4,VVS Laxman,HH Gibbs,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.5,VVS Laxman,HH Gibbs,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,0.6,VVS Laxman,HH Gibbs,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.1,HH Gibbs,VVS Laxman,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.2,HH Gibbs,VVS Laxman,S Tyagi,0,1,1,wides,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.3,HH Gibbs,VVS Laxman,S Tyagi,0,0,0,NA,1,bowled,HH Gibbs,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.4,RG Sharma,VVS Laxman,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.5,RG Sharma,VVS Laxman,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.6,RG Sharma,VVS Laxman,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,1.7,RG Sharma,VVS Laxman,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.1,VVS Laxman,RG Sharma,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.2,VVS Laxman,RG Sharma,JA Morkel,0,0,0,NA,1,caught,VVS Laxman,SB Jakati,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.3,DR Smith,RG Sharma,JA Morkel,2,0,2,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.4,DR Smith,RG Sharma,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.5,DR Smith,RG Sharma,JA Morkel,2,0,2,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,2.6,DR Smith,RG Sharma,JA Morkel,2,0,2,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.1,RG Sharma,DR Smith,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.2,RG Sharma,DR Smith,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.3,RG Sharma,DR Smith,S Tyagi,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.4,RG Sharma,DR Smith,S Tyagi,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.5,DR Smith,RG Sharma,S Tyagi,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,3.6,DR Smith,RG Sharma,S Tyagi,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.1,DR Smith,RG Sharma,JA Morkel,0,1,1,noballs,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.2,DR Smith,RG Sharma,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.3,DR Smith,RG Sharma,JA Morkel,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.4,DR Smith,RG Sharma,JA Morkel,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.5,DR Smith,RG Sharma,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.6,DR Smith,RG Sharma,JA Morkel,0,1,1,byes,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,4.7,RG Sharma,DR Smith,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.1,RG Sharma,DR Smith,L Balaji,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.2,RG Sharma,DR Smith,L Balaji,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.3,RG Sharma,DR Smith,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.4,DR Smith,RG Sharma,L Balaji,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.5,DR Smith,RG Sharma,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,5.6,RG Sharma,DR Smith,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.1,DR Smith,RG Sharma,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.2,RG Sharma,DR Smith,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.3,DR Smith,RG Sharma,SB Jakati,6,0,6,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.4,DR Smith,RG Sharma,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.5,RG Sharma,DR Smith,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,6.6,DR Smith,RG Sharma,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.1,RG Sharma,DR Smith,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.2,DR Smith,RG Sharma,M Muralitharan,0,1,1,legbyes,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.3,RG Sharma,DR Smith,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.4,RG Sharma,DR Smith,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.5,DR Smith,RG Sharma,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,7.6,DR Smith,RG Sharma,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.1,RG Sharma,DR Smith,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.2,RG Sharma,DR Smith,SB Jakati,0,0,0,NA,1,caught,RG Sharma,S Badrinath,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.3,DR Smith,TL Suman,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.4,TL Suman,DR Smith,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.5,TL Suman,DR Smith,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,8.6,DR Smith,TL Suman,SB Jakati,0,0,0,NA,1,lbw,DR Smith,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.1,TL Suman,Y Venugopal Rao,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.2,TL Suman,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.3,Y Venugopal Rao,TL Suman,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.4,Y Venugopal Rao,TL Suman,M Muralitharan,0,1,1,wides,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.5,Y Venugopal Rao,TL Suman,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.6,TL Suman,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,9.7,Y Venugopal Rao,TL Suman,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.1,TL Suman,Y Venugopal Rao,SB Jakati,0,1,1,legbyes,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.2,Y Venugopal Rao,TL Suman,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.3,TL Suman,Y Venugopal Rao,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.4,Y Venugopal Rao,TL Suman,SB Jakati,0,0,0,NA,1,caught,Y Venugopal Rao,M Muralitharan,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.5,RJ Harris,TL Suman,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,10.6,TL Suman,RJ Harris,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.1,TL Suman,RJ Harris,SK Raina,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.2,TL Suman,RJ Harris,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.3,TL Suman,RJ Harris,SK Raina,2,0,2,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.4,TL Suman,RJ Harris,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.5,TL Suman,RJ Harris,SK Raina,4,0,4,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,11.6,TL Suman,RJ Harris,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.1,TL Suman,RJ Harris,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.2,RJ Harris,TL Suman,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.3,RJ Harris,TL Suman,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.4,RJ Harris,TL Suman,SB Jakati,0,0,0,NA,1,bowled,RJ Harris,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.5,RP Singh,TL Suman,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,12.6,RP Singh,TL Suman,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.1,RP Singh,TL Suman,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.2,TL Suman,RP Singh,M Muralitharan,0,1,1,legbyes,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.3,RP Singh,TL Suman,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.4,RP Singh,TL Suman,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.5,RP Singh,TL Suman,M Muralitharan,0,0,0,NA,1,caught,RP Singh,M Vijay,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,13.6,TL Suman,Shoaib Ahmed,M Muralitharan,0,0,0,NA,1,caught,TL Suman,M Vijay,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,14.1,Shoaib Ahmed,PP Ojha,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,14.2,Shoaib Ahmed,PP Ojha,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,14.3,PP Ojha,Shoaib Ahmed,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+392209,2nd innings,Deccan Chargers,Chennai Super Kings,14.4,PP Ojha,Shoaib Ahmed,SK Raina,0,0,0,NA,1,caught,PP Ojha,SB Jakati,0

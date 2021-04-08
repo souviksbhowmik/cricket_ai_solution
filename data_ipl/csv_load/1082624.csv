@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.1,AM Rahane,RA Tripathi,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.2,AM Rahane,RA Tripathi,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.3,RA Tripathi,AM Rahane,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.4,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.5,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.6,RA Tripathi,AM Rahane,AF Milne,0,1,1,wides,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,0.7,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.1,AM Rahane,RA Tripathi,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.2,RA Tripathi,AM Rahane,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.3,AM Rahane,RA Tripathi,S Badree,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.4,AM Rahane,RA Tripathi,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.5,AM Rahane,RA Tripathi,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,1.6,RA Tripathi,AM Rahane,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.1,AM Rahane,RA Tripathi,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.2,RA Tripathi,AM Rahane,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.3,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.4,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.5,RA Tripathi,AM Rahane,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,2.6,RA Tripathi,AM Rahane,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.1,AM Rahane,RA Tripathi,S Badree,0,0,0,NA,1,caught,AM Rahane,AF Milne,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.2,SPD Smith,RA Tripathi,S Badree,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.3,SPD Smith,RA Tripathi,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.4,RA Tripathi,SPD Smith,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.5,SPD Smith,RA Tripathi,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,3.6,SPD Smith,RA Tripathi,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.1,RA Tripathi,SPD Smith,S Aravind,6,0,6,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.2,RA Tripathi,SPD Smith,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.3,RA Tripathi,SPD Smith,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.4,RA Tripathi,SPD Smith,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.5,SPD Smith,RA Tripathi,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,4.6,SPD Smith,RA Tripathi,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.1,RA Tripathi,SPD Smith,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.2,RA Tripathi,SPD Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.3,SPD Smith,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.4,RA Tripathi,SPD Smith,YS Chahal,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.5,RA Tripathi,SPD Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,5.6,SPD Smith,RA Tripathi,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.1,SPD Smith,RA Tripathi,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.2,RA Tripathi,SPD Smith,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.3,SPD Smith,RA Tripathi,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.4,RA Tripathi,SPD Smith,P Negi,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.5,RA Tripathi,SPD Smith,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,6.6,SPD Smith,RA Tripathi,P Negi,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.1,RA Tripathi,SPD Smith,STR Binny,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.2,RA Tripathi,SPD Smith,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.3,SPD Smith,RA Tripathi,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.4,RA Tripathi,SPD Smith,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.5,SPD Smith,RA Tripathi,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,7.6,RA Tripathi,SPD Smith,STR Binny,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.1,SPD Smith,RA Tripathi,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.2,RA Tripathi,SPD Smith,P Negi,0,0,0,NA,1,caught,RA Tripathi,KM Jadhav,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.3,MK Tiwary,SPD Smith,P Negi,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.4,MK Tiwary,SPD Smith,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.5,MK Tiwary,SPD Smith,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,8.6,SPD Smith,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.1,MK Tiwary,SPD Smith,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.2,SPD Smith,MK Tiwary,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.3,SPD Smith,MK Tiwary,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.4,MK Tiwary,SPD Smith,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.5,SPD Smith,MK Tiwary,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,9.6,MK Tiwary,SPD Smith,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.1,SPD Smith,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.2,SPD Smith,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.3,SPD Smith,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.4,SPD Smith,MK Tiwary,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.5,MK Tiwary,SPD Smith,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,10.6,MK Tiwary,SPD Smith,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.1,MK Tiwary,SPD Smith,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.2,MK Tiwary,SPD Smith,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.3,SPD Smith,MK Tiwary,S Badree,6,0,6,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.4,SPD Smith,MK Tiwary,S Badree,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.5,SPD Smith,MK Tiwary,S Badree,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,11.6,SPD Smith,MK Tiwary,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.1,SPD Smith,MK Tiwary,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.2,MK Tiwary,SPD Smith,YS Chahal,6,0,6,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.3,MK Tiwary,SPD Smith,YS Chahal,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.4,MK Tiwary,SPD Smith,YS Chahal,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.5,SPD Smith,MK Tiwary,YS Chahal,3,0,3,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,12.6,MK Tiwary,SPD Smith,YS Chahal,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.1,SPD Smith,MK Tiwary,STR Binny,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.2,SPD Smith,MK Tiwary,STR Binny,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.3,SPD Smith,MK Tiwary,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.4,MK Tiwary,SPD Smith,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.5,SPD Smith,MK Tiwary,STR Binny,0,0,0,NA,1,caught,SPD Smith,AF Milne,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,13.6,MK Tiwary,MS Dhoni,STR Binny,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.1,MK Tiwary,MS Dhoni,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.2,MK Tiwary,MS Dhoni,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.3,MK Tiwary,MS Dhoni,P Negi,0,1,1,wides,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.4,MK Tiwary,MS Dhoni,P Negi,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.5,MS Dhoni,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.6,MS Dhoni,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,14.7,MS Dhoni,MK Tiwary,P Negi,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.1,MK Tiwary,MS Dhoni,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.2,MS Dhoni,MK Tiwary,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.3,MS Dhoni,MK Tiwary,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.4,MK Tiwary,MS Dhoni,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.5,MS Dhoni,MK Tiwary,S Badree,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,15.6,MS Dhoni,MK Tiwary,S Badree,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.1,MS Dhoni,MK Tiwary,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.2,MS Dhoni,MK Tiwary,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.3,MS Dhoni,MK Tiwary,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.4,MK Tiwary,MS Dhoni,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.5,MK Tiwary,MS Dhoni,AF Milne,0,1,1,wides,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.6,MK Tiwary,MS Dhoni,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,16.7,MK Tiwary,MS Dhoni,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.1,MS Dhoni,MK Tiwary,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.2,MK Tiwary,MS Dhoni,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.3,MS Dhoni,MK Tiwary,S Aravind,6,0,6,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.4,MS Dhoni,MK Tiwary,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.5,MK Tiwary,MS Dhoni,S Aravind,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,17.6,MK Tiwary,MS Dhoni,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.1,MK Tiwary,MS Dhoni,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.2,MS Dhoni,MK Tiwary,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.3,MK Tiwary,MS Dhoni,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.4,MK Tiwary,MS Dhoni,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.5,MK Tiwary,MS Dhoni,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,18.6,MK Tiwary,MS Dhoni,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.1,MS Dhoni,MK Tiwary,S Aravind,0,1,1,legbyes,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.2,MK Tiwary,MS Dhoni,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.3,MS Dhoni,MK Tiwary,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.4,MK Tiwary,MS Dhoni,S Aravind,4,0,4,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.5,MK Tiwary,MS Dhoni,S Aravind,1,0,1,NA,0,NA,NA,NA,1
+1082624,1st innings,Rising Pune Supergiant,Royal Challengers Bangalore,19.6,MS Dhoni,MK Tiwary,S Aravind,2,0,2,NA,0,NA,NA,NA,1
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.1,TM Head,V Kohli,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.2,V Kohli,TM Head,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.3,TM Head,V Kohli,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.4,TM Head,V Kohli,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.5,TM Head,V Kohli,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,0.6,V Kohli,TM Head,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.1,V Kohli,TM Head,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.2,V Kohli,TM Head,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.3,V Kohli,TM Head,JD Unadkat,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.4,V Kohli,TM Head,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.5,V Kohli,TM Head,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,1.6,TM Head,V Kohli,JD Unadkat,0,0,0,NA,1,bowled,TM Head,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.1,V Kohli,AB de Villiers,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.2,V Kohli,AB de Villiers,DL Chahar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.3,V Kohli,AB de Villiers,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.4,V Kohli,AB de Villiers,DL Chahar,4,0,4,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.5,V Kohli,AB de Villiers,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,2.6,AB de Villiers,V Kohli,DL Chahar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.1,AB de Villiers,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.2,AB de Villiers,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.3,AB de Villiers,V Kohli,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.4,V Kohli,AB de Villiers,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.5,AB de Villiers,V Kohli,JD Unadkat,0,1,1,legbyes,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,3.6,V Kohli,AB de Villiers,JD Unadkat,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.1,AB de Villiers,V Kohli,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.2,V Kohli,AB de Villiers,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.3,AB de Villiers,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.4,AB de Villiers,V Kohli,LH Ferguson,0,0,0,NA,1,caught,AB de Villiers,MK Tiwary,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.5,KM Jadhav,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.6,KM Jadhav,V Kohli,LH Ferguson,0,1,1,wides,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,4.7,KM Jadhav,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.1,V Kohli,KM Jadhav,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.2,V Kohli,KM Jadhav,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.3,KM Jadhav,V Kohli,DT Christian,4,0,4,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.4,KM Jadhav,V Kohli,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.5,KM Jadhav,V Kohli,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,5.6,KM Jadhav,V Kohli,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.1,KM Jadhav,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.2,KM Jadhav,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.3,V Kohli,KM Jadhav,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.4,V Kohli,KM Jadhav,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.5,KM Jadhav,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,6.6,V Kohli,KM Jadhav,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.1,V Kohli,KM Jadhav,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.2,KM Jadhav,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.3,KM Jadhav,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.4,KM Jadhav,V Kohli,LH Ferguson,0,0,0,NA,1,run out,KM Jadhav,LH Ferguson,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.5,Sachin Baby,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,7.6,Sachin Baby,V Kohli,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.1,Sachin Baby,V Kohli,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.2,V Kohli,Sachin Baby,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.3,V Kohli,Sachin Baby,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.4,Sachin Baby,V Kohli,Washington Sundar,0,0,0,NA,1,caught,Sachin Baby,SPD Smith,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.5,STR Binny,V Kohli,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,8.6,STR Binny,V Kohli,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.1,STR Binny,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.2,STR Binny,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.3,STR Binny,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.4,STR Binny,V Kohli,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.5,STR Binny,V Kohli,LH Ferguson,0,0,0,NA,1,caught,STR Binny,Washington Sundar,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,9.6,P Negi,V Kohli,LH Ferguson,0,1,1,legbyes,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.1,P Negi,V Kohli,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.2,V Kohli,P Negi,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.3,V Kohli,P Negi,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.4,P Negi,V Kohli,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.5,P Negi,V Kohli,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,10.6,V Kohli,P Negi,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.1,V Kohli,P Negi,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.2,V Kohli,P Negi,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.3,P Negi,V Kohli,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.4,P Negi,V Kohli,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.5,V Kohli,P Negi,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,11.6,V Kohli,P Negi,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.1,V Kohli,P Negi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.2,V Kohli,P Negi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.3,V Kohli,P Negi,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.4,P Negi,V Kohli,Imran Tahir,0,0,0,NA,1,caught,P Negi,DT Christian,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.5,AF Milne,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,12.6,AF Milne,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.1,V Kohli,AF Milne,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.2,AF Milne,V Kohli,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.3,V Kohli,AF Milne,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.4,V Kohli,AF Milne,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.5,AF Milne,V Kohli,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,13.6,V Kohli,AF Milne,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.1,V Kohli,AF Milne,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.2,AF Milne,V Kohli,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.3,AF Milne,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.4,AF Milne,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.5,V Kohli,AF Milne,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,14.6,AF Milne,V Kohli,Imran Tahir,0,0,0,NA,1,caught,AF Milne,SPD Smith,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.1,V Kohli,S Badree,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.2,S Badree,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.3,S Badree,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.4,S Badree,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.5,S Badree,V Kohli,JD Unadkat,0,1,1,wides,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.6,S Badree,V Kohli,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,15.7,S Badree,V Kohli,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.1,S Badree,V Kohli,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.2,V Kohli,S Badree,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.3,V Kohli,S Badree,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.4,V Kohli,S Badree,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.5,S Badree,V Kohli,Imran Tahir,0,0,0,NA,1,bowled,S Badree,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,16.6,S Aravind,V Kohli,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.1,V Kohli,S Aravind,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.2,V Kohli,S Aravind,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.3,V Kohli,S Aravind,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.4,V Kohli,S Aravind,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.5,V Kohli,S Aravind,DT Christian,0,0,0,NA,1,caught,V Kohli,MA Agarwal (sub),0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,17.6,S Aravind,YS Chahal,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.1,YS Chahal,S Aravind,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.2,YS Chahal,S Aravind,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.3,YS Chahal,S Aravind,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.4,YS Chahal,S Aravind,LH Ferguson,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.5,YS Chahal,S Aravind,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,18.6,S Aravind,YS Chahal,LH Ferguson,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.1,S Aravind,YS Chahal,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.2,YS Chahal,S Aravind,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.3,YS Chahal,S Aravind,DT Christian,2,0,2,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.4,YS Chahal,S Aravind,DT Christian,0,0,0,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.5,YS Chahal,S Aravind,DT Christian,1,0,1,NA,0,NA,NA,NA,0
+1082624,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,19.6,S Aravind,YS Chahal,DT Christian,4,0,4,NA,0,NA,NA,NA,0

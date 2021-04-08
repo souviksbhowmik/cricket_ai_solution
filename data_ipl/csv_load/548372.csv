@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.1,CH Gayle,TM Dilshan,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.2,TM Dilshan,CH Gayle,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.3,TM Dilshan,CH Gayle,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.4,TM Dilshan,CH Gayle,IK Pathan,2,0,2,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.5,TM Dilshan,CH Gayle,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,0.6,TM Dilshan,CH Gayle,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.1,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.2,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.3,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.4,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.5,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,1.6,CH Gayle,TM Dilshan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.1,TM Dilshan,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.2,TM Dilshan,CH Gayle,VR Aaron,0,0,0,NA,1,caught,TM Dilshan,IK Pathan,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.3,CH Gayle,V Kohli,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.4,CH Gayle,V Kohli,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.5,CH Gayle,V Kohli,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,2.6,CH Gayle,V Kohli,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.1,V Kohli,CH Gayle,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.2,V Kohli,CH Gayle,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.3,V Kohli,CH Gayle,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.4,V Kohli,CH Gayle,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.5,V Kohli,CH Gayle,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,3.6,CH Gayle,V Kohli,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.1,V Kohli,CH Gayle,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.2,V Kohli,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.3,V Kohli,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.4,V Kohli,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.5,V Kohli,CH Gayle,VR Aaron,0,1,1,wides,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.6,V Kohli,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,4.7,V Kohli,CH Gayle,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.1,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.2,CH Gayle,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.3,V Kohli,CH Gayle,AD Russell,0,1,1,noballs,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.4,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.5,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.6,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,5.7,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.1,V Kohli,CH Gayle,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.2,V Kohli,CH Gayle,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.3,CH Gayle,V Kohli,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.4,CH Gayle,V Kohli,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.5,V Kohli,CH Gayle,IK Pathan,2,0,2,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,6.6,V Kohli,CH Gayle,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.1,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.2,CH Gayle,V Kohli,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.3,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.4,CH Gayle,V Kohli,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.5,CH Gayle,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,7.6,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.1,V Kohli,CH Gayle,P Negi,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.2,V Kohli,CH Gayle,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.3,CH Gayle,V Kohli,P Negi,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.4,CH Gayle,V Kohli,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.5,V Kohli,CH Gayle,P Negi,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,8.6,V Kohli,CH Gayle,P Negi,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.1,CH Gayle,V Kohli,Y Venugopal Rao,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.2,CH Gayle,V Kohli,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.3,V Kohli,CH Gayle,Y Venugopal Rao,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.4,V Kohli,CH Gayle,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.5,CH Gayle,V Kohli,Y Venugopal Rao,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,9.6,CH Gayle,V Kohli,Y Venugopal Rao,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.1,CH Gayle,V Kohli,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.2,V Kohli,CH Gayle,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.3,V Kohli,CH Gayle,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.4,CH Gayle,V Kohli,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.5,CH Gayle,V Kohli,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,10.6,V Kohli,CH Gayle,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.1,V Kohli,CH Gayle,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.2,CH Gayle,V Kohli,P Negi,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.3,CH Gayle,V Kohli,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.4,V Kohli,CH Gayle,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.5,CH Gayle,V Kohli,P Negi,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,11.6,CH Gayle,V Kohli,P Negi,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.1,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.2,CH Gayle,V Kohli,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.3,CH Gayle,V Kohli,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.4,CH Gayle,V Kohli,AD Russell,2,0,2,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.5,CH Gayle,V Kohli,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,12.6,CH Gayle,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.1,CH Gayle,V Kohli,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.2,V Kohli,CH Gayle,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.3,CH Gayle,V Kohli,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.4,CH Gayle,V Kohli,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.5,CH Gayle,V Kohli,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,13.6,CH Gayle,V Kohli,IK Pathan,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.1,V Kohli,CH Gayle,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.2,CH Gayle,V Kohli,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.3,V Kohli,CH Gayle,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.4,V Kohli,CH Gayle,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.5,CH Gayle,V Kohli,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,14.6,V Kohli,CH Gayle,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.1,V Kohli,CH Gayle,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.2,CH Gayle,V Kohli,P Negi,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.3,CH Gayle,V Kohli,P Negi,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.4,CH Gayle,V Kohli,P Negi,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.5,CH Gayle,V Kohli,P Negi,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,15.6,V Kohli,CH Gayle,P Negi,2,0,2,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.1,CH Gayle,V Kohli,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.2,V Kohli,CH Gayle,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.3,CH Gayle,V Kohli,UT Yadav,6,1,7,noballs,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.4,CH Gayle,V Kohli,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.5,CH Gayle,V Kohli,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.6,V Kohli,CH Gayle,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,16.7,V Kohli,CH Gayle,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.1,V Kohli,CH Gayle,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.2,V Kohli,CH Gayle,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.3,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.4,CH Gayle,V Kohli,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.5,CH Gayle,V Kohli,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,17.6,V Kohli,CH Gayle,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.1,V Kohli,CH Gayle,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.2,CH Gayle,V Kohli,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.3,V Kohli,CH Gayle,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.4,V Kohli,CH Gayle,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.5,V Kohli,CH Gayle,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.6,V Kohli,CH Gayle,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,18.7,V Kohli,CH Gayle,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.1,V Kohli,CH Gayle,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.2,CH Gayle,V Kohli,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.3,CH Gayle,V Kohli,VR Aaron,6,0,6,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.4,CH Gayle,V Kohli,VR Aaron,1,0,1,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.5,V Kohli,CH Gayle,VR Aaron,4,0,4,NA,0,NA,NA,NA,1
+548372,1st innings,Royal Challengers Bangalore,Delhi Daredevils,19.6,V Kohli,CH Gayle,VR Aaron,0,0,0,NA,0,NA,NA,NA,1
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.1,UBT Chand,DA Warner,TM Dilshan,0,1,1,wides,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.2,UBT Chand,DA Warner,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.3,DA Warner,UBT Chand,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.4,DA Warner,UBT Chand,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.5,DA Warner,UBT Chand,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.6,DA Warner,UBT Chand,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,0.7,DA Warner,UBT Chand,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.1,DA Warner,UBT Chand,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.2,DA Warner,UBT Chand,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.3,DA Warner,UBT Chand,Z Khan,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.4,DA Warner,UBT Chand,Z Khan,0,0,0,NA,1,caught,DA Warner,R Vinay Kumar,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.5,Y Venugopal Rao,UBT Chand,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,1.6,UBT Chand,Y Venugopal Rao,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.1,Y Venugopal Rao,UBT Chand,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.2,Y Venugopal Rao,UBT Chand,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.3,Y Venugopal Rao,UBT Chand,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.4,UBT Chand,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.5,UBT Chand,Y Venugopal Rao,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,2.6,Y Venugopal Rao,UBT Chand,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.1,UBT Chand,Y Venugopal Rao,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.2,UBT Chand,Y Venugopal Rao,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.3,Y Venugopal Rao,UBT Chand,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.4,Y Venugopal Rao,UBT Chand,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.5,UBT Chand,Y Venugopal Rao,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,3.6,UBT Chand,Y Venugopal Rao,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.1,UBT Chand,Y Venugopal Rao,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.2,UBT Chand,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,1,caught,UBT Chand,HV Patel,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.3,DPMD Jayawardene,Y Venugopal Rao,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.4,Y Venugopal Rao,DPMD Jayawardene,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.5,DPMD Jayawardene,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,4.6,DPMD Jayawardene,Y Venugopal Rao,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.1,Y Venugopal Rao,DPMD Jayawardene,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.2,Y Venugopal Rao,DPMD Jayawardene,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.3,DPMD Jayawardene,Y Venugopal Rao,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.4,Y Venugopal Rao,DPMD Jayawardene,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.5,DPMD Jayawardene,Y Venugopal Rao,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,5.6,DPMD Jayawardene,Y Venugopal Rao,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.1,DPMD Jayawardene,Y Venugopal Rao,M Muralitharan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.2,DPMD Jayawardene,Y Venugopal Rao,M Muralitharan,2,0,2,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.3,DPMD Jayawardene,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.4,Y Venugopal Rao,DPMD Jayawardene,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.5,Y Venugopal Rao,DPMD Jayawardene,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,6.6,DPMD Jayawardene,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.1,DPMD Jayawardene,Y Venugopal Rao,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.2,Y Venugopal Rao,DPMD Jayawardene,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.3,Y Venugopal Rao,DPMD Jayawardene,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.4,DPMD Jayawardene,Y Venugopal Rao,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.5,DPMD Jayawardene,Y Venugopal Rao,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,7.6,Y Venugopal Rao,DPMD Jayawardene,HV Patel,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.1,DPMD Jayawardene,Y Venugopal Rao,P Parameswaran,0,0,0,NA,1,caught,DPMD Jayawardene,AB de Villiers,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.2,LRPL Taylor,Y Venugopal Rao,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.3,LRPL Taylor,Y Venugopal Rao,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.4,LRPL Taylor,Y Venugopal Rao,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.5,LRPL Taylor,Y Venugopal Rao,P Parameswaran,5,0,5,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,8.6,Y Venugopal Rao,LRPL Taylor,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.1,LRPL Taylor,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.2,Y Venugopal Rao,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.3,LRPL Taylor,Y Venugopal Rao,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.4,Y Venugopal Rao,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.5,LRPL Taylor,Y Venugopal Rao,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,9.6,LRPL Taylor,Y Venugopal Rao,M Muralitharan,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.1,Y Venugopal Rao,LRPL Taylor,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.2,LRPL Taylor,Y Venugopal Rao,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.3,Y Venugopal Rao,LRPL Taylor,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.4,LRPL Taylor,Y Venugopal Rao,P Parameswaran,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.5,LRPL Taylor,Y Venugopal Rao,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,10.6,Y Venugopal Rao,LRPL Taylor,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.1,Y Venugopal Rao,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.2,LRPL Taylor,Y Venugopal Rao,M Muralitharan,0,1,1,legbyes,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.3,Y Venugopal Rao,LRPL Taylor,M Muralitharan,0,0,0,NA,1,caught,Y Venugopal Rao,HV Patel,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.4,LRPL Taylor,NV Ojha,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.5,LRPL Taylor,NV Ojha,M Muralitharan,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,11.6,LRPL Taylor,NV Ojha,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.1,LRPL Taylor,NV Ojha,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.2,NV Ojha,LRPL Taylor,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.3,NV Ojha,LRPL Taylor,HV Patel,2,0,2,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.4,NV Ojha,LRPL Taylor,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.5,LRPL Taylor,NV Ojha,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,12.6,LRPL Taylor,NV Ojha,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.1,LRPL Taylor,NV Ojha,M Muralitharan,0,2,2,legbyes,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.2,LRPL Taylor,NV Ojha,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.3,NV Ojha,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.4,LRPL Taylor,NV Ojha,M Muralitharan,0,1,1,wides,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.5,LRPL Taylor,NV Ojha,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.6,NV Ojha,LRPL Taylor,M Muralitharan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,13.7,LRPL Taylor,NV Ojha,M Muralitharan,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.1,NV Ojha,LRPL Taylor,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.2,LRPL Taylor,NV Ojha,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.3,LRPL Taylor,NV Ojha,HV Patel,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.4,LRPL Taylor,NV Ojha,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.5,NV Ojha,LRPL Taylor,HV Patel,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,14.6,NV Ojha,LRPL Taylor,HV Patel,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.1,NV Ojha,LRPL Taylor,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.2,NV Ojha,LRPL Taylor,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.3,NV Ojha,LRPL Taylor,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.4,NV Ojha,LRPL Taylor,Z Khan,0,0,0,NA,1,caught,NV Ojha,SS Tiwary,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.5,AD Russell,LRPL Taylor,Z Khan,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,15.6,AD Russell,LRPL Taylor,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.1,AD Russell,LRPL Taylor,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.2,LRPL Taylor,AD Russell,R Vinay Kumar,0,0,0,NA,1,caught,LRPL Taylor,MA Agarwal,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.3,AD Russell,IK Pathan,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.4,AD Russell,IK Pathan,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.5,IK Pathan,AD Russell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,16.6,AD Russell,IK Pathan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.1,IK Pathan,AD Russell,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.2,AD Russell,IK Pathan,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.3,AD Russell,IK Pathan,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.4,IK Pathan,AD Russell,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.5,IK Pathan,AD Russell,Z Khan,0,0,0,NA,1,caught,IK Pathan,TM Dilshan,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,17.6,AD Russell,P Negi,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.1,AD Russell,P Negi,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.2,P Negi,AD Russell,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.3,P Negi,AD Russell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.4,P Negi,AD Russell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.5,AD Russell,P Negi,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.6,AD Russell,P Negi,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,18.7,AD Russell,P Negi,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.1,AD Russell,P Negi,P Parameswaran,6,0,6,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.2,AD Russell,P Negi,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.3,AD Russell,P Negi,P Parameswaran,0,0,0,NA,1,caught,AD Russell,V Kohli,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.4,P Negi,UT Yadav,P Parameswaran,0,1,1,wides,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.5,P Negi,UT Yadav,P Parameswaran,1,0,1,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.6,UT Yadav,P Negi,P Parameswaran,0,0,0,NA,0,NA,NA,NA,0
+548372,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,19.7,UT Yadav,P Negi,P Parameswaran,0,0,0,NA,1,caught,UT Yadav,SS Tiwary,0

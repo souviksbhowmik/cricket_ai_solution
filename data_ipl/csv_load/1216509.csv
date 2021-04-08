@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.1,SM Curran,F du Plessis,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.2,SM Curran,F du Plessis,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.3,SM Curran,F du Plessis,TU Deshpande,0,0,0,NA,1,caught,SM Curran,A Nortje,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.4,F du Plessis,SR Watson,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.5,F du Plessis,SR Watson,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,0.6,F du Plessis,SR Watson,TU Deshpande,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.1,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.2,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.3,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.4,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.5,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,1.6,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.1,F du Plessis,SR Watson,TU Deshpande,0,1,1,wides,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.2,F du Plessis,SR Watson,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.3,F du Plessis,SR Watson,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.4,F du Plessis,SR Watson,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.5,SR Watson,F du Plessis,TU Deshpande,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.6,SR Watson,F du Plessis,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,2.7,SR Watson,F du Plessis,TU Deshpande,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.1,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.2,SR Watson,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.3,F du Plessis,SR Watson,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.4,F du Plessis,SR Watson,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.5,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,3.6,SR Watson,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.1,F du Plessis,SR Watson,A Nortje,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.2,F du Plessis,SR Watson,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.3,F du Plessis,SR Watson,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.4,F du Plessis,SR Watson,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.5,F du Plessis,SR Watson,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,4.6,F du Plessis,SR Watson,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.1,SR Watson,F du Plessis,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.2,SR Watson,F du Plessis,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.3,F du Plessis,SR Watson,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.4,F du Plessis,SR Watson,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.5,F du Plessis,SR Watson,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,5.6,SR Watson,F du Plessis,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.1,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.2,SR Watson,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.3,F du Plessis,SR Watson,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.4,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.5,SR Watson,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,6.6,SR Watson,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.1,SR Watson,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.2,F du Plessis,SR Watson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.3,F du Plessis,SR Watson,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.4,SR Watson,F du Plessis,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.5,F du Plessis,SR Watson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,7.6,F du Plessis,SR Watson,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.1,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.2,SR Watson,F du Plessis,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.3,SR Watson,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.4,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.5,SR Watson,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,8.6,F du Plessis,SR Watson,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.1,F du Plessis,SR Watson,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.2,F du Plessis,SR Watson,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.3,F du Plessis,SR Watson,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.4,SR Watson,F du Plessis,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.5,SR Watson,F du Plessis,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,9.6,SR Watson,F du Plessis,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.1,F du Plessis,SR Watson,TU Deshpande,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.2,F du Plessis,SR Watson,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.3,SR Watson,F du Plessis,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.4,F du Plessis,SR Watson,TU Deshpande,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.5,F du Plessis,SR Watson,TU Deshpande,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,10.6,F du Plessis,SR Watson,TU Deshpande,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.1,SR Watson,F du Plessis,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.2,F du Plessis,SR Watson,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.3,F du Plessis,SR Watson,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.4,SR Watson,F du Plessis,A Nortje,0,0,0,NA,1,bowled,SR Watson,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.5,AT Rayudu,F du Plessis,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,11.6,AT Rayudu,F du Plessis,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.1,F du Plessis,AT Rayudu,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.2,AT Rayudu,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.3,F du Plessis,AT Rayudu,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.4,AT Rayudu,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.5,F du Plessis,AT Rayudu,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,12.6,AT Rayudu,F du Plessis,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.1,F du Plessis,AT Rayudu,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.2,AT Rayudu,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.3,AT Rayudu,F du Plessis,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.4,AT Rayudu,F du Plessis,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.5,AT Rayudu,F du Plessis,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,13.6,AT Rayudu,F du Plessis,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.1,F du Plessis,AT Rayudu,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.2,F du Plessis,AT Rayudu,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.3,F du Plessis,AT Rayudu,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.4,F du Plessis,AT Rayudu,K Rabada,0,0,0,NA,1,caught,F du Plessis,S Dhawan,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.5,AT Rayudu,MS Dhoni,K Rabada,0,1,1,noballs,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.6,AT Rayudu,MS Dhoni,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,14.7,MS Dhoni,AT Rayudu,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.1,MS Dhoni,AT Rayudu,MP Stoinis,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.2,MS Dhoni,AT Rayudu,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.3,AT Rayudu,MS Dhoni,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.4,MS Dhoni,AT Rayudu,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.5,AT Rayudu,MS Dhoni,MP Stoinis,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,15.6,AT Rayudu,MS Dhoni,MP Stoinis,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.1,AT Rayudu,MS Dhoni,A Nortje,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.2,AT Rayudu,MS Dhoni,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.3,MS Dhoni,AT Rayudu,A Nortje,0,0,0,NA,1,caught,MS Dhoni,AT Carey,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.4,RA Jadeja,AT Rayudu,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.5,RA Jadeja,AT Rayudu,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,16.6,AT Rayudu,RA Jadeja,A Nortje,4,0,4,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.1,RA Jadeja,AT Rayudu,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.2,AT Rayudu,RA Jadeja,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.3,RA Jadeja,AT Rayudu,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.4,AT Rayudu,RA Jadeja,TU Deshpande,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.5,RA Jadeja,AT Rayudu,TU Deshpande,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.6,RA Jadeja,AT Rayudu,TU Deshpande,0,1,1,wides,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,17.7,RA Jadeja,AT Rayudu,TU Deshpande,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.1,AT Rayudu,RA Jadeja,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.2,AT Rayudu,RA Jadeja,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.3,RA Jadeja,AT Rayudu,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.4,AT Rayudu,RA Jadeja,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.5,AT Rayudu,RA Jadeja,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.6,AT Rayudu,RA Jadeja,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,18.7,RA Jadeja,AT Rayudu,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.1,AT Rayudu,RA Jadeja,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.2,RA Jadeja,AT Rayudu,A Nortje,0,0,0,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.3,RA Jadeja,AT Rayudu,A Nortje,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.4,RA Jadeja,AT Rayudu,A Nortje,6,0,6,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.5,RA Jadeja,AT Rayudu,A Nortje,2,0,2,NA,0,NA,NA,NA,0
+1216509,1st innings,Chennai Super Kings,Delhi Capitals,19.6,RA Jadeja,AT Rayudu,A Nortje,1,0,1,NA,0,NA,NA,NA,0
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.1,PP Shaw,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.2,PP Shaw,S Dhawan,DL Chahar,0,0,0,NA,1,caught and bowled,PP Shaw,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.3,AM Rahane,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.4,AM Rahane,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.5,AM Rahane,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,0.6,AM Rahane,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.1,S Dhawan,AM Rahane,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.2,S Dhawan,AM Rahane,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.3,S Dhawan,AM Rahane,SM Curran,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.4,S Dhawan,AM Rahane,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.5,S Dhawan,AM Rahane,SM Curran,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,1.6,S Dhawan,AM Rahane,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.1,AM Rahane,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.2,S Dhawan,AM Rahane,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.3,AM Rahane,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.4,S Dhawan,AM Rahane,DL Chahar,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.5,S Dhawan,AM Rahane,DL Chahar,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,2.6,S Dhawan,AM Rahane,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.1,S Dhawan,AM Rahane,SN Thakur,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.2,S Dhawan,AM Rahane,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.3,AM Rahane,S Dhawan,SN Thakur,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.4,AM Rahane,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.5,S Dhawan,AM Rahane,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,3.6,AM Rahane,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.1,AM Rahane,S Dhawan,DL Chahar,0,0,0,NA,1,caught,AM Rahane,SM Curran,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.2,SS Iyer,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.3,SS Iyer,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.4,S Dhawan,SS Iyer,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.5,SS Iyer,S Dhawan,DL Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,4.6,SS Iyer,S Dhawan,DL Chahar,0,1,1,legbyes,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.1,SS Iyer,S Dhawan,SN Thakur,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.2,SS Iyer,S Dhawan,SN Thakur,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.3,SS Iyer,S Dhawan,SN Thakur,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.4,SS Iyer,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.5,S Dhawan,SS Iyer,SN Thakur,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,5.6,S Dhawan,SS Iyer,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.1,S Dhawan,SS Iyer,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.2,SS Iyer,S Dhawan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.3,S Dhawan,SS Iyer,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.4,S Dhawan,SS Iyer,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.5,S Dhawan,SS Iyer,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,6.6,S Dhawan,SS Iyer,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.1,S Dhawan,SS Iyer,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.2,SS Iyer,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.3,S Dhawan,SS Iyer,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.4,SS Iyer,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.5,S Dhawan,SS Iyer,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,7.6,SS Iyer,S Dhawan,DL Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.1,SS Iyer,S Dhawan,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.2,S Dhawan,SS Iyer,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.3,S Dhawan,SS Iyer,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.4,S Dhawan,SS Iyer,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.5,SS Iyer,S Dhawan,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,8.6,SS Iyer,S Dhawan,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.1,S Dhawan,SS Iyer,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.2,S Dhawan,SS Iyer,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.3,SS Iyer,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.4,S Dhawan,SS Iyer,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.5,SS Iyer,S Dhawan,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.6,SS Iyer,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,9.7,S Dhawan,SS Iyer,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.1,S Dhawan,SS Iyer,SM Curran,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.2,S Dhawan,SS Iyer,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.3,SS Iyer,S Dhawan,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.4,S Dhawan,SS Iyer,SM Curran,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.5,S Dhawan,SS Iyer,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,10.6,SS Iyer,S Dhawan,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.1,SS Iyer,S Dhawan,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.2,SS Iyer,S Dhawan,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.3,SS Iyer,S Dhawan,DJ Bravo,0,0,0,NA,1,caught,SS Iyer,F du Plessis,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.4,S Dhawan,MP Stoinis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.5,MP Stoinis,S Dhawan,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,11.6,MP Stoinis,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.1,MP Stoinis,S Dhawan,KV Sharma,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.2,MP Stoinis,S Dhawan,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.3,S Dhawan,MP Stoinis,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.4,MP Stoinis,S Dhawan,KV Sharma,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.5,MP Stoinis,S Dhawan,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,12.6,MP Stoinis,S Dhawan,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.1,MP Stoinis,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.2,S Dhawan,MP Stoinis,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.3,S Dhawan,MP Stoinis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.4,MP Stoinis,S Dhawan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.5,S Dhawan,MP Stoinis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,13.6,S Dhawan,MP Stoinis,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.1,MP Stoinis,S Dhawan,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.2,S Dhawan,MP Stoinis,KV Sharma,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.3,S Dhawan,MP Stoinis,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.4,MP Stoinis,S Dhawan,KV Sharma,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.5,S Dhawan,MP Stoinis,KV Sharma,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,14.6,S Dhawan,MP Stoinis,KV Sharma,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.1,MP Stoinis,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.2,S Dhawan,MP Stoinis,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.3,MP Stoinis,S Dhawan,SN Thakur,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.4,MP Stoinis,S Dhawan,SN Thakur,0,0,0,NA,1,caught,MP Stoinis,AT Rayudu,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.5,S Dhawan,AT Carey,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,15.6,AT Carey,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.1,AT Carey,S Dhawan,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.2,AT Carey,S Dhawan,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.3,S Dhawan,AT Carey,SM Curran,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.4,S Dhawan,AT Carey,SM Curran,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.5,S Dhawan,AT Carey,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,16.6,S Dhawan,AT Carey,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.1,AT Carey,S Dhawan,SN Thakur,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.2,AT Carey,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.3,S Dhawan,AT Carey,SN Thakur,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.4,S Dhawan,AT Carey,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.5,AT Carey,S Dhawan,SN Thakur,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,17.6,S Dhawan,AT Carey,SN Thakur,4,0,4,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.1,AT Carey,S Dhawan,SM Curran,0,0,0,NA,1,caught,AT Carey,F du Plessis,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.2,S Dhawan,AR Patel,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.3,S Dhawan,AR Patel,SM Curran,0,1,1,wides,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.4,S Dhawan,AR Patel,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.5,AR Patel,S Dhawan,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.6,S Dhawan,AR Patel,SM Curran,0,0,0,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,18.7,S Dhawan,AR Patel,SM Curran,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.1,S Dhawan,AR Patel,RA Jadeja,0,1,1,wides,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.2,S Dhawan,AR Patel,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.3,AR Patel,S Dhawan,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.4,AR Patel,S Dhawan,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.5,AR Patel,S Dhawan,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+1216509,2nd innings,Delhi Capitals,Chennai Super Kings,19.6,AR Patel,S Dhawan,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1

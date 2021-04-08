@@ -1,0 +1,248 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.1,S Dhawan,PA Reddy,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.2,S Dhawan,PA Reddy,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.3,S Dhawan,PA Reddy,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.4,PA Reddy,S Dhawan,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.5,PA Reddy,S Dhawan,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,0.6,S Dhawan,PA Reddy,Z Khan,0,0,0,NA,1,bowled,S Dhawan,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.1,PA Reddy,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.2,KC Sangakkara,PA Reddy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.3,KC Sangakkara,PA Reddy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.4,KC Sangakkara,PA Reddy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.5,PA Reddy,KC Sangakkara,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,1.6,PA Reddy,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.1,KC Sangakkara,PA Reddy,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.2,PA Reddy,KC Sangakkara,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.3,PA Reddy,KC Sangakkara,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.4,PA Reddy,KC Sangakkara,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.5,KC Sangakkara,PA Reddy,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,2.6,KC Sangakkara,PA Reddy,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.1,PA Reddy,KC Sangakkara,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.2,PA Reddy,KC Sangakkara,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.3,PA Reddy,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.4,PA Reddy,KC Sangakkara,R Vinay Kumar,0,0,0,NA,1,caught,PA Reddy,AB de Villiers,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.5,CL White,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.6,CL White,KC Sangakkara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,3.7,CL White,KC Sangakkara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.1,CL White,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.2,CL White,KC Sangakkara,P Parameswaran,0,0,0,NA,1,caught,CL White,MA Agarwal,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.3,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.4,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.5,JP Duminy,KC Sangakkara,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,4.6,KC Sangakkara,JP Duminy,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.1,JP Duminy,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.2,JP Duminy,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.3,KC Sangakkara,JP Duminy,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.4,KC Sangakkara,JP Duminy,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.5,KC Sangakkara,JP Duminy,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,5.6,JP Duminy,KC Sangakkara,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.1,KC Sangakkara,JP Duminy,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.2,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.3,JP Duminy,KC Sangakkara,P Parameswaran,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.4,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.5,JP Duminy,KC Sangakkara,P Parameswaran,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,6.6,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.1,KC Sangakkara,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.2,JP Duminy,KC Sangakkara,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.3,JP Duminy,KC Sangakkara,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.4,KC Sangakkara,JP Duminy,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.5,KC Sangakkara,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,7.6,JP Duminy,KC Sangakkara,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.1,KC Sangakkara,JP Duminy,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.2,KC Sangakkara,JP Duminy,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.3,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.4,JP Duminy,KC Sangakkara,P Parameswaran,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.5,JP Duminy,KC Sangakkara,P Parameswaran,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,8.6,JP Duminy,KC Sangakkara,P Parameswaran,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.1,JP Duminy,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.2,KC Sangakkara,JP Duminy,M Muralitharan,0,1,1,wides,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.3,KC Sangakkara,JP Duminy,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.4,KC Sangakkara,JP Duminy,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.5,JP Duminy,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.6,KC Sangakkara,JP Duminy,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,9.7,JP Duminy,KC Sangakkara,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.1,JP Duminy,KC Sangakkara,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.2,JP Duminy,KC Sangakkara,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.3,KC Sangakkara,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.4,JP Duminy,KC Sangakkara,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.5,KC Sangakkara,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,10.6,JP Duminy,KC Sangakkara,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.1,KC Sangakkara,JP Duminy,M Muralitharan,0,0,0,NA,1,caught,KC Sangakkara,R Vinay Kumar,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.2,PA Patel,JP Duminy,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.3,JP Duminy,PA Patel,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.4,JP Duminy,PA Patel,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.5,JP Duminy,PA Patel,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,11.6,PA Patel,JP Duminy,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.1,JP Duminy,PA Patel,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.2,JP Duminy,PA Patel,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.3,PA Patel,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.4,JP Duminy,PA Patel,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.5,PA Patel,JP Duminy,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,12.6,PA Patel,JP Duminy,HV Patel,0,1,1,byes,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.1,PA Patel,JP Duminy,TM Dilshan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.2,JP Duminy,PA Patel,TM Dilshan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.3,PA Patel,JP Duminy,TM Dilshan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.4,JP Duminy,PA Patel,TM Dilshan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.5,PA Patel,JP Duminy,TM Dilshan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.6,PA Patel,JP Duminy,TM Dilshan,0,1,1,wides,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,13.7,PA Patel,JP Duminy,TM Dilshan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.1,PA Patel,JP Duminy,HV Patel,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.2,PA Patel,JP Duminy,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.3,JP Duminy,PA Patel,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.4,JP Duminy,PA Patel,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.5,JP Duminy,PA Patel,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,14.6,PA Patel,JP Duminy,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.1,JP Duminy,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.2,PA Patel,JP Duminy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.3,PA Patel,JP Duminy,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.4,JP Duminy,PA Patel,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.5,JP Duminy,PA Patel,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,15.6,JP Duminy,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.1,JP Duminy,PA Patel,Z Khan,4,0,4,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.2,JP Duminy,PA Patel,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.3,PA Patel,JP Duminy,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.4,JP Duminy,PA Patel,Z Khan,6,0,6,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.5,JP Duminy,PA Patel,Z Khan,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,16.6,JP Duminy,PA Patel,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.1,JP Duminy,PA Patel,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.2,JP Duminy,PA Patel,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.3,JP Duminy,PA Patel,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.4,PA Patel,JP Duminy,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.5,JP Duminy,PA Patel,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,17.6,JP Duminy,PA Patel,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.1,PA Patel,JP Duminy,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.2,PA Patel,JP Duminy,Z Khan,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.3,JP Duminy,PA Patel,Z Khan,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.4,JP Duminy,PA Patel,Z Khan,0,0,0,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.5,JP Duminy,PA Patel,Z Khan,0,0,0,NA,1,caught,JP Duminy,KP Appanna (sub),1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,18.6,PA Patel,A Ashish Reddy,Z Khan,0,4,4,legbyes,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.1,A Ashish Reddy,PA Patel,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.2,A Ashish Reddy,PA Patel,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.3,A Ashish Reddy,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.4,PA Patel,A Ashish Reddy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.5,A Ashish Reddy,PA Patel,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.6,PA Patel,A Ashish Reddy,R Vinay Kumar,0,0,0,NA,1,caught,PA Patel,CH Gayle,1
+548376,1st innings,Deccan Chargers,Royal Challengers Bangalore,19.7,A Ashish Reddy,DW Steyn,R Vinay Kumar,0,0,0,NA,1,bowled,A Ashish Reddy,NA,1
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.1,CH Gayle,TM Dilshan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.2,TM Dilshan,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.3,TM Dilshan,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.4,TM Dilshan,CH Gayle,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.5,TM Dilshan,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,0.6,TM Dilshan,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.1,CH Gayle,TM Dilshan,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.2,CH Gayle,TM Dilshan,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.3,CH Gayle,TM Dilshan,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.4,CH Gayle,TM Dilshan,MS Gony,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.5,CH Gayle,TM Dilshan,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,1.6,CH Gayle,TM Dilshan,MS Gony,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.1,TM Dilshan,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.2,TM Dilshan,CH Gayle,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.3,CH Gayle,TM Dilshan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.4,CH Gayle,TM Dilshan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.5,CH Gayle,TM Dilshan,DW Steyn,0,0,0,NA,1,bowled,CH Gayle,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,2.6,V Kohli,TM Dilshan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.1,TM Dilshan,V Kohli,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.2,TM Dilshan,V Kohli,MS Gony,0,1,1,wides,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.3,TM Dilshan,V Kohli,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.4,V Kohli,TM Dilshan,MS Gony,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.5,V Kohli,TM Dilshan,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.6,V Kohli,TM Dilshan,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,3.7,V Kohli,TM Dilshan,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.1,TM Dilshan,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.2,TM Dilshan,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.3,TM Dilshan,V Kohli,DW Steyn,0,0,0,NA,1,lbw,TM Dilshan,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.4,SS Tiwary,V Kohli,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.5,SS Tiwary,V Kohli,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,4.6,V Kohli,SS Tiwary,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.1,SS Tiwary,V Kohli,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.2,SS Tiwary,V Kohli,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.3,V Kohli,SS Tiwary,MS Gony,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.4,V Kohli,AB de Villiers,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.5,V Kohli,AB de Villiers,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,5.6,V Kohli,AB de Villiers,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.1,AB de Villiers,V Kohli,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.2,V Kohli,AB de Villiers,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.3,AB de Villiers,V Kohli,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.4,V Kohli,AB de Villiers,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.5,AB de Villiers,V Kohli,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,6.6,AB de Villiers,V Kohli,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.1,V Kohli,AB de Villiers,A Mishra,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.2,V Kohli,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.3,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.4,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.5,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,7.6,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.1,AB de Villiers,V Kohli,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.2,AB de Villiers,V Kohli,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.3,AB de Villiers,V Kohli,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.4,V Kohli,AB de Villiers,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.5,V Kohli,AB de Villiers,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,8.6,V Kohli,AB de Villiers,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.1,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.2,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,1,caught,AB de Villiers,JP Duminy,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.3,MA Agarwal,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.4,V Kohli,MA Agarwal,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.5,MA Agarwal,V Kohli,A Mishra,0,0,0,NA,1,bowled,MA Agarwal,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,9.6,SS Tiwary,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.1,V Kohli,SS Tiwary,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.2,V Kohli,SS Tiwary,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.3,SS Tiwary,V Kohli,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.4,V Kohli,SS Tiwary,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.5,V Kohli,SS Tiwary,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,10.6,SS Tiwary,V Kohli,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.1,V Kohli,SS Tiwary,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.2,V Kohli,SS Tiwary,A Mishra,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.3,V Kohli,SS Tiwary,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.4,V Kohli,SS Tiwary,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.5,V Kohli,SS Tiwary,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,11.6,SS Tiwary,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.1,SS Tiwary,V Kohli,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.2,SS Tiwary,V Kohli,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.3,SS Tiwary,V Kohli,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.4,V Kohli,SS Tiwary,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.5,V Kohli,SS Tiwary,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,12.6,V Kohli,SS Tiwary,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.1,V Kohli,SS Tiwary,MS Gony,0,1,1,wides,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.2,V Kohli,SS Tiwary,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.3,SS Tiwary,V Kohli,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.4,SS Tiwary,V Kohli,MS Gony,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.5,SS Tiwary,V Kohli,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.6,V Kohli,SS Tiwary,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,13.7,SS Tiwary,V Kohli,MS Gony,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.1,SS Tiwary,V Kohli,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.2,SS Tiwary,V Kohli,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.3,V Kohli,SS Tiwary,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.4,V Kohli,SS Tiwary,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.5,SS Tiwary,V Kohli,V Pratap Singh,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,14.6,SS Tiwary,V Kohli,V Pratap Singh,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.1,V Kohli,SS Tiwary,A Ashish Reddy,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.2,V Kohli,SS Tiwary,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.3,SS Tiwary,V Kohli,A Ashish Reddy,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.4,SS Tiwary,V Kohli,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.5,V Kohli,SS Tiwary,A Ashish Reddy,6,0,6,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,15.6,V Kohli,SS Tiwary,A Ashish Reddy,0,0,0,NA,1,caught,V Kohli,MS Gony,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.1,SS Tiwary,Z Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.2,Z Khan,SS Tiwary,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.3,Z Khan,SS Tiwary,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.4,Z Khan,SS Tiwary,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.5,Z Khan,SS Tiwary,DW Steyn,0,0,0,NA,1,bowled,Z Khan,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,16.6,R Vinay Kumar,SS Tiwary,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.1,SS Tiwary,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.2,R Vinay Kumar,SS Tiwary,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.3,SS Tiwary,R Vinay Kumar,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.4,SS Tiwary,R Vinay Kumar,A Mishra,2,0,2,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.5,SS Tiwary,R Vinay Kumar,A Mishra,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,17.6,R Vinay Kumar,SS Tiwary,A Mishra,0,0,0,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.1,SS Tiwary,R Vinay Kumar,V Pratap Singh,0,0,0,NA,1,caught,SS Tiwary,KC Sangakkara,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.2,R Vinay Kumar,HV Patel,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.3,HV Patel,R Vinay Kumar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.4,R Vinay Kumar,HV Patel,V Pratap Singh,4,0,4,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.5,R Vinay Kumar,HV Patel,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,18.6,HV Patel,R Vinay Kumar,V Pratap Singh,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.1,HV Patel,R Vinay Kumar,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.2,R Vinay Kumar,HV Patel,A Ashish Reddy,0,0,0,NA,1,caught,R Vinay Kumar,JP Duminy,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.3,HV Patel,M Muralitharan,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.4,M Muralitharan,HV Patel,A Ashish Reddy,0,0,0,NA,1,caught,M Muralitharan,JP Duminy,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.5,HV Patel,P Parameswaran,A Ashish Reddy,1,0,1,NA,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.6,P Parameswaran,HV Patel,A Ashish Reddy,0,1,1,wides,0,NA,NA,NA,0
+548376,2nd innings,Royal Challengers Bangalore,Deccan Chargers,19.7,P Parameswaran,HV Patel,A Ashish Reddy,0,0,0,NA,0,NA,NA,NA,0

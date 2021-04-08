@@ -1,0 +1,251 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.1,JH Kallis,SP Goswami,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.2,SP Goswami,JH Kallis,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.3,SP Goswami,JH Kallis,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.4,JH Kallis,SP Goswami,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.5,JH Kallis,SP Goswami,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,0.6,SP Goswami,JH Kallis,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.1,SP Goswami,JH Kallis,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.2,SP Goswami,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.3,SP Goswami,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.4,SP Goswami,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.5,SP Goswami,JH Kallis,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.6,SP Goswami,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,1.7,SP Goswami,JH Kallis,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.1,JH Kallis,SP Goswami,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.2,JH Kallis,SP Goswami,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.3,JH Kallis,SP Goswami,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.4,SP Goswami,JH Kallis,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.5,SP Goswami,JH Kallis,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,2.6,SP Goswami,JH Kallis,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.1,SP Goswami,JH Kallis,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.2,SP Goswami,JH Kallis,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.3,SP Goswami,JH Kallis,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.4,JH Kallis,SP Goswami,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.5,JH Kallis,SP Goswami,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,3.6,JH Kallis,SP Goswami,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.1,SP Goswami,JH Kallis,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.2,JH Kallis,SP Goswami,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.3,JH Kallis,SP Goswami,IK Pathan,0,0,0,NA,1,bowled,JH Kallis,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.4,G Gambhir,SP Goswami,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.5,G Gambhir,SP Goswami,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,4.6,SP Goswami,G Gambhir,IK Pathan,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.1,G Gambhir,SP Goswami,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.2,G Gambhir,SP Goswami,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.3,SP Goswami,G Gambhir,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.4,SP Goswami,G Gambhir,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.5,G Gambhir,SP Goswami,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,5.6,G Gambhir,SP Goswami,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.1,SP Goswami,G Gambhir,AB Agarkar,0,0,0,NA,1,caught,SP Goswami,NV Ojha,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.2,MK Tiwary,G Gambhir,AB Agarkar,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.3,MK Tiwary,G Gambhir,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.4,G Gambhir,MK Tiwary,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.5,G Gambhir,MK Tiwary,AB Agarkar,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.6,G Gambhir,MK Tiwary,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,6.7,MK Tiwary,G Gambhir,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.1,MK Tiwary,G Gambhir,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.2,MK Tiwary,G Gambhir,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.3,MK Tiwary,G Gambhir,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.4,MK Tiwary,G Gambhir,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.5,MK Tiwary,G Gambhir,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,7.6,G Gambhir,MK Tiwary,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.1,MK Tiwary,G Gambhir,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.2,MK Tiwary,G Gambhir,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.3,G Gambhir,MK Tiwary,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.4,MK Tiwary,G Gambhir,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.5,MK Tiwary,G Gambhir,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,8.6,G Gambhir,MK Tiwary,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.1,MK Tiwary,G Gambhir,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.2,MK Tiwary,G Gambhir,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.3,MK Tiwary,G Gambhir,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.4,G Gambhir,MK Tiwary,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.5,MK Tiwary,G Gambhir,JR Hopes,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.6,MK Tiwary,G Gambhir,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,9.7,G Gambhir,MK Tiwary,JR Hopes,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.1,MK Tiwary,G Gambhir,AB Agarkar,6,0,6,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.2,MK Tiwary,G Gambhir,AB Agarkar,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.3,MK Tiwary,G Gambhir,AB Agarkar,3,0,3,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.4,G Gambhir,MK Tiwary,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.5,G Gambhir,MK Tiwary,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,10.6,MK Tiwary,G Gambhir,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.1,MK Tiwary,G Gambhir,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.2,G Gambhir,MK Tiwary,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.3,G Gambhir,MK Tiwary,JR Hopes,0,1,1,legbyes,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.4,MK Tiwary,G Gambhir,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.5,G Gambhir,MK Tiwary,JR Hopes,0,0,0,NA,1,caught,G Gambhir,Y Venugopal Rao,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,11.6,MK Tiwary,YK Pathan,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.1,MK Tiwary,YK Pathan,M Morkel,6,0,6,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.2,MK Tiwary,YK Pathan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.3,YK Pathan,MK Tiwary,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.4,YK Pathan,MK Tiwary,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.5,MK Tiwary,YK Pathan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,12.6,MK Tiwary,YK Pathan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.1,YK Pathan,MK Tiwary,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.2,YK Pathan,MK Tiwary,JR Hopes,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.3,YK Pathan,MK Tiwary,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.4,MK Tiwary,YK Pathan,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.5,YK Pathan,MK Tiwary,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.6,MK Tiwary,YK Pathan,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,13.7,YK Pathan,MK Tiwary,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.1,YK Pathan,MK Tiwary,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.2,MK Tiwary,YK Pathan,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.3,MK Tiwary,YK Pathan,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.4,MK Tiwary,YK Pathan,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.5,YK Pathan,MK Tiwary,UT Yadav,0,0,0,NA,1,caught,YK Pathan,IK Pathan,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,14.6,EJG Morgan,MK Tiwary,UT Yadav,0,0,0,NA,1,caught,EJG Morgan,NV Ojha,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.1,RN ten Doeschate,MK Tiwary,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.2,MK Tiwary,RN ten Doeschate,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.3,RN ten Doeschate,MK Tiwary,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.4,RN ten Doeschate,MK Tiwary,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.5,MK Tiwary,RN ten Doeschate,IK Pathan,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,15.6,RN ten Doeschate,MK Tiwary,IK Pathan,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.1,MK Tiwary,RN ten Doeschate,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.2,MK Tiwary,RN ten Doeschate,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.3,RN ten Doeschate,MK Tiwary,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.4,RN ten Doeschate,MK Tiwary,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.5,MK Tiwary,RN ten Doeschate,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.6,MK Tiwary,RN ten Doeschate,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,16.7,MK Tiwary,RN ten Doeschate,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.1,MK Tiwary,RN ten Doeschate,JR Hopes,0,1,1,wides,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.2,MK Tiwary,RN ten Doeschate,JR Hopes,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.3,MK Tiwary,RN ten Doeschate,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.4,RN ten Doeschate,MK Tiwary,JR Hopes,0,1,1,legbyes,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.5,MK Tiwary,RN ten Doeschate,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.6,RN ten Doeschate,MK Tiwary,JR Hopes,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,17.7,RN ten Doeschate,MK Tiwary,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.1,RN ten Doeschate,MK Tiwary,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.2,MK Tiwary,RN ten Doeschate,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.3,MK Tiwary,RN ten Doeschate,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.4,RN ten Doeschate,MK Tiwary,M Morkel,6,0,6,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.5,RN ten Doeschate,MK Tiwary,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,18.6,RN ten Doeschate,MK Tiwary,M Morkel,0,0,0,NA,1,caught,RN ten Doeschate,IK Pathan,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.1,MK Tiwary,B Lee,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.2,B Lee,MK Tiwary,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.3,MK Tiwary,B Lee,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.4,MK Tiwary,B Lee,AB Agarkar,2,0,2,NA,0,NA,NA,NA,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.5,MK Tiwary,B Lee,AB Agarkar,1,0,1,NA,1,run out,B Lee,Y Nagar,1
+501230,1st innings,Kolkata Knight Riders,Delhi Daredevils,19.6,L Balaji,MK Tiwary,AB Agarkar,3,0,3,NA,0,NA,NA,NA,1
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.1,DA Warner,V Sehwag,B Lee,0,1,1,wides,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.2,DA Warner,V Sehwag,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.3,V Sehwag,DA Warner,B Lee,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.4,V Sehwag,DA Warner,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.5,DA Warner,V Sehwag,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.6,DA Warner,V Sehwag,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,0.7,DA Warner,V Sehwag,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.1,V Sehwag,DA Warner,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.2,V Sehwag,DA Warner,L Balaji,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.3,V Sehwag,DA Warner,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.4,DA Warner,V Sehwag,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.5,V Sehwag,DA Warner,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,1.6,DA Warner,V Sehwag,L Balaji,0,0,0,NA,1,bowled,DA Warner,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.1,V Sehwag,JR Hopes,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.2,V Sehwag,JR Hopes,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.3,V Sehwag,JR Hopes,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.4,V Sehwag,JR Hopes,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.5,JR Hopes,V Sehwag,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,2.6,JR Hopes,V Sehwag,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.1,JR Hopes,V Sehwag,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.2,V Sehwag,JR Hopes,L Balaji,6,0,6,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.3,V Sehwag,JR Hopes,L Balaji,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.4,V Sehwag,JR Hopes,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.5,V Sehwag,JR Hopes,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,3.6,V Sehwag,JR Hopes,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.1,V Sehwag,JR Hopes,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.2,JR Hopes,V Sehwag,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.3,JR Hopes,V Sehwag,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.4,JR Hopes,V Sehwag,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.5,JR Hopes,V Sehwag,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,4.6,V Sehwag,JR Hopes,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.1,JR Hopes,V Sehwag,Iqbal Abdulla,0,1,1,wides,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.2,JR Hopes,V Sehwag,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.3,JR Hopes,V Sehwag,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.4,JR Hopes,V Sehwag,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.5,V Sehwag,JR Hopes,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.6,V Sehwag,JR Hopes,Iqbal Abdulla,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,5.7,V Sehwag,JR Hopes,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.1,V Sehwag,JR Hopes,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.2,JR Hopes,V Sehwag,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.3,V Sehwag,JR Hopes,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.4,V Sehwag,JR Hopes,JD Unadkat,0,0,0,NA,1,caught,V Sehwag,L Balaji,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.5,IK Pathan,JR Hopes,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,6.6,IK Pathan,JR Hopes,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.1,IK Pathan,JR Hopes,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.2,JR Hopes,IK Pathan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.3,JR Hopes,IK Pathan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.4,JR Hopes,IK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.5,IK Pathan,JR Hopes,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,7.6,JR Hopes,IK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.1,JR Hopes,IK Pathan,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.2,JR Hopes,IK Pathan,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.3,JR Hopes,IK Pathan,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.4,IK Pathan,JR Hopes,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.5,IK Pathan,JR Hopes,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,8.6,IK Pathan,JR Hopes,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.1,JR Hopes,IK Pathan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.2,JR Hopes,IK Pathan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.3,IK Pathan,JR Hopes,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.4,IK Pathan,JR Hopes,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.5,IK Pathan,JR Hopes,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,9.6,IK Pathan,JR Hopes,JH Kallis,6,0,6,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.1,JR Hopes,IK Pathan,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.2,JR Hopes,IK Pathan,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.3,IK Pathan,JR Hopes,Iqbal Abdulla,0,0,0,NA,1,caught,IK Pathan,RN ten Doeschate,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.4,JR Hopes,TR Birt,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.5,TR Birt,JR Hopes,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,10.6,TR Birt,JR Hopes,Iqbal Abdulla,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.1,JR Hopes,TR Birt,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.2,TR Birt,JR Hopes,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.3,JR Hopes,TR Birt,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.4,TR Birt,JR Hopes,YK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.5,TR Birt,JR Hopes,YK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,11.6,TR Birt,JR Hopes,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.1,TR Birt,JR Hopes,Iqbal Abdulla,2,0,2,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.2,TR Birt,JR Hopes,Iqbal Abdulla,2,0,2,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.3,TR Birt,JR Hopes,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.4,JR Hopes,TR Birt,Iqbal Abdulla,0,2,2,byes,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.5,JR Hopes,TR Birt,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,12.6,TR Birt,JR Hopes,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.1,TR Birt,JR Hopes,YK Pathan,0,0,0,NA,1,caught,TR Birt,Shakib Al Hasan (sub),0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.2,Y Venugopal Rao,JR Hopes,YK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.3,Y Venugopal Rao,JR Hopes,YK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.4,Y Venugopal Rao,JR Hopes,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.5,JR Hopes,Y Venugopal Rao,YK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,13.6,Y Venugopal Rao,JR Hopes,YK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.1,JR Hopes,Y Venugopal Rao,Iqbal Abdulla,6,0,6,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.2,JR Hopes,Y Venugopal Rao,Iqbal Abdulla,0,0,0,NA,1,caught,JR Hopes,MK Tiwary,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.3,NV Ojha,Y Venugopal Rao,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.4,Y Venugopal Rao,NV Ojha,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.5,NV Ojha,Y Venugopal Rao,Iqbal Abdulla,0,0,0,NA,1,caught,NV Ojha,B Lee,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,14.6,Y Venugopal Rao,Y Nagar,Iqbal Abdulla,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.1,Y Venugopal Rao,Y Nagar,B Lee,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.2,Y Venugopal Rao,Y Nagar,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.3,Y Nagar,Y Venugopal Rao,B Lee,2,0,2,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.4,Y Nagar,Y Venugopal Rao,B Lee,0,1,1,wides,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.5,Y Nagar,Y Venugopal Rao,B Lee,0,1,1,wides,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.6,Y Nagar,Y Venugopal Rao,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.7,Y Venugopal Rao,Y Nagar,B Lee,2,0,2,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,15.8,Y Venugopal Rao,Y Nagar,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.1,Y Venugopal Rao,Y Nagar,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.2,Y Nagar,Y Venugopal Rao,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.3,Y Nagar,Y Venugopal Rao,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.4,Y Nagar,Y Venugopal Rao,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.5,Y Nagar,Y Venugopal Rao,JD Unadkat,3,0,3,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,16.6,Y Venugopal Rao,Y Nagar,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.1,Y Nagar,Y Venugopal Rao,L Balaji,0,1,1,byes,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.2,Y Venugopal Rao,Y Nagar,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.3,Y Venugopal Rao,Y Nagar,L Balaji,2,0,2,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.4,Y Venugopal Rao,Y Nagar,L Balaji,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.5,Y Venugopal Rao,Y Nagar,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,17.6,Y Nagar,Y Venugopal Rao,L Balaji,6,0,6,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.1,Y Venugopal Rao,Y Nagar,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.2,Y Venugopal Rao,Y Nagar,B Lee,0,0,0,NA,1,run out,Y Venugopal Rao,SP Goswami,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.3,Y Nagar,AB Agarkar,B Lee,0,0,0,NA,1,run out,AB Agarkar,L Balaji,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.4,Y Nagar,M Morkel,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.5,M Morkel,Y Nagar,B Lee,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,18.6,Y Nagar,M Morkel,B Lee,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.1,M Morkel,Y Nagar,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.2,M Morkel,Y Nagar,L Balaji,4,0,4,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.3,M Morkel,Y Nagar,L Balaji,0,0,0,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.4,M Morkel,Y Nagar,L Balaji,1,0,1,NA,0,NA,NA,NA,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.5,Y Nagar,M Morkel,L Balaji,0,0,0,NA,1,caught,Y Nagar,SP Goswami,0
+501230,2nd innings,Delhi Daredevils,Kolkata Knight Riders,19.6,UT Yadav,M Morkel,L Balaji,1,0,1,NA,0,NA,NA,NA,0

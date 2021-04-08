@@ -1,0 +1,244 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.1,LMP Simmons,MEK Hussey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.2,LMP Simmons,MEK Hussey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.3,LMP Simmons,MEK Hussey,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.4,MEK Hussey,LMP Simmons,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.5,MEK Hussey,LMP Simmons,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,0.6,MEK Hussey,LMP Simmons,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.1,MEK Hussey,LMP Simmons,S Kaul,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.2,MEK Hussey,LMP Simmons,S Kaul,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.3,MEK Hussey,LMP Simmons,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.4,MEK Hussey,LMP Simmons,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.5,LMP Simmons,MEK Hussey,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,1.6,MEK Hussey,LMP Simmons,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.1,MEK Hussey,LMP Simmons,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.2,MEK Hussey,LMP Simmons,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.3,MEK Hussey,LMP Simmons,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.4,LMP Simmons,MEK Hussey,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.5,LMP Simmons,MEK Hussey,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,2.6,LMP Simmons,MEK Hussey,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.1,MEK Hussey,LMP Simmons,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.2,MEK Hussey,LMP Simmons,JD Unadkat,0,1,1,legbyes,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.3,LMP Simmons,MEK Hussey,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.4,MEK Hussey,LMP Simmons,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.5,MEK Hussey,LMP Simmons,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,3.6,LMP Simmons,MEK Hussey,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.1,LMP Simmons,MEK Hussey,S Kaul,0,1,1,wides,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.2,LMP Simmons,MEK Hussey,S Kaul,0,4,4,legbyes,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.3,LMP Simmons,MEK Hussey,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.4,LMP Simmons,MEK Hussey,S Kaul,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.5,LMP Simmons,MEK Hussey,S Kaul,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.6,MEK Hussey,LMP Simmons,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,4.7,MEK Hussey,LMP Simmons,S Kaul,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.1,LMP Simmons,MEK Hussey,S Nadeem,0,1,1,legbyes,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.2,MEK Hussey,LMP Simmons,S Nadeem,6,0,6,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.3,MEK Hussey,LMP Simmons,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.4,LMP Simmons,MEK Hussey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.5,MEK Hussey,LMP Simmons,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,5.6,LMP Simmons,MEK Hussey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.1,LMP Simmons,MEK Hussey,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.2,LMP Simmons,MEK Hussey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.3,MEK Hussey,LMP Simmons,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.4,LMP Simmons,MEK Hussey,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.5,LMP Simmons,MEK Hussey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,6.6,MEK Hussey,LMP Simmons,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.1,MEK Hussey,LMP Simmons,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.2,LMP Simmons,MEK Hussey,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.3,LMP Simmons,MEK Hussey,Imran Tahir,0,1,1,wides,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.4,LMP Simmons,MEK Hussey,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.5,LMP Simmons,MEK Hussey,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.6,LMP Simmons,MEK Hussey,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,7.7,LMP Simmons,MEK Hussey,Imran Tahir,0,0,0,NA,1,caught,LMP Simmons,WD Parnell,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.1,RG Sharma,MEK Hussey,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.2,RG Sharma,MEK Hussey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.3,MEK Hussey,RG Sharma,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.4,RG Sharma,MEK Hussey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.5,MEK Hussey,RG Sharma,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,8.6,MEK Hussey,RG Sharma,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.1,RG Sharma,MEK Hussey,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.2,MEK Hussey,RG Sharma,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.3,RG Sharma,MEK Hussey,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.4,MEK Hussey,RG Sharma,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.5,MEK Hussey,RG Sharma,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,9.6,MEK Hussey,RG Sharma,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.1,MEK Hussey,RG Sharma,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.2,RG Sharma,MEK Hussey,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.3,RG Sharma,MEK Hussey,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.4,RG Sharma,MEK Hussey,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.5,RG Sharma,MEK Hussey,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,10.6,RG Sharma,MEK Hussey,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.1,RG Sharma,MEK Hussey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.2,MEK Hussey,RG Sharma,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.3,RG Sharma,MEK Hussey,S Nadeem,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.4,RG Sharma,MEK Hussey,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.5,MEK Hussey,RG Sharma,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,11.6,RG Sharma,MEK Hussey,S Nadeem,0,0,0,NA,1,run out,MEK Hussey,KD Karthik,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.1,RG Sharma,KA Pollard,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.2,RG Sharma,KA Pollard,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.3,RG Sharma,KA Pollard,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.4,KA Pollard,RG Sharma,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.5,KA Pollard,RG Sharma,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,12.6,KA Pollard,RG Sharma,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.1,KA Pollard,RG Sharma,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.2,RG Sharma,KA Pollard,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.3,KA Pollard,RG Sharma,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.4,RG Sharma,KA Pollard,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.5,KA Pollard,RG Sharma,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,13.6,KA Pollard,RG Sharma,S Nadeem,2,0,2,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.1,RG Sharma,KA Pollard,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.2,RG Sharma,KA Pollard,JD Unadkat,0,0,0,NA,1,bowled,RG Sharma,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.3,AT Rayudu,KA Pollard,JD Unadkat,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.4,KA Pollard,AT Rayudu,JD Unadkat,0,0,0,NA,1,caught,KA Pollard,KD Karthik,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.5,AP Tare,AT Rayudu,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,14.6,AP Tare,AT Rayudu,JD Unadkat,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.1,AT Rayudu,AP Tare,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.2,AP Tare,AT Rayudu,S Nadeem,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.3,AP Tare,AT Rayudu,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.4,AT Rayudu,AP Tare,S Nadeem,0,0,0,NA,1,caught,AT Rayudu,M Vijay,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.5,Harbhajan Singh,AP Tare,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,15.6,AP Tare,Harbhajan Singh,S Nadeem,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.1,AP Tare,Harbhajan Singh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.2,AP Tare,Harbhajan Singh,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.3,AP Tare,Harbhajan Singh,Imran Tahir,0,0,0,NA,1,caught,AP Tare,KM Jadhav,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.4,S Gopal,Harbhajan Singh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.5,Harbhajan Singh,S Gopal,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,16.6,S Gopal,Harbhajan Singh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.1,S Gopal,Harbhajan Singh,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.2,Harbhajan Singh,S Gopal,WD Parnell,0,0,0,NA,1,caught,Harbhajan Singh,M Vijay,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.3,M de Lange,S Gopal,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.4,S Gopal,M de Lange,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.5,S Gopal,M de Lange,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,17.6,S Gopal,M de Lange,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.1,S Gopal,M de Lange,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.2,M de Lange,S Gopal,Imran Tahir,0,0,0,NA,1,caught,M de Lange,KD Karthik,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.3,PP Ojha,S Gopal,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.4,S Gopal,PP Ojha,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.5,PP Ojha,S Gopal,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,18.6,S Gopal,PP Ojha,Imran Tahir,0,0,0,NA,1,run out,PP Ojha,MK Tiwary,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,19.1,S Gopal,JJ Bumrah,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,19.2,JJ Bumrah,S Gopal,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,19.3,JJ Bumrah,S Gopal,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+734031,1st innings,Mumbai Indians,Delhi Daredevils,19.4,JJ Bumrah,S Gopal,WD Parnell,0,1,1,wides,1,run out,S Gopal,KD Karthik,1
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.1,M Vijay,KP Pietersen,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.2,M Vijay,KP Pietersen,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.3,M Vijay,KP Pietersen,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.4,KP Pietersen,M Vijay,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.5,KP Pietersen,M Vijay,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,0.6,KP Pietersen,M Vijay,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.1,KP Pietersen,M Vijay,M de Lange,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.2,KP Pietersen,M Vijay,M de Lange,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.3,KP Pietersen,M Vijay,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.4,M Vijay,KP Pietersen,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.5,KP Pietersen,M Vijay,M de Lange,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,1.6,KP Pietersen,M Vijay,M de Lange,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.1,M Vijay,KP Pietersen,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.2,M Vijay,KP Pietersen,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.3,KP Pietersen,M Vijay,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.4,KP Pietersen,M Vijay,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.5,KP Pietersen,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,2.6,M Vijay,KP Pietersen,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.1,KP Pietersen,M Vijay,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.2,KP Pietersen,M Vijay,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.3,KP Pietersen,M Vijay,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.4,KP Pietersen,M Vijay,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.5,KP Pietersen,M Vijay,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,3.6,KP Pietersen,M Vijay,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.1,KP Pietersen,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.2,M Vijay,KP Pietersen,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.3,KP Pietersen,M Vijay,PP Ojha,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.4,KP Pietersen,M Vijay,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.5,M Vijay,KP Pietersen,PP Ojha,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,4.6,M Vijay,KP Pietersen,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.1,M Vijay,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.2,M Vijay,KP Pietersen,S Gopal,0,0,0,NA,1,stumped,M Vijay,AP Tare,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.3,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.4,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.5,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,5.6,KD Karthik,KP Pietersen,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.1,KP Pietersen,KD Karthik,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.2,KP Pietersen,KD Karthik,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.3,KP Pietersen,KD Karthik,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.4,KP Pietersen,KD Karthik,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.5,KP Pietersen,KD Karthik,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,6.6,KP Pietersen,KD Karthik,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.1,KP Pietersen,KD Karthik,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.2,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.3,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.4,KD Karthik,KP Pietersen,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.5,KP Pietersen,KD Karthik,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,7.6,KD Karthik,KP Pietersen,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.1,KP Pietersen,KD Karthik,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.2,KD Karthik,KP Pietersen,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.3,KD Karthik,KP Pietersen,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.4,KP Pietersen,KD Karthik,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.5,KP Pietersen,KD Karthik,Harbhajan Singh,0,0,0,NA,1,bowled,KP Pietersen,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,8.6,MK Tiwary,KD Karthik,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.1,KD Karthik,MK Tiwary,M de Lange,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.2,KD Karthik,MK Tiwary,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.3,MK Tiwary,KD Karthik,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.4,KD Karthik,MK Tiwary,M de Lange,0,0,0,NA,1,bowled,KD Karthik,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.5,JP Duminy,MK Tiwary,M de Lange,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,9.6,JP Duminy,MK Tiwary,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.1,JP Duminy,MK Tiwary,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.2,MK Tiwary,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.3,MK Tiwary,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.4,MK Tiwary,JP Duminy,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.5,MK Tiwary,JP Duminy,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,10.6,MK Tiwary,JP Duminy,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.1,JP Duminy,MK Tiwary,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.2,JP Duminy,MK Tiwary,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.3,MK Tiwary,JP Duminy,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.4,MK Tiwary,JP Duminy,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.5,JP Duminy,MK Tiwary,S Gopal,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,11.6,JP Duminy,MK Tiwary,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.1,JP Duminy,MK Tiwary,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.2,MK Tiwary,JP Duminy,M de Lange,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.3,MK Tiwary,JP Duminy,M de Lange,0,1,1,wides,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.4,MK Tiwary,JP Duminy,M de Lange,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.5,MK Tiwary,JP Duminy,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.6,JP Duminy,MK Tiwary,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,12.7,MK Tiwary,JP Duminy,M de Lange,0,1,1,legbyes,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.1,MK Tiwary,JP Duminy,PP Ojha,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.2,MK Tiwary,JP Duminy,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.3,MK Tiwary,JP Duminy,PP Ojha,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.4,MK Tiwary,JP Duminy,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.5,JP Duminy,MK Tiwary,PP Ojha,0,1,1,wides,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.6,JP Duminy,MK Tiwary,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,13.7,MK Tiwary,JP Duminy,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.1,MK Tiwary,JP Duminy,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.2,JP Duminy,MK Tiwary,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.3,MK Tiwary,JP Duminy,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.4,JP Duminy,MK Tiwary,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.5,JP Duminy,MK Tiwary,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,14.6,JP Duminy,MK Tiwary,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.1,JP Duminy,MK Tiwary,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.2,MK Tiwary,JP Duminy,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.3,JP Duminy,MK Tiwary,PP Ojha,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.4,JP Duminy,MK Tiwary,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.5,MK Tiwary,JP Duminy,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,15.6,JP Duminy,MK Tiwary,PP Ojha,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.1,JP Duminy,MK Tiwary,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.2,MK Tiwary,JP Duminy,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.3,MK Tiwary,JP Duminy,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.4,JP Duminy,MK Tiwary,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.5,MK Tiwary,JP Duminy,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,16.6,JP Duminy,MK Tiwary,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.1,MK Tiwary,JP Duminy,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.2,MK Tiwary,JP Duminy,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.3,JP Duminy,MK Tiwary,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.4,JP Duminy,MK Tiwary,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.5,MK Tiwary,JP Duminy,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,17.6,MK Tiwary,JP Duminy,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.1,JP Duminy,MK Tiwary,M de Lange,1,1,2,noballs,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.2,MK Tiwary,JP Duminy,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.3,JP Duminy,MK Tiwary,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.4,MK Tiwary,JP Duminy,M de Lange,0,0,0,NA,1,caught,MK Tiwary,MEK Hussey,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.5,JP Duminy,KM Jadhav,M de Lange,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.6,KM Jadhav,JP Duminy,M de Lange,0,0,0,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,18.7,KM Jadhav,JP Duminy,M de Lange,2,0,2,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.1,JP Duminy,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.2,KM Jadhav,JP Duminy,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.3,JP Duminy,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.4,KM Jadhav,JP Duminy,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.5,KM Jadhav,JP Duminy,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+734031,2nd innings,Delhi Daredevils,Mumbai Indians,19.6,JP Duminy,KM Jadhav,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0

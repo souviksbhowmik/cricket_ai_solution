@@ -1,0 +1,234 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.1,AM Rahane,F du Plessis,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.2,AM Rahane,F du Plessis,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.3,AM Rahane,F du Plessis,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.4,F du Plessis,AM Rahane,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.5,F du Plessis,AM Rahane,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,0.6,F du Plessis,AM Rahane,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.1,AM Rahane,F du Plessis,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.2,AM Rahane,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.3,F du Plessis,AM Rahane,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.4,AM Rahane,F du Plessis,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.5,AM Rahane,F du Plessis,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,1.6,AM Rahane,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.1,AM Rahane,F du Plessis,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.2,AM Rahane,F du Plessis,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.3,AM Rahane,F du Plessis,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.4,F du Plessis,AM Rahane,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.5,F du Plessis,AM Rahane,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,2.6,AM Rahane,F du Plessis,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.1,AM Rahane,F du Plessis,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.2,AM Rahane,F du Plessis,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.3,AM Rahane,F du Plessis,PV Tambe,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.4,AM Rahane,F du Plessis,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.5,AM Rahane,F du Plessis,PV Tambe,0,0,0,NA,1,lbw,AM Rahane,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,3.6,KP Pietersen,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.1,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.2,F du Plessis,KP Pietersen,SB Jakati,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.3,F du Plessis,KP Pietersen,SB Jakati,0,1,1,byes,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.4,KP Pietersen,F du Plessis,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.5,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,4.6,F du Plessis,KP Pietersen,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.1,KP Pietersen,F du Plessis,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.2,KP Pietersen,F du Plessis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.3,F du Plessis,KP Pietersen,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.4,KP Pietersen,F du Plessis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.5,F du Plessis,KP Pietersen,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,5.6,F du Plessis,KP Pietersen,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.1,F du Plessis,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.2,KP Pietersen,F du Plessis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.3,KP Pietersen,F du Plessis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.4,F du Plessis,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.5,F du Plessis,KP Pietersen,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,6.6,F du Plessis,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.1,F du Plessis,KP Pietersen,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.2,KP Pietersen,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.3,F du Plessis,KP Pietersen,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.4,KP Pietersen,F du Plessis,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.5,KP Pietersen,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,7.6,F du Plessis,KP Pietersen,PV Tambe,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.1,KP Pietersen,F du Plessis,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.2,KP Pietersen,F du Plessis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.3,KP Pietersen,F du Plessis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.4,F du Plessis,KP Pietersen,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.5,F du Plessis,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,8.6,KP Pietersen,F du Plessis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.1,F du Plessis,KP Pietersen,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.2,F du Plessis,KP Pietersen,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.3,KP Pietersen,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.4,F du Plessis,KP Pietersen,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.5,KP Pietersen,F du Plessis,PV Tambe,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,9.6,KP Pietersen,F du Plessis,PV Tambe,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.1,F du Plessis,KP Pietersen,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.2,F du Plessis,KP Pietersen,SB Jakati,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.3,F du Plessis,KP Pietersen,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.4,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.5,F du Plessis,KP Pietersen,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,10.6,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.1,KP Pietersen,F du Plessis,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.2,KP Pietersen,F du Plessis,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.3,KP Pietersen,F du Plessis,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.4,F du Plessis,KP Pietersen,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.5,KP Pietersen,F du Plessis,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,11.6,F du Plessis,KP Pietersen,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.1,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.2,F du Plessis,KP Pietersen,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.3,F du Plessis,KP Pietersen,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.4,KP Pietersen,F du Plessis,SB Jakati,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.5,KP Pietersen,F du Plessis,SB Jakati,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,12.6,F du Plessis,KP Pietersen,SB Jakati,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.1,KP Pietersen,F du Plessis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.2,F du Plessis,KP Pietersen,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.3,F du Plessis,KP Pietersen,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.4,F du Plessis,KP Pietersen,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.5,KP Pietersen,F du Plessis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,13.6,KP Pietersen,F du Plessis,DJ Bravo,0,0,0,NA,1,bowled,KP Pietersen,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.1,F du Plessis,SPD Smith,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.2,F du Plessis,SPD Smith,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.3,SPD Smith,F du Plessis,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.4,SPD Smith,F du Plessis,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.5,F du Plessis,SPD Smith,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,14.6,F du Plessis,SPD Smith,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.1,SPD Smith,F du Plessis,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.2,F du Plessis,SPD Smith,PV Tambe,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.3,F du Plessis,SPD Smith,PV Tambe,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.4,F du Plessis,SPD Smith,PV Tambe,0,0,0,NA,1,stumped,F du Plessis,KD Karthik,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.5,MS Dhoni,SPD Smith,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,15.6,SPD Smith,MS Dhoni,PV Tambe,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.1,SPD Smith,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.2,SPD Smith,MS Dhoni,RA Jadeja,0,0,0,NA,1,caught,SPD Smith,JP Faulkner,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.3,MS Dhoni,MR Marsh,RA Jadeja,0,1,1,legbyes,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.4,MR Marsh,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.5,MR Marsh,MS Dhoni,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,16.6,MS Dhoni,MR Marsh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.1,MR Marsh,MS Dhoni,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.2,MR Marsh,MS Dhoni,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.3,MR Marsh,MS Dhoni,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.4,MS Dhoni,MR Marsh,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.5,MR Marsh,MS Dhoni,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,17.6,MR Marsh,MS Dhoni,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.1,MR Marsh,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.2,MR Marsh,MS Dhoni,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.3,MR Marsh,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.4,MR Marsh,MS Dhoni,RA Jadeja,0,0,0,NA,1,bowled,MR Marsh,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.5,R Bhatia,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,18.6,R Bhatia,MS Dhoni,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.1,MS Dhoni,R Bhatia,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.2,MS Dhoni,R Bhatia,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.3,MS Dhoni,R Bhatia,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.4,MS Dhoni,R Bhatia,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.5,MS Dhoni,R Bhatia,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+980911,1st innings,Rising Pune Supergiants,Gujarat Lions,19.6,MS Dhoni,R Bhatia,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.1,AJ Finch,BB McCullum,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.2,AJ Finch,BB McCullum,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.3,AJ Finch,BB McCullum,RP Singh,0,1,1,legbyes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.4,BB McCullum,AJ Finch,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.5,BB McCullum,AJ Finch,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,0.6,AJ Finch,BB McCullum,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.1,AJ Finch,BB McCullum,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.2,AJ Finch,BB McCullum,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.3,AJ Finch,BB McCullum,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.4,AJ Finch,BB McCullum,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.5,BB McCullum,AJ Finch,I Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,1.6,AJ Finch,BB McCullum,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.1,BB McCullum,AJ Finch,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.2,BB McCullum,AJ Finch,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.3,BB McCullum,AJ Finch,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.4,BB McCullum,AJ Finch,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.5,BB McCullum,AJ Finch,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,2.6,AJ Finch,BB McCullum,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.1,AJ Finch,BB McCullum,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.2,AJ Finch,BB McCullum,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.3,BB McCullum,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.4,AJ Finch,BB McCullum,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.5,AJ Finch,BB McCullum,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,3.6,AJ Finch,BB McCullum,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.1,AJ Finch,BB McCullum,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.2,BB McCullum,AJ Finch,R Ashwin,3,0,3,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.3,AJ Finch,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.4,AJ Finch,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.5,AJ Finch,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,4.6,AJ Finch,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.1,BB McCullum,AJ Finch,M Ashwin,0,1,1,legbyes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.2,AJ Finch,BB McCullum,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.3,AJ Finch,BB McCullum,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.4,AJ Finch,BB McCullum,M Ashwin,0,3,3,wides,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.5,AJ Finch,BB McCullum,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.6,AJ Finch,BB McCullum,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,5.7,AJ Finch,BB McCullum,M Ashwin,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.1,BB McCullum,AJ Finch,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.2,AJ Finch,BB McCullum,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.3,AJ Finch,BB McCullum,R Bhatia,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.4,AJ Finch,BB McCullum,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.5,AJ Finch,BB McCullum,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,6.6,AJ Finch,BB McCullum,R Bhatia,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.1,BB McCullum,AJ Finch,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.2,AJ Finch,BB McCullum,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.3,AJ Finch,BB McCullum,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.4,BB McCullum,AJ Finch,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.5,BB McCullum,AJ Finch,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,7.6,AJ Finch,BB McCullum,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.1,AJ Finch,BB McCullum,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.2,AJ Finch,BB McCullum,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.3,AJ Finch,BB McCullum,M Ashwin,0,0,0,NA,1,caught,AJ Finch,I Sharma,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.4,SK Raina,BB McCullum,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.5,BB McCullum,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,8.6,SK Raina,BB McCullum,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.1,BB McCullum,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.2,BB McCullum,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.3,SK Raina,BB McCullum,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.4,SK Raina,BB McCullum,R Ashwin,0,2,2,wides,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.5,BB McCullum,SK Raina,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.6,SK Raina,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,9.7,SK Raina,BB McCullum,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.1,BB McCullum,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.2,SK Raina,BB McCullum,M Ashwin,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.3,SK Raina,BB McCullum,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.4,BB McCullum,SK Raina,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.5,SK Raina,BB McCullum,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,10.6,BB McCullum,SK Raina,M Ashwin,0,2,2,byes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.1,SK Raina,BB McCullum,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.2,BB McCullum,SK Raina,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.3,BB McCullum,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.4,BB McCullum,SK Raina,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.5,BB McCullum,SK Raina,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,11.6,BB McCullum,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.1,SK Raina,BB McCullum,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.2,BB McCullum,SK Raina,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.3,SK Raina,BB McCullum,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.4,BB McCullum,SK Raina,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.5,SK Raina,BB McCullum,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,12.6,BB McCullum,SK Raina,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.1,BB McCullum,SK Raina,I Sharma,0,0,0,NA,1,caught,BB McCullum,F du Plessis,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.2,SK Raina,DJ Bravo,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.3,SK Raina,DJ Bravo,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.4,DJ Bravo,SK Raina,I Sharma,0,1,1,legbyes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.5,SK Raina,DJ Bravo,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,13.6,SK Raina,DJ Bravo,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.1,SK Raina,DJ Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.2,SK Raina,DJ Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.3,SK Raina,DJ Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.4,SK Raina,DJ Bravo,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.5,SK Raina,DJ Bravo,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,14.6,DJ Bravo,SK Raina,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.1,SK Raina,DJ Bravo,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.2,DJ Bravo,SK Raina,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.3,DJ Bravo,SK Raina,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.4,DJ Bravo,SK Raina,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.5,DJ Bravo,SK Raina,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,15.6,SK Raina,DJ Bravo,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.1,SK Raina,DJ Bravo,M Ashwin,0,0,0,NA,1,stumped,SK Raina,MS Dhoni,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.2,RA Jadeja,DJ Bravo,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.3,RA Jadeja,DJ Bravo,M Ashwin,0,1,1,wides,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.4,RA Jadeja,DJ Bravo,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.5,DJ Bravo,RA Jadeja,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.6,RA Jadeja,DJ Bravo,M Ashwin,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,16.7,RA Jadeja,DJ Bravo,M Ashwin,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.1,RA Jadeja,DJ Bravo,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.2,RA Jadeja,DJ Bravo,R Bhatia,1,0,1,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.3,DJ Bravo,RA Jadeja,R Bhatia,0,1,1,legbyes,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.4,RA Jadeja,DJ Bravo,R Bhatia,0,0,0,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.5,RA Jadeja,DJ Bravo,R Bhatia,1,1,2,noballs,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.6,DJ Bravo,RA Jadeja,R Bhatia,2,0,2,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,17.7,DJ Bravo,RA Jadeja,R Bhatia,6,0,6,NA,0,NA,NA,NA,1
+980911,2nd innings,Gujarat Lions,Rising Pune Supergiants,18.1,RA Jadeja,DJ Bravo,RP Singh,0,1,1,wides,0,NA,NA,NA,1

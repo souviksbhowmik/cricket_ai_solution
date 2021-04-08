@@ -1,0 +1,228 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.1,RG Sharma,Q de Kock,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.2,RG Sharma,Q de Kock,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.3,Q de Kock,RG Sharma,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.4,Q de Kock,RG Sharma,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.5,Q de Kock,RG Sharma,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,0.6,Q de Kock,RG Sharma,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.1,RG Sharma,Q de Kock,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.2,RG Sharma,Q de Kock,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.3,Q de Kock,RG Sharma,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.4,Q de Kock,RG Sharma,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.5,Q de Kock,RG Sharma,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,1.6,RG Sharma,Q de Kock,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.1,RG Sharma,Q de Kock,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.2,Q de Kock,RG Sharma,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.3,RG Sharma,Q de Kock,Sandeep Sharma,0,0,0,NA,1,caught,RG Sharma,DA Warner,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.4,SA Yadav,Q de Kock,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.5,SA Yadav,Q de Kock,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,2.6,SA Yadav,Q de Kock,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.1,Q de Kock,SA Yadav,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.2,SA Yadav,Q de Kock,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.3,SA Yadav,Q de Kock,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.4,SA Yadav,Q de Kock,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.5,SA Yadav,Q de Kock,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,3.6,SA Yadav,Q de Kock,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.1,Q de Kock,SA Yadav,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.2,Q de Kock,SA Yadav,Sandeep Sharma,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.3,Q de Kock,SA Yadav,Sandeep Sharma,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.4,Q de Kock,SA Yadav,Sandeep Sharma,0,0,0,NA,1,bowled,Q de Kock,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.5,Ishan Kishan,SA Yadav,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,4.6,Ishan Kishan,SA Yadav,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.1,SA Yadav,Ishan Kishan,S Nadeem,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.2,SA Yadav,Ishan Kishan,S Nadeem,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.3,SA Yadav,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.4,SA Yadav,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.5,Ishan Kishan,SA Yadav,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,5.6,Ishan Kishan,SA Yadav,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.1,SA Yadav,Ishan Kishan,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.2,Ishan Kishan,SA Yadav,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.3,Ishan Kishan,SA Yadav,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.4,Ishan Kishan,SA Yadav,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.5,SA Yadav,Ishan Kishan,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,6.6,Ishan Kishan,SA Yadav,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.1,Ishan Kishan,SA Yadav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.2,SA Yadav,Ishan Kishan,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.3,SA Yadav,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.4,Ishan Kishan,SA Yadav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.5,SA Yadav,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,7.6,Ishan Kishan,SA Yadav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.1,Ishan Kishan,SA Yadav,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.2,SA Yadav,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.3,Ishan Kishan,SA Yadav,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.4,SA Yadav,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.5,Ishan Kishan,SA Yadav,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,8.6,SA Yadav,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.1,SA Yadav,Ishan Kishan,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.2,SA Yadav,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.3,Ishan Kishan,SA Yadav,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.4,Ishan Kishan,SA Yadav,Rashid Khan,0,1,1,legbyes,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.5,SA Yadav,Ishan Kishan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,9.6,SA Yadav,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.1,SA Yadav,Ishan Kishan,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.2,SA Yadav,Ishan Kishan,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.3,SA Yadav,Ishan Kishan,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.4,Ishan Kishan,SA Yadav,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.5,SA Yadav,Ishan Kishan,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,10.6,Ishan Kishan,SA Yadav,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.1,SA Yadav,Ishan Kishan,S Nadeem,0,0,0,NA,1,stumped,SA Yadav,WP Saha,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.2,KH Pandya,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.3,KH Pandya,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.4,KH Pandya,Ishan Kishan,S Nadeem,0,0,0,NA,1,caught,KH Pandya,KS Williamson,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.5,SS Tiwary,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,11.6,SS Tiwary,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.1,SS Tiwary,Ishan Kishan,Rashid Khan,0,0,0,NA,1,caught,SS Tiwary,WP Saha,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.2,KA Pollard,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.3,Ishan Kishan,KA Pollard,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.4,Ishan Kishan,KA Pollard,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.5,KA Pollard,Ishan Kishan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,12.6,KA Pollard,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.1,KA Pollard,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.2,KA Pollard,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.3,KA Pollard,Ishan Kishan,S Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.4,KA Pollard,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.5,Ishan Kishan,KA Pollard,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,13.6,KA Pollard,Ishan Kishan,S Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.1,KA Pollard,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.2,Ishan Kishan,KA Pollard,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.3,KA Pollard,Ishan Kishan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.4,Ishan Kishan,KA Pollard,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.5,Ishan Kishan,KA Pollard,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,14.6,KA Pollard,Ishan Kishan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.1,Ishan Kishan,KA Pollard,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.2,KA Pollard,Ishan Kishan,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.3,Ishan Kishan,KA Pollard,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.4,Ishan Kishan,KA Pollard,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.5,KA Pollard,Ishan Kishan,T Natarajan,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,15.6,KA Pollard,Ishan Kishan,T Natarajan,4,0,4,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.1,Ishan Kishan,KA Pollard,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.2,Ishan Kishan,KA Pollard,Sandeep Sharma,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.3,Ishan Kishan,KA Pollard,Sandeep Sharma,0,0,0,NA,1,bowled,Ishan Kishan,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.4,NM Coulter-Nile,KA Pollard,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.5,KA Pollard,NM Coulter-Nile,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,16.6,KA Pollard,NM Coulter-Nile,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.1,NM Coulter-Nile,KA Pollard,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.2,NM Coulter-Nile,KA Pollard,JO Holder,0,0,0,NA,1,caught,NM Coulter-Nile,PK Garg,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.3,JL Pattinson,KA Pollard,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.4,JL Pattinson,KA Pollard,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.5,KA Pollard,JL Pattinson,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,17.6,JL Pattinson,KA Pollard,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.1,JL Pattinson,KA Pollard,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.2,KA Pollard,JL Pattinson,T Natarajan,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.3,KA Pollard,JL Pattinson,T Natarajan,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.4,KA Pollard,JL Pattinson,T Natarajan,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.5,KA Pollard,JL Pattinson,T Natarajan,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,18.6,KA Pollard,JL Pattinson,T Natarajan,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.1,KA Pollard,JL Pattinson,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.2,KA Pollard,JL Pattinson,JO Holder,6,0,6,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.3,KA Pollard,JL Pattinson,JO Holder,0,0,0,NA,1,bowled,KA Pollard,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.4,DS Kulkarni,JL Pattinson,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.5,JL Pattinson,DS Kulkarni,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+1216495,1st innings,Mumbai Indians,Sunrisers Hyderabad,19.6,DS Kulkarni,JL Pattinson,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.1,DA Warner,WP Saha,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.2,DA Warner,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.3,DA Warner,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.4,DA Warner,WP Saha,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.5,WP Saha,DA Warner,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.6,WP Saha,DA Warner,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,0.7,DA Warner,WP Saha,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.1,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.2,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.3,WP Saha,DA Warner,NM Coulter-Nile,6,0,6,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.4,WP Saha,DA Warner,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.5,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,1.6,WP Saha,DA Warner,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.1,WP Saha,DA Warner,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.2,WP Saha,DA Warner,DS Kulkarni,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.3,WP Saha,DA Warner,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.4,DA Warner,WP Saha,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.5,WP Saha,DA Warner,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,2.6,WP Saha,DA Warner,DS Kulkarni,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.1,DA Warner,WP Saha,JL Pattinson,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.2,DA Warner,WP Saha,JL Pattinson,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.3,DA Warner,WP Saha,JL Pattinson,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.4,DA Warner,WP Saha,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.5,WP Saha,DA Warner,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,3.6,DA Warner,WP Saha,JL Pattinson,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.1,WP Saha,DA Warner,RD Chahar,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.2,WP Saha,DA Warner,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.3,DA Warner,WP Saha,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.4,DA Warner,WP Saha,RD Chahar,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.5,DA Warner,WP Saha,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,4.6,DA Warner,WP Saha,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.1,WP Saha,DA Warner,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.2,DA Warner,WP Saha,NM Coulter-Nile,0,1,1,wides,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.3,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.4,DA Warner,WP Saha,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.5,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.6,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,5.7,DA Warner,WP Saha,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.1,DA Warner,WP Saha,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.2,WP Saha,DA Warner,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.3,DA Warner,WP Saha,RD Chahar,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.4,DA Warner,WP Saha,RD Chahar,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.5,DA Warner,WP Saha,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,6.6,WP Saha,DA Warner,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.1,DA Warner,WP Saha,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.2,WP Saha,DA Warner,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.3,DA Warner,WP Saha,JL Pattinson,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.4,DA Warner,WP Saha,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.5,WP Saha,DA Warner,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,7.6,DA Warner,WP Saha,JL Pattinson,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.1,WP Saha,DA Warner,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.2,DA Warner,WP Saha,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.3,WP Saha,DA Warner,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.4,WP Saha,DA Warner,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.5,WP Saha,DA Warner,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,8.6,DA Warner,WP Saha,KH Pandya,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.1,WP Saha,DA Warner,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.2,WP Saha,DA Warner,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.3,DA Warner,WP Saha,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.4,DA Warner,WP Saha,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.5,WP Saha,DA Warner,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,9.6,DA Warner,WP Saha,RD Chahar,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.1,WP Saha,DA Warner,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.2,DA Warner,WP Saha,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.3,WP Saha,DA Warner,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.4,DA Warner,WP Saha,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.5,WP Saha,DA Warner,KH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,10.6,WP Saha,DA Warner,KH Pandya,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.1,DA Warner,WP Saha,RD Chahar,6,0,6,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.2,DA Warner,WP Saha,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.3,WP Saha,DA Warner,RD Chahar,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.4,WP Saha,DA Warner,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.5,DA Warner,WP Saha,RD Chahar,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,11.6,DA Warner,WP Saha,RD Chahar,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.1,DA Warner,WP Saha,KH Pandya,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.2,DA Warner,WP Saha,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.3,WP Saha,DA Warner,KH Pandya,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.4,WP Saha,DA Warner,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.5,DA Warner,WP Saha,KH Pandya,0,5,5,wides,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.6,DA Warner,WP Saha,KH Pandya,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,12.7,DA Warner,WP Saha,KH Pandya,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.1,DA Warner,WP Saha,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.2,WP Saha,DA Warner,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.3,DA Warner,WP Saha,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.4,WP Saha,DA Warner,DS Kulkarni,0,1,1,wides,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.5,WP Saha,DA Warner,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.6,WP Saha,DA Warner,DS Kulkarni,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,13.7,DA Warner,WP Saha,DS Kulkarni,2,0,2,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.1,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.2,WP Saha,DA Warner,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.3,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.4,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.5,DA Warner,WP Saha,NM Coulter-Nile,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,14.6,DA Warner,WP Saha,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.1,DA Warner,WP Saha,JL Pattinson,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.2,DA Warner,WP Saha,JL Pattinson,4,0,4,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.3,DA Warner,WP Saha,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.4,WP Saha,DA Warner,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.5,DA Warner,WP Saha,JL Pattinson,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,15.6,DA Warner,WP Saha,JL Pattinson,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.1,DA Warner,WP Saha,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.2,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.3,WP Saha,DA Warner,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.4,DA Warner,WP Saha,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.5,DA Warner,WP Saha,NM Coulter-Nile,1,0,1,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,16.6,WP Saha,DA Warner,NM Coulter-Nile,0,0,0,NA,0,NA,NA,NA,1
+1216495,2nd innings,Sunrisers Hyderabad,Mumbai Indians,17.1,DA Warner,WP Saha,KH Pandya,4,0,4,NA,0,NA,NA,NA,1

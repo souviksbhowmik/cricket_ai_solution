@@ -1,0 +1,249 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.1,MJ Guptill,M Vohra,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.2,MJ Guptill,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.3,MJ Guptill,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.4,MJ Guptill,M Vohra,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.5,MJ Guptill,M Vohra,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,0.6,MJ Guptill,M Vohra,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.1,M Vohra,MJ Guptill,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.2,M Vohra,MJ Guptill,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.3,MJ Guptill,M Vohra,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.4,MJ Guptill,M Vohra,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.5,M Vohra,MJ Guptill,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,1.6,MJ Guptill,M Vohra,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.1,M Vohra,MJ Guptill,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.2,M Vohra,MJ Guptill,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.3,M Vohra,MJ Guptill,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.4,MJ Guptill,M Vohra,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.5,M Vohra,MJ Guptill,UT Yadav,0,1,1,byes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.6,MJ Guptill,M Vohra,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,2.7,M Vohra,MJ Guptill,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.1,M Vohra,MJ Guptill,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.2,M Vohra,MJ Guptill,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.3,M Vohra,MJ Guptill,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.4,M Vohra,MJ Guptill,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.5,MJ Guptill,M Vohra,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,3.6,MJ Guptill,M Vohra,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.1,M Vohra,MJ Guptill,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.2,M Vohra,MJ Guptill,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.3,M Vohra,MJ Guptill,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.4,M Vohra,MJ Guptill,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.5,M Vohra,MJ Guptill,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.6,M Vohra,MJ Guptill,UT Yadav,0,0,0,NA,1,caught,M Vohra,RV Uthappa,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,4.7,SE Marsh,MJ Guptill,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.1,MJ Guptill,SE Marsh,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.2,SE Marsh,MJ Guptill,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.3,SE Marsh,MJ Guptill,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.4,MJ Guptill,SE Marsh,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.5,MJ Guptill,SE Marsh,SP Narine,0,0,0,NA,1,lbw,MJ Guptill,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,5.6,WP Saha,SE Marsh,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.1,SE Marsh,WP Saha,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.2,WP Saha,SE Marsh,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.3,SE Marsh,WP Saha,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.4,WP Saha,SE Marsh,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.5,WP Saha,SE Marsh,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,6.6,WP Saha,SE Marsh,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.1,WP Saha,SE Marsh,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.2,WP Saha,SE Marsh,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.3,WP Saha,SE Marsh,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.4,SE Marsh,WP Saha,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.5,SE Marsh,WP Saha,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,7.6,SE Marsh,WP Saha,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.1,WP Saha,SE Marsh,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.2,SE Marsh,WP Saha,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.3,SE Marsh,WP Saha,CR Woakes,0,1,1,wides,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.4,SE Marsh,WP Saha,CR Woakes,0,0,0,NA,1,bowled,SE Marsh,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.5,GJ Maxwell,WP Saha,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.6,GJ Maxwell,WP Saha,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,8.7,GJ Maxwell,WP Saha,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.1,GJ Maxwell,WP Saha,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.2,GJ Maxwell,WP Saha,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.3,WP Saha,GJ Maxwell,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.4,GJ Maxwell,WP Saha,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.5,GJ Maxwell,WP Saha,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.6,GJ Maxwell,WP Saha,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,9.7,WP Saha,GJ Maxwell,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.1,GJ Maxwell,WP Saha,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.2,WP Saha,GJ Maxwell,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.3,WP Saha,GJ Maxwell,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.4,WP Saha,GJ Maxwell,CR Woakes,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.5,WP Saha,GJ Maxwell,CR Woakes,0,1,1,byes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,10.6,GJ Maxwell,WP Saha,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.1,WP Saha,GJ Maxwell,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.2,GJ Maxwell,WP Saha,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.3,GJ Maxwell,WP Saha,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.4,GJ Maxwell,WP Saha,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.5,GJ Maxwell,WP Saha,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.6,GJ Maxwell,WP Saha,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,11.7,WP Saha,GJ Maxwell,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.1,GJ Maxwell,WP Saha,AS Rajpoot,0,1,1,legbyes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.2,WP Saha,GJ Maxwell,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.3,WP Saha,GJ Maxwell,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.4,GJ Maxwell,WP Saha,AS Rajpoot,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.5,GJ Maxwell,WP Saha,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,12.6,GJ Maxwell,WP Saha,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.1,GJ Maxwell,WP Saha,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.2,WP Saha,GJ Maxwell,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.3,WP Saha,GJ Maxwell,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.4,WP Saha,GJ Maxwell,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.5,GJ Maxwell,WP Saha,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,13.6,WP Saha,GJ Maxwell,Kuldeep Yadav,0,1,1,legbyes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.1,WP Saha,GJ Maxwell,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.2,GJ Maxwell,WP Saha,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.3,WP Saha,GJ Maxwell,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.4,WP Saha,GJ Maxwell,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.5,GJ Maxwell,WP Saha,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,14.6,GJ Maxwell,WP Saha,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.1,GJ Maxwell,WP Saha,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.2,GJ Maxwell,WP Saha,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.3,GJ Maxwell,WP Saha,Kuldeep Yadav,0,0,0,NA,1,caught,GJ Maxwell,CR Woakes,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.4,WP Saha,AR Patel,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.5,WP Saha,AR Patel,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,15.6,AR Patel,WP Saha,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.1,WP Saha,AR Patel,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.2,AR Patel,WP Saha,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.3,AR Patel,WP Saha,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.4,WP Saha,AR Patel,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.5,AR Patel,WP Saha,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,16.6,AR Patel,WP Saha,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.1,AR Patel,WP Saha,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.2,WP Saha,AR Patel,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.3,AR Patel,WP Saha,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.4,WP Saha,AR Patel,Kuldeep Yadav,6,0,6,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.5,WP Saha,AR Patel,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.6,WP Saha,AR Patel,Kuldeep Yadav,0,1,1,wides,1,stumped,WP Saha,RV Uthappa,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,17.7,Swapnil Singh,AR Patel,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.1,AR Patel,Swapnil Singh,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.2,Swapnil Singh,AR Patel,CR Woakes,0,0,0,NA,1,bowled,Swapnil Singh,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.3,R Tewatia,AR Patel,CR Woakes,0,0,0,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.4,R Tewatia,AR Patel,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.5,R Tewatia,AR Patel,CR Woakes,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,18.6,R Tewatia,AR Patel,CR Woakes,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.1,R Tewatia,AR Patel,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.2,AR Patel,R Tewatia,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.3,R Tewatia,AR Patel,AS Rajpoot,0,1,1,legbyes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.4,AR Patel,R Tewatia,AS Rajpoot,0,1,1,legbyes,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.5,R Tewatia,AR Patel,AS Rajpoot,4,0,4,NA,0,NA,NA,NA,1
+1082639,1st innings,Kings XI Punjab,Kolkata Knight Riders,19.6,R Tewatia,AR Patel,AS Rajpoot,1,0,1,NA,0,NA,NA,NA,1
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.1,SP Narine,CA Lynn,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.2,SP Narine,CA Lynn,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.3,SP Narine,CA Lynn,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.4,SP Narine,CA Lynn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.5,CA Lynn,SP Narine,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,0.6,CA Lynn,SP Narine,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.1,CA Lynn,SP Narine,MJ Henry,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.2,CA Lynn,SP Narine,MJ Henry,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.3,CA Lynn,SP Narine,MJ Henry,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.4,CA Lynn,SP Narine,MJ Henry,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.5,CA Lynn,SP Narine,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,1.6,SP Narine,CA Lynn,MJ Henry,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.1,CA Lynn,SP Narine,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.2,CA Lynn,SP Narine,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.3,CA Lynn,SP Narine,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.4,CA Lynn,SP Narine,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.5,CA Lynn,SP Narine,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,2.6,SP Narine,CA Lynn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.1,SP Narine,CA Lynn,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.2,SP Narine,CA Lynn,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.3,SP Narine,CA Lynn,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.4,SP Narine,CA Lynn,MM Sharma,0,0,0,NA,1,bowled,SP Narine,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.5,G Gambhir,CA Lynn,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,3.6,G Gambhir,CA Lynn,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.1,CA Lynn,G Gambhir,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.2,CA Lynn,G Gambhir,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.3,CA Lynn,G Gambhir,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.4,G Gambhir,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.5,G Gambhir,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,4.6,G Gambhir,CA Lynn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.1,G Gambhir,CA Lynn,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.2,CA Lynn,G Gambhir,MJ Henry,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.3,CA Lynn,G Gambhir,MJ Henry,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.4,CA Lynn,G Gambhir,MJ Henry,6,0,6,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.5,CA Lynn,G Gambhir,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,5.6,G Gambhir,CA Lynn,MJ Henry,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.1,CA Lynn,G Gambhir,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.2,G Gambhir,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.3,G Gambhir,CA Lynn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.4,CA Lynn,G Gambhir,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.5,CA Lynn,G Gambhir,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,6.6,G Gambhir,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.1,CA Lynn,G Gambhir,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.2,CA Lynn,G Gambhir,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.3,G Gambhir,CA Lynn,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.4,G Gambhir,CA Lynn,R Tewatia,0,1,1,legbyes,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.5,CA Lynn,G Gambhir,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,7.6,G Gambhir,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.1,G Gambhir,CA Lynn,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.2,CA Lynn,G Gambhir,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.3,G Gambhir,CA Lynn,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.4,CA Lynn,G Gambhir,Swapnil Singh,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.5,CA Lynn,G Gambhir,Swapnil Singh,0,1,1,wides,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.6,CA Lynn,G Gambhir,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,8.7,G Gambhir,CA Lynn,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.1,G Gambhir,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.2,CA Lynn,G Gambhir,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.3,G Gambhir,CA Lynn,R Tewatia,0,0,0,NA,1,caught,G Gambhir,SE Marsh,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.4,CA Lynn,RV Uthappa,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.5,RV Uthappa,CA Lynn,R Tewatia,0,0,0,NA,1,caught,RV Uthappa,AR Patel,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,9.6,CA Lynn,MK Pandey,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.1,MK Pandey,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.2,MK Pandey,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.3,MK Pandey,CA Lynn,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.4,MK Pandey,CA Lynn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.5,CA Lynn,MK Pandey,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,10.6,MK Pandey,CA Lynn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.1,MK Pandey,CA Lynn,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.2,MK Pandey,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.3,CA Lynn,MK Pandey,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.4,MK Pandey,CA Lynn,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.5,MK Pandey,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,11.6,CA Lynn,MK Pandey,R Tewatia,0,1,1,legbyes,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.1,CA Lynn,MK Pandey,Swapnil Singh,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.2,CA Lynn,MK Pandey,Swapnil Singh,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.3,CA Lynn,MK Pandey,Swapnil Singh,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.4,CA Lynn,MK Pandey,Swapnil Singh,6,0,6,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.5,CA Lynn,MK Pandey,Swapnil Singh,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,12.6,MK Pandey,CA Lynn,Swapnil Singh,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.1,CA Lynn,MK Pandey,R Tewatia,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.2,CA Lynn,MK Pandey,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.3,MK Pandey,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.4,CA Lynn,MK Pandey,R Tewatia,0,1,1,wides,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.5,CA Lynn,MK Pandey,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.6,MK Pandey,CA Lynn,R Tewatia,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,13.7,MK Pandey,CA Lynn,R Tewatia,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.1,MK Pandey,CA Lynn,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.2,CA Lynn,MK Pandey,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.3,CA Lynn,MK Pandey,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.4,CA Lynn,MK Pandey,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.5,CA Lynn,MK Pandey,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,14.6,MK Pandey,CA Lynn,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.1,CA Lynn,MK Pandey,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.2,MK Pandey,CA Lynn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.3,CA Lynn,MK Pandey,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.4,MK Pandey,CA Lynn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.5,CA Lynn,MK Pandey,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,15.6,MK Pandey,CA Lynn,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.1,MK Pandey,CA Lynn,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.2,CA Lynn,MK Pandey,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.3,MK Pandey,CA Lynn,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.4,MK Pandey,CA Lynn,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.5,MK Pandey,CA Lynn,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,16.6,CA Lynn,MK Pandey,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.1,MK Pandey,CA Lynn,MJ Henry,0,0,0,NA,1,caught,MK Pandey,AR Patel,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.2,CA Lynn,C de Grandhomme,MJ Henry,1,0,1,NA,1,run out,CA Lynn,AR Patel,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.3,YK Pathan,C de Grandhomme,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.4,C de Grandhomme,YK Pathan,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.5,YK Pathan,C de Grandhomme,MJ Henry,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,17.6,C de Grandhomme,YK Pathan,MJ Henry,4,0,4,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.1,YK Pathan,C de Grandhomme,MM Sharma,0,0,0,NA,1,caught,YK Pathan,GJ Maxwell,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.2,C de Grandhomme,CR Woakes,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.3,CR Woakes,C de Grandhomme,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.4,CR Woakes,C de Grandhomme,MM Sharma,6,0,6,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.5,CR Woakes,C de Grandhomme,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,18.6,C de Grandhomme,CR Woakes,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.1,C de Grandhomme,CR Woakes,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.2,CR Woakes,C de Grandhomme,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.3,C de Grandhomme,CR Woakes,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.4,C de Grandhomme,CR Woakes,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.5,CR Woakes,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1082639,2nd innings,Kolkata Knight Riders,Kings XI Punjab,19.6,CR Woakes,C de Grandhomme,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0

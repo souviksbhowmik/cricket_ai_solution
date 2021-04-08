@@ -1,0 +1,245 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.1,CA Lynn,Shubman Gill,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.2,CA Lynn,Shubman Gill,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.3,CA Lynn,Shubman Gill,VR Aaron,0,0,0,NA,1,bowled,CA Lynn,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.4,N Rana,Shubman Gill,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.5,N Rana,Shubman Gill,VR Aaron,0,4,4,legbyes,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,0.6,N Rana,Shubman Gill,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.1,Shubman Gill,N Rana,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.2,N Rana,Shubman Gill,O Thomas,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.3,N Rana,Shubman Gill,O Thomas,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.4,N Rana,Shubman Gill,O Thomas,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.5,N Rana,Shubman Gill,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,1.6,Shubman Gill,N Rana,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.1,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.2,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.3,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.4,Shubman Gill,N Rana,VR Aaron,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.5,N Rana,Shubman Gill,VR Aaron,2,0,2,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,2.6,N Rana,Shubman Gill,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.1,Shubman Gill,N Rana,O Thomas,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.2,Shubman Gill,N Rana,O Thomas,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.3,Shubman Gill,N Rana,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.4,N Rana,Shubman Gill,O Thomas,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.5,N Rana,Shubman Gill,O Thomas,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,3.6,N Rana,Shubman Gill,O Thomas,0,1,1,legbyes,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.1,N Rana,Shubman Gill,VR Aaron,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.2,Shubman Gill,N Rana,VR Aaron,2,0,2,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.3,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.4,Shubman Gill,N Rana,VR Aaron,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.5,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,4.6,Shubman Gill,N Rana,VR Aaron,0,0,0,NA,1,bowled,Shubman Gill,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.1,N Rana,KD Karthik,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.2,N Rana,KD Karthik,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.3,KD Karthik,N Rana,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.4,KD Karthik,N Rana,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.5,KD Karthik,N Rana,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,5.6,KD Karthik,N Rana,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.1,N Rana,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.2,N Rana,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.3,N Rana,KD Karthik,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.4,KD Karthik,N Rana,S Gopal,0,1,1,legbyes,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.5,N Rana,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,6.6,N Rana,KD Karthik,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.1,N Rana,KD Karthik,R Parag,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.2,N Rana,KD Karthik,R Parag,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.3,KD Karthik,N Rana,R Parag,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.4,KD Karthik,N Rana,R Parag,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.5,N Rana,KD Karthik,R Parag,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,7.6,N Rana,KD Karthik,R Parag,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.1,N Rana,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.2,N Rana,KD Karthik,S Gopal,0,0,0,NA,1,caught,N Rana,VR Aaron,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.3,SP Narine,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.4,SP Narine,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.5,SP Narine,KD Karthik,S Gopal,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,8.6,SP Narine,KD Karthik,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.1,KD Karthik,SP Narine,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.2,SP Narine,KD Karthik,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.3,KD Karthik,SP Narine,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.4,KD Karthik,SP Narine,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.5,SP Narine,KD Karthik,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,9.6,SP Narine,KD Karthik,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.1,KD Karthik,SP Narine,S Gopal,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.2,KD Karthik,SP Narine,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.3,KD Karthik,SP Narine,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.4,KD Karthik,SP Narine,S Gopal,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.5,KD Karthik,SP Narine,S Gopal,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,10.6,SP Narine,KD Karthik,S Gopal,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.1,KD Karthik,SP Narine,JC Archer,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.2,KD Karthik,SP Narine,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.3,KD Karthik,SP Narine,JC Archer,0,0,0,NA,1,run out,SP Narine,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.4,KD Karthik,AD Russell,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.5,KD Karthik,AD Russell,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,11.6,KD Karthik,AD Russell,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.1,KD Karthik,AD Russell,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.2,AD Russell,KD Karthik,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.3,KD Karthik,AD Russell,O Thomas,0,1,1,legbyes,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.4,AD Russell,KD Karthik,O Thomas,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.5,AD Russell,KD Karthik,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,12.6,KD Karthik,AD Russell,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.1,KD Karthik,AD Russell,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.2,KD Karthik,AD Russell,VR Aaron,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.3,KD Karthik,AD Russell,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.4,KD Karthik,AD Russell,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.5,KD Karthik,AD Russell,VR Aaron,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,13.6,KD Karthik,AD Russell,VR Aaron,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.1,AD Russell,KD Karthik,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.2,AD Russell,KD Karthik,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.3,KD Karthik,AD Russell,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.4,KD Karthik,AD Russell,JC Archer,0,1,1,wides,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.5,KD Karthik,AD Russell,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.6,AD Russell,KD Karthik,JC Archer,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,14.7,AD Russell,KD Karthik,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.1,AD Russell,KD Karthik,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.2,AD Russell,KD Karthik,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.3,AD Russell,KD Karthik,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.4,KD Karthik,AD Russell,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.5,KD Karthik,AD Russell,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,15.6,AD Russell,KD Karthik,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.1,AD Russell,KD Karthik,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.2,KD Karthik,AD Russell,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.3,AD Russell,KD Karthik,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.4,KD Karthik,AD Russell,O Thomas,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.5,AD Russell,KD Karthik,O Thomas,0,0,0,NA,1,caught,AD Russell,R Parag,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.6,CR Brathwaite,KD Karthik,O Thomas,1,1,2,noballs,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,16.7,KD Karthik,CR Brathwaite,O Thomas,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.1,CR Brathwaite,KD Karthik,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.2,CR Brathwaite,KD Karthik,JD Unadkat,0,0,0,NA,1,caught,CR Brathwaite,AM Rahane,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.3,KD Karthik,RK Singh,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.4,KD Karthik,RK Singh,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.5,KD Karthik,RK Singh,JD Unadkat,0,1,1,wides,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.6,KD Karthik,RK Singh,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,17.7,KD Karthik,RK Singh,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.1,KD Karthik,RK Singh,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.2,RK Singh,KD Karthik,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.3,KD Karthik,RK Singh,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.4,RK Singh,KD Karthik,JC Archer,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.5,KD Karthik,RK Singh,JC Archer,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,18.6,KD Karthik,RK Singh,JC Archer,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.1,RK Singh,KD Karthik,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.2,KD Karthik,RK Singh,JD Unadkat,4,0,4,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.3,KD Karthik,RK Singh,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.4,KD Karthik,RK Singh,JD Unadkat,0,0,0,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.5,KD Karthik,RK Singh,JD Unadkat,6,0,6,NA,0,NA,NA,NA,0
+1178418,1st innings,Kolkata Knight Riders,Rajasthan Royals,19.6,KD Karthik,RK Singh,JD Unadkat,1,0,1,NA,0,NA,NA,NA,0
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.1,AM Rahane,SV Samson,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.2,AM Rahane,SV Samson,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.3,AM Rahane,SV Samson,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.4,AM Rahane,SV Samson,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.5,AM Rahane,SV Samson,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,0.6,SV Samson,AM Rahane,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.1,AM Rahane,SV Samson,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.2,AM Rahane,SV Samson,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.3,AM Rahane,SV Samson,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.4,SV Samson,AM Rahane,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.5,SV Samson,AM Rahane,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,1.6,SV Samson,AM Rahane,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.1,SV Samson,AM Rahane,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.2,AM Rahane,SV Samson,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.3,AM Rahane,SV Samson,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.4,AM Rahane,SV Samson,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.5,SV Samson,AM Rahane,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,2.6,SV Samson,AM Rahane,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.1,SV Samson,AM Rahane,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.2,AM Rahane,SV Samson,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.3,SV Samson,AM Rahane,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.4,AM Rahane,SV Samson,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.5,SV Samson,AM Rahane,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,3.6,SV Samson,AM Rahane,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.1,AM Rahane,SV Samson,Y Prithvi Raj,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.2,AM Rahane,SV Samson,Y Prithvi Raj,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.3,AM Rahane,SV Samson,Y Prithvi Raj,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.4,AM Rahane,SV Samson,Y Prithvi Raj,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.5,AM Rahane,SV Samson,Y Prithvi Raj,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,4.6,AM Rahane,SV Samson,Y Prithvi Raj,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.1,AM Rahane,SV Samson,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.2,AM Rahane,SV Samson,SP Narine,0,0,0,NA,1,lbw,AM Rahane,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.3,SPD Smith,SV Samson,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.4,SV Samson,SPD Smith,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.5,SPD Smith,SV Samson,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,5.6,SPD Smith,SV Samson,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.1,SV Samson,SPD Smith,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.2,SV Samson,SPD Smith,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.3,SV Samson,SPD Smith,PP Chawla,0,0,0,NA,1,bowled,SV Samson,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.4,BA Stokes,SPD Smith,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.5,SPD Smith,BA Stokes,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,6.6,BA Stokes,SPD Smith,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.1,SPD Smith,BA Stokes,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.2,SPD Smith,BA Stokes,SP Narine,0,0,0,NA,1,bowled,SPD Smith,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.3,R Parag,BA Stokes,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.4,R Parag,BA Stokes,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.5,R Parag,BA Stokes,SP Narine,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,7.6,R Parag,BA Stokes,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.1,BA Stokes,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.2,BA Stokes,R Parag,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.3,R Parag,BA Stokes,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.4,R Parag,BA Stokes,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.5,BA Stokes,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,8.6,BA Stokes,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.1,R Parag,BA Stokes,Y Prithvi Raj,0,1,1,wides,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.2,R Parag,BA Stokes,Y Prithvi Raj,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.3,BA Stokes,R Parag,Y Prithvi Raj,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.4,BA Stokes,R Parag,Y Prithvi Raj,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.5,BA Stokes,R Parag,Y Prithvi Raj,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.6,R Parag,BA Stokes,Y Prithvi Raj,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,9.7,R Parag,BA Stokes,Y Prithvi Raj,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.1,BA Stokes,R Parag,PP Chawla,0,0,0,NA,1,caught,BA Stokes,AD Russell,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.2,R Parag,STR Binny,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.3,STR Binny,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.4,STR Binny,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.5,STR Binny,R Parag,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,10.6,STR Binny,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.1,R Parag,STR Binny,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.2,R Parag,STR Binny,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.3,R Parag,STR Binny,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.4,STR Binny,R Parag,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.5,STR Binny,R Parag,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.6,STR Binny,R Parag,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.7,STR Binny,R Parag,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.8,STR Binny,R Parag,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,11.9,R Parag,STR Binny,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.1,STR Binny,R Parag,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.2,STR Binny,R Parag,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.3,STR Binny,R Parag,PP Chawla,0,0,0,NA,1,caught,STR Binny,RK Singh,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.4,S Gopal,R Parag,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.5,R Parag,S Gopal,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,12.6,R Parag,S Gopal,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.1,S Gopal,R Parag,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.2,S Gopal,R Parag,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.3,R Parag,S Gopal,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.4,R Parag,S Gopal,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.5,R Parag,S Gopal,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,13.6,S Gopal,R Parag,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.1,R Parag,S Gopal,N Rana,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.2,R Parag,S Gopal,N Rana,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.3,S Gopal,R Parag,N Rana,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.4,S Gopal,R Parag,N Rana,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.5,S Gopal,R Parag,N Rana,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,14.6,S Gopal,R Parag,N Rana,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.1,R Parag,S Gopal,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.2,S Gopal,R Parag,M Prasidh Krishna,0,0,0,NA,1,caught,S Gopal,Shubman Gill,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.3,R Parag,JC Archer,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.4,JC Archer,R Parag,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.5,JC Archer,R Parag,M Prasidh Krishna,0,1,1,wides,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.6,JC Archer,R Parag,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,15.7,JC Archer,R Parag,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.1,JC Archer,R Parag,SP Narine,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.2,JC Archer,R Parag,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.3,R Parag,JC Archer,SP Narine,2,0,2,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.4,R Parag,JC Archer,SP Narine,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.5,R Parag,JC Archer,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,16.6,JC Archer,R Parag,SP Narine,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.1,JC Archer,R Parag,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.2,R Parag,JC Archer,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.3,JC Archer,R Parag,M Prasidh Krishna,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.4,R Parag,JC Archer,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.5,R Parag,JC Archer,M Prasidh Krishna,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,17.6,R Parag,JC Archer,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.1,JC Archer,R Parag,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.2,R Parag,JC Archer,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.3,JC Archer,R Parag,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.4,R Parag,JC Archer,AD Russell,6,0,6,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.5,R Parag,JC Archer,AD Russell,0,0,0,NA,1,hit wicket,R Parag,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,18.6,JD Unadkat,JC Archer,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,19.1,JC Archer,JD Unadkat,M Prasidh Krishna,4,0,4,NA,0,NA,NA,NA,1
+1178418,2nd innings,Rajasthan Royals,Kolkata Knight Riders,19.2,JC Archer,JD Unadkat,M Prasidh Krishna,6,0,6,NA,0,NA,NA,NA,1

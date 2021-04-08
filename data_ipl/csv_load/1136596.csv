@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.1,PP Shaw,GJ Maxwell,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.2,PP Shaw,GJ Maxwell,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.3,PP Shaw,GJ Maxwell,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.4,GJ Maxwell,PP Shaw,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.5,PP Shaw,GJ Maxwell,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,0.6,PP Shaw,GJ Maxwell,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.1,GJ Maxwell,PP Shaw,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.2,GJ Maxwell,PP Shaw,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.3,PP Shaw,GJ Maxwell,Sandeep Sharma,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.4,PP Shaw,GJ Maxwell,Sandeep Sharma,0,0,0,NA,1,run out,GJ Maxwell,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.5,PP Shaw,SS Iyer,Sandeep Sharma,0,1,1,wides,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.6,PP Shaw,SS Iyer,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,1.7,PP Shaw,SS Iyer,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.1,PP Shaw,SS Iyer,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.2,PP Shaw,SS Iyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.3,PP Shaw,SS Iyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.4,SS Iyer,PP Shaw,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.5,PP Shaw,SS Iyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,2.6,PP Shaw,SS Iyer,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.1,SS Iyer,PP Shaw,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.2,SS Iyer,PP Shaw,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.3,PP Shaw,SS Iyer,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.4,SS Iyer,PP Shaw,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.5,PP Shaw,SS Iyer,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,3.6,PP Shaw,SS Iyer,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.1,SS Iyer,PP Shaw,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.2,PP Shaw,SS Iyer,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.3,SS Iyer,PP Shaw,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.4,SS Iyer,PP Shaw,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.5,SS Iyer,PP Shaw,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,4.6,SS Iyer,PP Shaw,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.1,PP Shaw,SS Iyer,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.2,SS Iyer,PP Shaw,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.3,PP Shaw,SS Iyer,S Kaul,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.4,PP Shaw,SS Iyer,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.5,PP Shaw,SS Iyer,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,5.6,PP Shaw,SS Iyer,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.1,SS Iyer,PP Shaw,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.2,PP Shaw,SS Iyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.3,SS Iyer,PP Shaw,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.4,PP Shaw,SS Iyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.5,SS Iyer,PP Shaw,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,6.6,PP Shaw,SS Iyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.1,PP Shaw,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.2,SS Iyer,PP Shaw,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.3,PP Shaw,SS Iyer,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.4,PP Shaw,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.5,SS Iyer,PP Shaw,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,7.6,PP Shaw,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.1,PP Shaw,SS Iyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.2,SS Iyer,PP Shaw,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.3,SS Iyer,PP Shaw,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.4,SS Iyer,PP Shaw,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.5,SS Iyer,PP Shaw,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,8.6,PP Shaw,SS Iyer,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.1,SS Iyer,PP Shaw,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.2,SS Iyer,PP Shaw,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.3,PP Shaw,SS Iyer,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.4,SS Iyer,PP Shaw,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.5,PP Shaw,SS Iyer,Sandeep Sharma,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,9.6,PP Shaw,SS Iyer,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.1,PP Shaw,SS Iyer,Rashid Khan,0,0,0,NA,1,caught,PP Shaw,S Kaul,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.2,RR Pant,SS Iyer,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.3,RR Pant,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.4,SS Iyer,RR Pant,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.5,RR Pant,SS Iyer,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,10.6,RR Pant,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.1,RR Pant,SS Iyer,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.2,SS Iyer,RR Pant,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.3,SS Iyer,RR Pant,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.4,SS Iyer,RR Pant,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.5,RR Pant,SS Iyer,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,11.6,SS Iyer,RR Pant,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.1,RR Pant,SS Iyer,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.2,RR Pant,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.3,SS Iyer,RR Pant,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.4,SS Iyer,RR Pant,Rashid Khan,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.5,SS Iyer,RR Pant,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,12.6,RR Pant,SS Iyer,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.1,RR Pant,SS Iyer,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.2,RR Pant,SS Iyer,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.3,SS Iyer,RR Pant,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.4,RR Pant,SS Iyer,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.5,SS Iyer,RR Pant,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,13.6,RR Pant,SS Iyer,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.1,SS Iyer,RR Pant,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.2,RR Pant,SS Iyer,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.3,RR Pant,SS Iyer,Sandeep Sharma,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.4,RR Pant,SS Iyer,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.5,SS Iyer,RR Pant,Sandeep Sharma,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,14.6,SS Iyer,RR Pant,Sandeep Sharma,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.1,SS Iyer,RR Pant,S Kaul,0,0,0,NA,1,caught,SS Iyer,S Dhawan,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.2,NV Ojha,RR Pant,S Kaul,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.3,NV Ojha,RR Pant,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.4,RR Pant,NV Ojha,S Kaul,0,1,1,wides,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.5,RR Pant,NV Ojha,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.6,NV Ojha,RR Pant,S Kaul,0,1,1,legbyes,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,15.7,RR Pant,NV Ojha,S Kaul,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.1,NV Ojha,RR Pant,Rashid Khan,0,0,0,NA,1,run out,NV Ojha,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.2,V Shankar,RR Pant,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.3,V Shankar,RR Pant,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.4,V Shankar,RR Pant,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.5,RR Pant,V Shankar,Rashid Khan,0,0,0,NA,1,lbw,RR Pant,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,16.6,DT Christian,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.1,DT Christian,V Shankar,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.2,DT Christian,V Shankar,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.3,DT Christian,V Shankar,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.4,V Shankar,DT Christian,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.5,DT Christian,V Shankar,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,17.6,DT Christian,V Shankar,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.1,V Shankar,DT Christian,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.2,DT Christian,V Shankar,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.3,V Shankar,DT Christian,S Kaul,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.4,V Shankar,DT Christian,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.5,DT Christian,V Shankar,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,18.6,V Shankar,DT Christian,S Kaul,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.1,V Shankar,DT Christian,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.2,V Shankar,DT Christian,B Kumar,6,0,6,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.3,V Shankar,DT Christian,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.4,DT Christian,V Shankar,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.5,V Shankar,DT Christian,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1136596,1st innings,Delhi Daredevils,Sunrisers Hyderabad,19.6,V Shankar,DT Christian,B Kumar,3,0,3,NA,0,NA,NA,NA,0
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.1,AD Hales,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.2,AD Hales,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.3,AD Hales,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.4,S Dhawan,AD Hales,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.5,S Dhawan,AD Hales,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,0.6,S Dhawan,AD Hales,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.1,AD Hales,S Dhawan,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.2,AD Hales,S Dhawan,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.3,AD Hales,S Dhawan,Avesh Khan,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.4,AD Hales,S Dhawan,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.5,S Dhawan,AD Hales,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,1.6,S Dhawan,AD Hales,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.1,S Dhawan,AD Hales,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.2,AD Hales,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.3,S Dhawan,AD Hales,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.4,S Dhawan,AD Hales,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.5,AD Hales,S Dhawan,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.6,AD Hales,S Dhawan,TA Boult,0,2,2,wides,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,2.7,S Dhawan,AD Hales,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.1,S Dhawan,AD Hales,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.2,S Dhawan,AD Hales,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.3,AD Hales,S Dhawan,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.4,AD Hales,S Dhawan,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.5,S Dhawan,AD Hales,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,3.6,AD Hales,S Dhawan,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.1,AD Hales,S Dhawan,LE Plunkett,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.2,AD Hales,S Dhawan,LE Plunkett,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.3,AD Hales,S Dhawan,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.4,S Dhawan,AD Hales,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.5,AD Hales,S Dhawan,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,4.6,S Dhawan,AD Hales,LE Plunkett,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.1,AD Hales,S Dhawan,Avesh Khan,1,1,2,noballs,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.2,S Dhawan,AD Hales,Avesh Khan,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.3,S Dhawan,AD Hales,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.4,AD Hales,S Dhawan,Avesh Khan,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.5,AD Hales,S Dhawan,Avesh Khan,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.6,AD Hales,S Dhawan,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,5.7,AD Hales,S Dhawan,Avesh Khan,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.1,S Dhawan,AD Hales,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.2,AD Hales,S Dhawan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.3,S Dhawan,AD Hales,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.4,AD Hales,S Dhawan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.5,AD Hales,S Dhawan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,6.6,AD Hales,S Dhawan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.1,S Dhawan,AD Hales,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.2,AD Hales,S Dhawan,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.3,S Dhawan,AD Hales,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.4,AD Hales,S Dhawan,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.5,AD Hales,S Dhawan,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,7.6,S Dhawan,AD Hales,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.1,AD Hales,S Dhawan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.2,S Dhawan,AD Hales,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.3,AD Hales,S Dhawan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.4,S Dhawan,AD Hales,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.5,S Dhawan,AD Hales,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,8.6,AD Hales,S Dhawan,A Mishra,0,0,0,NA,1,bowled,AD Hales,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.1,S Dhawan,KS Williamson,DT Christian,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.2,S Dhawan,KS Williamson,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.3,KS Williamson,S Dhawan,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.4,S Dhawan,KS Williamson,DT Christian,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.5,S Dhawan,KS Williamson,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,9.6,KS Williamson,S Dhawan,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.1,KS Williamson,S Dhawan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.2,KS Williamson,S Dhawan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.3,S Dhawan,KS Williamson,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.4,KS Williamson,S Dhawan,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.5,KS Williamson,S Dhawan,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.6,S Dhawan,KS Williamson,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,10.7,S Dhawan,KS Williamson,A Mishra,0,0,0,NA,1,bowled,S Dhawan,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.1,KS Williamson,MK Pandey,LE Plunkett,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.2,KS Williamson,MK Pandey,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.3,MK Pandey,KS Williamson,LE Plunkett,0,1,1,wides,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.4,MK Pandey,KS Williamson,LE Plunkett,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.5,MK Pandey,KS Williamson,LE Plunkett,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.6,MK Pandey,KS Williamson,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,11.7,KS Williamson,MK Pandey,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.1,KS Williamson,MK Pandey,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.2,KS Williamson,MK Pandey,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.3,KS Williamson,MK Pandey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.4,MK Pandey,KS Williamson,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.5,KS Williamson,MK Pandey,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,12.6,MK Pandey,KS Williamson,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.1,MK Pandey,KS Williamson,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.2,KS Williamson,MK Pandey,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.3,MK Pandey,KS Williamson,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.4,KS Williamson,MK Pandey,LE Plunkett,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.5,KS Williamson,MK Pandey,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,13.6,MK Pandey,KS Williamson,LE Plunkett,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.1,KS Williamson,MK Pandey,DT Christian,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.2,KS Williamson,MK Pandey,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.3,MK Pandey,KS Williamson,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.4,KS Williamson,MK Pandey,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.5,MK Pandey,KS Williamson,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,14.6,MK Pandey,KS Williamson,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.1,KS Williamson,MK Pandey,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.2,KS Williamson,MK Pandey,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.3,MK Pandey,KS Williamson,Avesh Khan,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.4,MK Pandey,KS Williamson,Avesh Khan,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.5,KS Williamson,MK Pandey,Avesh Khan,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,15.6,KS Williamson,MK Pandey,Avesh Khan,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.1,MK Pandey,KS Williamson,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.2,KS Williamson,MK Pandey,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.3,MK Pandey,KS Williamson,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.4,MK Pandey,KS Williamson,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.5,KS Williamson,MK Pandey,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,16.6,KS Williamson,MK Pandey,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.1,MK Pandey,KS Williamson,LE Plunkett,0,0,0,NA,1,caught,MK Pandey,PP Shaw,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.2,KS Williamson,YK Pathan,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.3,YK Pathan,KS Williamson,LE Plunkett,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.4,YK Pathan,KS Williamson,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.5,KS Williamson,YK Pathan,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,17.6,YK Pathan,KS Williamson,LE Plunkett,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.1,YK Pathan,KS Williamson,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.2,YK Pathan,KS Williamson,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.3,YK Pathan,KS Williamson,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.4,YK Pathan,KS Williamson,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.5,YK Pathan,KS Williamson,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.6,KS Williamson,YK Pathan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,18.7,YK Pathan,KS Williamson,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,19.1,YK Pathan,KS Williamson,DT Christian,2,0,2,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,19.2,YK Pathan,KS Williamson,DT Christian,6,0,6,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,19.3,YK Pathan,KS Williamson,DT Christian,4,0,4,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,19.4,YK Pathan,KS Williamson,DT Christian,1,0,1,NA,0,NA,NA,NA,1
+1136596,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,19.5,KS Williamson,YK Pathan,DT Christian,1,0,1,NA,0,NA,NA,NA,1

@@ -1,0 +1,238 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.1,KL Rahul,MA Agarwal,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.2,KL Rahul,MA Agarwal,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.3,KL Rahul,MA Agarwal,CR Woakes,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.4,KL Rahul,MA Agarwal,CR Woakes,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.5,KL Rahul,MA Agarwal,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,0.6,KL Rahul,MA Agarwal,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.1,MA Agarwal,KL Rahul,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.2,MA Agarwal,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.3,MA Agarwal,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.4,MA Agarwal,KL Rahul,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.5,MA Agarwal,KL Rahul,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,1.6,KL Rahul,MA Agarwal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.1,MA Agarwal,KL Rahul,K Khejroliya,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.2,MA Agarwal,KL Rahul,K Khejroliya,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.3,MA Agarwal,KL Rahul,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.4,KL Rahul,MA Agarwal,K Khejroliya,0,1,1,legbyes,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.5,MA Agarwal,KL Rahul,K Khejroliya,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,2.6,MA Agarwal,KL Rahul,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.1,MA Agarwal,KL Rahul,UT Yadav,0,0,0,NA,1,caught,MA Agarwal,Q de Kock,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.2,AJ Finch,KL Rahul,UT Yadav,0,0,0,NA,1,lbw,AJ Finch,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.3,Yuvraj Singh,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.4,Yuvraj Singh,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.5,Yuvraj Singh,KL Rahul,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,3.6,Yuvraj Singh,KL Rahul,UT Yadav,0,0,0,NA,1,bowled,Yuvraj Singh,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.1,KL Rahul,KK Nair,K Khejroliya,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.2,KL Rahul,KK Nair,K Khejroliya,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.3,KL Rahul,KK Nair,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.4,KK Nair,KL Rahul,K Khejroliya,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.5,KK Nair,KL Rahul,K Khejroliya,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,4.6,KK Nair,KL Rahul,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.1,KK Nair,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.2,KK Nair,KL Rahul,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.3,KL Rahul,KK Nair,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.4,KL Rahul,KK Nair,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.5,KL Rahul,KK Nair,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,5.6,KK Nair,KL Rahul,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.1,KL Rahul,KK Nair,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.2,KL Rahul,KK Nair,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.3,KK Nair,KL Rahul,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.4,KL Rahul,KK Nair,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.5,KL Rahul,KK Nair,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,6.6,KL Rahul,KK Nair,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.1,KL Rahul,KK Nair,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.2,KL Rahul,KK Nair,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.3,KK Nair,KL Rahul,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.4,KK Nair,KL Rahul,CR Woakes,0,1,1,wides,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.5,KK Nair,KL Rahul,CR Woakes,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.6,KK Nair,KL Rahul,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,7.7,KL Rahul,KK Nair,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.1,KL Rahul,KK Nair,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.2,KK Nair,KL Rahul,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.3,KL Rahul,KK Nair,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.4,KK Nair,KL Rahul,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.5,KK Nair,KL Rahul,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,8.6,KL Rahul,KK Nair,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.1,KK Nair,KL Rahul,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.2,KL Rahul,KK Nair,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.3,KK Nair,KL Rahul,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.4,KL Rahul,KK Nair,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.5,KK Nair,KL Rahul,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,9.6,KK Nair,KL Rahul,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.1,KK Nair,KL Rahul,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.2,KK Nair,KL Rahul,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.3,KL Rahul,KK Nair,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.4,KL Rahul,KK Nair,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.5,KK Nair,KL Rahul,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,10.6,KK Nair,KL Rahul,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.1,KL Rahul,KK Nair,Washington Sundar,0,0,0,NA,1,caught,KL Rahul,SN Khan,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.2,MP Stoinis,KK Nair,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.3,MP Stoinis,KK Nair,Washington Sundar,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.4,MP Stoinis,KK Nair,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.5,KK Nair,MP Stoinis,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,11.6,MP Stoinis,KK Nair,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.1,KK Nair,MP Stoinis,K Khejroliya,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.2,KK Nair,MP Stoinis,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.3,MP Stoinis,KK Nair,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.4,KK Nair,MP Stoinis,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.5,MP Stoinis,KK Nair,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,12.6,KK Nair,MP Stoinis,K Khejroliya,0,0,0,NA,1,bowled,KK Nair,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.1,MP Stoinis,AR Patel,Washington Sundar,0,1,1,legbyes,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.2,AR Patel,MP Stoinis,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.3,MP Stoinis,AR Patel,Washington Sundar,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.4,MP Stoinis,AR Patel,Washington Sundar,0,0,0,NA,1,stumped,MP Stoinis,Q de Kock,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.5,R Ashwin,AR Patel,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,13.6,R Ashwin,AR Patel,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.1,R Ashwin,AR Patel,K Khejroliya,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.2,R Ashwin,AR Patel,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.3,AR Patel,R Ashwin,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.4,R Ashwin,AR Patel,K Khejroliya,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.5,R Ashwin,AR Patel,K Khejroliya,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,14.6,AR Patel,R Ashwin,K Khejroliya,0,0,0,NA,1,lbw,AR Patel,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.1,R Ashwin,AJ Tye,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.2,AJ Tye,R Ashwin,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.3,R Ashwin,AJ Tye,Washington Sundar,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.4,R Ashwin,AJ Tye,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.5,AJ Tye,R Ashwin,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,15.6,R Ashwin,AJ Tye,Washington Sundar,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.1,R Ashwin,AJ Tye,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.2,AJ Tye,R Ashwin,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.3,R Ashwin,AJ Tye,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.4,R Ashwin,AJ Tye,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.5,AJ Tye,R Ashwin,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,16.6,AJ Tye,R Ashwin,UT Yadav,3,0,3,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.1,AJ Tye,R Ashwin,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.2,R Ashwin,AJ Tye,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.3,R Ashwin,AJ Tye,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.4,R Ashwin,AJ Tye,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.5,AJ Tye,R Ashwin,CR Woakes,0,1,1,wides,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.6,AJ Tye,R Ashwin,CR Woakes,0,0,0,NA,1,caught,AJ Tye,V Kohli,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,17.7,R Ashwin,MM Sharma,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.1,R Ashwin,MM Sharma,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.2,MM Sharma,R Ashwin,YS Chahal,0,1,1,legbyes,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.3,R Ashwin,MM Sharma,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.4,R Ashwin,MM Sharma,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.5,R Ashwin,MM Sharma,YS Chahal,0,0,0,NA,1,stumped,R Ashwin,Q de Kock,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,18.6,Mujeeb Ur Rahman,MM Sharma,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.1,MM Sharma,Mujeeb Ur Rahman,CR Woakes,0,1,1,wides,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.2,MM Sharma,Mujeeb Ur Rahman,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+1136568,1st innings,Kings XI Punjab,Royal Challengers Bangalore,19.3,Mujeeb Ur Rahman,MM Sharma,CR Woakes,0,0,0,NA,1,caught,Mujeeb Ur Rahman,SN Khan,0
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.1,Q de Kock,BB McCullum,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.2,BB McCullum,Q de Kock,AR Patel,0,0,0,NA,1,caught,BB McCullum,Mujeeb Ur Rahman,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.3,V Kohli,Q de Kock,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.4,V Kohli,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.5,V Kohli,Q de Kock,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,0.6,Q de Kock,V Kohli,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.1,V Kohli,Q de Kock,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.2,V Kohli,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.3,V Kohli,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.4,Q de Kock,V Kohli,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.5,Q de Kock,V Kohli,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,1.6,Q de Kock,V Kohli,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.1,V Kohli,Q de Kock,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.2,Q de Kock,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.3,Q de Kock,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.4,Q de Kock,V Kohli,Mujeeb Ur Rahman,0,1,1,legbyes,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.5,V Kohli,Q de Kock,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,2.6,Q de Kock,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.1,V Kohli,Q de Kock,AJ Tye,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.2,V Kohli,Q de Kock,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.3,V Kohli,Q de Kock,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.4,Q de Kock,V Kohli,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.5,V Kohli,Q de Kock,AJ Tye,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,3.6,V Kohli,Q de Kock,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.1,Q de Kock,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.2,Q de Kock,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.3,V Kohli,Q de Kock,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.4,V Kohli,Q de Kock,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.5,V Kohli,Q de Kock,Mujeeb Ur Rahman,0,0,0,NA,1,bowled,V Kohli,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,4.6,AB de Villiers,Q de Kock,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.1,Q de Kock,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.2,Q de Kock,AB de Villiers,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.3,Q de Kock,AB de Villiers,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.4,AB de Villiers,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.5,Q de Kock,AB de Villiers,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,5.6,AB de Villiers,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.1,AB de Villiers,Q de Kock,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.2,Q de Kock,AB de Villiers,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.3,Q de Kock,AB de Villiers,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.4,Q de Kock,AB de Villiers,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.5,AB de Villiers,Q de Kock,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,6.6,AB de Villiers,Q de Kock,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.1,AB de Villiers,Q de Kock,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.2,AB de Villiers,Q de Kock,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.3,Q de Kock,AB de Villiers,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.4,Q de Kock,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.5,AB de Villiers,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,7.6,AB de Villiers,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.1,Q de Kock,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.2,Q de Kock,AB de Villiers,AR Patel,0,1,1,legbyes,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.3,AB de Villiers,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.4,AB de Villiers,Q de Kock,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.5,AB de Villiers,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,8.6,AB de Villiers,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.1,Q de Kock,AB de Villiers,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.2,AB de Villiers,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.3,Q de Kock,AB de Villiers,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.4,Q de Kock,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.5,Q de Kock,AB de Villiers,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,9.6,Q de Kock,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.1,AB de Villiers,Q de Kock,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.2,Q de Kock,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.3,Q de Kock,AB de Villiers,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.4,Q de Kock,AB de Villiers,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.5,Q de Kock,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,10.6,AB de Villiers,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.1,Q de Kock,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.2,Q de Kock,AB de Villiers,R Ashwin,0,0,0,NA,1,bowled,Q de Kock,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.3,SN Khan,AB de Villiers,R Ashwin,0,0,0,NA,1,caught,SN Khan,KK Nair,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.4,Mandeep Singh,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.5,Mandeep Singh,AB de Villiers,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,11.6,AB de Villiers,Mandeep Singh,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.1,Mandeep Singh,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.2,AB de Villiers,Mandeep Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.3,Mandeep Singh,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.4,AB de Villiers,Mandeep Singh,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.5,Mandeep Singh,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,12.6,AB de Villiers,Mandeep Singh,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.1,Mandeep Singh,AB de Villiers,AJ Tye,0,1,1,wides,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.2,Mandeep Singh,AB de Villiers,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.3,AB de Villiers,Mandeep Singh,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.4,Mandeep Singh,AB de Villiers,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.5,AB de Villiers,Mandeep Singh,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.6,AB de Villiers,Mandeep Singh,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,13.7,Mandeep Singh,AB de Villiers,AJ Tye,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.1,AB de Villiers,Mandeep Singh,MM Sharma,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.2,AB de Villiers,Mandeep Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.3,Mandeep Singh,AB de Villiers,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.4,Mandeep Singh,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.5,AB de Villiers,Mandeep Singh,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,14.6,AB de Villiers,Mandeep Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.1,AB de Villiers,Mandeep Singh,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.2,Mandeep Singh,AB de Villiers,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.3,AB de Villiers,Mandeep Singh,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.4,AB de Villiers,Mandeep Singh,AJ Tye,0,1,1,legbyes,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.5,Mandeep Singh,AB de Villiers,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,15.6,AB de Villiers,Mandeep Singh,AJ Tye,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.1,Mandeep Singh,AB de Villiers,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.2,AB de Villiers,Mandeep Singh,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.3,Mandeep Singh,AB de Villiers,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.4,Mandeep Singh,AB de Villiers,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.5,AB de Villiers,Mandeep Singh,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,16.6,AB de Villiers,Mandeep Singh,Mujeeb Ur Rahman,6,0,6,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.1,Mandeep Singh,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.2,AB de Villiers,Mandeep Singh,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.3,AB de Villiers,Mandeep Singh,MM Sharma,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.4,AB de Villiers,Mandeep Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.5,Mandeep Singh,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,17.6,AB de Villiers,Mandeep Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.1,AB de Villiers,Mandeep Singh,AJ Tye,0,0,0,NA,1,caught,AB de Villiers,KK Nair,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.2,CR Woakes,Mandeep Singh,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.3,Mandeep Singh,CR Woakes,AJ Tye,2,0,2,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.4,Mandeep Singh,CR Woakes,AJ Tye,1,0,1,NA,1,run out,Mandeep Singh,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.5,Washington Sundar,CR Woakes,AJ Tye,1,0,1,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,18.6,CR Woakes,Washington Sundar,AJ Tye,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.1,Washington Sundar,CR Woakes,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.2,Washington Sundar,CR Woakes,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+1136568,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,19.3,Washington Sundar,CR Woakes,MM Sharma,4,0,4,NA,0,NA,NA,NA,1

@@ -1,0 +1,247 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.1,BB McCullum,VVS Laxman,AC Thomas,0,0,0,NA,1,caught,BB McCullum,RV Uthappa,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.2,PA Patel,VVS Laxman,AC Thomas,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.3,PA Patel,VVS Laxman,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.4,PA Patel,VVS Laxman,AC Thomas,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.5,PA Patel,VVS Laxman,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,0.6,PA Patel,VVS Laxman,AC Thomas,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.1,PA Patel,VVS Laxman,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.2,PA Patel,VVS Laxman,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.3,PA Patel,VVS Laxman,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.4,PA Patel,VVS Laxman,SB Wagh,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.5,VVS Laxman,PA Patel,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,1.6,VVS Laxman,PA Patel,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.1,PA Patel,VVS Laxman,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.2,VVS Laxman,PA Patel,WD Parnell,0,0,0,NA,1,bowled,VVS Laxman,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.3,DPMD Jayawardene,PA Patel,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.4,DPMD Jayawardene,PA Patel,WD Parnell,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.5,DPMD Jayawardene,PA Patel,WD Parnell,0,0,0,NA,1,caught,DPMD Jayawardene,RV Uthappa,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,2.6,BJ Hodge,PA Patel,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.1,PA Patel,BJ Hodge,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.2,PA Patel,BJ Hodge,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.3,PA Patel,BJ Hodge,SB Wagh,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.4,PA Patel,BJ Hodge,SB Wagh,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.5,PA Patel,BJ Hodge,SB Wagh,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,3.6,BJ Hodge,PA Patel,SB Wagh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.1,PA Patel,BJ Hodge,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.2,PA Patel,BJ Hodge,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.3,BJ Hodge,PA Patel,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.4,PA Patel,BJ Hodge,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.5,PA Patel,BJ Hodge,WD Parnell,0,0,0,NA,1,caught,PA Patel,GC Smith,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,4.6,RA Jadeja,BJ Hodge,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.1,BJ Hodge,RA Jadeja,AC Thomas,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.2,BJ Hodge,RA Jadeja,AC Thomas,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.3,BJ Hodge,RA Jadeja,AC Thomas,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.4,RA Jadeja,BJ Hodge,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.5,RA Jadeja,BJ Hodge,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,5.6,RA Jadeja,BJ Hodge,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.1,BJ Hodge,RA Jadeja,M Kartik,3,0,3,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.2,RA Jadeja,BJ Hodge,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.3,RA Jadeja,BJ Hodge,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.4,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.5,RA Jadeja,BJ Hodge,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,6.6,RA Jadeja,BJ Hodge,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.1,BJ Hodge,RA Jadeja,R Sharma,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.2,BJ Hodge,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.3,BJ Hodge,RA Jadeja,R Sharma,0,2,2,legbyes,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.4,BJ Hodge,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.5,BJ Hodge,RA Jadeja,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,7.6,RA Jadeja,BJ Hodge,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.1,BJ Hodge,RA Jadeja,M Kartik,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.2,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.3,RA Jadeja,BJ Hodge,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.4,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.5,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,8.6,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.1,RA Jadeja,BJ Hodge,Yuvraj Singh,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.2,RA Jadeja,BJ Hodge,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.3,RA Jadeja,BJ Hodge,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.4,BJ Hodge,RA Jadeja,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.5,RA Jadeja,BJ Hodge,Yuvraj Singh,6,0,6,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,9.6,RA Jadeja,BJ Hodge,Yuvraj Singh,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.1,BJ Hodge,RA Jadeja,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.2,RA Jadeja,BJ Hodge,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.3,RA Jadeja,BJ Hodge,R Sharma,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.4,RA Jadeja,BJ Hodge,R Sharma,6,0,6,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.5,RA Jadeja,BJ Hodge,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,10.6,RA Jadeja,BJ Hodge,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.1,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.2,BJ Hodge,RA Jadeja,M Kartik,6,0,6,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.3,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.4,RA Jadeja,BJ Hodge,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.5,RA Jadeja,BJ Hodge,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,11.6,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.1,BJ Hodge,RA Jadeja,JD Ryder,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.2,BJ Hodge,RA Jadeja,JD Ryder,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.3,BJ Hodge,RA Jadeja,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.4,RA Jadeja,BJ Hodge,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.5,BJ Hodge,RA Jadeja,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,12.6,RA Jadeja,BJ Hodge,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.1,RA Jadeja,BJ Hodge,M Kartik,0,1,1,wides,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.2,RA Jadeja,BJ Hodge,M Kartik,1,1,2,noballs,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.3,BJ Hodge,RA Jadeja,M Kartik,6,0,6,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.4,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.5,RA Jadeja,BJ Hodge,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.6,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.7,BJ Hodge,RA Jadeja,M Kartik,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,13.8,BJ Hodge,RA Jadeja,M Kartik,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.1,BJ Hodge,RA Jadeja,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.2,RA Jadeja,BJ Hodge,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.3,RA Jadeja,BJ Hodge,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.4,RA Jadeja,BJ Hodge,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.5,RA Jadeja,BJ Hodge,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,14.6,BJ Hodge,RA Jadeja,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.1,RA Jadeja,BJ Hodge,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.2,BJ Hodge,RA Jadeja,R Sharma,0,0,0,NA,1,caught,BJ Hodge,M Kartik,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.3,RA Jadeja,RV Gomez,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.4,RV Gomez,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.5,RV Gomez,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,15.6,RV Gomez,RA Jadeja,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.1,RA Jadeja,RV Gomez,JD Ryder,0,0,0,NA,1,caught,RA Jadeja,WD Parnell,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.2,RV Gomez,R Vinay Kumar,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.3,R Vinay Kumar,RV Gomez,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.4,RV Gomez,R Vinay Kumar,JD Ryder,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.5,RV Gomez,R Vinay Kumar,JD Ryder,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,16.6,RV Gomez,R Vinay Kumar,JD Ryder,0,0,0,NA,1,run out,R Vinay Kumar,WD Parnell,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.1,RV Gomez,S Sreesanth,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.2,S Sreesanth,RV Gomez,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.3,S Sreesanth,RV Gomez,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.4,S Sreesanth,RV Gomez,R Sharma,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.5,S Sreesanth,RV Gomez,R Sharma,0,1,1,legbyes,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,17.6,RV Gomez,S Sreesanth,R Sharma,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.1,RV Gomez,S Sreesanth,AC Thomas,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.2,S Sreesanth,RV Gomez,AC Thomas,0,0,0,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.3,S Sreesanth,RV Gomez,AC Thomas,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.4,RV Gomez,S Sreesanth,AC Thomas,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.5,RV Gomez,S Sreesanth,AC Thomas,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,18.6,RV Gomez,S Sreesanth,AC Thomas,1,0,1,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.1,RV Gomez,S Sreesanth,WD Parnell,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.2,RV Gomez,S Sreesanth,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.3,RV Gomez,S Sreesanth,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.4,RV Gomez,S Sreesanth,WD Parnell,0,5,5,wides,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.5,RV Gomez,S Sreesanth,WD Parnell,2,0,2,NA,0,NA,NA,NA,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.6,RV Gomez,S Sreesanth,WD Parnell,1,0,1,NA,1,run out,S Sreesanth,RV Uthappa,0
+501207,1st innings,Kochi Tuskers Kerala,Pune Warriors,19.7,RP Singh,RV Gomez,WD Parnell,0,1,1,byes,0,NA,NA,NA,0
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.1,JD Ryder,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.2,JD Ryder,GC Smith,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.3,JD Ryder,GC Smith,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.4,JD Ryder,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.5,JD Ryder,GC Smith,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,0.6,JD Ryder,GC Smith,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.1,GC Smith,JD Ryder,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.2,GC Smith,JD Ryder,S Sreesanth,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.3,GC Smith,JD Ryder,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.4,GC Smith,JD Ryder,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.5,GC Smith,JD Ryder,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.6,GC Smith,JD Ryder,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.7,GC Smith,JD Ryder,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.8,GC Smith,JD Ryder,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,1.9,GC Smith,JD Ryder,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.1,GC Smith,JD Ryder,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.2,GC Smith,JD Ryder,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.3,JD Ryder,GC Smith,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.4,GC Smith,JD Ryder,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.5,GC Smith,JD Ryder,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,2.6,JD Ryder,GC Smith,M Muralitharan,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.1,GC Smith,JD Ryder,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.2,GC Smith,JD Ryder,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.3,JD Ryder,GC Smith,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.4,JD Ryder,GC Smith,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.5,JD Ryder,GC Smith,R Vinay Kumar,0,0,0,NA,1,caught and bowled,JD Ryder,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.6,M Manhas,GC Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,3.7,M Manhas,GC Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.1,GC Smith,M Manhas,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.2,GC Smith,M Manhas,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.3,GC Smith,M Manhas,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.4,GC Smith,M Manhas,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.5,GC Smith,M Manhas,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,4.6,GC Smith,M Manhas,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.1,M Manhas,GC Smith,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.2,M Manhas,GC Smith,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.3,GC Smith,M Manhas,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.4,GC Smith,M Manhas,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.5,M Manhas,GC Smith,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,5.6,GC Smith,M Manhas,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.1,M Manhas,GC Smith,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.2,M Manhas,GC Smith,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.3,M Manhas,GC Smith,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.4,M Manhas,GC Smith,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.5,GC Smith,M Manhas,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,6.6,M Manhas,GC Smith,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.1,M Manhas,GC Smith,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.2,M Manhas,GC Smith,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.3,GC Smith,M Manhas,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.4,GC Smith,M Manhas,RA Jadeja,0,0,0,NA,1,caught,GC Smith,RP Singh,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.5,M Manhas,Yuvraj Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,7.6,Yuvraj Singh,M Manhas,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.1,M Manhas,Yuvraj Singh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.2,Yuvraj Singh,M Manhas,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.3,Yuvraj Singh,M Manhas,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.4,Yuvraj Singh,M Manhas,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.5,Yuvraj Singh,M Manhas,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.6,M Manhas,Yuvraj Singh,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,8.7,Yuvraj Singh,M Manhas,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.1,M Manhas,Yuvraj Singh,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.2,M Manhas,Yuvraj Singh,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.3,Yuvraj Singh,M Manhas,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.4,M Manhas,Yuvraj Singh,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.5,M Manhas,Yuvraj Singh,BJ Hodge,0,0,0,NA,1,caught,M Manhas,RA Jadeja,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,9.6,Yuvraj Singh,RV Uthappa,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.1,RV Uthappa,Yuvraj Singh,M Muralitharan,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.2,RV Uthappa,Yuvraj Singh,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.3,Yuvraj Singh,RV Uthappa,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.4,RV Uthappa,Yuvraj Singh,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.5,Yuvraj Singh,RV Uthappa,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,10.6,Yuvraj Singh,RV Uthappa,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.1,Yuvraj Singh,RV Uthappa,BJ Hodge,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.2,Yuvraj Singh,RV Uthappa,BJ Hodge,0,0,0,NA,1,caught,Yuvraj Singh,PA Patel,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.3,MD Mishra,RV Uthappa,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.4,RV Uthappa,MD Mishra,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.5,RV Uthappa,MD Mishra,BJ Hodge,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.6,RV Uthappa,MD Mishra,BJ Hodge,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,11.7,RV Uthappa,MD Mishra,BJ Hodge,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.1,MD Mishra,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.2,RV Uthappa,MD Mishra,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.3,MD Mishra,RV Uthappa,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.4,MD Mishra,RV Uthappa,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.5,MD Mishra,RV Uthappa,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,12.6,MD Mishra,RV Uthappa,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.1,MD Mishra,RV Uthappa,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.2,RV Uthappa,MD Mishra,RP Singh,6,0,6,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.3,RV Uthappa,MD Mishra,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.4,RV Uthappa,MD Mishra,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.5,MD Mishra,RV Uthappa,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,13.6,MD Mishra,RV Uthappa,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.1,RV Uthappa,MD Mishra,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.2,RV Uthappa,MD Mishra,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.3,MD Mishra,RV Uthappa,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.4,RV Uthappa,MD Mishra,M Muralitharan,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.5,RV Uthappa,MD Mishra,M Muralitharan,0,0,0,NA,1,bowled,RV Uthappa,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.6,WD Parnell,MD Mishra,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,14.7,WD Parnell,MD Mishra,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.1,MD Mishra,WD Parnell,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.2,WD Parnell,MD Mishra,RA Jadeja,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.3,WD Parnell,MD Mishra,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.4,WD Parnell,MD Mishra,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.5,WD Parnell,MD Mishra,RA Jadeja,1,0,1,NA,1,run out,WD Parnell,RV Gomez,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.6,MD Mishra,R Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,15.7,R Sharma,MD Mishra,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.1,MD Mishra,R Sharma,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.2,R Sharma,MD Mishra,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.3,R Sharma,MD Mishra,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.4,R Sharma,MD Mishra,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.5,R Sharma,MD Mishra,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.6,R Sharma,MD Mishra,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.7,MD Mishra,R Sharma,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,16.8,R Sharma,MD Mishra,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.1,MD Mishra,R Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.2,R Sharma,MD Mishra,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.3,R Sharma,MD Mishra,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.4,MD Mishra,R Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.5,R Sharma,MD Mishra,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,17.6,R Sharma,MD Mishra,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,18.1,MD Mishra,R Sharma,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,18.2,MD Mishra,R Sharma,M Muralitharan,4,0,4,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,18.3,MD Mishra,R Sharma,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,18.4,MD Mishra,R Sharma,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501207,2nd innings,Pune Warriors,Kochi Tuskers Kerala,18.5,MD Mishra,R Sharma,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1

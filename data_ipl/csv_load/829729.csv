@@ -1,0 +1,236 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.1,LMP Simmons,PA Patel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.2,LMP Simmons,PA Patel,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.3,LMP Simmons,PA Patel,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.4,PA Patel,LMP Simmons,A Nehra,0,0,0,NA,1,lbw,PA Patel,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.5,CJ Anderson,LMP Simmons,A Nehra,0,1,1,wides,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.6,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,0.7,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.1,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.2,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.3,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.4,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.5,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,1.6,LMP Simmons,CJ Anderson,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.1,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.2,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.3,CJ Anderson,LMP Simmons,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.4,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.5,CJ Anderson,LMP Simmons,A Nehra,0,0,0,NA,1,caught,CJ Anderson,F du Plessis,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,2.6,RG Sharma,LMP Simmons,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.1,LMP Simmons,RG Sharma,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.2,LMP Simmons,RG Sharma,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.3,LMP Simmons,RG Sharma,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.4,LMP Simmons,RG Sharma,IC Pandey,0,0,0,NA,1,caught,LMP Simmons,F du Plessis,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.5,Harbhajan Singh,RG Sharma,IC Pandey,0,1,1,wides,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.6,Harbhajan Singh,RG Sharma,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,3.7,Harbhajan Singh,RG Sharma,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.1,RG Sharma,Harbhajan Singh,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.2,RG Sharma,Harbhajan Singh,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.3,RG Sharma,Harbhajan Singh,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.4,RG Sharma,Harbhajan Singh,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.5,RG Sharma,Harbhajan Singh,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,4.6,RG Sharma,Harbhajan Singh,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.1,RG Sharma,Harbhajan Singh,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.2,RG Sharma,Harbhajan Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.3,Harbhajan Singh,RG Sharma,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.4,Harbhajan Singh,RG Sharma,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.5,Harbhajan Singh,RG Sharma,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,5.6,Harbhajan Singh,RG Sharma,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.1,RG Sharma,Harbhajan Singh,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.2,RG Sharma,Harbhajan Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.3,Harbhajan Singh,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.4,Harbhajan Singh,RG Sharma,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.5,Harbhajan Singh,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,6.6,Harbhajan Singh,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.1,RG Sharma,Harbhajan Singh,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.2,RG Sharma,Harbhajan Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.3,Harbhajan Singh,RG Sharma,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.4,Harbhajan Singh,RG Sharma,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.5,RG Sharma,Harbhajan Singh,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,7.6,Harbhajan Singh,RG Sharma,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.1,Harbhajan Singh,RG Sharma,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.2,Harbhajan Singh,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.3,Harbhajan Singh,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.4,RG Sharma,Harbhajan Singh,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.5,Harbhajan Singh,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,8.6,Harbhajan Singh,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.1,Harbhajan Singh,RG Sharma,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.2,Harbhajan Singh,RG Sharma,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.3,Harbhajan Singh,RG Sharma,MM Sharma,0,0,0,NA,1,caught,Harbhajan Singh,RA Jadeja,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.4,RG Sharma,KA Pollard,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.5,RG Sharma,KA Pollard,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,9.6,RG Sharma,KA Pollard,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.1,RG Sharma,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.2,KA Pollard,RG Sharma,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.3,KA Pollard,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.4,KA Pollard,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.5,RG Sharma,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,10.6,KA Pollard,RG Sharma,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.1,RG Sharma,KA Pollard,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.2,RG Sharma,KA Pollard,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.3,RG Sharma,KA Pollard,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.4,KA Pollard,RG Sharma,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.5,KA Pollard,RG Sharma,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,11.6,KA Pollard,RG Sharma,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.1,RG Sharma,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.2,KA Pollard,RG Sharma,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.3,RG Sharma,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.4,KA Pollard,RG Sharma,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.5,KA Pollard,RG Sharma,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,12.6,RG Sharma,KA Pollard,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.1,KA Pollard,RG Sharma,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.2,KA Pollard,RG Sharma,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.3,KA Pollard,RG Sharma,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.4,KA Pollard,RG Sharma,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.5,RG Sharma,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.6,KA Pollard,RG Sharma,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.7,KA Pollard,RG Sharma,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,13.8,KA Pollard,RG Sharma,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.1,RG Sharma,KA Pollard,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.2,RG Sharma,KA Pollard,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.3,KA Pollard,RG Sharma,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.4,KA Pollard,RG Sharma,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.5,RG Sharma,KA Pollard,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,14.6,RG Sharma,KA Pollard,A Nehra,0,0,0,NA,1,caught,RG Sharma,DJ Bravo,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.1,KA Pollard,AT Rayudu,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.2,AT Rayudu,KA Pollard,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.3,AT Rayudu,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.4,KA Pollard,AT Rayudu,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.5,KA Pollard,AT Rayudu,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,15.6,AT Rayudu,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.1,AT Rayudu,KA Pollard,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.2,AT Rayudu,KA Pollard,IC Pandey,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.3,AT Rayudu,KA Pollard,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.4,AT Rayudu,KA Pollard,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.5,KA Pollard,AT Rayudu,IC Pandey,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,16.6,KA Pollard,AT Rayudu,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.1,AT Rayudu,KA Pollard,DJ Bravo,0,1,1,legbyes,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.2,KA Pollard,AT Rayudu,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.3,KA Pollard,AT Rayudu,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.4,KA Pollard,AT Rayudu,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.5,AT Rayudu,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,17.6,KA Pollard,AT Rayudu,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.1,AT Rayudu,KA Pollard,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.2,KA Pollard,AT Rayudu,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.3,AT Rayudu,KA Pollard,MM Sharma,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.4,AT Rayudu,KA Pollard,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.5,AT Rayudu,KA Pollard,MM Sharma,6,0,6,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,18.6,AT Rayudu,KA Pollard,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.1,AT Rayudu,KA Pollard,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.2,KA Pollard,AT Rayudu,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.3,KA Pollard,AT Rayudu,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.4,AT Rayudu,KA Pollard,DJ Bravo,0,0,0,NA,1,caught,AT Rayudu,RA Jadeja,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.5,KA Pollard,J Suchith,DJ Bravo,0,0,0,NA,1,caught,KA Pollard,DR Smith,0
+829729,1st innings,Mumbai Indians,Chennai Super Kings,19.6,R Vinay Kumar,J Suchith,DJ Bravo,0,2,2,byes,0,NA,NA,NA,0
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.1,DR Smith,BB McCullum,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.2,DR Smith,BB McCullum,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.3,DR Smith,BB McCullum,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.4,BB McCullum,DR Smith,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.5,DR Smith,BB McCullum,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,0.6,DR Smith,BB McCullum,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.1,BB McCullum,DR Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.2,BB McCullum,DR Smith,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.3,BB McCullum,DR Smith,SL Malinga,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.4,BB McCullum,DR Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.5,BB McCullum,DR Smith,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.6,BB McCullum,DR Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,1.7,DR Smith,BB McCullum,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.1,BB McCullum,DR Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.2,DR Smith,BB McCullum,J Suchith,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.3,DR Smith,BB McCullum,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.4,DR Smith,BB McCullum,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.5,DR Smith,BB McCullum,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,2.6,DR Smith,BB McCullum,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.1,BB McCullum,DR Smith,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.2,BB McCullum,DR Smith,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.3,BB McCullum,DR Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.4,DR Smith,BB McCullum,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.5,DR Smith,BB McCullum,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.6,DR Smith,BB McCullum,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.7,DR Smith,BB McCullum,SL Malinga,0,1,1,noballs,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,3.8,DR Smith,BB McCullum,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.1,BB McCullum,DR Smith,J Suchith,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.2,DR Smith,BB McCullum,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.3,DR Smith,BB McCullum,J Suchith,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.4,DR Smith,BB McCullum,J Suchith,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.5,DR Smith,BB McCullum,J Suchith,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.6,DR Smith,BB McCullum,J Suchith,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,4.7,DR Smith,BB McCullum,J Suchith,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.1,BB McCullum,DR Smith,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.2,BB McCullum,DR Smith,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.3,BB McCullum,DR Smith,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.4,BB McCullum,DR Smith,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.5,DR Smith,BB McCullum,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,5.6,DR Smith,BB McCullum,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.1,DR Smith,BB McCullum,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.2,DR Smith,BB McCullum,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.3,BB McCullum,DR Smith,P Suyal,1,1,2,noballs,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.4,DR Smith,BB McCullum,P Suyal,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.5,DR Smith,BB McCullum,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.6,BB McCullum,DR Smith,P Suyal,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.7,BB McCullum,DR Smith,P Suyal,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.8,BB McCullum,DR Smith,P Suyal,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,6.9,BB McCullum,DR Smith,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.1,BB McCullum,DR Smith,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.2,BB McCullum,DR Smith,Harbhajan Singh,0,0,0,NA,1,caught,BB McCullum,R Vinay Kumar,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.3,DR Smith,SK Raina,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.4,DR Smith,SK Raina,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.5,DR Smith,SK Raina,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,7.6,DR Smith,SK Raina,Harbhajan Singh,0,0,0,NA,1,caught,DR Smith,RG Sharma,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.1,F du Plessis,SK Raina,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.2,F du Plessis,SK Raina,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.3,SK Raina,F du Plessis,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.4,F du Plessis,SK Raina,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.5,F du Plessis,SK Raina,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,8.6,F du Plessis,SK Raina,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.1,SK Raina,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.2,F du Plessis,SK Raina,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.3,SK Raina,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.4,SK Raina,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.5,F du Plessis,SK Raina,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,9.6,F du Plessis,SK Raina,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.1,SK Raina,F du Plessis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.2,F du Plessis,SK Raina,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.3,SK Raina,F du Plessis,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.4,SK Raina,F du Plessis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.5,F du Plessis,SK Raina,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.6,F du Plessis,SK Raina,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,10.7,F du Plessis,SK Raina,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.1,SK Raina,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.2,SK Raina,F du Plessis,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.3,SK Raina,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.4,SK Raina,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.5,SK Raina,F du Plessis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,11.6,SK Raina,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.1,SK Raina,F du Plessis,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.2,F du Plessis,SK Raina,SL Malinga,0,0,0,NA,1,bowled,F du Plessis,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.3,MS Dhoni,SK Raina,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.4,SK Raina,MS Dhoni,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.5,MS Dhoni,SK Raina,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,12.6,MS Dhoni,SK Raina,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.1,SK Raina,MS Dhoni,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.2,SK Raina,MS Dhoni,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.3,SK Raina,MS Dhoni,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.4,SK Raina,MS Dhoni,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.5,SK Raina,MS Dhoni,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,13.6,MS Dhoni,SK Raina,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.1,MS Dhoni,SK Raina,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.2,SK Raina,MS Dhoni,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.3,SK Raina,MS Dhoni,KA Pollard,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.4,SK Raina,MS Dhoni,KA Pollard,0,1,1,noballs,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.5,SK Raina,MS Dhoni,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.6,SK Raina,MS Dhoni,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.7,MS Dhoni,SK Raina,KA Pollard,0,0,0,NA,1,caught and bowled,MS Dhoni,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,14.8,DJ Bravo,SK Raina,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.1,SK Raina,DJ Bravo,P Suyal,2,0,2,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.2,SK Raina,DJ Bravo,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.3,SK Raina,DJ Bravo,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.4,DJ Bravo,SK Raina,P Suyal,0,0,0,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.5,DJ Bravo,SK Raina,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,15.6,SK Raina,DJ Bravo,P Suyal,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,16.1,SK Raina,DJ Bravo,KA Pollard,0,1,1,wides,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,16.2,SK Raina,DJ Bravo,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,16.3,SK Raina,DJ Bravo,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,16.4,DJ Bravo,SK Raina,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+829729,2nd innings,Chennai Super Kings,Mumbai Indians,16.5,DJ Bravo,SK Raina,KA Pollard,6,0,6,NA,0,NA,NA,NA,1

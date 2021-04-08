@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.1,BB McCullum,VVS Laxman,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.2,VVS Laxman,BB McCullum,Z Khan,0,1,1,legbyes,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.3,BB McCullum,VVS Laxman,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.4,BB McCullum,VVS Laxman,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.5,BB McCullum,VVS Laxman,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.6,VVS Laxman,BB McCullum,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.1,BB McCullum,VVS Laxman,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.2,BB McCullum,VVS Laxman,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.3,BB McCullum,VVS Laxman,DP Nannes,6,0,6,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.4,BB McCullum,VVS Laxman,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.5,VVS Laxman,BB McCullum,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,1.6,VVS Laxman,BB McCullum,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.1,VVS Laxman,BB McCullum,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.2,BB McCullum,VVS Laxman,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.3,BB McCullum,VVS Laxman,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.4,BB McCullum,VVS Laxman,Z Khan,0,1,1,legbyes,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.5,VVS Laxman,BB McCullum,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,2.6,VVS Laxman,BB McCullum,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.1,BB McCullum,VVS Laxman,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.2,BB McCullum,VVS Laxman,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.3,VVS Laxman,BB McCullum,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.4,VVS Laxman,BB McCullum,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.5,VVS Laxman,BB McCullum,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,3.6,BB McCullum,VVS Laxman,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.1,BB McCullum,VVS Laxman,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.2,VVS Laxman,BB McCullum,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.3,VVS Laxman,BB McCullum,TM Dilshan,6,0,6,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.4,VVS Laxman,BB McCullum,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.5,VVS Laxman,BB McCullum,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,4.6,VVS Laxman,BB McCullum,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.1,VVS Laxman,BB McCullum,A Mithun,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.2,VVS Laxman,BB McCullum,A Mithun,6,1,7,noballs,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.3,VVS Laxman,BB McCullum,A Mithun,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.4,VVS Laxman,BB McCullum,A Mithun,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.5,BB McCullum,VVS Laxman,A Mithun,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.6,BB McCullum,VVS Laxman,A Mithun,6,0,6,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,5.7,BB McCullum,VVS Laxman,A Mithun,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.1,BB McCullum,VVS Laxman,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.2,VVS Laxman,BB McCullum,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.3,BB McCullum,VVS Laxman,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.4,BB McCullum,VVS Laxman,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.5,VVS Laxman,BB McCullum,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,6.6,VVS Laxman,BB McCullum,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.1,BB McCullum,VVS Laxman,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.2,BB McCullum,VVS Laxman,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.3,VVS Laxman,BB McCullum,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.4,VVS Laxman,BB McCullum,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.5,BB McCullum,VVS Laxman,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,7.6,VVS Laxman,BB McCullum,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.1,VVS Laxman,BB McCullum,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.2,BB McCullum,VVS Laxman,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.3,VVS Laxman,BB McCullum,TM Dilshan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.4,VVS Laxman,BB McCullum,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.5,BB McCullum,VVS Laxman,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,8.6,VVS Laxman,BB McCullum,TM Dilshan,0,0,0,NA,1,caught,VVS Laxman,CA Pujara,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.1,BB McCullum,DPMD Jayawardene,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.2,BB McCullum,DPMD Jayawardene,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.3,DPMD Jayawardene,BB McCullum,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.4,DPMD Jayawardene,BB McCullum,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.5,DPMD Jayawardene,BB McCullum,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.6,DPMD Jayawardene,BB McCullum,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.1,DPMD Jayawardene,BB McCullum,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.2,DPMD Jayawardene,BB McCullum,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.3,DPMD Jayawardene,BB McCullum,DP Nannes,0,1,1,wides,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.4,DPMD Jayawardene,BB McCullum,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.5,BB McCullum,DPMD Jayawardene,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.6,DPMD Jayawardene,BB McCullum,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,10.7,BB McCullum,DPMD Jayawardene,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.1,BB McCullum,DPMD Jayawardene,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.2,DPMD Jayawardene,BB McCullum,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.3,BB McCullum,DPMD Jayawardene,V Kohli,0,0,0,NA,1,caught,BB McCullum,DP Nannes,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.4,BJ Hodge,DPMD Jayawardene,V Kohli,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.5,BJ Hodge,DPMD Jayawardene,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,11.6,DPMD Jayawardene,BJ Hodge,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.1,DPMD Jayawardene,BJ Hodge,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.2,BJ Hodge,DPMD Jayawardene,AUK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.3,BJ Hodge,DPMD Jayawardene,AUK Pathan,0,5,5,wides,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.4,BJ Hodge,DPMD Jayawardene,AUK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.5,BJ Hodge,DPMD Jayawardene,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.6,DPMD Jayawardene,BJ Hodge,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.7,BJ Hodge,DPMD Jayawardene,AUK Pathan,0,1,1,wides,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,12.8,BJ Hodge,DPMD Jayawardene,AUK Pathan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.1,DPMD Jayawardene,BJ Hodge,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.2,BJ Hodge,DPMD Jayawardene,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.3,BJ Hodge,DPMD Jayawardene,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.4,BJ Hodge,DPMD Jayawardene,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.5,DPMD Jayawardene,BJ Hodge,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,13.6,DPMD Jayawardene,BJ Hodge,V Kohli,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.1,BJ Hodge,DPMD Jayawardene,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.2,DPMD Jayawardene,BJ Hodge,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.3,BJ Hodge,DPMD Jayawardene,AUK Pathan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.4,BJ Hodge,DPMD Jayawardene,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.5,DPMD Jayawardene,BJ Hodge,AUK Pathan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,14.6,BJ Hodge,DPMD Jayawardene,AUK Pathan,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.1,DPMD Jayawardene,BJ Hodge,DL Vettori,0,0,0,NA,1,stumped,DPMD Jayawardene,AB de Villiers,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.2,RA Jadeja,BJ Hodge,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.3,RA Jadeja,BJ Hodge,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.4,BJ Hodge,RA Jadeja,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.5,RA Jadeja,BJ Hodge,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,15.6,RA Jadeja,BJ Hodge,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.1,BJ Hodge,RA Jadeja,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.2,RA Jadeja,BJ Hodge,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.3,RA Jadeja,BJ Hodge,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.4,BJ Hodge,RA Jadeja,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.5,BJ Hodge,RA Jadeja,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,16.6,RA Jadeja,BJ Hodge,TM Dilshan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.1,BJ Hodge,RA Jadeja,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.2,BJ Hodge,RA Jadeja,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.3,BJ Hodge,RA Jadeja,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.4,RA Jadeja,BJ Hodge,Z Khan,6,0,6,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.5,RA Jadeja,BJ Hodge,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,17.6,BJ Hodge,RA Jadeja,Z Khan,0,0,0,NA,1,bowled,BJ Hodge,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.1,RA Jadeja,RV Gomez,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.2,RA Jadeja,RV Gomez,DP Nannes,4,0,4,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.3,RA Jadeja,RV Gomez,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.4,RV Gomez,RA Jadeja,DP Nannes,0,0,0,NA,1,caught,RV Gomez,SS Tiwary,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.5,RA Jadeja,PA Patel,DP Nannes,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,18.6,PA Patel,RA Jadeja,DP Nannes,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.1,RA Jadeja,PA Patel,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.2,PA Patel,RA Jadeja,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.3,RA Jadeja,PA Patel,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.4,PA Patel,RA Jadeja,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.5,PA Patel,RA Jadeja,Z Khan,0,1,1,byes,0,NA,NA,NA,0
+501200,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,19.6,RA Jadeja,PA Patel,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.1,MA Agarwal,TM Dilshan,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.2,TM Dilshan,MA Agarwal,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.3,TM Dilshan,MA Agarwal,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.4,TM Dilshan,MA Agarwal,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.5,MA Agarwal,TM Dilshan,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.6,MA Agarwal,TM Dilshan,RP Singh,0,4,4,legbyes,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,0.7,MA Agarwal,TM Dilshan,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.1,TM Dilshan,MA Agarwal,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.2,TM Dilshan,MA Agarwal,S Sreesanth,0,0,0,NA,1,caught,TM Dilshan,BB McCullum,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.3,V Kohli,MA Agarwal,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.4,V Kohli,MA Agarwal,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.5,V Kohli,MA Agarwal,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,1.6,V Kohli,MA Agarwal,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.1,MA Agarwal,V Kohli,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.2,MA Agarwal,V Kohli,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.3,MA Agarwal,V Kohli,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.4,V Kohli,MA Agarwal,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.5,MA Agarwal,V Kohli,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.6,MA Agarwal,V Kohli,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.7,V Kohli,MA Agarwal,RP Singh,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,2.8,V Kohli,MA Agarwal,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.1,MA Agarwal,V Kohli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.2,V Kohli,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.3,MA Agarwal,V Kohli,S Sreesanth,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.4,MA Agarwal,V Kohli,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.5,V Kohli,MA Agarwal,S Sreesanth,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.6,V Kohli,MA Agarwal,S Sreesanth,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,3.7,V Kohli,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.1,V Kohli,MA Agarwal,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.2,V Kohli,MA Agarwal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.3,V Kohli,MA Agarwal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.4,MA Agarwal,V Kohli,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.5,V Kohli,MA Agarwal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,4.6,MA Agarwal,V Kohli,RA Jadeja,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.1,V Kohli,MA Agarwal,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.2,V Kohli,MA Agarwal,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.3,V Kohli,MA Agarwal,R Vinay Kumar,0,0,0,NA,1,lbw,V Kohli,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.4,AB de Villiers,MA Agarwal,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.5,AB de Villiers,MA Agarwal,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,5.6,AB de Villiers,MA Agarwal,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.1,MA Agarwal,AB de Villiers,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.2,MA Agarwal,AB de Villiers,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.3,MA Agarwal,AB de Villiers,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.4,AB de Villiers,MA Agarwal,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.5,AB de Villiers,MA Agarwal,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,6.6,AB de Villiers,MA Agarwal,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.1,MA Agarwal,AB de Villiers,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.2,MA Agarwal,AB de Villiers,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.3,MA Agarwal,AB de Villiers,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.4,AB de Villiers,MA Agarwal,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.5,MA Agarwal,AB de Villiers,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,7.6,MA Agarwal,AB de Villiers,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.1,AB de Villiers,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.2,MA Agarwal,AB de Villiers,S Sreesanth,1,1,2,noballs,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.3,AB de Villiers,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.4,MA Agarwal,AB de Villiers,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.5,AB de Villiers,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.6,MA Agarwal,AB de Villiers,S Sreesanth,1,1,2,noballs,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.7,AB de Villiers,MA Agarwal,S Sreesanth,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,8.8,AB de Villiers,MA Agarwal,S Sreesanth,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.1,AB de Villiers,MA Agarwal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.2,AB de Villiers,MA Agarwal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.3,AB de Villiers,MA Agarwal,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.4,AB de Villiers,MA Agarwal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.5,MA Agarwal,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,9.6,MA Agarwal,AB de Villiers,RA Jadeja,0,0,0,NA,1,caught,MA Agarwal,R Vinay Kumar,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.1,AB de Villiers,SS Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.2,AB de Villiers,SS Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.3,AB de Villiers,SS Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.4,AB de Villiers,SS Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.5,SS Tiwary,AB de Villiers,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,10.6,SS Tiwary,AB de Villiers,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.1,AB de Villiers,SS Tiwary,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.2,AB de Villiers,SS Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.3,SS Tiwary,AB de Villiers,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.4,SS Tiwary,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.5,AB de Villiers,SS Tiwary,RA Jadeja,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.6,AB de Villiers,SS Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,11.7,SS Tiwary,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.1,SS Tiwary,AB de Villiers,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.2,AB de Villiers,SS Tiwary,M Muralitharan,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.3,AB de Villiers,SS Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.4,SS Tiwary,AB de Villiers,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.5,SS Tiwary,AB de Villiers,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,12.6,SS Tiwary,AB de Villiers,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.1,SS Tiwary,AB de Villiers,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.2,AB de Villiers,SS Tiwary,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.3,AB de Villiers,SS Tiwary,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.4,AB de Villiers,SS Tiwary,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.5,SS Tiwary,AB de Villiers,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,13.6,SS Tiwary,AB de Villiers,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.1,SS Tiwary,AB de Villiers,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.2,SS Tiwary,AB de Villiers,RP Singh,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.3,SS Tiwary,AB de Villiers,RP Singh,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.4,SS Tiwary,AB de Villiers,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.5,SS Tiwary,AB de Villiers,RP Singh,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.6,SS Tiwary,AB de Villiers,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,14.7,AB de Villiers,SS Tiwary,RP Singh,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.1,AB de Villiers,SS Tiwary,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.2,AB de Villiers,SS Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.3,SS Tiwary,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.4,AB de Villiers,SS Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.5,SS Tiwary,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,15.6,AB de Villiers,SS Tiwary,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.1,AB de Villiers,SS Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.2,SS Tiwary,AB de Villiers,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.3,AB de Villiers,SS Tiwary,M Muralitharan,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.4,AB de Villiers,SS Tiwary,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.5,SS Tiwary,AB de Villiers,M Muralitharan,2,0,2,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,16.6,SS Tiwary,AB de Villiers,M Muralitharan,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.1,SS Tiwary,AB de Villiers,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.2,AB de Villiers,SS Tiwary,RV Gomez,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.3,AB de Villiers,SS Tiwary,RV Gomez,1,0,1,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.4,SS Tiwary,AB de Villiers,RV Gomez,0,0,0,NA,1,caught,SS Tiwary,DPMD Jayawardene,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.5,AB de Villiers,AUK Pathan,RV Gomez,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,17.6,AB de Villiers,AUK Pathan,RV Gomez,6,0,6,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,18.1,AUK Pathan,AB de Villiers,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,18.2,AUK Pathan,AB de Villiers,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,18.3,AUK Pathan,AB de Villiers,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,18.4,AUK Pathan,AB de Villiers,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+501200,2nd innings,Royal Challengers Bangalore,Kochi Tuskers Kerala,18.5,AUK Pathan,AB de Villiers,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1

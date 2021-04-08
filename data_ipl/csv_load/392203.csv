@@ -1,0 +1,254 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.1,ST Jayasuriya,SR Tendulkar,I Sharma,0,1,1,wides,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.2,ST Jayasuriya,SR Tendulkar,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.3,SR Tendulkar,ST Jayasuriya,I Sharma,0,1,1,wides,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.4,SR Tendulkar,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.5,SR Tendulkar,ST Jayasuriya,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.6,SR Tendulkar,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.7,SR Tendulkar,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,0.8,SR Tendulkar,ST Jayasuriya,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.1,ST Jayasuriya,SR Tendulkar,AB Dinda,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.2,ST Jayasuriya,SR Tendulkar,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.3,ST Jayasuriya,SR Tendulkar,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.4,SR Tendulkar,ST Jayasuriya,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.5,SR Tendulkar,ST Jayasuriya,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,1.6,SR Tendulkar,ST Jayasuriya,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.1,SR Tendulkar,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.2,SR Tendulkar,ST Jayasuriya,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.3,SR Tendulkar,ST Jayasuriya,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.4,ST Jayasuriya,SR Tendulkar,I Sharma,0,2,2,byes,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.5,ST Jayasuriya,SR Tendulkar,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,2.6,ST Jayasuriya,SR Tendulkar,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.1,SR Tendulkar,ST Jayasuriya,AB Dinda,0,1,1,legbyes,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.2,ST Jayasuriya,SR Tendulkar,AB Dinda,0,0,0,NA,1,caught,ST Jayasuriya,MN van Wyk,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.3,Harbhajan Singh,SR Tendulkar,AB Dinda,0,1,1,wides,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.4,Harbhajan Singh,SR Tendulkar,AB Dinda,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.5,Harbhajan Singh,SR Tendulkar,AB Dinda,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.6,Harbhajan Singh,SR Tendulkar,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,3.7,SR Tendulkar,Harbhajan Singh,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.1,SR Tendulkar,Harbhajan Singh,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.2,SR Tendulkar,Harbhajan Singh,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.3,Harbhajan Singh,SR Tendulkar,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.4,SR Tendulkar,Harbhajan Singh,LR Shukla,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.5,SR Tendulkar,Harbhajan Singh,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,4.6,SR Tendulkar,Harbhajan Singh,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.1,SR Tendulkar,Harbhajan Singh,M Kartik,6,0,6,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.2,SR Tendulkar,Harbhajan Singh,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.3,Harbhajan Singh,SR Tendulkar,M Kartik,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.4,Harbhajan Singh,SR Tendulkar,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.5,Harbhajan Singh,SR Tendulkar,M Kartik,0,0,0,NA,1,caught,Harbhajan Singh,AB Dinda,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,5.6,AM Nayar,SR Tendulkar,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.1,SR Tendulkar,AM Nayar,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.2,SR Tendulkar,AM Nayar,LR Shukla,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.3,SR Tendulkar,AM Nayar,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.4,SR Tendulkar,AM Nayar,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.5,SR Tendulkar,AM Nayar,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,6.6,SR Tendulkar,AM Nayar,LR Shukla,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.1,AM Nayar,SR Tendulkar,AB Agarkar,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.2,SR Tendulkar,AM Nayar,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.3,SR Tendulkar,AM Nayar,AB Agarkar,6,0,6,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.4,SR Tendulkar,AM Nayar,AB Agarkar,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.5,SR Tendulkar,AM Nayar,AB Agarkar,0,1,1,wides,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.6,SR Tendulkar,AM Nayar,AB Agarkar,0,0,0,NA,1,caught,SR Tendulkar,BB McCullum,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,7.7,JP Duminy,AM Nayar,AB Agarkar,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.1,AM Nayar,JP Duminy,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.2,AM Nayar,JP Duminy,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.3,AM Nayar,JP Duminy,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.4,AM Nayar,JP Duminy,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.5,JP Duminy,AM Nayar,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,8.6,JP Duminy,AM Nayar,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.1,JP Duminy,AM Nayar,BJ Hodge,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.2,JP Duminy,AM Nayar,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.3,AM Nayar,JP Duminy,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.4,JP Duminy,AM Nayar,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.5,AM Nayar,JP Duminy,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,9.6,JP Duminy,AM Nayar,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.1,JP Duminy,AM Nayar,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.2,AM Nayar,JP Duminy,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.3,JP Duminy,AM Nayar,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.4,JP Duminy,AM Nayar,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.5,JP Duminy,AM Nayar,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,10.6,AM Nayar,JP Duminy,CH Gayle,0,1,1,legbyes,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.1,AM Nayar,JP Duminy,BJ Hodge,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.2,AM Nayar,JP Duminy,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.3,JP Duminy,AM Nayar,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.4,AM Nayar,JP Duminy,BJ Hodge,0,0,0,NA,1,bowled,AM Nayar,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.5,GR Napier,JP Duminy,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,11.6,JP Duminy,GR Napier,BJ Hodge,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.1,JP Duminy,GR Napier,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.2,GR Napier,JP Duminy,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.3,GR Napier,JP Duminy,M Kartik,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.4,GR Napier,JP Duminy,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.5,GR Napier,JP Duminy,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,12.6,GR Napier,JP Duminy,M Kartik,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.1,JP Duminy,GR Napier,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.2,GR Napier,JP Duminy,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.3,JP Duminy,GR Napier,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.4,GR Napier,JP Duminy,CH Gayle,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.5,GR Napier,JP Duminy,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,13.6,GR Napier,JP Duminy,CH Gayle,2,0,2,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.1,JP Duminy,GR Napier,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.2,JP Duminy,GR Napier,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.3,GR Napier,JP Duminy,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.4,JP Duminy,GR Napier,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.5,GR Napier,JP Duminy,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,14.6,JP Duminy,GR Napier,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.1,JP Duminy,GR Napier,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.2,GR Napier,JP Duminy,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.3,GR Napier,JP Duminy,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.4,JP Duminy,GR Napier,CH Gayle,0,2,2,wides,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.5,GR Napier,JP Duminy,CH Gayle,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.6,GR Napier,JP Duminy,CH Gayle,0,0,0,NA,1,caught,GR Napier,BB McCullum,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,15.7,JP Duminy,AM Rahane,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.1,JP Duminy,AM Rahane,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.2,AM Rahane,JP Duminy,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.3,JP Duminy,AM Rahane,M Kartik,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.4,JP Duminy,AM Rahane,M Kartik,0,1,1,legbyes,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.5,AM Rahane,JP Duminy,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,16.6,JP Duminy,AM Rahane,M Kartik,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.1,JP Duminy,AM Rahane,LR Shukla,6,0,6,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.2,JP Duminy,AM Rahane,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.3,AM Rahane,JP Duminy,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.4,JP Duminy,AM Rahane,LR Shukla,6,0,6,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.5,JP Duminy,AM Rahane,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,17.6,AM Rahane,JP Duminy,LR Shukla,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.1,AM Rahane,JP Duminy,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.2,AM Rahane,JP Duminy,I Sharma,1,1,2,noballs,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.3,JP Duminy,AM Rahane,I Sharma,0,1,1,byes,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.4,AM Rahane,JP Duminy,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.5,JP Duminy,AM Rahane,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.6,AM Rahane,JP Duminy,I Sharma,0,0,0,NA,1,caught,AM Rahane,CH Gayle,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,18.7,JP Duminy,Z Khan,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.1,JP Duminy,Z Khan,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.2,Z Khan,JP Duminy,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.3,JP Duminy,Z Khan,AB Dinda,6,0,6,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.4,JP Duminy,Z Khan,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.5,Z Khan,JP Duminy,AB Dinda,1,0,1,NA,0,NA,NA,NA,1
+392203,1st innings,Mumbai Indians,Kolkata Knight Riders,19.6,JP Duminy,Z Khan,AB Dinda,6,0,6,NA,0,NA,NA,NA,1
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.1,CH Gayle,SC Ganguly,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.2,CH Gayle,SC Ganguly,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.3,CH Gayle,SC Ganguly,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.4,SC Ganguly,CH Gayle,Z Khan,0,0,0,NA,1,bowled,SC Ganguly,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.5,BJ Hodge,CH Gayle,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,0.6,BJ Hodge,CH Gayle,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.1,CH Gayle,BJ Hodge,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.2,BJ Hodge,CH Gayle,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.3,BJ Hodge,CH Gayle,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.4,CH Gayle,BJ Hodge,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.5,BJ Hodge,CH Gayle,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,1.6,BJ Hodge,CH Gayle,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.1,CH Gayle,BJ Hodge,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.2,CH Gayle,BJ Hodge,Z Khan,0,0,0,NA,1,bowled,CH Gayle,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.3,MN van Wyk,BJ Hodge,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.4,MN van Wyk,BJ Hodge,Z Khan,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.5,MN van Wyk,BJ Hodge,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.6,MN van Wyk,BJ Hodge,Z Khan,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,2.7,MN van Wyk,BJ Hodge,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.1,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.2,BJ Hodge,MN van Wyk,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.3,MN van Wyk,BJ Hodge,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.4,MN van Wyk,BJ Hodge,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.5,MN van Wyk,BJ Hodge,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,3.6,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.1,MN van Wyk,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.2,MN van Wyk,BJ Hodge,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.3,MN van Wyk,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.4,MN van Wyk,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.5,BJ Hodge,MN van Wyk,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,4.6,MN van Wyk,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.1,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.2,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.3,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.4,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.5,BJ Hodge,MN van Wyk,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,5.6,BJ Hodge,MN van Wyk,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.1,BJ Hodge,MN van Wyk,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.2,MN van Wyk,BJ Hodge,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.3,BJ Hodge,MN van Wyk,ST Jayasuriya,6,0,6,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.4,BJ Hodge,MN van Wyk,ST Jayasuriya,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.5,BJ Hodge,MN van Wyk,ST Jayasuriya,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.6,BJ Hodge,MN van Wyk,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.7,MN van Wyk,BJ Hodge,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,6.8,BJ Hodge,MN van Wyk,ST Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.1,BJ Hodge,MN van Wyk,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.2,BJ Hodge,MN van Wyk,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.3,BJ Hodge,MN van Wyk,AM Nayar,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.4,BJ Hodge,MN van Wyk,AM Nayar,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.5,BJ Hodge,MN van Wyk,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,7.6,MN van Wyk,BJ Hodge,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.1,BJ Hodge,MN van Wyk,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.2,BJ Hodge,MN van Wyk,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.3,BJ Hodge,MN van Wyk,GR Napier,6,0,6,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.4,BJ Hodge,MN van Wyk,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.5,MN van Wyk,BJ Hodge,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,8.6,BJ Hodge,MN van Wyk,GR Napier,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.1,MN van Wyk,BJ Hodge,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.2,BJ Hodge,MN van Wyk,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.3,MN van Wyk,BJ Hodge,AM Nayar,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.4,MN van Wyk,BJ Hodge,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.5,BJ Hodge,MN van Wyk,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.6,MN van Wyk,BJ Hodge,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,9.7,BJ Hodge,MN van Wyk,AM Nayar,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.1,MN van Wyk,BJ Hodge,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.2,BJ Hodge,MN van Wyk,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.3,MN van Wyk,BJ Hodge,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.4,BJ Hodge,MN van Wyk,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.5,MN van Wyk,BJ Hodge,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,10.6,MN van Wyk,BJ Hodge,GR Napier,0,1,1,legbyes,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.1,MN van Wyk,BJ Hodge,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.2,MN van Wyk,BJ Hodge,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.3,MN van Wyk,BJ Hodge,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.4,MN van Wyk,BJ Hodge,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.5,MN van Wyk,BJ Hodge,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,11.6,MN van Wyk,BJ Hodge,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.1,BJ Hodge,MN van Wyk,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.2,BJ Hodge,MN van Wyk,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.3,MN van Wyk,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.4,MN van Wyk,BJ Hodge,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.5,MN van Wyk,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.6,BJ Hodge,MN van Wyk,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,12.7,BJ Hodge,MN van Wyk,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.1,BJ Hodge,MN van Wyk,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.2,BJ Hodge,MN van Wyk,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.3,BJ Hodge,MN van Wyk,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.4,MN van Wyk,BJ Hodge,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.5,MN van Wyk,BJ Hodge,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,13.6,BJ Hodge,MN van Wyk,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.1,BJ Hodge,MN van Wyk,GR Napier,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.2,BJ Hodge,MN van Wyk,GR Napier,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.3,BJ Hodge,MN van Wyk,GR Napier,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.4,BJ Hodge,MN van Wyk,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.5,MN van Wyk,BJ Hodge,GR Napier,0,0,0,NA,1,caught,MN van Wyk,JP Duminy,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,14.6,BJ Hodge,LR Shukla,GR Napier,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.1,BJ Hodge,LR Shukla,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.2,LR Shukla,BJ Hodge,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.3,BJ Hodge,LR Shukla,Z Khan,0,1,1,noballs,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.4,BJ Hodge,LR Shukla,Z Khan,6,0,6,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.5,BJ Hodge,LR Shukla,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.6,LR Shukla,BJ Hodge,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,15.7,BJ Hodge,LR Shukla,Z Khan,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.1,LR Shukla,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.2,BJ Hodge,LR Shukla,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.3,LR Shukla,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.4,LR Shukla,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.5,BJ Hodge,LR Shukla,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.6,BJ Hodge,LR Shukla,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,16.7,LR Shukla,BJ Hodge,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.1,BJ Hodge,LR Shukla,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.2,LR Shukla,BJ Hodge,Z Khan,0,0,0,NA,1,bowled,LR Shukla,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.3,BB McCullum,BJ Hodge,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.4,BJ Hodge,BB McCullum,Z Khan,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.5,BJ Hodge,BB McCullum,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,17.6,BB McCullum,BJ Hodge,Z Khan,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.1,BB McCullum,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.2,BJ Hodge,BB McCullum,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.3,BB McCullum,BJ Hodge,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.4,BB McCullum,BJ Hodge,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.5,BJ Hodge,BB McCullum,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,18.6,BJ Hodge,BB McCullum,SL Malinga,1,0,1,NA,1,run out,BJ Hodge,JP Duminy,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.1,BB McCullum,WP Saha,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.2,WP Saha,BB McCullum,AM Nayar,1,0,1,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.3,BB McCullum,WP Saha,AM Nayar,0,0,0,NA,1,caught,BB McCullum,SL Malinga,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.4,WP Saha,AB Agarkar,AM Nayar,4,0,4,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.5,WP Saha,AB Agarkar,AM Nayar,2,0,2,NA,0,NA,NA,NA,0
+392203,2nd innings,Kolkata Knight Riders,Mumbai Indians,19.6,WP Saha,AB Agarkar,AM Nayar,1,0,1,NA,0,NA,NA,NA,0

@@ -1,0 +1,246 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.1,PP Shaw,JJ Roy,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.2,PP Shaw,JJ Roy,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.3,JJ Roy,PP Shaw,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.4,PP Shaw,JJ Roy,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.5,JJ Roy,PP Shaw,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,0.6,PP Shaw,JJ Roy,YS Chahal,0,0,0,NA,1,bowled,PP Shaw,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.1,JJ Roy,SS Iyer,UT Yadav,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.2,JJ Roy,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.3,JJ Roy,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.4,JJ Roy,SS Iyer,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.5,JJ Roy,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.6,JJ Roy,SS Iyer,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,1.7,JJ Roy,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.1,SS Iyer,JJ Roy,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.2,SS Iyer,JJ Roy,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.3,SS Iyer,JJ Roy,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.4,JJ Roy,SS Iyer,YS Chahal,0,0,0,NA,1,bowled,JJ Roy,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.5,RR Pant,SS Iyer,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,2.6,SS Iyer,RR Pant,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.1,RR Pant,SS Iyer,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.2,RR Pant,SS Iyer,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.3,RR Pant,SS Iyer,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.4,RR Pant,SS Iyer,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.5,RR Pant,SS Iyer,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.6,RR Pant,SS Iyer,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,3.7,RR Pant,SS Iyer,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.1,SS Iyer,RR Pant,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.2,RR Pant,SS Iyer,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.3,SS Iyer,RR Pant,UT Yadav,0,1,1,legbyes,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.4,RR Pant,SS Iyer,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.5,RR Pant,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,4.6,RR Pant,SS Iyer,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.1,SS Iyer,RR Pant,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.2,SS Iyer,RR Pant,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.3,SS Iyer,RR Pant,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.4,RR Pant,SS Iyer,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.5,SS Iyer,RR Pant,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,5.6,SS Iyer,RR Pant,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.1,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.2,RR Pant,SS Iyer,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.3,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.4,SS Iyer,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.5,SS Iyer,RR Pant,MM Ali,0,1,1,wides,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.6,SS Iyer,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,6.7,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.1,SS Iyer,RR Pant,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.2,SS Iyer,RR Pant,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.3,RR Pant,SS Iyer,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.4,RR Pant,SS Iyer,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.5,RR Pant,SS Iyer,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,7.6,SS Iyer,RR Pant,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.1,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.2,SS Iyer,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.3,SS Iyer,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.4,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.5,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,8.6,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.1,SS Iyer,RR Pant,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.2,SS Iyer,RR Pant,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.3,RR Pant,SS Iyer,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.4,SS Iyer,RR Pant,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.5,RR Pant,SS Iyer,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,9.6,SS Iyer,RR Pant,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.1,RR Pant,SS Iyer,MM Ali,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.2,RR Pant,SS Iyer,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.3,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.4,SS Iyer,RR Pant,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.5,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,10.6,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.1,RR Pant,SS Iyer,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.2,RR Pant,SS Iyer,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.3,RR Pant,SS Iyer,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.4,SS Iyer,RR Pant,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.5,RR Pant,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,11.6,RR Pant,SS Iyer,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.1,SS Iyer,RR Pant,MM Ali,0,1,1,wides,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.2,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.3,RR Pant,SS Iyer,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.4,RR Pant,SS Iyer,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.5,SS Iyer,RR Pant,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.6,RR Pant,SS Iyer,MM Ali,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,12.7,RR Pant,SS Iyer,MM Ali,0,0,0,NA,1,caught,RR Pant,AB de Villiers,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.1,V Shankar,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.2,V Shankar,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.3,V Shankar,SS Iyer,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.4,SS Iyer,V Shankar,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.5,V Shankar,SS Iyer,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,13.6,V Shankar,SS Iyer,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.1,SS Iyer,V Shankar,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.2,V Shankar,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.3,V Shankar,SS Iyer,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.4,V Shankar,SS Iyer,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.5,V Shankar,SS Iyer,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,14.6,SS Iyer,V Shankar,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.1,SS Iyer,V Shankar,Mohammed Siraj,0,0,0,NA,1,caught,SS Iyer,V Kohli,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.2,V Shankar,Abhishek Sharma,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.3,Abhishek Sharma,V Shankar,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.4,Abhishek Sharma,V Shankar,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.5,Abhishek Sharma,V Shankar,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,15.6,Abhishek Sharma,V Shankar,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.1,V Shankar,Abhishek Sharma,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.2,Abhishek Sharma,V Shankar,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.3,Abhishek Sharma,V Shankar,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.4,Abhishek Sharma,V Shankar,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.5,Abhishek Sharma,V Shankar,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.6,Abhishek Sharma,V Shankar,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,16.7,Abhishek Sharma,V Shankar,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.1,V Shankar,Abhishek Sharma,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.2,Abhishek Sharma,V Shankar,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.3,Abhishek Sharma,V Shankar,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.4,V Shankar,Abhishek Sharma,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.5,V Shankar,Abhishek Sharma,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,17.6,Abhishek Sharma,V Shankar,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.1,Abhishek Sharma,V Shankar,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.2,V Shankar,Abhishek Sharma,TG Southee,1,1,2,noballs,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.3,Abhishek Sharma,V Shankar,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.4,V Shankar,Abhishek Sharma,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.5,Abhishek Sharma,V Shankar,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.6,V Shankar,Abhishek Sharma,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,18.7,V Shankar,Abhishek Sharma,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.1,V Shankar,Abhishek Sharma,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.2,Abhishek Sharma,V Shankar,Mohammed Siraj,0,0,0,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.3,Abhishek Sharma,V Shankar,Mohammed Siraj,6,0,6,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.4,Abhishek Sharma,V Shankar,Mohammed Siraj,4,0,4,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.5,Abhishek Sharma,V Shankar,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,1st innings,Delhi Daredevils,Royal Challengers Bangalore,19.6,V Shankar,Abhishek Sharma,Mohammed Siraj,1,0,1,NA,0,NA,NA,NA,0
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.1,PA Patel,MM Ali,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.2,MM Ali,PA Patel,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.3,MM Ali,PA Patel,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.4,PA Patel,MM Ali,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.5,PA Patel,MM Ali,S Lamichhane,0,4,4,byes,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,0.6,PA Patel,MM Ali,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.1,MM Ali,PA Patel,TA Boult,0,0,0,NA,1,caught,MM Ali,PP Shaw,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.2,V Kohli,PA Patel,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.3,PA Patel,V Kohli,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.4,V Kohli,PA Patel,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.5,V Kohli,PA Patel,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,1.6,PA Patel,V Kohli,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.1,V Kohli,PA Patel,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.2,V Kohli,PA Patel,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.3,PA Patel,V Kohli,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.4,PA Patel,V Kohli,S Lamichhane,0,0,0,NA,1,lbw,PA Patel,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.5,AB de Villiers,V Kohli,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,2.6,AB de Villiers,V Kohli,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.1,V Kohli,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.2,V Kohli,AB de Villiers,CJ Dala,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.3,V Kohli,AB de Villiers,CJ Dala,0,1,1,wides,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.4,V Kohli,AB de Villiers,CJ Dala,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.5,V Kohli,AB de Villiers,CJ Dala,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.6,V Kohli,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,3.7,V Kohli,AB de Villiers,CJ Dala,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.1,AB de Villiers,V Kohli,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.2,AB de Villiers,V Kohli,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.3,AB de Villiers,V Kohli,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.4,AB de Villiers,V Kohli,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.5,V Kohli,AB de Villiers,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,4.6,V Kohli,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.1,V Kohli,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.2,AB de Villiers,V Kohli,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.3,V Kohli,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.4,V Kohli,AB de Villiers,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.5,V Kohli,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,5.6,AB de Villiers,V Kohli,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.1,V Kohli,AB de Villiers,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.2,V Kohli,AB de Villiers,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.3,V Kohli,AB de Villiers,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.4,AB de Villiers,V Kohli,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.5,V Kohli,AB de Villiers,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,6.6,AB de Villiers,V Kohli,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.1,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.2,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.3,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.4,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.5,AB de Villiers,V Kohli,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,7.6,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.1,V Kohli,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.2,V Kohli,AB de Villiers,CJ Dala,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.3,V Kohli,AB de Villiers,CJ Dala,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.4,V Kohli,AB de Villiers,CJ Dala,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.5,AB de Villiers,V Kohli,CJ Dala,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,8.6,V Kohli,AB de Villiers,CJ Dala,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.1,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.2,AB de Villiers,V Kohli,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.3,V Kohli,AB de Villiers,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.4,V Kohli,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.5,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.6,AB de Villiers,V Kohli,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,9.7,AB de Villiers,V Kohli,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.1,V Kohli,AB de Villiers,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.2,V Kohli,AB de Villiers,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.3,V Kohli,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.4,AB de Villiers,V Kohli,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.5,AB de Villiers,V Kohli,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,10.6,V Kohli,AB de Villiers,HV Patel,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.1,AB de Villiers,V Kohli,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.2,V Kohli,AB de Villiers,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.3,AB de Villiers,V Kohli,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.4,V Kohli,AB de Villiers,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.5,AB de Villiers,V Kohli,S Lamichhane,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,11.6,AB de Villiers,V Kohli,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.1,V Kohli,AB de Villiers,HV Patel,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.2,V Kohli,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.3,AB de Villiers,V Kohli,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.4,AB de Villiers,V Kohli,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.5,AB de Villiers,V Kohli,HV Patel,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,12.6,AB de Villiers,V Kohli,HV Patel,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.1,V Kohli,AB de Villiers,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.2,V Kohli,AB de Villiers,A Mishra,0,0,0,NA,1,caught,V Kohli,RR Pant,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.3,Mandeep Singh,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.4,Mandeep Singh,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.5,AB de Villiers,Mandeep Singh,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,13.6,Mandeep Singh,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.1,Mandeep Singh,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.2,Mandeep Singh,AB de Villiers,CJ Dala,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.3,Mandeep Singh,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.4,Mandeep Singh,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.5,Mandeep Singh,AB de Villiers,CJ Dala,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,14.6,Mandeep Singh,AB de Villiers,CJ Dala,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.1,AB de Villiers,Mandeep Singh,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.2,Mandeep Singh,AB de Villiers,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.3,Mandeep Singh,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.4,Mandeep Singh,AB de Villiers,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.5,Mandeep Singh,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,15.6,AB de Villiers,Mandeep Singh,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.1,Mandeep Singh,AB de Villiers,TA Boult,0,0,0,NA,1,bowled,Mandeep Singh,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.2,SN Khan,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.3,AB de Villiers,SN Khan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.4,SN Khan,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.5,AB de Villiers,SN Khan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,16.6,SN Khan,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.1,SN Khan,AB de Villiers,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.2,SN Khan,AB de Villiers,HV Patel,0,1,1,wides,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.3,SN Khan,AB de Villiers,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.4,SN Khan,AB de Villiers,HV Patel,0,1,1,wides,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.5,SN Khan,AB de Villiers,HV Patel,4,0,4,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.6,SN Khan,AB de Villiers,HV Patel,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.7,SN Khan,AB de Villiers,HV Patel,0,0,0,NA,1,caught,SN Khan,PP Shaw,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.8,C de Grandhomme,AB de Villiers,HV Patel,0,3,3,wides,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,17.9,C de Grandhomme,AB de Villiers,HV Patel,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.1,C de Grandhomme,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.2,AB de Villiers,C de Grandhomme,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.3,AB de Villiers,C de Grandhomme,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.4,C de Grandhomme,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.5,C de Grandhomme,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1136605,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,18.6,AB de Villiers,C de Grandhomme,TA Boult,6,0,6,NA,0,NA,NA,NA,1

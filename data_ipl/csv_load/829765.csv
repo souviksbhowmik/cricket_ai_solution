@@ -1,0 +1,251 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.1,DR Smith,BB McCullum,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.2,DR Smith,BB McCullum,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.3,DR Smith,BB McCullum,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.4,DR Smith,BB McCullum,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.5,DR Smith,BB McCullum,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,0.6,DR Smith,BB McCullum,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.1,BB McCullum,DR Smith,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.2,BB McCullum,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.3,BB McCullum,DR Smith,UT Yadav,0,1,1,legbyes,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.4,DR Smith,BB McCullum,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.5,BB McCullum,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,1.6,BB McCullum,DR Smith,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.1,BB McCullum,DR Smith,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.2,BB McCullum,DR Smith,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.3,BB McCullum,DR Smith,PJ Cummins,6,0,6,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.4,BB McCullum,DR Smith,PJ Cummins,0,1,1,legbyes,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.5,DR Smith,BB McCullum,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,2.6,BB McCullum,DR Smith,PJ Cummins,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.1,DR Smith,BB McCullum,UT Yadav,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.2,DR Smith,BB McCullum,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.3,DR Smith,BB McCullum,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.4,DR Smith,BB McCullum,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.5,DR Smith,BB McCullum,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.6,DR Smith,BB McCullum,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,3.7,DR Smith,BB McCullum,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.1,BB McCullum,DR Smith,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.2,BB McCullum,DR Smith,PP Chawla,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.3,BB McCullum,DR Smith,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.4,BB McCullum,DR Smith,PP Chawla,0,0,0,NA,1,lbw,BB McCullum,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.5,SK Raina,DR Smith,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,4.6,SK Raina,DR Smith,PP Chawla,6,0,6,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.1,DR Smith,SK Raina,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.2,SK Raina,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.3,SK Raina,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.4,SK Raina,DR Smith,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.5,SK Raina,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,5.6,SK Raina,DR Smith,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.1,DR Smith,SK Raina,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.2,SK Raina,DR Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.3,SK Raina,DR Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.4,SK Raina,DR Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.5,SK Raina,DR Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,6.6,SK Raina,DR Smith,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.1,SK Raina,DR Smith,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.2,DR Smith,SK Raina,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.3,SK Raina,DR Smith,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.4,SK Raina,DR Smith,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.5,SK Raina,DR Smith,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,7.6,SK Raina,DR Smith,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.1,DR Smith,SK Raina,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.2,SK Raina,DR Smith,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.3,DR Smith,SK Raina,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.4,SK Raina,DR Smith,GB Hogg,0,0,0,NA,1,run out,DR Smith,YK Pathan,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.5,F du Plessis,SK Raina,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,8.6,F du Plessis,SK Raina,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.1,F du Plessis,SK Raina,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.2,SK Raina,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.3,SK Raina,F du Plessis,AD Russell,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.4,SK Raina,F du Plessis,AD Russell,0,0,0,NA,1,caught,SK Raina,RV Uthappa,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.5,MS Dhoni,F du Plessis,AD Russell,0,1,1,legbyes,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.6,F du Plessis,MS Dhoni,AD Russell,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.7,F du Plessis,MS Dhoni,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.8,MS Dhoni,F du Plessis,AD Russell,0,3,3,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,9.9,MS Dhoni,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.1,F du Plessis,MS Dhoni,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.2,F du Plessis,MS Dhoni,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.3,MS Dhoni,F du Plessis,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.4,F du Plessis,MS Dhoni,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.5,F du Plessis,MS Dhoni,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,10.6,MS Dhoni,F du Plessis,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.1,MS Dhoni,F du Plessis,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.2,F du Plessis,MS Dhoni,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.3,MS Dhoni,F du Plessis,AD Russell,0,0,0,NA,1,caught,MS Dhoni,RV Uthappa,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.4,DJ Bravo,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.5,DJ Bravo,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,11.6,DJ Bravo,F du Plessis,AD Russell,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.1,F du Plessis,DJ Bravo,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.2,DJ Bravo,F du Plessis,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.3,F du Plessis,DJ Bravo,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.4,DJ Bravo,F du Plessis,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.5,DJ Bravo,F du Plessis,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,12.6,DJ Bravo,F du Plessis,PP Chawla,0,0,0,NA,1,caught,DJ Bravo,SA Yadav,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.1,RA Jadeja,F du Plessis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.2,RA Jadeja,F du Plessis,PJ Cummins,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.3,RA Jadeja,F du Plessis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.4,RA Jadeja,F du Plessis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.5,F du Plessis,RA Jadeja,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,13.6,RA Jadeja,F du Plessis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.1,F du Plessis,RA Jadeja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.2,RA Jadeja,F du Plessis,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.3,F du Plessis,RA Jadeja,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.4,F du Plessis,RA Jadeja,PP Chawla,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.5,RA Jadeja,F du Plessis,PP Chawla,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,14.6,RA Jadeja,F du Plessis,PP Chawla,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.1,F du Plessis,RA Jadeja,AD Russell,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.2,F du Plessis,RA Jadeja,AD Russell,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.3,F du Plessis,RA Jadeja,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.4,RA Jadeja,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.5,RA Jadeja,F du Plessis,AD Russell,2,0,2,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.6,RA Jadeja,F du Plessis,AD Russell,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,15.7,RA Jadeja,F du Plessis,AD Russell,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.1,RA Jadeja,F du Plessis,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.2,F du Plessis,RA Jadeja,GB Hogg,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.3,F du Plessis,RA Jadeja,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.4,RA Jadeja,F du Plessis,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.5,F du Plessis,RA Jadeja,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,16.6,RA Jadeja,F du Plessis,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.1,RA Jadeja,F du Plessis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.2,RA Jadeja,F du Plessis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.3,F du Plessis,RA Jadeja,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.4,RA Jadeja,F du Plessis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.5,F du Plessis,RA Jadeja,PJ Cummins,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.6,F du Plessis,RA Jadeja,PJ Cummins,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.7,F du Plessis,RA Jadeja,PJ Cummins,0,1,1,wides,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,17.8,F du Plessis,RA Jadeja,PJ Cummins,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.1,F du Plessis,RA Jadeja,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.2,RA Jadeja,F du Plessis,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.3,F du Plessis,RA Jadeja,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.4,F du Plessis,RA Jadeja,GB Hogg,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.5,RA Jadeja,F du Plessis,GB Hogg,0,0,0,NA,1,bowled,RA Jadeja,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,18.6,R Ashwin,F du Plessis,GB Hogg,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.1,F du Plessis,R Ashwin,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.2,F du Plessis,R Ashwin,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.3,F du Plessis,R Ashwin,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.4,R Ashwin,F du Plessis,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.5,R Ashwin,F du Plessis,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+829765,1st innings,Chennai Super Kings,Kolkata Knight Riders,19.6,R Ashwin,F du Plessis,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.1,RV Uthappa,G Gambhir,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.2,G Gambhir,RV Uthappa,IC Pandey,0,0,0,NA,1,caught,G Gambhir,MS Dhoni,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.3,MK Pandey,RV Uthappa,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.4,MK Pandey,RV Uthappa,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.5,MK Pandey,RV Uthappa,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,0.6,MK Pandey,RV Uthappa,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.1,RV Uthappa,MK Pandey,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.2,RV Uthappa,MK Pandey,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.3,RV Uthappa,MK Pandey,A Nehra,3,0,3,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.4,MK Pandey,RV Uthappa,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.5,RV Uthappa,MK Pandey,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,1.6,RV Uthappa,MK Pandey,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.1,MK Pandey,RV Uthappa,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.2,RV Uthappa,MK Pandey,IC Pandey,6,0,6,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.3,RV Uthappa,MK Pandey,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.4,RV Uthappa,MK Pandey,IC Pandey,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.5,RV Uthappa,MK Pandey,IC Pandey,0,1,1,wides,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.6,RV Uthappa,MK Pandey,IC Pandey,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,2.7,MK Pandey,RV Uthappa,IC Pandey,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.1,RV Uthappa,MK Pandey,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.2,RV Uthappa,MK Pandey,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.3,RV Uthappa,MK Pandey,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.4,RV Uthappa,MK Pandey,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.5,MK Pandey,RV Uthappa,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,3.6,MK Pandey,RV Uthappa,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.1,MK Pandey,RV Uthappa,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.2,MK Pandey,RV Uthappa,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.3,MK Pandey,RV Uthappa,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.4,RV Uthappa,MK Pandey,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.5,RV Uthappa,MK Pandey,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,4.6,MK Pandey,RV Uthappa,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.1,RV Uthappa,MK Pandey,R Ashwin,0,0,0,NA,1,caught,RV Uthappa,BB McCullum,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.2,SA Yadav,MK Pandey,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.3,MK Pandey,SA Yadav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.4,MK Pandey,SA Yadav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.5,MK Pandey,SA Yadav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,5.6,MK Pandey,SA Yadav,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.1,MK Pandey,SA Yadav,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.2,SA Yadav,MK Pandey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.3,MK Pandey,SA Yadav,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.4,SA Yadav,MK Pandey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.5,SA Yadav,MK Pandey,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,6.6,SA Yadav,MK Pandey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.1,MK Pandey,SA Yadav,R Ashwin,0,0,0,NA,1,caught,MK Pandey,DJ Bravo,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.2,SA Yadav,YK Pathan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.3,SA Yadav,YK Pathan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.4,YK Pathan,SA Yadav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.5,YK Pathan,SA Yadav,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,7.6,YK Pathan,SA Yadav,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.1,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.2,SA Yadav,YK Pathan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.3,YK Pathan,SA Yadav,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.4,YK Pathan,SA Yadav,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.5,YK Pathan,SA Yadav,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,8.6,SA Yadav,YK Pathan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.1,SA Yadav,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.2,SA Yadav,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.3,SA Yadav,YK Pathan,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.4,YK Pathan,SA Yadav,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.5,YK Pathan,SA Yadav,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,9.6,SA Yadav,YK Pathan,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.1,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.2,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.3,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.4,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.5,SA Yadav,YK Pathan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,10.6,SA Yadav,YK Pathan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.1,SA Yadav,YK Pathan,SK Raina,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.2,SA Yadav,YK Pathan,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.3,YK Pathan,SA Yadav,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.4,YK Pathan,SA Yadav,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.5,SA Yadav,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,11.6,SA Yadav,YK Pathan,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.1,SA Yadav,YK Pathan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.2,SA Yadav,YK Pathan,MM Sharma,0,0,0,NA,1,caught,SA Yadav,DJ Bravo,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.3,YK Pathan,RN ten Doeschate,MM Sharma,0,1,1,wides,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.4,YK Pathan,RN ten Doeschate,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.5,RN ten Doeschate,YK Pathan,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.6,YK Pathan,RN ten Doeschate,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,12.7,RN ten Doeschate,YK Pathan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.1,YK Pathan,RN ten Doeschate,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.2,RN ten Doeschate,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.3,RN ten Doeschate,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.4,RN ten Doeschate,YK Pathan,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.5,RN ten Doeschate,YK Pathan,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.6,YK Pathan,RN ten Doeschate,SK Raina,0,1,1,wides,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,13.7,YK Pathan,RN ten Doeschate,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.1,YK Pathan,RN ten Doeschate,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.2,RN ten Doeschate,YK Pathan,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.3,YK Pathan,RN ten Doeschate,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.4,RN ten Doeschate,YK Pathan,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.5,RN ten Doeschate,YK Pathan,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,14.6,YK Pathan,RN ten Doeschate,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.1,RN ten Doeschate,YK Pathan,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.2,YK Pathan,RN ten Doeschate,DJ Bravo,0,0,0,NA,1,bowled,YK Pathan,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.3,AD Russell,RN ten Doeschate,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.4,RN ten Doeschate,AD Russell,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.5,AD Russell,RN ten Doeschate,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,15.6,RN ten Doeschate,AD Russell,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.1,RN ten Doeschate,AD Russell,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.2,AD Russell,RN ten Doeschate,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.3,RN ten Doeschate,AD Russell,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.4,AD Russell,RN ten Doeschate,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.5,RN ten Doeschate,AD Russell,A Nehra,1,0,1,NA,1,run out,AD Russell,RA Jadeja,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,16.6,PJ Cummins,RN ten Doeschate,A Nehra,0,1,1,legbyes,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.1,PJ Cummins,RN ten Doeschate,DJ Bravo,0,0,0,NA,1,caught,PJ Cummins,RA Jadeja,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.2,RN ten Doeschate,PP Chawla,DJ Bravo,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.3,RN ten Doeschate,PP Chawla,DJ Bravo,0,1,1,legbyes,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.4,PP Chawla,RN ten Doeschate,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.5,PP Chawla,RN ten Doeschate,DJ Bravo,0,0,0,NA,1,caught,PP Chawla,MS Dhoni,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,17.6,RN ten Doeschate,UT Yadav,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.1,RN ten Doeschate,UT Yadav,A Nehra,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.2,RN ten Doeschate,UT Yadav,A Nehra,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.3,RN ten Doeschate,UT Yadav,A Nehra,6,0,6,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.4,RN ten Doeschate,UT Yadav,A Nehra,1,0,1,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.5,UT Yadav,RN ten Doeschate,A Nehra,0,0,0,NA,1,bowled,UT Yadav,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,18.6,GB Hogg,RN ten Doeschate,A Nehra,2,0,2,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.1,RN ten Doeschate,GB Hogg,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.2,RN ten Doeschate,GB Hogg,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.3,RN ten Doeschate,GB Hogg,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.4,RN ten Doeschate,GB Hogg,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.5,RN ten Doeschate,GB Hogg,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
+829765,2nd innings,Kolkata Knight Riders,Chennai Super Kings,19.6,RN ten Doeschate,GB Hogg,DJ Bravo,4,0,4,NA,0,NA,NA,NA,0
