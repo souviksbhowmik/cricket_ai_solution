@@ -56,10 +56,10 @@ def get_trend(input_df, team_or_opponent, team_name, target_field):
 
     base = linear_trend_model.intercept_
     trend = linear_trend_model.coef_[0]
-    # y_pred = linear_trend_model.predict(x)
-    # mean_error = np.mean(y-y_pred)
-    trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]
-    # trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]+mean_error
+    y_pred = linear_trend_model.predict(x)
+    mean_error = np.mean(y-y_pred)
+    #trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]
+    trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]+mean_error
     mean = sorted_df[target_field].mean()
 
     return base, trend, trend_predict, mean

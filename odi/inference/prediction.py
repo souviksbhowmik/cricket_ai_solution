@@ -360,7 +360,7 @@ def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env):
         get_optimum_run(team, opponent, location,
                               team_player_list, opponent_player_list,
                               ref_date=ref_date, no_of_years=no_of_years
-                              )@predict.command()
+                              )
 
 
 @predict.command()
