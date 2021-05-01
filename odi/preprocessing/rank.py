@@ -124,6 +124,7 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
         # ab.append(rank_dict)
     # print(country_rank_list)
 
+    print(country_rank_list[0])
     score_df = pd.DataFrame(country_rank_list).sort_values('win_ratio', ascending=False)
     scaler = MinMaxScaler()
 

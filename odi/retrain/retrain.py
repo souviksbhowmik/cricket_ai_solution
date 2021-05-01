@@ -466,20 +466,25 @@ def retrain_second_innings():
 
     statsmodel_scaler = StandardScaler()
     train_x_scaled = statsmodel_scaler.fit_transform((train_x))
-    model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
+    try:
+        model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
 
-    train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
-    test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
+        train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
+        test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
 
-    accuracy_train = accuracy_score(train_y,train_y_predict)
-    accuracy_test = accuracy_score(test_y, test_y_predict)
+        accuracy_train = accuracy_score(train_y,train_y_predict)
+        accuracy_test = accuracy_score(test_y, test_y_predict)
 
 
-    print(model.summary())
-    print('Using stats model')
+        print(model.summary())
+        print('Using stats model')
 
-    print('metrics train ', accuracy_train)
-    print('metrics test ', accuracy_test)
+        print('metrics train ', accuracy_train)
+        print('metrics test ', accuracy_test)
+
+    except Exception as ex:
+        print(ex)
+        print("Statsmodel could not be evaluated")
 
     pipe = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
     pipe.fit(train_x,train_y)
