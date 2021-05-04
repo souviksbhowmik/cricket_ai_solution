@@ -3,6 +3,7 @@ from odi.feature_engg import util as cricutil
 from odi.data_loader import  data_loader as dl
 from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor as fe
+from odi.evaluation import evaluate as cric_eval
 
 import os
 import numpy as np
@@ -412,6 +413,33 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
                                  str(test_end_dt.date()),
                                  file_list=[first_innings_base_test_x,
                                             first_innings_base_test_y])
+
+    # trend prediction data
+    trend_data_df = pd.DataFrame(feature_list_test)
+    trend_data_df['runs_scored'] = target_list_test
+    trend_data_df[['team','opponent','location','opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']].to_csv(os.path.join(outil.DEV_DIR, "trend_predict.csv"), index=False)
+    trend_data_df = trend_data_df[['opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']]
+
+    mape_opponent_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['opponent_trend_predict']))
+
+    mape_location_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                    np.array(trend_data_df['location_trend_predict']))
+
+    mape_current_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['current_trend_predict']))
+
+    outil.create_model_meta_info_entry('first_innings_trend_prediction_metrics',
+                                       (0, 0, 0),
+                                       (mape_opponent_trend, mape_location_trend, mape_current_trend),
+                                       info="metrics is mape_opponent_trend, mape_location_trend, mape_current_trend ",
+                                       file_list=[
+                                           "tred_predict.csv",
+                                       ]
+                                       )
+    print("mape_opponent_trend",mape_opponent_trend)
+    print("mape_location_trend", mape_location_trend)
+    print("mape_current_trend", mape_current_trend)
 
 
 def create_second_innings_base_train_test(train_start,test_start,test_end=None):
