@@ -418,7 +418,7 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     trend_data_df = pd.DataFrame(feature_list_test)
     trend_data_df['runs_scored'] = target_list_test
     trend_data_df[['team','opponent','location','opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']].to_csv(os.path.join(outil.DEV_DIR, "trend_predict.csv"), index=False)
-    trend_data_df = trend_data_df[['opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']]
+    # trend_data_df = trend_data_df[['opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']]
 
     mape_opponent_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
                                          np.array(trend_data_df['opponent_trend_predict']))
@@ -429,10 +429,21 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     mape_current_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
                                          np.array(trend_data_df['current_trend_predict']))
 
+    mape_opponent_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['opponent_mean']))
+
+    mape_location_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['location_mean']))
+
+    mape_current_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                        np.array(trend_data_df['current_mean']))
+
     outil.create_model_meta_info_entry('first_innings_trend_prediction_metrics',
                                        (0, 0, 0),
-                                       (mape_opponent_trend, mape_location_trend, mape_current_trend),
-                                       info="metrics is mape_opponent_trend, mape_location_trend, mape_current_trend ",
+                                       (mape_opponent_trend, mape_location_trend, mape_current_trend,
+                                        mape_opponent_mean, mape_location_mean, mape_current_mean),
+                                       info="metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,"+
+                                            "mape_opponent_mean, mape_location_mean, mape_current_mean ",
                                        file_list=[
                                            "tred_predict.csv",
                                        ]
@@ -440,6 +451,10 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     print("mape_opponent_trend",mape_opponent_trend)
     print("mape_location_trend", mape_location_trend)
     print("mape_current_trend", mape_current_trend)
+
+    print("mape_opponent_mean", mape_opponent_mean)
+    print("mape_location_mean", mape_location_mean)
+    print("mape_current_mean", mape_current_mean)
 
 
 def create_second_innings_base_train_test(train_start,test_start,test_end=None):
