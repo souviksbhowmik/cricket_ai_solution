@@ -161,11 +161,22 @@ def get_bowler_mean_max(country,bowler_list,ref_date=None):
     return bowler_mean,bowler_max,bowler_sum
 
 
+def get_location_mean(location,innings,ref_date=None):
+    location_rank_file = rank.get_latest_rank_file('location',ref_date=ref_date)
+    location_rank_df = pd.read_csv(location_rank_file)
+    location_list = list(location_rank_df['location'].unique())
+    if location not in location_list:
+        location = 'default'
+    location_mean = location_rank_df[(location_rank_df['location']==location) & (location_rank_df['innings']==innings)]['total_run'].values[0]
+    return location_mean
+
+
 def get_instance_feature_dict(team, opponent, location, team_player_list, opponent_player_list, ref_date=None, no_of_years=None):
     team_score = get_country_score(team, ref_date=ref_date)
     opponent_score = get_country_score(opponent, ref_date=ref_date)
     batsman_mean,batsman_max,batsman_sum= get_batsman_mean_max(team, team_player_list, ref_date=ref_date)
     bowler_mean,bowler_max,bowler_sum= get_bowler_mean_max(opponent, opponent_player_list, ref_date=ref_date)
+    #location_overall_mean = get_location_mean(location,"first")
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years)
@@ -210,7 +221,9 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         'batsman_sum':batsman_sum,
         'bowler_mean': bowler_mean,
         'bowler_max': bowler_max,
-        'bowler_sum': bowler_sum
+        'bowler_sum': bowler_sum,
+        # 'bat_ball_ratio':batsman_sum/bowler_sum
+        # 'location_overall_mean':location_overall_mean
 
 
     }

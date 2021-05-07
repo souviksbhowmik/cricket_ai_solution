@@ -36,6 +36,8 @@ python odi/preprocessing/rank.py all --no_of_years 2
 python odi/preprocessing/rank.py batsman
 
 python odi/preprocessing/rank.py bowler
+
+python odi/preprocessing/rank.py location
 ### create only bowler ranking (without country)
 python odi/preprocessing/rank.py bowler-only
 

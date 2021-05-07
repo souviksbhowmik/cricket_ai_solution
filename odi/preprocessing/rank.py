@@ -18,7 +18,8 @@ def get_latest_rank_file(rank_type,ref_date = None):
     rank_type_prefix = {
         'country':'country_rank_',
         'batsman':'batsman_rank_',
-        'bowler': 'bowler_rank_'
+        'bowler': 'bowler_rank_',
+        'location': 'location_rank_'
     }
 
     country_list_files = [f for f in os.listdir(PREPROCESS_DATA_LOACATION) if f.startswith(rank_type_prefix[rank_type])]
@@ -131,6 +132,8 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     score_df['score'] = scaler.fit_transform(
         score_df[['win_ratio', 'effective_win_by_runs', 'effective_win_by_wickets', 'matches_played']]).sum(axis=1)
 
+    score_scaler = MinMaxScaler()
+    score_df['score'] = score_scaler.fit_transform(score_df[['score']])
     score_df = score_df.sort_values('score', ascending=False)
     score_df['rank'] = range(1, score_df.shape[0] + 1)
     score_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'country_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
@@ -255,6 +258,8 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     batsman_performance_df.fillna(0, inplace=True)
     batsman_performance_df['batsman_score'] = scaler.fit_transform(
         batsman_performance_df.drop(columns=['batsman', 'country', 'consistency'])).sum(axis=1)
+    score_scaler = MinMaxScaler()
+    batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
     batsman_performance_df.sort_values('batsman_score', ascending=False, inplace=True)
     batsman_performance_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'batsman_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
 
@@ -389,6 +394,8 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
     bowler_performance_df.fillna(0, inplace=True)
     bowler_performance_df['bowler_score'] = scaler.fit_transform(
         bowler_performance_df.drop(columns=['bowler', 'country'])).sum(axis=1)
+    score_scaler = MinMaxScaler()
+    bowler_performance_df['bowler_score'] = score_scaler.fit_transform(bowler_performance_df[['bowler_score']])
     bowler_performance_df.sort_values('bowler_score', ascending=False, inplace=True)
     bowler_performance_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'bowler_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
 
@@ -411,6 +418,58 @@ def create_bowler_rank(year_list,no_of_years=1):
             performance_cutoff_date_start = datetime.strptime(year + '-01-01', '%Y-%m-%d')
             performance_cutoff_date_end = datetime.strptime(year + '-12-31', '%Y-%m-%d')
             create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
+
+
+def create_location_rank_for_date(performance_cutoff_date_start,performance_cutoff_date_end, match_list_df):
+    if not os.path.isdir(PREPROCESS_DATA_LOACATION):
+        os.makedirs(PREPROCESS_DATA_LOACATION)
+
+    selected_games = match_list_df[(match_list_df['date'] >= performance_cutoff_date_start)
+                                      & (match_list_df['date'] <= performance_cutoff_date_end)]
+
+    match_stats = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    selected_games = selected_games.merge(match_stats, how='inner', on='match_id')
+
+    selected_games_first_innings = selected_games[selected_games['first_innings']==selected_games['team_statistics']][['location','total_run']]
+    selected_games_second_innings = selected_games[selected_games['second_innings']==selected_games['team_statistics']][['location','total_run']]
+
+    selected_games_first_innings.dropna(inplace=True)
+    selected_games_second_innings.dropna(inplace=True)
+    first_innings_mean = selected_games_first_innings.groupby(['location']).mean().reset_index()
+    first_innings_default_mean = selected_games_first_innings['total_run'].mean()
+    first_innings_mean.loc[len(first_innings_mean.index)] = ['default', first_innings_default_mean]
+    first_innings_mean['innings'] = 'first'
+
+    second_innings_mean = selected_games_second_innings.groupby(['location']).mean().reset_index()
+    second_innings_default_mean = selected_games_second_innings['total_run'].mean()
+    second_innings_mean.loc[len(second_innings_mean.index)] = ['default', second_innings_default_mean]
+    second_innings_mean['innings'] = 'second'
+
+    innings_mean = pd.concat([first_innings_mean,second_innings_mean])
+    innings_mean.to_csv(
+        PREPROCESS_DATA_LOACATION + os.sep + 'location_rank_' + str(performance_cutoff_date_end.date()) + '.csv',
+        index=False)
+
+
+def create_location_rank(year_list,no_of_years=5):
+    custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
+    match_list_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv',
+                                parse_dates=['date'],
+                                date_parser=custom_date_parser)
+
+    if year_list is None or len(year_list)==0:
+        today = date.today()
+        performance_cutoff_date_end = datetime(year=today.year, month=today.month, day=today.day)
+        a_year = dateutil.relativedelta.relativedelta(years=no_of_years)
+        performance_cutoff_date_start = performance_cutoff_date_end - a_year
+
+        create_location_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
+
+    else:
+        for year in tqdm(year_list):
+            performance_cutoff_date_start = datetime.strptime(year + '-01-01', '%Y-%m-%d')
+            performance_cutoff_date_end = datetime.strptime(year + '-12-31', '%Y-%m-%d')
+            create_location_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
 
 
 @click.group()
@@ -474,6 +533,15 @@ def country(year_list,no_of_years):
 
     year_list = list(year_list)
     create_country_rank(year_list,no_of_years)
+
+@rank.command()
+@click.option('--year_list', multiple=True, help='list of years.')
+@click.option('--no_of_years', type=int, default=5,
+              help='applicable if year list not provided. How many previous years to consider')
+def location(year_list,no_of_years):
+
+    year_list = list(year_list)
+    create_location_rank(year_list,no_of_years)
 
 
 if __name__=='__main__':
