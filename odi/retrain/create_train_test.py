@@ -726,6 +726,7 @@ def create_second_innings_train_test(train_start,test_start,test_end=None):
                 feature_list_test.append(feature_vec)
                 result_list_test.append(win)
         except Exception as ex:
+            # raise ex
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
 
     train_x = np.stack(feature_list_train)

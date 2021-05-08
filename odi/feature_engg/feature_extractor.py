@@ -254,11 +254,12 @@ def get_second_innings_feature_vector(target, team, opponent, location, team_pla
     global SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE
     feature_dict = get_instance_feature_dict(team, opponent, location,
                                              team_player_list, opponent_player_list, ref_date=ref_date, no_of_years=no_of_years)
-    feature_dict['target_score'] = target
 
+    feature_dict['target_score'] = target
     if SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE == None:
         SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE = pickle.load(open(outil.MODEL_DIR + os.sep + outil.SECOND_INNINGS_FEATURE_PICKLE, 'rb'))
     selected_feature_list = SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE
+
 
     feature_values = list()
     for feaure_name in selected_feature_list:
