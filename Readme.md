@@ -180,6 +180,10 @@ python odi/evaluation/evaluate.py combined --from_date 2019-01-01 --to_date 2020
 python odi/evaluation/evaluate.py combined --from_date 2019-01-01 --to_date 2020-12-31 --second_innings_emb False --first_emb_model adversarial --env dev
 
 (this option uses non embedding for second inning and adversarial embedding for first innings on dev)
+
+### to evaluate batsman position
+python odi/evaluation/evaluate.py batting-order --from_date 2019-01-01 --to_date 2020-12-31 --env dev
+
 ## Retraining batsman run prediction
 prerequisite - batsman embedding is already learnt 
 

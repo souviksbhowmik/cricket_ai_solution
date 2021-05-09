@@ -11,6 +11,8 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_scor
 import click
 from odi.retrain import create_train_test as ctt
 import tensorflow as tf
+from odi.feature_engg import util as cricutil
+import math
 
 
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
@@ -18,6 +20,129 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
 def mape(y_true,y_predict):
     return np.sum((np.abs(y_true-y_predict)/y_true)*100)/len(y_true)
+
+def evaluate_batting_position(from_date, to_date, environment='production'):
+    outil.use_model_from(environment)
+
+    start_date = datetime.strptime(from_date, '%Y-%m-%d')
+    end_date = datetime.strptime(to_date, '%Y-%m-%d')
+
+    # custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
+    # match_list_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv', parse_dates=['date'],
+    #                             date_parser=custom_date_parser)
+
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= start_date) & (match_list_df['date'] <= end_date)]
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+
+    match_list_df = match_list_df.merge(match_stats_df, on='match_id', how='inner')
+    #match_list_df = match_list_df[match_list_df['first_innings']==match_list_df['team_statistics']]
+
+
+    match_id_list = list(match_list_df['match_id'].unique())
+
+    dict_list = []
+    for match_id in tqdm(match_id_list):
+        for combination in [('first_innings','second_innings'),('second_innings','first_innings')]:
+            selected_innings = combination[0]
+            opponent_innings = combination[1]
+            innings_team = match_list_df[(match_list_df['match_id']==match_id) &
+                                     (match_list_df[selected_innings]==match_list_df["team_statistics"])]
+
+            team = match_list_df["team_statistics"].values[0]
+            opponent = match_list_df[(match_list_df['match_id']==match_id) &
+                                     (match_list_df[opponent_innings]==match_list_df["team_statistics"])]["team_statistics"].values[0]
+
+            location = match_list_df["location"].values[0]
+            win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
+
+            batsman_list = list()
+            for i in range(11):
+                player = innings_team['batsman_'+str(i+1)].values[0]
+                if player == 'not_batted':
+                    break
+                else:
+                    batsman_list.append(player)
+
+            match_percentage, overall_position_dif_square, overall_position_dif = feature_extractor.get_batting_order_matching_metrics(batsman_list,team, opponent, location)
+            row_dit = {
+                "innings":selected_innings,
+                "win_flag":win_flag,
+                "match_percentage":match_percentage,
+                "overall_position_dif":overall_position_dif,
+                "overall_position_dif_square":overall_position_dif_square,
+                "no_of_batsman":len(batsman_list)
+
+            }
+
+            dict_list.append(row_dit)
+
+        # break
+
+    result_df = pd.DataFrame(dict_list)
+
+    winning_team_match_percentage = result_df[result_df["win_flag"]==1]["match_percentage"].mean()
+    loosing_team_match_percentage = result_df[result_df["win_flag"] == 0]["match_percentage"].mean()
+
+    #winning_team_position_dif = result_df[result_df["win_flag"] == 1]["overall_position_dif"].sum()/result_df[result_df["win_flag"] == 1]["no_of_batsman"].sum()
+    #loosing_team_position_dif = result_df[result_df["win_flag"] == 0]["overall_position_dif"].sum()/result_df[result_df["win_flag"] == 0]["no_of_batsman"].sum()
+
+    winning_team_position_dif = result_df[result_df["win_flag"] == 1]["overall_position_dif"].mean()
+    loosing_team_position_dif = result_df[result_df["win_flag"] == 0]["overall_position_dif"].mean()
+
+    sigma_1 = result_df[result_df["win_flag"] == 1]["overall_position_dif"].std()
+    sigma_2 = result_df[result_df["win_flag"] == 0]["overall_position_dif"].std()
+
+    n1 = result_df[result_df["win_flag"] == 1].shape[0]
+    n2 = result_df[result_df["win_flag"] == 0].shape[0]
+
+    # winning_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 1]["overall_position_dif_square"].sum() / \
+    #                            result_df[result_df["win_flag"] == 1]["no_of_batsman"].sum())
+    # loosing_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 0]["overall_position_dif_square"].sum() / \
+    #                             result_df[result_df["win_flag"] == 0]["no_of_batsman"].sum())
+
+    winning_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 1]["overall_position_dif_square"].mean())
+    loosing_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 0]["overall_position_dif_square"].mean())
+
+    z_score = (winning_team_position_dif-loosing_team_position_dif)/math.sqrt((sigma_1**2/n1)+(sigma_2**2/n2))
+
+    # first_inn_winning_team_match_percentage = result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
+    # first_inn_loosing_team_match_percentage = result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
+    #
+    # #first_inn_winning_team_position_dif = result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["overall_position_dif"].sum()/result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["no_of_batsman"].sum()
+    # #first_inn_loosing_team_position_dif = result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["overall_position_dif"].sum()/result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["no_of_batsman"].sum()
+    #
+    # first_inn_winning_team_position_dif = \
+    # result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["overall_position_dif"].mean()
+    # first_inn_loosing_team_position_dif = \
+    # result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["overall_position_dif"].mean()
+    #
+    # # first_inn_winning_team_position_rmse = \
+    # # math.sqrt(result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["overall_position_dif_square"].sum() / \
+    # # result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["no_of_batsman"].sum())
+    # # first_inn_loosing_team_position_rmse = \
+    # # math.sqrt(result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["overall_position_dif_square"].sum() / \
+    # # result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["overall_position_dif_square"].sum())
+    #
+    # first_inn_winning_team_position_rmse = \
+    #     math.sqrt(result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")][
+    #                   "overall_position_dif_square"].mean())
+    # first_inn_loosing_team_position_rmse = \
+    #     math.sqrt(result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")][
+    #                   "overall_position_dif_square"].mean())
+
+    print("winning_team_match_percentage-",winning_team_match_percentage)
+    print("loosing_team_match_percentage-", loosing_team_match_percentage)
+
+    print("winning_team_positon_dif-", winning_team_position_dif)
+    print("loosing_team_position_dif-", loosing_team_position_dif)
+
+    print("winning_team_positon_rmse-", winning_team_position_rmse)
+    print("loosing_team_positon_rmse-", loosing_team_position_rmse)
+
+    print("z-score",z_score)
+
+
 
 
 def evaluate_first_innings(from_date, to_date, environment='production',use_emb=True,model='team'):
@@ -444,6 +569,13 @@ def combined(from_date,to_date,env,first_innings_emb,second_innings_emb,first_em
                               first_innings_emb = first_innings_emb,second_innings_emb=second_innings_emb,
                               first_emb_model = first_emb_model, second_emb_model = second_emb_model)
 
+
+@evaluate.command()
+@click.option('--from_date', help='start date in YYYY-mm-dd',required=True)
+@click.option('--to_date', help='end date in YYYY-mm-dd',required=True)
+@click.option('--env', help='end date in YYYY-mm-dd',default='production')
+def batting_order(from_date, to_date, env):
+    evaluate_batting_position(from_date, to_date, environment=env)
 
 if __name__=='__main__':
     evaluate()

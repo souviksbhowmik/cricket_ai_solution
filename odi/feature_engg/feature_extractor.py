@@ -21,6 +21,7 @@ BATSMAN_ENC_MAP_CACHE = None
 BOWLER_ENC_MAP_CACHE = None
 LOC_ENC_MAP_FOR_BATSMAN_CACHE = None
 BATSMAN_EMBEDDING_MODEL_CACHE = None
+BATSMAN_EMBEDDING_RUN_MODEL_CACHE = None
 
 ADVERSARIAL_BATSMAN_MODEL_CACHE = None
 ADVERSARIAL_BOWLER_MODEL_CACHE = None
@@ -574,4 +575,123 @@ def get_adversarial_first_innings_feature_vector(team, opponent, location, team_
     final_vector = np.concatenate([feature_vector,batsman_embedding_vector, bowler_embedding_vector, location_embedding_vector])
 
     return final_vector
+
+
+def get_best_batsman_position(batsman,team,opponent,location,played_position):
+    global BATSMAN_EMBEDDING_RUN_MODEL_CACHE
+    global COUNTRY_ENC_MAP_CACHE
+    global BATSMAN_ENC_MAP_CACHE
+    global LOC_ENC_MAP_FOR_BATSMAN_CACHE
+
+    if BATSMAN_EMBEDDING_RUN_MODEL_CACHE is None:
+        BATSMAN_EMBEDDING_RUN_MODEL_CACHE = outil.load_keras_model(outil.MODEL_DIR \
+                                                               + os.sep
+                                                               + outil.BATSMAN_EMBEDDING_RUN_MODEL)
+    batsman_embedding = BATSMAN_EMBEDDING_RUN_MODEL_CACHE
+
+    if COUNTRY_ENC_MAP_CACHE is None:
+        COUNTRY_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                 + os.sep \
+                                                 + outil.COUNTRY_ENCODING_MAP, 'rb'))
+    country_enc_map = COUNTRY_ENC_MAP_CACHE
+
+    if BATSMAN_ENC_MAP_CACHE is None:
+        BATSMAN_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                 + os.sep \
+                                                 + outil.BATSMAN_ENCODING_MAP, 'rb'))
+    batsman_enc_map = BATSMAN_ENC_MAP_CACHE
+
+    if LOC_ENC_MAP_FOR_BATSMAN_CACHE is None:
+        LOC_ENC_MAP_FOR_BATSMAN_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                         + os.sep \
+                                                         + outil.LOC_ENCODING_MAP_FOR_BATSMAN, 'rb'))
+    loc_enc_map_for_batsman = LOC_ENC_MAP_FOR_BATSMAN_CACHE
+
+    loc_oh = loc_enc_map_for_batsman[location]
+    opposition_oh = country_enc_map[opponent]
+
+    batsman_oh_list = []
+    position_oh_list = []
+    loc_oh_list = []
+    opposition_oh_list = []
+    # print('getting batsman details')
+    if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
+        raise Exception('No Batsman embedding available for ' + team)
+
+    batsman_oh = batsman_enc_map[team.strip() + ' ' + batsman.strip()]
+    for bi in range(11):
+
+        if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
+            continue
+
+        position_oh = get_oh_pos(bi + 1)
+
+        batsman_oh_list.append(batsman_oh)
+        position_oh_list.append(position_oh)
+        loc_oh_list.append(loc_oh)
+        opposition_oh_list.append(opposition_oh)
+
+    batsman_mat = np.stack(batsman_oh_list)
+    position_mat = np.stack(position_oh_list)
+    loc_mat = np.stack(loc_oh_list)
+    opposition_mat = np.stack(opposition_oh_list)
+    # print('encoding')
+    batsman_encoded_runs = batsman_embedding.predict([batsman_mat, position_mat, loc_mat, opposition_mat])
+    suggested_position = batsman_encoded_runs.argmax(axis=0)
+    preferred_position_sequence = (-batsman_encoded_runs).argsort(axis=0)
+
+    preferred_position_sequence = np.squeeze(preferred_position_sequence.reshape(1,-1),0)
+    run_weightage = np.squeeze(batsman_encoded_runs.reshape(1,-1),0)
+    #print("\t\t\tpreferred_position_sequence sqeezed",np.squeeze(preferred_position_sequence.reshape(1,-1),0))
+    #print("\t\t\tbatsman_encoded_runs squeezed", np.squeeze(batsman_encoded_runs.reshape(1,-1),0))
+    #print('\t\t\t encoded runs',batsman_encoded_runs)
+    #print('\t\t\t argmax', suggested_position)
+    position_dif = abs(played_position-suggested_position)
+
+    return suggested_position[0],position_dif[0],preferred_position_sequence,run_weightage
+
+
+def get_batting_order_matching_metrics(batsman_list,team, opponent, location):
+    position_match = 0
+    overall_position_dif =0
+    overall_position_dif_square = 0
+    run_matrix_list = []
+    for position,batsman in enumerate(batsman_list):
+        try:
+
+            suggested_position, playing_position_dif ,preferred_position_sequence,run_weightage = get_best_batsman_position(batsman, team, opponent, location, position)
+            run_matrix_list.append(run_weightage)
+
+            # print("\tfor ", batsman, " at ", position, "suggested at ",suggested_position," difference observed ",position_dif)
+            # if suggested_position == position:
+            #     print("\t\tmatched")
+            #     position_match=position_match+1
+            # overall_position_dif = overall_position_dif+position_dif
+        except Exception as ex:
+            print("ignored ", batsman, " of ", team, " with opponent ", opponent, ' at location',location)
+            #raise ex
+            #print("ignored ",batsman," of ",team," with opponent ",opponent,' at location')
+
+
+    #print("========",np.array(run_matrix_list).shape)
+    run_matrix = np.array(run_matrix_list)
+
+    for position in range(run_matrix.shape[0]):
+        best_batsman_arg = np.argmax(run_matrix[position])
+        print("batsman at ",best_batsman_arg," should have played at ",position)
+        if best_batsman_arg == position:
+            position_match = position_match+1
+        position_dif_square = (best_batsman_arg-position)**2
+        overall_position_dif_square = overall_position_dif_square + position_dif_square
+        overall_position_dif = overall_position_dif+abs(best_batsman_arg-position)
+
+
+
+    match_percentage = (position_match/len(batsman_list))*100
+    #mean_postion_dif = overall_position_dif/len(batsman_list)
+    # print("no_of_batsman ",len(batsman_list))
+    # print("match_percentage ",match_percentage)
+    # print("mean_postion_dif ", mean_postion_dif)
+
+    return match_percentage,overall_position_dif_square,overall_position_dif
 
