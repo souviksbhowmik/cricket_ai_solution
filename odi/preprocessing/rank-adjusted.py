@@ -133,7 +133,7 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     score_df['score'] = scaler.fit_transform(
         score_df[['win_ratio', 'effective_win_by_runs', 'effective_win_by_wickets', 'matches_played']]).sum(axis=1)
 
-    score_scaler = MinMaxScaler(feature_range=(0.1,1))
+    score_scaler = MinMaxScaler(feature_range=(1,5))
     score_df['score'] = score_scaler.fit_transform(score_df[['score']])
     score_df = score_df.sort_values('score', ascending=False)
     score_df['rank'] = range(1, score_df.shape[0] + 1)
@@ -207,7 +207,7 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
         match_stat_df = match_stat_df.merge(country_rank_opponent[["opponent", "score"]], on="opponent", how="inner")
         match_stat_df.rename(columns={"score": "score_opponent"}, inplace=True)
 
-        match_stat_df['run_factor'] = match_stat_df["score_team"]/match_stat_df["score_opponent"]
+        match_stat_df['run_factor'] = match_stat_df["score_opponent"]/match_stat_df["score_team"]
         match_stat_df['adjusted_scored_runs'] = match_stat_df['scored_runs'] * match_stat_df['run_factor']
         # end of calculate run factor
         batsman_list = list(match_stat_df[match_stat_df['team'] == selected_country]['batsman'].unique())
@@ -344,7 +344,7 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
         match_stat_df = match_stat_df.merge(country_rank_opponent[["opponent", "score"]], on="opponent", how="inner")
         match_stat_df.rename(columns={"score": "score_opponent"}, inplace=True)
 
-        match_stat_df['wicket_factor'] = match_stat_df["score_opponent"] / match_stat_df["score_team"]
+        match_stat_df['wicket_factor'] = match_stat_df["score_team"] / match_stat_df["score_opponent"]
         match_stat_df['adjusted_wicket'] = match_stat_df['wicket'] * match_stat_df['wicket_factor']
         # end of calculate wicket factor
 
