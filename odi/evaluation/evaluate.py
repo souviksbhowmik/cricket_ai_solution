@@ -142,6 +142,12 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
 
     print("z-score",z_score)
 
+    outil.create_model_meta_info_entry('batting_order_validation',
+                                       (),
+                                       (winning_team_match,loosing_team_match,z_score),
+                                       info="metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
+                                       )
+
 
 
 
