@@ -10,6 +10,10 @@ import shutil
 
 CSV_LOAD_LOCATION = 'data' + os.sep + 'csv_load'
 
+master_list = ['Netherlands', 'Sri Lanka', 'Hong Kong', 'Nepal', 'Zimbabwe', 'Ireland', 'United Arab Emirates', 'New Zealand', 'Canada', 'Kenya', 'England', 'West Indies', 'Bangladesh', 'India', 'Pakistan', 'Scotland', 'Australia', 'South Africa', 'Afghanistan', 'Papua New Guinea']
+
+include_list = ['Sri Lanka', 'New Zealand', 'England', 'West Indies', 'Bangladesh', 'India', 'Pakistan', 'Australia', 'South Africa']
+
 
 def aggregate_matches(downloaded_file_dir,file_list,from_date = None,to_date = None,mode='a'):
 
@@ -64,7 +68,8 @@ def aggregate_matches(downloaded_file_dir,file_list,from_date = None,to_date = N
                     first_innings_team = innings_details['1st innings']['team']
                 else:
                     second_innings_team = innings_details['2nd innings']['team']
-
+            if first_innings_team not in include_list or second_innings_team not in include_list:
+                continue
             location = None
             if 'city' in match_info['info']:
                 location = match_info['info']['city']

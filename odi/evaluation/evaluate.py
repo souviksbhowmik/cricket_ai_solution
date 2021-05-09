@@ -64,11 +64,11 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
                 else:
                     batsman_list.append(player)
 
-            match_percentage, overall_position_dif_square, overall_position_dif = feature_extractor.get_batting_order_matching_metrics(batsman_list,team, opponent, location)
+            position_match, overall_position_dif_square, overall_position_dif = feature_extractor.get_batting_order_matching_metrics(batsman_list,team, opponent, location)
             row_dit = {
                 "innings":selected_innings,
                 "win_flag":win_flag,
-                "match_percentage":match_percentage,
+                "position_match":position_match,
                 "overall_position_dif":overall_position_dif,
                 "overall_position_dif_square":overall_position_dif_square,
                 "no_of_batsman":len(batsman_list)
@@ -81,8 +81,8 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
 
     result_df = pd.DataFrame(dict_list)
 
-    winning_team_match_percentage = result_df[result_df["win_flag"]==1]["match_percentage"].mean()
-    loosing_team_match_percentage = result_df[result_df["win_flag"] == 0]["match_percentage"].mean()
+    winning_team_match = result_df[result_df["win_flag"]==1]["position_match"].mean()
+    loosing_team_match = result_df[result_df["win_flag"] == 0]["position_match"].mean()
 
     #winning_team_position_dif = result_df[result_df["win_flag"] == 1]["overall_position_dif"].sum()/result_df[result_df["win_flag"] == 1]["no_of_batsman"].sum()
     #loosing_team_position_dif = result_df[result_df["win_flag"] == 0]["overall_position_dif"].sum()/result_df[result_df["win_flag"] == 0]["no_of_batsman"].sum()
@@ -90,8 +90,8 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     winning_team_position_dif = result_df[result_df["win_flag"] == 1]["overall_position_dif"].mean()
     loosing_team_position_dif = result_df[result_df["win_flag"] == 0]["overall_position_dif"].mean()
 
-    sigma_1 = result_df[result_df["win_flag"] == 1]["overall_position_dif"].std()
-    sigma_2 = result_df[result_df["win_flag"] == 0]["overall_position_dif"].std()
+    sigma_1 = result_df[result_df["win_flag"] == 1]["position_match"].std()
+    sigma_2 = result_df[result_df["win_flag"] == 0]["position_match"].std()
 
     n1 = result_df[result_df["win_flag"] == 1].shape[0]
     n2 = result_df[result_df["win_flag"] == 0].shape[0]
@@ -131,8 +131,8 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     #     math.sqrt(result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")][
     #                   "overall_position_dif_square"].mean())
 
-    print("winning_team_match_percentage-",winning_team_match_percentage)
-    print("loosing_team_match_percentage-", loosing_team_match_percentage)
+    print("winning_team_match-",winning_team_match)
+    print("loosing_team_match-", loosing_team_match)
 
     print("winning_team_positon_dif-", winning_team_position_dif)
     print("loosing_team_position_dif-", loosing_team_position_dif)

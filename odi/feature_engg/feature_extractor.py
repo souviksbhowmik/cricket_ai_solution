@@ -687,11 +687,11 @@ def get_batting_order_matching_metrics(batsman_list,team, opponent, location):
 
 
 
-    match_percentage = (position_match/len(batsman_list))*100
+    #match_percentage = (position_match/len(batsman_list))*100
     #mean_postion_dif = overall_position_dif/len(batsman_list)
     # print("no_of_batsman ",len(batsman_list))
     # print("match_percentage ",match_percentage)
     # print("mean_postion_dif ", mean_postion_dif)
 
-    return match_percentage,overall_position_dif_square,overall_position_dif
+    return position_match,overall_position_dif_square,overall_position_dif
 
