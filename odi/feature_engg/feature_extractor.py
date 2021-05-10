@@ -4,11 +4,13 @@ from odi.data_loader import data_loader as dl
 from odi.preprocessing import rank
 from odi.retrain import create_train_test as ctt
 from odi.model_util import odi_util as outil
+from odi.feature_engg import util as cricutil
 import os
 from datetime import datetime,date
 import dateutil
 import pickle
 import numpy as np
+import math
 
 from sklearn.linear_model import LinearRegression
 
@@ -171,6 +173,36 @@ def get_location_mean(location,innings,ref_date=None):
     location_mean = location_rank_df[(location_rank_df['location']==location) & (location_rank_df['innings']==innings)]['total_run'].values[0]
     return location_mean
 
+def get_overall_means(team,location,ref_date,opponent):
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    match_df = match_list_df.merge(match_stats_df,on="match_id", how="inner")
+
+    location_mean = match_df[(match_df['date']<ref_date) & (match_df['location']==location) & (match_df['first_innings']==match_df['team_statistics'])]['total_run'].mean()
+    team_location_mean = match_df[(match_df['date']<ref_date) & (match_df['location']==location) & (match_df['first_innings']==team)]['total_run'].mean()
+
+    opponent_mean = match_df[(match_df['date']<ref_date) &
+                             (match_df['location']==location) &
+                             (match_df['first_innings']==match_df['team_statistics']) &
+                             (match_df['second_innings']==opponent)]['total_run'].mean()
+
+    team_opponent_mean = match_df[(match_df['date']<ref_date) &
+                             (match_df['location']==location) &
+                             (match_df['first_innings']==team) &
+                             (match_df['second_innings']==opponent)]['total_run'].mean()
+    if location_mean == 0 or math.isnan(location_mean):
+        location_mean = 250
+
+    if team_location_mean == 0 or math.isnan(team_location_mean):
+        team_location_mean = 250
+
+    if opponent_mean == 0 or math.isnan(opponent_mean):
+        opponent_mean = 250
+
+    if team_opponent_mean == 0 or math.isnan(team_opponent_mean):
+        team_opponent_mean =250
+
+    return location_mean, team_location_mean, opponent_mean, team_opponent_mean
 
 def get_instance_feature_dict(team, opponent, location, team_player_list, opponent_player_list, ref_date=None, no_of_years=None):
     team_score = get_country_score(team, ref_date=ref_date)
@@ -199,6 +231,9 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
             (current_base, current_trend, current_trend_predict, current_mean)
 
+    overall_location_mean, overall_team_location_mean, overall_opponent_mean, overall_team_opponent_mean = get_overall_means(team,location,ref_date,opponent)
+    standard_mean = 250
+
     feature_dict = {
         'team': team,
         'opponent': opponent,
@@ -222,9 +257,18 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         'batsman_sum':batsman_sum,
         'bowler_mean': bowler_mean,
         'bowler_max': bowler_max,
-        'bowler_sum': bowler_sum,
+        'bowler_sum': bowler_sum
         # 'bat_ball_ratio':batsman_sum/bowler_sum
         # 'location_overall_mean':location_overall_mean
+        #'standard_mean':standard_mean,
+        #'overall_location_mean':overall_location_mean,
+        #'overall_team_location_mean':overall_team_location_mean,
+        #'overall_opponent_mean':overall_opponent_mean,
+        #'overall_team_opponent_mean':overall_team_opponent_mean
+        # 'location_factor':overall_team_location_mean/overall_location_mean,
+        # 'overall_location_adder': overall_team_location_mean - overall_location_mean,
+        # 'opponent_factor':overall_team_opponent_mean/overall_opponent_mean,
+        # 'opponent_adder':overall_team_opponent_mean - overall_opponent_mean
 
 
     }

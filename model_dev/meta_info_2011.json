@@ -264,7 +264,7 @@
     "test_metrics": [
       0.14705882352941177,
       0.06862745098039216,
-      -8.60421334635797
+      1.811413336075362
     ],
     "info": "metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []

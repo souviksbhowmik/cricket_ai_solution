@@ -125,18 +125,18 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      19.641476065121754,
-      41.22928817724718,
-      2886.286682216076,
-      0.29563964242683083
+      19.586293557841074,
+      41.15197284511803,
+      2880.977357595567,
+      0.2965653110507176
     ],
     "test_metrics": [
-      18.065253923728363,
-      47.199433101707164,
-      3608.155772215196,
-      0.29563964242683083
+      18.12837470338985,
+      47.29821032501492,
+      3627.6704770148267,
+      0.2965653110507176
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
+    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum', 'opponent_factor']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -264,7 +264,7 @@
     "test_metrics": [
       0.14705882352941177,
       0.06862745098039216,
-      -8.60421334635797
+      1.811413336075362
     ],
     "info": "metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []

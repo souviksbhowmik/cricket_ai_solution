@@ -104,7 +104,7 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     winning_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 1]["overall_position_dif_square"].mean())
     loosing_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 0]["overall_position_dif_square"].mean())
 
-    z_score = (winning_team_position_dif-loosing_team_position_dif)/math.sqrt((sigma_1**2/n1)+(sigma_2**2/n2))
+    z_score = (winning_team_match-loosing_team_match)/math.sqrt((sigma_1**2/n1)+(sigma_2**2/n2))
 
     # first_inn_winning_team_match_percentage = result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
     # first_inn_loosing_team_match_percentage = result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
