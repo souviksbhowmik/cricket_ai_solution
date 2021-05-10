@@ -158,3 +158,37 @@ def create_seq2seq_model_with_inital_state(timesteps, embedding_lenght, inital_s
                        outputs=[runs_output, total_runs_output])
 
     return runs_model
+
+
+def create_dense_regression_model(input_len):
+
+    team_input = Input((input_len,), name="team_input")
+
+    # team_output = Dropout(0.2)(team_input)
+    team_h1 = Dense(2*input_len, activation="relu", use_bias=True, kernel_initializer='normal',
+                        bias_regularizer=l2(0.01),
+                        kernel_regularizer=l2(0.1), name="team_h1")(team_input)
+    team_h1_d = Dropout(0.2)(team_h1)
+
+    team_h2 = Dense(2 * input_len, activation="relu", use_bias=True, kernel_initializer='normal',
+                    bias_regularizer=l2(0.01),
+                    kernel_regularizer=l2(0.1), name="team_h2")(team_h1_d)
+    team_h2_d = Dropout(0.2)(team_h2)
+
+    team_h3 = Dense(2 * input_len, activation="relu", use_bias=True, kernel_initializer='normal',
+                    bias_regularizer=l2(0.01),
+                    kernel_regularizer=l2(0.1), name="team_h3")(team_h2_d)
+    team_h3_d = Dropout(0.2)(team_h3)
+
+    team_h4 = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+                    bias_regularizer=l2(0.01),
+                    kernel_regularizer=l2(0.1), name="team_h4")(team_h3_d)
+    team_h4_d = Dropout(0.2)(team_h4)
+
+    runs_output = Dense(1, name="final_score", use_bias=True, kernel_regularizer=l2(0.01),
+                        bias_regularizer=l2(0.01),
+                        kernel_initializer='normal')(team_h4_d)
+
+    runs_model = Model(inputs=[team_input],outputs=runs_output)
+
+    return runs_model

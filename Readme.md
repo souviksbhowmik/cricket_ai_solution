@@ -30,6 +30,8 @@ Create ranks of participating batsman, bowler and countries
 python odi/preprocessing/rank.py all
 ### create all ranking for list of years
 python odi/preprocessing/rank.py all --year_list 2014 --year_list 2015
+--for quarterly anking (more frequent)
+python odi/preprocessing/rank-quarterly.py all --year_list 2014 --year_list 2015
 ### create all ranking from current to 2 years previous
 python odi/preprocessing/rank.py all --no_of_years 2
 ### create batsman ranking (will also create country)
@@ -122,6 +124,10 @@ python odi/retrain/retrain.py select-first-innings-feature-columns
 - alternatively can select all columns using
 
 python odi/retrain/retrain.py select-first-innings-feature-columns --select_all True
+
+- optional neural network training
+python odi/retrain/retrain.py train-first-innings-base-neural
+
 
 
 ### Step 8 - Create train test for second innings base model (which is also used for non-embedding feature selection )

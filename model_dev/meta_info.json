@@ -117,7 +117,7 @@
   },
   "first_innings_base_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2021-05-10",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -125,18 +125,18 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      19.586293557841074,
-      41.15197284511803,
-      2880.977357595567,
-      0.2965653110507176
+      19.728660938677002,
+      41.086665978800184,
+      2914.7091432953034,
+      0.2802648958888019
     ],
     "test_metrics": [
-      18.12837470338985,
-      47.29821032501492,
-      3627.6704770148267,
-      0.2965653110507176
+      17.62700735496935,
+      43.254396641855074,
+      3336.6097619890847,
+      0.2802648958888019
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum', 'opponent_factor']",
+    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -180,7 +180,7 @@
   },
   "first_innings_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2021-05-10",
     "files": [
       "first_innings_test_x.pkl",
       "first_innings_test_y.pkl"
@@ -204,16 +204,16 @@
   },
   "first_innings_model": {
     "train_metrics": [
-      16.28548978250731,
-      34.54344418882949,
-      2012.7968054141418,
-      0.47376232763647597
+      16.127948255681616,
+      34.41023975092119,
+      1997.3247183873139,
+      0.47602117948422185
     ],
     "test_metrics": [
-      15.68089621356006,
-      37.91920768593035,
-      2408.0233135578173,
-      0.47376232763647597
+      15.603506693237414,
+      36.718634439825124,
+      2408.8697644015065,
+      0.47602117948422185
     ],
     "info": "metrics is mape,mae,mse,adjusted r squared - selected ",
     "files": [
@@ -268,5 +268,22 @@
     ],
     "info": "metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []
+  },
+  "first_innings_regression_neural": {
+    "train_metrics": [
+      2674.996337890625,
+      19.222028732299805,
+      39.7177734375
+    ],
+    "test_metrics": [
+      3242.2802734375,
+      18.417949676513672,
+      43.34626007080078
+    ],
+    "info": "metrics is mse, mape, mae(best mape)",
+    "files": [
+      "first_innings_regression_neural.json",
+      "first_innings_regression_neural.h5"
+    ]
   }
 }

@@ -29,6 +29,8 @@ TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL = 'group_encode_run_model'
 BATSMAN_EMBEDDING_MODEL = 'batsman_group_encode_model'
 BATSMAN_EMBEDDING_RUN_MODEL = 'batsman_group_encode_run_model'
 
+FIRST_INNINGS_REGRESSION_NEURAL = 'first_innings_regression_neural'
+
 ADVERSARIAL_RUN_MODEL = 'adversarial_run_model'
 ADVERSARIAL_MODEL = 'adversarial_model'
 ADVERSARIAL_BATSMAN_MODEL = 'adversarial_batsman_model'

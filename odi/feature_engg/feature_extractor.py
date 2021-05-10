@@ -164,6 +164,15 @@ def get_bowler_mean_max(country,bowler_list,ref_date=None):
     return bowler_mean,bowler_max,bowler_sum
 
 
+# def get_recent_batsman_score(country,batsman_list,ref_date=None):
+#     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+#
+#     pass
+#
+#
+# def get_recent_bowler_score(country,batsman_list,ref_date=None):
+#     pass
+
 def get_location_mean(location,innings,ref_date=None):
     location_rank_file = rank.get_latest_rank_file('location',ref_date=ref_date)
     location_rank_df = pd.read_csv(location_rank_file)
