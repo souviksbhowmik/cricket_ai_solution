@@ -221,21 +221,11 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": [
-      0.9131238447319778,
-      0.8873239436619719,
-      0.9438202247191011,
-      0.9147005444646098
-    ],
-    "test_metrics": [
-      0.9382716049382716,
-      0.9534883720930233,
-      0.9318181818181818,
-      0.942528735632184
-    ],
-    "info": "metrics is accuracy,precision, recall,fscore",
+    "train_metrics": 0.8953488372093024,
+    "test_metrics": 0.9058823529411765,
+    "info": "metrics is accuracy",
     "files": [
-      "combined_model.pkl"
+      "second_innings_model.pkl"
     ]
   },
   "combined_validation_fie_True_sie_False_fim_team": {
@@ -320,6 +310,24 @@
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"
+    ]
+  },
+  "combbined_model": {
+    "train_metrics": [
+      0.9131238447319778,
+      0.8873239436619719,
+      0.9438202247191011,
+      0.9147005444646098
+    ],
+    "test_metrics": [
+      0.9382716049382716,
+      0.9534883720930233,
+      0.9318181818181818,
+      0.942528735632184
+    ],
+    "info": "metrics is accuracy,precision, recall,fscore",
+    "files": [
+      "combined_model.pkl"
     ]
   }
 }

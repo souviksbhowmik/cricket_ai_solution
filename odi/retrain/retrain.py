@@ -892,7 +892,7 @@ def retrain_combined_innings():
 
     pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL),'wb'))
 
-    outil.create_model_meta_info_entry('second_innings_model',
+    outil.create_model_meta_info_entry('combbined_model',
                                        (accuracy_train_lr,precision_train,recall_train,fscore_train),
                                        (accuracy_test_lr,precision_test, recall_test, fscore_test),
                                        info="metrics is accuracy,precision, recall,fscore",
