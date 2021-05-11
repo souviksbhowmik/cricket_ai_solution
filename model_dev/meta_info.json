@@ -266,7 +266,7 @@
       0.06862745098039216,
       1.811413336075362
     ],
-    "info": "metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
+    "info": "metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []
   },
   "first_innings_regression_neural": {
@@ -285,5 +285,15 @@
       "first_innings_regression_neural.json",
       "first_innings_regression_neural.h5"
     ]
+  },
+  "batsman_recommendation_validation": {
+    "train_metrics": [],
+    "test_metrics": [
+      8.185856176225084,
+      7.354964644206011,
+      1.892712712308878
+    ],
+    "info": "metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
+    "files": []
   }
 }

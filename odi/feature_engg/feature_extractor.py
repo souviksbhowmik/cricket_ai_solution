@@ -704,6 +704,75 @@ def get_best_batsman_position(batsman,team,opponent,location,played_position):
     return suggested_position[0],position_dif[0],preferred_position_sequence,run_weightage
 
 
+def get_batsman_score_by_embedding(batsman,team,opponent,location):
+
+    global BATSMAN_EMBEDDING_RUN_MODEL_CACHE
+    global COUNTRY_ENC_MAP_CACHE
+    global BATSMAN_ENC_MAP_CACHE
+    global LOC_ENC_MAP_FOR_BATSMAN_CACHE
+
+    if BATSMAN_EMBEDDING_RUN_MODEL_CACHE is None:
+        BATSMAN_EMBEDDING_RUN_MODEL_CACHE = outil.load_keras_model(outil.MODEL_DIR \
+                                                               + os.sep
+                                                               + outil.BATSMAN_EMBEDDING_RUN_MODEL)
+    batsman_embedding = BATSMAN_EMBEDDING_RUN_MODEL_CACHE
+
+    if COUNTRY_ENC_MAP_CACHE is None:
+        COUNTRY_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                 + os.sep \
+                                                 + outil.COUNTRY_ENCODING_MAP, 'rb'))
+    country_enc_map = COUNTRY_ENC_MAP_CACHE
+
+    if BATSMAN_ENC_MAP_CACHE is None:
+        BATSMAN_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                 + os.sep \
+                                                 + outil.BATSMAN_ENCODING_MAP, 'rb'))
+    batsman_enc_map = BATSMAN_ENC_MAP_CACHE
+
+    if LOC_ENC_MAP_FOR_BATSMAN_CACHE is None:
+        LOC_ENC_MAP_FOR_BATSMAN_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                                         + os.sep \
+                                                         + outil.LOC_ENCODING_MAP_FOR_BATSMAN, 'rb'))
+    loc_enc_map_for_batsman = LOC_ENC_MAP_FOR_BATSMAN_CACHE
+
+    loc_oh = loc_enc_map_for_batsman[location]
+    opposition_oh = country_enc_map[opponent]
+
+    batsman_oh_list = []
+    position_oh_list = []
+    loc_oh_list = []
+    opposition_oh_list = []
+    # print('getting batsman details')
+    if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
+        raise Exception('No Batsman embedding available for ' + team)
+
+    batsman_oh = batsman_enc_map[team.strip() + ' ' + batsman.strip()]
+    for bi in range(11):
+
+        if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
+            continue
+
+        position_oh = get_oh_pos(bi + 1)
+
+        batsman_oh_list.append(batsman_oh)
+        position_oh_list.append(position_oh)
+        loc_oh_list.append(loc_oh)
+        opposition_oh_list.append(opposition_oh)
+
+    batsman_mat = np.stack(batsman_oh_list)
+    position_mat = np.stack(position_oh_list)
+    loc_mat = np.stack(loc_oh_list)
+    opposition_mat = np.stack(opposition_oh_list)
+    # print('encoding')
+    batsman_encoded_runs = batsman_embedding.predict([batsman_mat, position_mat, loc_mat, opposition_mat])
+    #print("batsman_encoded_runs ", batsman_encoded_runs)
+    squeezed_runs = np.squeeze(batsman_encoded_runs)
+    #print("squeezed_runs ", squeezed_runs)
+    batsman_score = np.sum(squeezed_runs)+np.max(squeezed_runs)
+
+    return batsman_score
+
+
 def get_batting_order_matching_metrics(batsman_list,team, opponent, location):
     position_match = 0
     overall_position_dif =0

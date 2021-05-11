@@ -27,19 +27,22 @@ def get_latest_rank_file(rank_type,ref_date = None):
         today = date.today()
         ref_date = datetime(year=today.year, month=today.month, day=today.day)
     date_list = list()
-    #print('=====',ref_date)
-    #print('=====', country_list_files)
+    #print('==get_latest_rank_file===',ref_date)
+    #print('==get_latest_rank_file===', country_list_files)
 
     for file in country_list_files:
         try:
             date_str = file.split(rank_type_prefix[rank_type])[1].split('.')[0]
             file_date = datetime.strptime(date_str, '%Y-%m-%d')
-            #print('===file date====',file_date)
+            # print('\t===file====', file)
+            # print('\t===file date====',file_date)
             if file_date <= ref_date:
                 date_list.append(file_date)
         except Exception as ex:
             print(ex)
+            #raise ex
 
+    # print('==date_list===', date_list)
     if len(date_list)==0:
         return None
     else:

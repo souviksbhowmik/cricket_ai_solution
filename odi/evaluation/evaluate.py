@@ -12,7 +12,9 @@ import click
 from odi.retrain import create_train_test as ctt
 import tensorflow as tf
 from odi.feature_engg import util as cricutil
+from odi.preprocessing import rank as rank
 import math
+
 
 
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
@@ -20,6 +22,127 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
 def mape(y_true,y_predict):
     return np.sum((np.abs(y_true-y_predict)/y_true)*100)/len(y_true)
+
+def evaluate_batsman_recommendation(from_date, to_date, environment='production'):
+    outil.use_model_from(environment)
+
+    start_date = datetime.strptime(from_date, '%Y-%m-%d')
+    end_date = datetime.strptime(to_date, '%Y-%m-%d')
+
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= start_date) & (match_list_df['date'] <= end_date)]
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+
+    match_list_df = match_list_df.merge(match_stats_df, on='match_id', how='inner')
+
+    match_id_list = list(match_list_df['match_id'].unique())
+
+    batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=start_date)
+    # print("=========reading file ",batsman_rank_file)
+    batsman_rank_df = pd.read_csv(batsman_rank_file)
+
+    no_of_suggestion = 6
+    dict_list = []
+    for match_id in tqdm(match_id_list):
+        for combination in [('first_innings','second_innings'),('second_innings','first_innings')]:
+            selected_innings = combination[0]
+            opponent_innings = combination[1]
+            innings_team = match_list_df[(match_list_df['match_id']==match_id) &
+                                     (match_list_df[selected_innings]==match_list_df["team_statistics"])]
+
+            team = innings_team["team_statistics"].values[0]
+            opponent = match_list_df[(match_list_df['match_id']==match_id)][opponent_innings].values[0]
+
+            location = match_list_df["location"].values[0]
+            win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
+            ref_date = datetime.strptime(innings_team['date'].astype(str).values[0],'%Y-%m-%d')
+
+            batsman_list = list()
+            for i in range(11):
+                player = innings_team['batsman_'+str(i+1)].values[0]
+                if player == 'not_batted':
+                    break
+                else:
+                    batsman_list.append(player)
+
+            # bowler_list = list()
+            # for i in range(11):
+            #     player = innings_team['bowler_' + str(i + 1)].values[0]
+            #     if player == 'not_bowled':
+            #         break
+            #     else:
+            #         bowler_list.append(player)
+
+            ## get_available_batsman_list
+            #print("==========",ref_date," type",type(ref_date))
+
+
+            available_batsman_list = list(batsman_rank_df[batsman_rank_df['country']==team]['batsman'])
+
+            # bowler_rank_file = rank.get_latest_rank_file("bowler", ref_date)
+            # bowler_rank_df = pd.read_csv(bowler_rank_file)
+            #
+            # available_bowlerlist = list(bowler_rank_df[bowler_rank_df['country'] == team]['bowler'])
+
+            score_list = []
+            for batsman in available_batsman_list:
+                try:
+                    score = feature_extractor.get_batsman_score_by_embedding(batsman,team,opponent,location)
+                    score_list.append(score)
+                except Exception as ex:
+                    score_list.append(0)
+                    print(" Ignoring ",batsman," of ",team," on ",ref_date)
+
+            sorted_args = np.argsort(-np.array(score_list))
+            match_score = 0
+            suggested_batsman_list =  []
+            for count in range(no_of_suggestion):
+                arg = sorted_args[count]
+                suggested_batsman_list.append(available_batsman_list[arg])
+                if available_batsman_list[arg] in batsman_list:
+                    match_score = match_score + 1 + math.log(no_of_suggestion-count)
+
+            # print("selected Innings " ,selected_innings)
+            # print("team ",team)
+            # print("opponent ", opponent)
+            # print("date ", ref_date)
+            # print(" file ",batsman_rank_file)
+            # print("playing batsman list ",batsman_list)
+            # print("suggested batsman list ",suggested_batsman_list)
+            # print("match_score",match_score)
+            # print("win",win_flag)
+            # print("======================================")
+
+
+
+            dict_list.append({"match_score":match_score,"win_flag":win_flag})
+
+        #break
+
+    score_df = pd.DataFrame(dict_list)
+
+    winning_mean = score_df[score_df["win_flag"]==1]['match_score'].mean()
+    loosing_mean = score_df[score_df["win_flag"]==0]['match_score'].mean()
+
+    print("winning_mean ",winning_mean)
+    print("loosing_mean ", loosing_mean)
+
+    sigma_1 = score_df[score_df["win_flag"]==1]['match_score'].std()
+    sigma_2 = score_df[score_df["win_flag"]==0]['match_score'].std()
+
+    n1 = score_df[score_df["win_flag"] == 1].shape[0]
+    n2 = score_df[score_df["win_flag"] == 0].shape[0]
+
+    z_score = (winning_mean - loosing_mean) / math.sqrt((sigma_1 ** 2 / n1) + (sigma_2 ** 2 / n2))
+
+    print("z score ",z_score)
+
+    outil.create_model_meta_info_entry('batsman_recommendation_validation',
+                                       (),
+                                       (winning_mean, loosing_mean, z_score),
+                                       info="metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
+                                       )
+
 
 def evaluate_batting_position(from_date, to_date, environment='production'):
     outil.use_model_from(environment)
@@ -50,8 +173,8 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
                                      (match_list_df[selected_innings]==match_list_df["team_statistics"])]
 
             team = match_list_df["team_statistics"].values[0]
-            opponent = match_list_df[(match_list_df['match_id']==match_id) &
-                                     (match_list_df[opponent_innings]==match_list_df["team_statistics"])]["team_statistics"].values[0]
+
+            opponent = match_list_df[(match_list_df['match_id'] == match_id)][opponent_innings].values[0]
 
             location = match_list_df["location"].values[0]
             win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
@@ -145,7 +268,7 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     outil.create_model_meta_info_entry('batting_order_validation',
                                        (),
                                        (winning_team_match,loosing_team_match,z_score),
-                                       info="metrics is accuracy mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
+                                       info="metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
                                        )
 
 
@@ -582,6 +705,15 @@ def combined(from_date,to_date,env,first_innings_emb,second_innings_emb,first_em
 @click.option('--env', help='end date in YYYY-mm-dd',default='production')
 def batting_order(from_date, to_date, env):
     evaluate_batting_position(from_date, to_date, environment=env)
+
+
+@evaluate.command()
+@click.option('--from_date', help='start date in YYYY-mm-dd',required=True)
+@click.option('--to_date', help='end date in YYYY-mm-dd',required=True)
+@click.option('--env', help='end date in YYYY-mm-dd',default='production')
+def batting_recommendation(from_date, to_date, env):
+    evaluate_batsman_recommendation(from_date, to_date, environment=env)
+
 
 if __name__=='__main__':
     evaluate()
