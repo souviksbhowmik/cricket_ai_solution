@@ -171,6 +171,13 @@ python odi/inference/inference_config.py --first_innings_emb True --second_innin
 
 (this configuration will use final embedding model for first innings and base model for second innings)
 
+## Step 16 Create Combined train test
+python odi/retrain/create_train_test.py combined-prediction --train_start 2011-01-01 --test_start 2019-01-01
+
+## Retrain combines
+python odi/retrain/retrain.py combined
+
+
 ## Evaluate
 python odi/evaluation/evaluate.py first --from_date 2019-01-01 --to_date 2020-12-31
 

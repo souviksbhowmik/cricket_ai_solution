@@ -20,6 +20,7 @@ BOWLER_ENCODING_MAP = 'bowler_enc_map.pkl'
 
 FIRST_INNINGS_MODEL = 'first_innings_model.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL = 'second_innings_model.pkl' # second_innings_model_with_embedding_lrg.pkl
+COMBINED_MODEL = 'combined_model.pkl'
 
 FIRST_INNINGS_MODEL_BASE = 'first_innings_model_base.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_model_with_embedding_lrg.pkl

@@ -4,6 +4,8 @@ from odi.data_loader import  data_loader as dl
 from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor as fe
 from odi.evaluation import evaluate as cric_eval
+from odi.inference import prediction as pred
+from datetime import datetime
 
 import os
 import numpy as np
@@ -83,6 +85,11 @@ adversarial_first_innings_train_x = 'adversarial_first_innings_train_x.pkl'
 adversarial_first_innings_train_y = 'adversarial_first_innings_train_y.pkl'
 adversarial_first_innings_test_x = 'adversarial_first_innings_test_x'
 adversarial_first_innings_test_y = 'adversarial_first_innings_test_y'
+
+combined_train_x = 'combined_train_x.pkl'
+combined_train_y = 'combined_train_y.pkl'
+combined_test_x = 'combined_test_x.pkl'
+combined_test_y = 'combined_test_y.pkl'
 
 
 
@@ -1072,6 +1079,136 @@ def create_adversarial_first_innings_train_test(train_start,test_start,test_end=
                                  file_list=[adversarial_first_innings_test_x,
                                             adversarial_first_innings_test_y])
 
+def create_combined_prediction_train_test(train_start,test_start,test_end=None):
+
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    match_list_df = match_list_df.merge(match_stats_df, how='inner', on='match_id')
+    match_id_list = list(match_list_df['match_id'].unique())
+
+    feature_list_train = []
+    target_list_train = []
+
+    feature_list_test = []
+    target_list_test = []
+
+    for match_id in tqdm(match_id_list):
+
+        selected_innings = 'first_innings'
+        opponent_innings = 'second_innings'
+        innings_team = match_list_df[(match_list_df['match_id'] == match_id) &
+                                     (match_list_df[selected_innings] == match_list_df["team_statistics"])]
+
+        team = innings_team["team_statistics"].values[0]
+        opponent = match_list_df[(match_list_df['match_id'] == match_id)][opponent_innings].values[0]
+
+        opponent_team = match_list_df[(match_list_df['match_id'] == match_id) &
+                                     (match_list_df[opponent_innings] == match_list_df["team_statistics"])]
+
+        location = match_list_df["location"].values[0]
+        win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
+        ref_date = datetime.strptime(innings_team['date'].astype(str).values[0], '%Y-%m-%d')
+
+        team_batsman_list = list()
+        for i in range(11):
+            player = innings_team['batsman_' + str(i + 1)].values[0]
+            if player == 'not_batted':
+                break
+            else:
+                team_batsman_list.append(player)
+
+        team_bowler_list = list()
+        for i in range(11):
+            player = innings_team['bowler_' + str(i + 1)].values[0]
+            if player == 'not_bowled':
+                break
+            else:
+                team_bowler_list.append(player)
+
+        opponent_batsman_list = list()
+        for i in range(11):
+            player = opponent_team['batsman_' + str(i + 1)].values[0]
+            if player == 'not_batted':
+                break
+            else:
+                opponent_batsman_list.append(player)
+
+        opponent_bowler_list = list()
+        for i in range(11):
+            player = opponent_team['bowler_' + str(i + 1)].values[0]
+            if player == 'not_bowled':
+                break
+            else:
+                opponent_bowler_list.append(player)
+
+        # print("team ",team)
+        # print("opponent ", opponent)
+        #
+        # print("team_batsman ", team_batsman_list)
+        # print("team_bowlers ", team_bowler_list)
+        #
+        # print("opponent_batsman ", opponent_batsman_list)
+        # print("opponent_bowlers ", opponent_bowler_list)
+
+        try :
+            target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None)
+
+            success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None)
+
+            target_by_b = pred.predict_first_innings_run(opponent,team,location,opponent_batsman_list,team_bowler_list,ref_date=ref_date,no_of_years=None)
+
+            success_by_a, probability_by_a = pred.predict_second_innings_success(target_by_b, team, opponent, location,team_batsman_list, opponent_bowler_list,ref_date=ref_date, no_of_years=None)
+
+            # print(np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]))
+            # print(win_flag)
+            if ref_date<test_start_dt:
+                feature_list_train.append(np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]))
+                target_list_train.append(win_flag)
+            else:
+                feature_list_test.append(np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]))
+                target_list_test.append(win_flag)
+
+        except Exception as ex:
+            print(ex," : ignored ", team ," vs ",opponent, " on ",ref_date," at ",location )
+
+    train_x = np.stack(feature_list_train)
+    train_y = np.stack(target_list_train)
+
+    test_x = np.stack(feature_list_test)
+    test_y = np.stack(target_list_test)
+
+    # pickle train_x, train_y,test_x,test_y,scaler
+    pickle.dump(train_x, open(os.path.join(TRAIN_TEST_DIR, combined_train_x), 'wb'))
+    pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR, combined_train_y), 'wb'))
+
+    pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, combined_test_x), 'wb'))
+    pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, combined_test_y), 'wb'))
+
+    outil.create_meta_info_entry('combined_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[combined_train_x,
+                                            combined_train_y])
+
+    outil.create_meta_info_entry('combined_test_xy', str(test_start_dt.date()),
+                                 str(test_end_dt.date()),
+                                 file_list=[combined_test_x,
+                                            combined_test_y])
+
 
 @click.group()
 def traintest():
@@ -1163,6 +1300,13 @@ def batsman_runs(train_start, test_start, test_end):
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
 def adversarial_first_innings(train_start, test_start, test_end):
     create_adversarial_first_innings_train_test(train_start, test_start, test_end=test_end)
+
+@traintest.command()
+@click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+def combined_prediction(train_start, test_start, test_end):
+    create_combined_prediction_train_test(train_start, test_start, test_end=test_end)
 
 
 if __name__=="__main__":

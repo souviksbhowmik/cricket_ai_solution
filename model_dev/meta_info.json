@@ -221,11 +221,21 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": 0.8953488372093024,
-    "test_metrics": 0.9058823529411765,
-    "info": "metrics is accuracy",
+    "train_metrics": [
+      0.9131238447319778,
+      0.8873239436619719,
+      0.9438202247191011,
+      0.9147005444646098
+    ],
+    "test_metrics": [
+      0.9382716049382716,
+      0.9534883720930233,
+      0.9318181818181818,
+      0.942528735632184
+    ],
+    "info": "metrics is accuracy,precision, recall,fscore",
     "files": [
-      "second_innings_model.pkl"
+      "combined_model.pkl"
     ]
   },
   "combined_validation_fie_True_sie_False_fim_team": {
@@ -255,8 +265,8 @@
   },
   "combined_validation_fie_True_sie_True_fim_team": {
     "train_metrics": 0,
-    "test_metrics": 0.8588235294117647,
-    "info": "2019-01-01_to_2020-12-31: first innings embedding - True: second innings embedding - True",
+    "test_metrics": 0.9242424242424242,
+    "info": "2019-01-01_to_2019-12-31: first innings embedding - True: second innings embedding - True",
     "files": []
   },
   "batting_order_validation": {
@@ -295,5 +305,21 @@
     ],
     "info": "metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []
+  },
+  "combined_train_xy": {
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "combined_train_x.pkl",
+      "combined_train_y.pkl"
+    ]
+  },
+  "combined_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "combined_test_x.pkl",
+      "combined_test_y.pkl"
+    ]
   }
 }
