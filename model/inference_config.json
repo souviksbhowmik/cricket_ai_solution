@@ -1,6 +1,0 @@
-{
-  "first_innings_emb": true,
-  "second_innings_emb": false,
-  "first_emb_model": "team",
-  "second_emb_model": "team"
-}

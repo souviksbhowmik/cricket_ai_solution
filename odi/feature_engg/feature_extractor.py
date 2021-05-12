@@ -240,8 +240,8 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
             (current_base, current_trend, current_trend_predict, current_mean)
 
-    overall_location_mean, overall_team_location_mean, overall_opponent_mean, overall_team_opponent_mean = get_overall_means(team,location,ref_date,opponent)
-    standard_mean = 250
+    #overall_location_mean, overall_team_location_mean, overall_opponent_mean, overall_team_opponent_mean = get_overall_means(team,location,ref_date,opponent)
+    #standard_mean = 250
 
     feature_dict = {
         'team': team,

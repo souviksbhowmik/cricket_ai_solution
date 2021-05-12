@@ -110,7 +110,7 @@ def predict_match_outcome(team_a,team_b,location,
     team_player_list = team_a_player_list.copy()
     opponent_player_list = team_b_player_list.copy()
 
-    predicted_run = predict_first_innings_run(team,opponent,location,
+    target_by_a = predict_first_innings_run(team,opponent,location,
                                               team_player_list,opponent_player_list,
                                               ref_date=ref_date,no_of_years=no_of_years)
 
@@ -118,17 +118,18 @@ def predict_match_outcome(team_a,team_b,location,
     opponent = team_a
     team_player_list = team_b_player_list.copy()
     opponent_player_list = team_a_player_list.copy()
-    successfully_chase,probability = predict_second_innings_success(predicted_run,team,opponent,location,
+    successfully_chase,probability_by_b = predict_second_innings_success(target_by_a,team,opponent,location,
                               team_player_list,opponent_player_list,
                               ref_date=ref_date,no_of_years=no_of_years)
+
 
     chase = 'NO'
     if successfully_chase:
         chase = 'YES'
-    print('\t',team_a,' will score ',predicted_run)
+    print('\t',team_a,' will score ',target_by_a)
     print('\t',team_b,' will be able to chase ? ',chase)
-    print('\t', team_a, ' win probability ? ', 1-probability)
-    print('\t', team_b, ' win probability ? ', probability)
+    print('\t', team_a, ' win probability ? ', 1-probability_by_b)
+    print('\t', team_b, ' win probability ? ', probability_by_b)
 
     print('For ', team_b, ' as first innings ')
 
@@ -137,7 +138,7 @@ def predict_match_outcome(team_a,team_b,location,
     team_player_list = team_b_player_list.copy()
     opponent_player_list = team_a_player_list.copy()
 
-    predicted_run = predict_first_innings_run(team, opponent, location,
+    target_by_b = predict_first_innings_run(team, opponent, location,
                                               team_player_list, opponent_player_list,
                                               ref_date=ref_date, no_of_years=no_of_years)
 
@@ -145,17 +146,25 @@ def predict_match_outcome(team_a,team_b,location,
     opponent = team_b
     team_player_list = team_a_player_list.copy()
     opponent_player_list = team_b_player_list.copy()
-    successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
+    successfully_chase, probability_by_a = predict_second_innings_success(target_by_b, team, opponent, location,
                                                                      team_player_list, opponent_player_list,
                                                                      ref_date=ref_date, no_of_years=no_of_years)
 
     chase = 'NO'
     if successfully_chase:
         chase = 'YES'
-    print('\t', team_b, ' will score ', round(predicted_run))
+    print('\t', team_b, ' will score ', round(target_by_b))
     print('\t', team_a, ' will be able to chase ? ', chase)
-    print('\t', team_b, ' win probability ? ', 1 - probability)
-    print('\t', team_a, ' win probability ? ', probability)
+    print('\t', team_b, ' win probability ? ', 1 - probability_by_a)
+    print('\t', team_a, ' win probability ? ', probability_by_a)
+
+
+    print("===Predicting with combined model=====")
+    feature_combined = np.array([target_by_a, probability_by_b, target_by_b, probability_by_a]).reshape(1,-1)
+    combined_model = pickle.load(open(os.path.join(outil.MODEL_DIR,outil.COMBINED_MODEL),"wb"))
+
+    overall_prediction = combined_model.predict(feature_combined)
+    print(overall_prediction)
 
 
 def get_optimum_run(team,opponent,location,

@@ -351,6 +351,9 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     sigma_1 = result_df[result_df["win_flag"] == 1]["position_match"].std()
     sigma_2 = result_df[result_df["win_flag"] == 0]["position_match"].std()
 
+    #sigma_pos_1 = result_df[result_df["win_flag"] == 1]["overall_position_dif"].std()
+    #sigma_pos_2 = result_df[result_df["win_flag"] == 0]["overall_position_dif"].std()
+
     n1 = result_df[result_df["win_flag"] == 1].shape[0]
     n2 = result_df[result_df["win_flag"] == 0].shape[0]
 
@@ -363,6 +366,8 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     loosing_team_position_rmse = math.sqrt(result_df[result_df["win_flag"] == 0]["overall_position_dif_square"].mean())
 
     z_score = (winning_team_match-loosing_team_match)/math.sqrt((sigma_1**2/n1)+(sigma_2**2/n2))
+
+    #z_score_pos_dif =  (loosing_team_position_dif-winning_team_position_dif)/math.sqrt((sigma_pos_2**2/n1)+(sigma_pos_1**2/n2))
 
     # first_inn_winning_team_match_percentage = result_df[(result_df["win_flag"] == 1) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
     # first_inn_loosing_team_match_percentage = result_df[(result_df["win_flag"] == 0) & (result_df["innings"] == "first_innings")]["match_percentage"].mean()
@@ -399,6 +404,7 @@ def evaluate_batting_position(from_date, to_date, environment='production'):
     print("loosing_team_positon_rmse-", loosing_team_position_rmse)
 
     print("z-score",z_score)
+    #print("z_score_pos_dif",z_score_pos_dif)
 
     outil.create_model_meta_info_entry('batting_order_validation',
                                        (),

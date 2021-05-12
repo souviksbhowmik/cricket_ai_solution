@@ -333,8 +333,8 @@
   "threshold_recommendation_validation": {
     "train_metrics": [],
     "test_metrics": [
-      0.8666666666666667,
-      0.13333333333333333
+      0.8947368421052632,
+      0.10526315789473684
     ],
     "info": "metrics is prediction match and prediction mismatch bassed on threshold",
     "files": []
