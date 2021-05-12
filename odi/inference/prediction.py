@@ -180,6 +180,7 @@ def predict_match_outcome(team_a,team_b,location,
     else:
         winner = team_b
     print(" Our overall predicted winner for Game is ",winner)
+    print(" with probability ",combined_model.predict_proba(feature_combined)[0])
 
 
 def get_optimum_run(team,opponent,location,
