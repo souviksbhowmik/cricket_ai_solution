@@ -63,7 +63,7 @@ python odi/inference/prediction.py match
 -no_of_years is only applicable while considering trend calculation
 
 -- to mix and match embedding
-python odi/inference/prediction.py match --first_innings_embedding False
+python odi/inference/prediction.py match --first_innings_emb False
 ### only first innnings prediction
 python odi/inference/prediction.py team --innings first
 
