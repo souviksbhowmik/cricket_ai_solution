@@ -161,10 +161,18 @@ def predict_match_outcome(team_a,team_b,location,
 
     print("===Predicting with combined model=====")
     feature_combined = np.array([target_by_a, probability_by_b, target_by_b, probability_by_a]).reshape(1,-1)
-    combined_model = pickle.load(open(os.path.join(outil.MODEL_DIR,outil.COMBINED_MODEL),"wb"))
 
-    overall_prediction = combined_model.predict(feature_combined)
-    print(overall_prediction)
+    combined_model = pickle.load(open(os.path.join(outil.MODEL_DIR,outil.COMBINED_MODEL),"rb"))
+
+    overall_prediction = combined_model.predict(feature_combined)[0]
+    #print(overall_prediction)
+    print(" Overall predicted _winner ",team_a, "?",bool(overall_prediction == 1))
+    print(" Overall predicted _winner ", team_b, "?", bool(overall_prediction != 1))
+    if overall_prediction == 1:
+        winner = team_a
+    else:
+        winner = team_b
+    print(" Our overall predicted winner for Game is ",winner)
 
 
 def get_optimum_run(team,opponent,location,
