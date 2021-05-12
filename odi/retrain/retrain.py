@@ -320,25 +320,29 @@ def retrain_first_innings():
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_test_y), 'rb'))
 
-    statsmodel_scaler = StandardScaler()
-    train_x_scaled = statsmodel_scaler.fit_transform((train_x))
-    model = sm.OLS(train_y, sm.add_constant(train_x_scaled)).fit()
+    adj_r2=None
+    try:
+        statsmodel_scaler = StandardScaler()
+        train_x_scaled = statsmodel_scaler.fit_transform((train_x))
+        model = sm.OLS(train_y, sm.add_constant(train_x_scaled)).fit()
 
-    train_y_predict = model.predict(sm.add_constant(train_x_scaled))
-    test_y_predict = model.predict(sm.add_constant(statsmodel_scaler.transform(test_x)))
+        train_y_predict = model.predict(sm.add_constant(train_x_scaled))
+        test_y_predict = model.predict(sm.add_constant(statsmodel_scaler.transform(test_x)))
 
-    mape_train = cric_eval.mape(train_y,train_y_predict)
-    mape_test = cric_eval.mape(test_y, test_y_predict)
+        mape_train = cric_eval.mape(train_y,train_y_predict)
+        mape_test = cric_eval.mape(test_y, test_y_predict)
 
-    mae_train = mean_absolute_error(train_y,train_y_predict)
-    mae_test = mean_absolute_error(test_y,test_y_predict)
-    adj_r2=model.rsquared_adj
+        mae_train = mean_absolute_error(train_y,train_y_predict)
+        mae_test = mean_absolute_error(test_y,test_y_predict)
+        adj_r2=model.rsquared_adj
 
-    print(model.summary())
-    print("Using stats model")
-    print('metrics train ', mape_train, mae_train)
-    print('metrics test ', mape_test, mae_test)
-    print('adjusted r2 ', adj_r2)
+        print(model.summary())
+        print("Using stats model")
+        print('metrics train ', mape_train, mae_train)
+        print('metrics test ', mape_test, mae_test)
+        print('adjusted r2 ', adj_r2)
+    except Exception as ex:
+        print("could not use statsmodel")
 
     pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
     pipe.fit(train_x,train_y)
