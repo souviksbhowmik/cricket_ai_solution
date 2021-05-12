@@ -198,7 +198,7 @@ python odi/evaluation/evaluate.py combined --from_date 2019-01-01 --to_date 2020
 python odi/evaluation/evaluate.py batting-order --from_date 2019-01-01 --to_date 2020-12-31 --env dev
 
 ### to evaluate batting recommendation
-python odi/evaluation/evaluate.py batting-recommendation --from_date 2019-01-01 --to_date 2019-12-31 --env dev
+python odi/evaluation/evaluate.py batting-recommendation --from_date 2019-01-01 --to_date 2019-06-30 --env dev
 
 
 ## Retraining batsman run prediction

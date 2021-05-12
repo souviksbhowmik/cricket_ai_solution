@@ -1120,7 +1120,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None):
         opponent_team = match_list_df[(match_list_df['match_id'] == match_id) &
                                      (match_list_df[opponent_innings] == match_list_df["team_statistics"])]
 
-        location = match_list_df["location"].values[0]
+        location = innings_team["location"].values[0]
         win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
         ref_date = datetime.strptime(innings_team['date'].astype(str).values[0], '%Y-%m-%d')
 
@@ -1174,6 +1174,14 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None):
 
             success_by_a, probability_by_a = pred.predict_second_innings_success(target_by_b, team, opponent, location,team_batsman_list, opponent_bowler_list,ref_date=ref_date, no_of_years=None)
 
+
+            # print("----------summary------------")
+            # print(team,opponent,location,ref_date,np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]),win_flag,innings_team["winner"].values[0])
+            # print(team_batsman_list)
+            # print(team_bowler_list)
+            # print(opponent_batsman_list)
+            # print(opponent_bowler_list)
+            # print("===============================")
             # print(np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]))
             # print(win_flag)
             if ref_date<test_start_dt:
@@ -1192,7 +1200,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None):
     test_x = np.stack(feature_list_test)
     test_y = np.stack(target_list_test)
 
-    # pickle train_x, train_y,test_x,test_y,scaler
+    #pickle train_x, train_y,test_x,test_y,scaler
     pickle.dump(train_x, open(os.path.join(TRAIN_TEST_DIR, combined_train_x), 'wb'))
     pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR, combined_train_y), 'wb'))
 

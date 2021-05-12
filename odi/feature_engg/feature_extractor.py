@@ -800,7 +800,7 @@ def get_batting_order_matching_metrics(batsman_list,team, opponent, location):
 
     for position in range(run_matrix.shape[0]):
         best_batsman_arg = np.argmax(run_matrix[position])
-        print("batsman at ",best_batsman_arg," should have played at ",position)
+        #print("batsman at ",best_batsman_arg," should have played at ",position)
         if best_batsman_arg == position:
             position_match = position_match+1
         position_dif_square = (best_batsman_arg-position)**2

@@ -263,8 +263,8 @@
     "train_metrics": [],
     "test_metrics": [
       0.14705882352941177,
-      0.06862745098039216,
-      1.811413336075362
+      0.058823529411764705,
+      2.0854932981553116
     ],
     "info": "metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []
@@ -289,9 +289,9 @@
   "batsman_recommendation_validation": {
     "train_metrics": [],
     "test_metrics": [
-      8.185856176225084,
-      7.354964644206011,
-      1.892712712308878
+      7.207419962148764,
+      6.5930695657486735,
+      1.1645003480872826
     ],
     "info": "metrics is mean match in winnning teams, mean match in loosing teams, z statistics of 2 means",
     "files": []
@@ -314,16 +314,16 @@
   },
   "combbined_model": {
     "train_metrics": [
-      0.9131238447319778,
-      0.8873239436619719,
-      0.9438202247191011,
-      0.9147005444646098
+      0.9094269870609981,
+      0.8892857142857142,
+      0.9325842696629213,
+      0.9104204753199269
     ],
     "test_metrics": [
-      0.9382716049382716,
-      0.9534883720930233,
-      0.9318181818181818,
-      0.942528735632184
+      0.9393939393939394,
+      0.9459459459459459,
+      0.9459459459459459,
+      0.9459459459459459
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [
