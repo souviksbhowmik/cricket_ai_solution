@@ -200,6 +200,8 @@ python odi/evaluation/evaluate.py batting-order --from_date 2019-01-01 --to_date
 ### to evaluate batting recommendation
 python odi/evaluation/evaluate.py batting-recommendation --from_date 2019-01-01 --to_date 2019-06-30 --env dev
 
+### to evaluate expected threshold
+python odi/evaluation/evaluate.py expected-threshold --from_date 2019-01-01 --to_date 2019-06-30 --env dev
 
 ## Retraining batsman run prediction
 prerequisite - batsman embedding is already learnt 

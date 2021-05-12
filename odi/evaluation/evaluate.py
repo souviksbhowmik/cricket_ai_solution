@@ -14,6 +14,7 @@ import tensorflow as tf
 from odi.feature_engg import util as cricutil
 from odi.preprocessing import rank as rank
 import math
+from odi.inference import prediction as pred
 
 
 
@@ -38,11 +39,10 @@ def evaluate_expected_threshold(from_date, to_date, environment='production'):
 
     match_id_list = list(match_list_df['match_id'].unique())
 
-    batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=start_date)
+    # batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=start_date)
     # print("=========reading file ",batsman_rank_file)
-    batsman_rank_df = pd.read_csv(batsman_rank_file)
 
-    no_of_suggestion = 6
+
     dict_list = []
     for match_id in tqdm(match_id_list):
 
@@ -54,12 +54,106 @@ def evaluate_expected_threshold(from_date, to_date, environment='production'):
         team = innings_team["team_statistics"].values[0]
         opponent = match_list_df[(match_list_df['match_id']==match_id)][opponent_innings].values[0]
 
+        opponent_team = match_list_df[(match_list_df['match_id'] == match_id) &
+                                      (match_list_df[opponent_innings] == match_list_df["team_statistics"])]
+
         location = innings_team["location"].values[0]
         win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
         ref_date = datetime.strptime(innings_team['date'].astype(str).values[0],'%Y-%m-%d')
 
         first_innings_runs = innings_team['total_run'].values[0]
 
+        team_batsman_list = list()
+        for i in range(11):
+            player = innings_team['batsman_' + str(i + 1)].values[0]
+            if player == 'not_batted':
+                break
+            else:
+                team_batsman_list.append(player)
+
+        team_bowler_list = list()
+        for i in range(11):
+            player = innings_team['bowler_' + str(i + 1)].values[0]
+            if player == 'not_bowled':
+                break
+            else:
+                team_bowler_list.append(player)
+
+        opponent_batsman_list = list()
+        for i in range(11):
+            player = opponent_team['batsman_' + str(i + 1)].values[0]
+            if player == 'not_batted':
+                break
+            else:
+                opponent_batsman_list.append(player)
+
+        opponent_bowler_list = list()
+        for i in range(11):
+            player = opponent_team['bowler_' + str(i + 1)].values[0]
+            if player == 'not_bowled':
+                break
+            else:
+                opponent_bowler_list.append(player)
+
+        try :
+            threshold = None
+            target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None)
+
+            feature_vector = feature_extractor.get_second_innings_feature_embedding_vector(target_by_a, opponent, team, location,
+                                                                            opponent_batsman_list, team_bowler_list,
+                                                                            ref_date=ref_date)
+
+            second_innings_model = pickle.load(open(outil.MODEL_DIR + os.sep + outil.SECOND_INNINGS_MODEL, 'rb'))
+            feature_vector = feature_vector.reshape(1, -1)
+            success_by_b = second_innings_model.predict(feature_vector.reshape(1, -1))[0]
+            always_win = False
+            always_loose = False
+            if success_by_b:
+                while success_by_b and target_by_a<320:
+                    target_by_a = target_by_a + 10
+                    feature_vector[:,-1]=target_by_a
+                    success_by_b = second_innings_model.predict(feature_vector.reshape(1, -1))[0]
+                    if not success_by_b:
+                        threshold = target_by_a -5
+                if threshold is None:
+                    always_loose = True
+            else:
+                while not success_by_b and target_by_a>180:
+                    target_by_a = target_by_a - 10
+                    feature_vector[:,-1]=target_by_a
+                    success_by_b = second_innings_model.predict(feature_vector.reshape(1, -1))[0]
+                    if success_by_b:
+                        threshold = target_by_a +5
+                if threshold is None:
+                    always_win = True
+
+            if threshold is None:
+                continue
+            else:
+                row = {"threshold":threshold,
+                       "runs": first_innings_runs,
+                       "crossed_threshold": int(first_innings_runs > threshold),
+                       "win": win_flag}
+                dict_list.append(row)
+
+            # print("=====predicted ",target_by_a," actual ",first_innings_runs,
+            #       "threshold =",threshold,"=== crossed ",int(first_innings_runs > threshold),"did win ", win_flag,always_win,always_loose)
+
+        except Exception as ex:
+            print(ex," : ignored ", team ," vs ",opponent, " on ",ref_date," at ",location )
+
+    results = pd.DataFrame(dict_list)
+
+    threshold_prediction_matched = results[results['crossed_threshold']==results['win']].shape[0]/results.shape[0]
+    threshold_prediction_mismatched = results[results['crossed_threshold']!=results['win']].shape[0]/results.shape[0]
+
+    print("prediction matched ",threshold_prediction_matched)
+    print("prediction mismatched ", threshold_prediction_mismatched)
+    outil.create_model_meta_info_entry('threshold_recommendation_validation',
+                                       (),
+                                       (threshold_prediction_matched,threshold_prediction_mismatched),
+                                       info="metrics is prediction match and prediction mismatch bassed on threshold",
+                                       )
 
 
 
@@ -754,6 +848,13 @@ def batting_order(from_date, to_date, env):
 @click.option('--env', help='end date in YYYY-mm-dd',default='production')
 def batting_recommendation(from_date, to_date, env):
     evaluate_batsman_recommendation(from_date, to_date, environment=env)
+
+@evaluate.command()
+@click.option('--from_date', help='start date in YYYY-mm-dd',required=True)
+@click.option('--to_date', help='end date in YYYY-mm-dd',required=True)
+@click.option('--env', help='end date in YYYY-mm-dd',default='production')
+def expected_threshold(from_date, to_date, env):
+    evaluate_expected_threshold(from_date, to_date, environment=env)
 
 
 if __name__=='__main__':

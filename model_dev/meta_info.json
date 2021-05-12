@@ -329,5 +329,14 @@
     "files": [
       "combined_model.pkl"
     ]
+  },
+  "threshold_recommendation_validation": {
+    "train_metrics": [],
+    "test_metrics": [
+      0.8666666666666667,
+      0.13333333333333333
+    ],
+    "info": "metrics is prediction match and prediction mismatch bassed on threshold",
+    "files": []
   }
 }

@@ -1200,7 +1200,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None):
     test_x = np.stack(feature_list_test)
     test_y = np.stack(target_list_test)
 
-    #pickle train_x, train_y,test_x,test_y,scaler
+    # pickle train_x, train_y,test_x,test_y,
     pickle.dump(train_x, open(os.path.join(TRAIN_TEST_DIR, combined_train_x), 'wb'))
     pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR, combined_train_y), 'wb'))
 
