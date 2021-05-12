@@ -18,6 +18,13 @@ second_innings_emb = True
 first_emb_model = 'team'
 second_emb_model = 'team'
 
+def set_first_innings_emb(flag=True):
+    global first_innings_emb
+    first_innings_emb = flag
+
+def set_second_innings_emb(flag=True):
+    global second_innings_emb
+    second_innings_emb = flag
 
 def set_embedding_usage():
     global first_innings_emb

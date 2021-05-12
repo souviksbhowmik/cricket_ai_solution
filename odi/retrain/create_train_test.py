@@ -1079,7 +1079,7 @@ def create_adversarial_first_innings_train_test(train_start,test_start,test_end=
                                  file_list=[adversarial_first_innings_test_x,
                                             adversarial_first_innings_test_y])
 
-def create_combined_prediction_train_test(train_start,test_start,test_end=None):
+def create_combined_prediction_train_test(train_start,test_start,test_end=None, first_innings_emb=True, second_innings_emb=True):
 
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
@@ -1166,6 +1166,8 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None):
         # print("opponent_bowlers ", opponent_bowler_list)
 
         try :
+            pred.set_first_innings_emb(first_innings_emb)
+            pred.set_second_innings_emb(second_innings_emb)
             target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None)
 
             success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None)
@@ -1313,8 +1315,10 @@ def adversarial_first_innings(train_start, test_start, test_end):
 @click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
 @click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
-def combined_prediction(train_start, test_start, test_end):
-    create_combined_prediction_train_test(train_start, test_start, test_end=test_end)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+def combined_prediction(train_start, test_start, test_end, first_innings_emb,second_innings_emb):
+    create_combined_prediction_train_test(train_start, test_start, test_end=test_end,first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
 
 if __name__=="__main__":
