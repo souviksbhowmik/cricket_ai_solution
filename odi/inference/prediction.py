@@ -26,21 +26,21 @@ def set_second_innings_emb(flag=True):
     global second_innings_emb
     second_innings_emb = flag
 
-def set_embedding_usage():
-    global first_innings_emb
-    global second_innings_emb
-    global first_emb_model
-    global second_emb_model
-
-    if os.path.isfile(os.path.join(outil.MODEL_DIR,'inference_config.json')):
-        conf = json.load(open(os.path.join(outil.MODEL_DIR,'inference_config.json'),'r'))
-        first_innings_emb = conf['first_innings_emb']
-        second_innings_emb = conf['second_innings_emb']
-        if "first_emb_model" in conf:
-            first_emb_model = conf['first_emb_model']
-
-        if "second_emb_model" in conf:
-            second_emb_model = conf['second_emb_model']
+# def set_embedding_usage():
+#     global first_innings_emb
+#     global second_innings_emb
+#     global first_emb_model
+#     global second_emb_model
+#
+#     if os.path.isfile(os.path.join(outil.MODEL_DIR,'inference_config.json')):
+#         conf = json.load(open(os.path.join(outil.MODEL_DIR,'inference_config.json'),'r'))
+#         first_innings_emb = conf['first_innings_emb']
+#         second_innings_emb = conf['second_innings_emb']
+#         if "first_emb_model" in conf:
+#             first_emb_model = conf['first_emb_model']
+#
+#         if "second_emb_model" in conf:
+#             second_emb_model = conf['second_emb_model']
 
 
 
@@ -267,9 +267,12 @@ def predict():
 @click.option('--ref_date', help='date of the match (by default current)')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env):
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
-    set_embedding_usage()
+    set_first_innings_emb(first_innings_emb)
+    set_second_innings_emb(second_innings_emb)
     if team_a_xlsx is None:
         team_a_xlsx = 'team_a.xlsx'
 
@@ -320,9 +323,12 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env):
 @click.option('--ref_date', help='team_b template excel')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env):
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
-    set_embedding_usage()
+    set_first_innings_emb(first_innings_emb)
+    set_second_innings_emb(second_innings_emb)
     if innings == 'second' and target is None:
         raise Exception('--target is mandatory for second innings')
 
@@ -393,9 +399,12 @@ def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env):
 @click.option('--ref_date', help='date of the match (by default current)')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-def individual_runs(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env):
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+def individual_runs(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
-    set_embedding_usage()
+    set_first_innings_emb(first_innings_emb)
+    set_second_innings_emb(second_innings_emb)
     if team_a_xlsx is None:
         team_a_xlsx = 'team_a.xlsx'
 

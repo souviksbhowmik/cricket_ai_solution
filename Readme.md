@@ -61,6 +61,9 @@ python odi/inference/prediction.py match
 -by default team_a.xlsx and team_b.xlsx will be used, type help the check options with --hel[]
 
 -no_of_years is only applicable while considering trend calculation
+
+-- to mix and match embedding
+python odi/inference/prediction.py match --first_innings_embedding False
 ### only first innnings prediction
 python odi/inference/prediction.py team --innings first
 
@@ -173,6 +176,10 @@ python odi/inference/inference_config.py --first_innings_emb True --second_innin
 
 ## Step 16 Create Combined train test
 python odi/retrain/create_train_test.py combined-prediction --train_start 2011-01-01 --test_start 2019-01-01
+
+---mix and match embedding
+python odi/retrain/create_train_test.py combined-prediction --train_start 2011-01-01 --test_start 2020-12-31 --first_innings_emb False
+
 
 ## Retrain combines
 python odi/retrain/retrain.py combined
