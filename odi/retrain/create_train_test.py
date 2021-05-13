@@ -492,13 +492,13 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     print("mape_train_location_mean", mape_train_location_mean)
     print("mape_train_current_mean", mape_train_current_mean)
 
-    print("mape_train_opponent_trend",mape_train_opponent_trend)
-    print("mape_train_location_trend", mape_train_location_trend)
-    print("mape_train_current_trend", mape_train_current_trend)
+    print("mape_opponent_trend",mape_opponent_trend)
+    print("mape_location_trend", mape_location_trend)
+    print("mape_current_trend", mape_current_trend)
 
-    print("mape_train_opponent_mean", mape_train_opponent_mean)
-    print("mape_train_location_mean", mape_train_location_mean)
-    print("mape_train_current_mean", mape_train_current_mean)
+    print("mape_opponent_mean", mape_opponent_mean)
+    print("mape_location_mean", mape_location_mean)
+    print("mape_current_mean", mape_current_mean)
 
 
 def create_second_innings_base_train_test(train_start,test_start,test_end=None):
