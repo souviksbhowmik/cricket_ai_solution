@@ -169,7 +169,7 @@ def predict_match_outcome(team_a,team_b,location,
     print("===Predicting with combined model=====")
     feature_combined = np.array([target_by_a, probability_by_b, target_by_b, probability_by_a]).reshape(1,-1)
 
-    combined_model = pickle.load(open(os.path.join(outil.MODEL_DIR,outil.COMBINED_MODEL),"rb"))
+    combined_model = pickle.load(open(os.path.join(outil.MODEL_DIR,"fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_"+outil.COMBINED_MODEL),"rb"))
 
     overall_prediction = combined_model.predict(feature_combined)[0]
     #print(overall_prediction)
@@ -180,7 +180,8 @@ def predict_match_outcome(team_a,team_b,location,
     else:
         winner = team_b
     print(" Our overall predicted winner for Game is ",winner)
-    print(" with probability ",combined_model.predict_proba(feature_combined)[0])
+    print(" with probability of ",team_a," " ,combined_model.predict_proba(feature_combined)[0,1])
+    print(" and probability of ", team_b, " ", combined_model.predict_proba(feature_combined)[0, 0])
 
 
 def get_optimum_run(team,opponent,location,
@@ -268,8 +269,8 @@ def predict():
 @click.option('--ref_date', help='date of the match (by default current)')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
-@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
 def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
     set_first_innings_emb(first_innings_emb)
@@ -324,8 +325,8 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,sec
 @click.option('--ref_date', help='team_b template excel')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
-@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
 def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
     set_first_innings_emb(first_innings_emb)
@@ -394,14 +395,18 @@ def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env,firs
                               )
 
 
+if __name__=='__main__':
+    predict()
+
+
 @predict.command()
 @click.option('--team_a_xlsx', help='team_a template excel')
 @click.option('--team_b_xlsx', help='team_b template excel')
 @click.option('--ref_date', help='date of the match (by default current)')
 @click.option('--no_of_years', help='no of years for considering trend')
 @click.option('--env', help='which models to use for predictio',default='production')
-@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
-@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
 def individual_runs(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,second_innings_emb):
     outil.use_model_from(env)
     set_first_innings_emb(first_innings_emb)
@@ -464,7 +469,3 @@ def individual_runs(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innin
                                                   ref_date=ref_date, no_of_years=no_of_years)
 
     print(json.dumps(predicted_runs_dict, indent=2))
-
-
-if __name__=='__main__':
-    predict()

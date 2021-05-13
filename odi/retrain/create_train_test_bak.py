@@ -1116,7 +1116,10 @@ def create_adversarial_first_innings_train_test(train_start,test_start,test_end=
                                  file_list=[adversarial_first_innings_test_x,
                                             adversarial_first_innings_test_y])
 
-def create_combined_prediction_train_test(train_start,test_start,test_end=None, first_innings_emb=True, second_innings_emb=True):
+
+
+def create_combined_prediction_train_test(train_start,test_start,test_end=None,
+                                          first_innings_emb=True, second_innings_emb=True):
 
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
@@ -1203,8 +1206,8 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         # print("opponent_bowlers ", opponent_bowler_list)
 
         try :
-            pred.set_first_innings_emb(first_innings_emb)
-            pred.set_second_innings_emb(second_innings_emb)
+            #pred.set_first_innings_emb(first_innings_emb)
+            #pred.set_second_innings_emb(second_innings_emb)
             target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None)
 
             success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None)
@@ -1240,6 +1243,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
     test_y = np.stack(target_list_test)
 
     # pickle train_x, train_y,test_x,test_y,
+
     pickle.dump(train_x, open(os.path.join(TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + combined_train_x), 'wb'))
     pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + combined_train_y), 'wb'))
 
@@ -1252,12 +1256,12 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         file_list=[combined_train_x,
                    combined_train_y])
 
-    outil.create_meta_info_entry(
-        'combined_test_xy_' + "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
-        str(test_start_dt.date()),
-        str(test_end_dt.date()),
-        file_list=[combined_test_x,
-                   combined_test_y])
+    outil.create_meta_info_entry('combined_test_xy_' + "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
+                                 str(test_start_dt.date()),
+                                 str(test_end_dt.date()),
+                                 file_list=[combined_test_x,
+                                            combined_test_y])
+
 
 @click.group()
 def traintest():
@@ -1282,7 +1286,7 @@ def country_embedding(train_start,test_start,test_end=None,encoding_source='dev'
 @click.option('--encoding_source', help='which environment to read from for one hot encoding(dev/production)',
               default='dev')
 @click.option('--include_not_batted', help='whether to create an encoding for not_batted)',
-              default=False,type=bool)
+              default=False)
 def batsman_embedding(train_start,test_start,test_end,encoding_source,include_not_batted):
     create_batsman_embedding_train_test(train_start,
                                         test_start,
@@ -1350,13 +1354,12 @@ def batsman_runs(train_start, test_start, test_end):
 def adversarial_first_innings(train_start, test_start, test_end):
     create_adversarial_first_innings_train_test(train_start, test_start, test_end=test_end)
 
-
 @traintest.command()
 @click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
 @click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
-@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
-@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True)
 def combined_prediction(train_start, test_start, test_end, first_innings_emb,second_innings_emb):
     create_combined_prediction_train_test(train_start, test_start, test_end=test_end,first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 

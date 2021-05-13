@@ -182,7 +182,7 @@ python odi/retrain/create_train_test.py combined-prediction --train_start 2011-0
 
 
 ## Retrain combines
-python odi/retrain/retrain.py combined
+python odi/retrain/retrain.py combined --first_innings_emb True --second_innings_emb True
 
 
 ## Evaluate

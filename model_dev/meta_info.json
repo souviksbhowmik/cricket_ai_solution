@@ -338,5 +338,57 @@
     ],
     "info": "metrics is prediction match and prediction mismatch bassed on threshold",
     "files": []
+  },
+  "combined_train_xy_fi_True_si_True": {
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "combined_train_x.pkl",
+      "combined_train_y.pkl"
+    ]
+  },
+  "combined_test_xy_fi_True_si_True": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "combined_test_x.pkl",
+      "combined_test_y.pkl"
+    ]
+  },
+  "combbined_model_fi_True_si_True": {
+    "train_metrics": [
+      0.9094269870609981,
+      0.8892857142857142,
+      0.9325842696629213,
+      0.9104204753199269
+    ],
+    "test_metrics": [
+      0.9058823529411765,
+      0.8958333333333334,
+      0.9347826086956522,
+      0.9148936170212766
+    ],
+    "info": "metrics is accuracy,precision, recall,fscore",
+    "files": [
+      "combined_model.pkl"
+    ]
+  },
+  "combined_model_fi_True_si_True": {
+    "train_metrics": [
+      0.9094269870609981,
+      0.8892857142857142,
+      0.9325842696629213,
+      0.9104204753199269
+    ],
+    "test_metrics": [
+      0.9393939393939394,
+      0.9459459459459459,
+      0.9459459459459459,
+      0.9459459459459459
+    ],
+    "info": "metrics is accuracy,precision, recall,fscore",
+    "files": [
+      "combined_model.pkl"
+    ]
   }
 }

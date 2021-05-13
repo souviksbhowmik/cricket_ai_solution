@@ -849,15 +849,11 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
 
 
 def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
-    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
-        second_innings_emb) + "_" + ctt.combined_train_x), 'rb'))
-    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
-        second_innings_emb) + "_" + ctt.combined_train_y), 'rb'))
+    train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_train_x), 'rb'))
+    train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_train_y), 'rb'))
 
-    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
-        second_innings_emb) + "_" + ctt.combined_test_x), 'rb'))
-    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
-        second_innings_emb) + "_" + ctt.combined_test_y), 'rb'))
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_test_y), 'rb'))
 
     statsmodel_scaler = StandardScaler()
     train_x_scaled = statsmodel_scaler.fit_transform((train_x))
@@ -898,19 +894,15 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     print('metrics test ', accuracy_test_lr,precision_test, recall_test, fscore_test)
 
 
-    pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL),'wb'))
+    pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,"fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_"+outil.COMBINED_MODEL),'wb'))
 
-    pickle.dump(pipe, open(os.path.join(outil.DEV_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
-        second_innings_emb) + "_" + outil.COMBINED_MODEL), 'wb'))
-
-    outil.create_model_meta_info_entry(
-        'combined_model_' + "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
-        (accuracy_train_lr, precision_train, recall_train, fscore_train),
-        (accuracy_test_lr, precision_test, recall_test, fscore_test),
-        info="metrics is accuracy,precision, recall,fscore",
-        file_list=[
-            outil.COMBINED_MODEL,
-        ])
+    outil.create_model_meta_info_entry('combbined_model_'+"fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
+                                       (accuracy_train_lr,precision_train,recall_train,fscore_train),
+                                       (accuracy_test_lr,precision_test, recall_test, fscore_test),
+                                       info="metrics is accuracy,precision, recall,fscore",
+                                       file_list=[
+                                           outil.COMBINED_MODEL,
+                                           ])
 
 
 @click.group()
@@ -1040,8 +1032,8 @@ def adversarial_first_innings():
     adversarial_first_innings_runs()
 
 @retrain.command()
-@click.option('--first_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
-@click.option('--second_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
+@click.option('--first_innings_emb/--no-first_innings_emb', help='whether to use embedding in first innnings',required=True)
+@click.option('--second_innings_emb/--no-second_innings_emb', help='whether to use embedding in first innnings',required=True)
 def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
