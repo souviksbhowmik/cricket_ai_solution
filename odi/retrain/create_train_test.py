@@ -1205,13 +1205,13 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         try :
             pred.set_first_innings_emb(first_innings_emb)
             pred.set_second_innings_emb(second_innings_emb)
-            target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None)
+            target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
 
-            success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None)
+            success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None,mode="train")
 
-            target_by_b = pred.predict_first_innings_run(opponent,team,location,opponent_batsman_list,team_bowler_list,ref_date=ref_date,no_of_years=None)
+            target_by_b = pred.predict_first_innings_run(opponent,team,location,opponent_batsman_list,team_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
 
-            success_by_a, probability_by_a = pred.predict_second_innings_success(target_by_b, team, opponent, location,team_batsman_list, opponent_bowler_list,ref_date=ref_date, no_of_years=None)
+            success_by_a, probability_by_a = pred.predict_second_innings_success(target_by_b, team, opponent, location,team_batsman_list, opponent_bowler_list,ref_date=ref_date, no_of_years=None,mode="train")
 
 
             # print("----------summary------------")

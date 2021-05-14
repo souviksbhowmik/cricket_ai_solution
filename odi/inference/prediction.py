@@ -1,5 +1,6 @@
 from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor as fe
+from odi.feature_engg import util as cricutil
 from odi.retrain import  create_train_test as ctt
 import pickle
 import os
@@ -46,10 +47,13 @@ def set_second_innings_emb(flag=True):
 
 def predict_first_innings_run(team,opponent,location,
                               team_player_list,opponent_player_list,
-                              ref_date=None,no_of_years=None):
+                              ref_date=None,no_of_years=None,mode="inference"):
 
     # print(' embedding in first Innings ',first_innings_emb)
     # print(' first_emb_model ', first_emb_model)
+    if mode=="inference":
+        team_player_list = fe.get_top_n_batsman(team_player_list,team,n=8,ref_date=ref_date)
+        opponent_player_list = fe.get_top_n_bowlers(opponent_player_list,opponent,n=6,ref_date=ref_date)
     if first_innings_emb:
         if first_emb_model == 'team':
             # print('======Predicting with team========')
@@ -79,9 +83,12 @@ def predict_first_innings_run(team,opponent,location,
 
 def predict_second_innings_success(target,team,opponent,location,
                               team_player_list,opponent_player_list,
-                              ref_date=None,no_of_years=None):
+                              ref_date=None,no_of_years=None,mode="inference"):
 
     # print(' using embedding in second innings ',second_innings_emb)
+    if mode=="inference":
+        team_player_list = fe.get_top_n_batsman(team_player_list,team,n=8,ref_date=ref_date)
+        opponent_player_list = fe.get_top_n_bowlers(opponent_player_list,opponent,n=6,ref_date=ref_date)
     if second_innings_emb:
         if second_emb_model == 'team':
             second_innings_model = pickle.load(open(outil.MODEL_DIR+os.sep+outil.SECOND_INNINGS_MODEL,'rb'))
@@ -281,6 +288,9 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innings_emb,sec
     if team_b_xlsx is None:
         team_b_xlsx = 'team_b.xlsx'
 
+    if ref_date is not None:
+        ref_date = cricutil.str_to_date_time(ref_date)
+
     team_a_df = pd.read_excel(team_a_xlsx)
     team_b_df = pd.read_excel(team_b_xlsx)
 
@@ -339,6 +349,9 @@ def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env,firs
 
     if opponent_xlsx is None:
         opponent_xlsx = 'team_b.xlsx'
+
+    if ref_date is not None:
+        ref_date = cricutil.str_to_date_time(ref_date)
 
     team_df = pd.read_excel(team_xlsx)
     opponent_df = pd.read_excel(opponent_xlsx)
@@ -416,6 +429,9 @@ def individual_runs(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,env,first_innin
 
     if team_b_xlsx is None:
         team_b_xlsx = 'team_b.xlsx'
+
+    if ref_date is not None:
+        ref_date = cricutil.str_to_date_time(ref_date)
 
     team_a_df = pd.read_excel(team_a_xlsx)
     team_b_df = pd.read_excel(team_b_xlsx)

@@ -817,3 +817,34 @@ def get_batting_order_matching_metrics(batsman_list,team, opponent, location):
 
     return position_match,overall_position_dif_square,overall_position_dif
 
+
+def get_top_n_bowlers(bowler_list,country,n=6,ref_date=None):
+    bowler_rank_file=rank.get_latest_rank_file("bowler",ref_date=ref_date)
+    current_bowler_df = pd.DataFrame()
+    current_bowler_df['bowler']=bowler_list
+    current_bowler_df['country']=country
+
+    bowler_rank_df = pd.read_csv(bowler_rank_file)
+
+    current_bowler_df = current_bowler_df.merge(bowler_rank_df,how="inner",on=["bowler","country"])
+
+    current_bowler_df.sort_values("bowler_score", ascending=False, inplace=True)
+
+    return list(current_bowler_df.head(n)['bowler'])
+
+
+def get_top_n_batsman(batsman_list,country,n=8,ref_date=None):
+    batsman_rank_file=rank.get_latest_rank_file("batsman",ref_date=ref_date)
+    curren_batsman_df = pd.DataFrame()
+    curren_batsman_df['batsman']=batsman_list
+    curren_batsman_df['country']=country
+
+    batsman_rank_df = pd.read_csv(batsman_rank_file)
+
+    curren_batsman_df = curren_batsman_df.merge(batsman_rank_df,how="inner",on=["batsman","country"])
+
+    curren_batsman_df.sort_values("batsman_score", ascending=False, inplace=True)
+
+    return list(curren_batsman_df.head(n)['batsman'])
+
+
