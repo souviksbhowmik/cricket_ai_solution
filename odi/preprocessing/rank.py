@@ -506,6 +506,9 @@ def create_location_rank(year_list,no_of_years=5):
             create_location_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
 
 
+def create_reduciton_factor(start_date,end_date):
+    pass
+
 @click.group()
 def rank():
     pass
@@ -576,6 +579,12 @@ def location(year_list,no_of_years):
 
     year_list = list(year_list)
     create_location_rank(year_list,no_of_years)
+
+@retrain.command()
+@click.option('--start_date', help='start date for player score mean reduction_factor',required=True)
+@click.option('--end_date', help='end date for layer score mean reduction factor',required=True)
+def reduction_analysis(start_date,end_date):
+    create_reduciton_factor(start_date,end_date)
 
 
 if __name__=='__main__':

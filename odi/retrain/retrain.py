@@ -10,6 +10,7 @@ from keras.callbacks import ModelCheckpoint
 from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,precision_recall_fscore_support
 
 from sklearn.linear_model import LinearRegression,LogisticRegression
+from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
@@ -397,6 +398,8 @@ def retrain_second_innings_base(create_output=True):
     print('metrics test ', accuracy_test)
 
     pipe = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
+    #pipe = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto',probability=True))])
+
     pipe.fit(train_x,train_y)
 
     train_y_predict_lr = pipe.predict(train_x)
@@ -411,7 +414,8 @@ def retrain_second_innings_base(create_output=True):
     print('metrics test ', accuracy_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    selected_feature_index=list(range(train_x.shape[1]+1))
     print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
@@ -433,6 +437,7 @@ def retrain_second_innings_base(create_output=True):
     print("new train_x ",new_train_x.shape)
     print("new test x ", new_test_x.shape)
     pipe_new = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
+    #pipe_new = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto', probability=True,kernel='poly'))])
     pipe_new.fit(new_train_x,train_y)
 
     new_train_y_predict = pipe_new.predict(new_train_x)
@@ -1044,6 +1049,9 @@ def adversarial_first_innings():
 @click.option('--second_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
 def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
+
+
+
 
 if __name__=="__main__":
     retrain()

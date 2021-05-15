@@ -371,14 +371,20 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+
+        team_bowler_list = []
         for tbo in range(11):
-            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            t_bowler = team_info['bowler_' + str(tbo + 1)].values[0].strip()
             if t_bowler == 'not_bowled':
                 break
             elif t_bowler not in team_player_list:
-                team_player_list.append(t_bowler)
+                team_bowler_list.append(t_bowler)
             else:
                 pass
+
+        if len(team_player_list) + len(team_bowler_list) == 11:
+            team_player_list = team_player_list + team_bowler_list
+
         opponent_player_list = list()
         for boi in range(11):
             bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
@@ -562,14 +568,19 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+
+        team_bowler_list = []
         for tbo in range(11):
-            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            t_bowler = team_info['bowler_' + str(tbo + 1)].values[0].strip()
             if t_bowler == 'not_bowled':
                 break
             elif t_bowler not in team_player_list:
-                team_player_list.append(t_bowler)
+                team_bowler_list.append(t_bowler)
             else:
                 pass
+
+        if len(team_player_list) + len(team_bowler_list) == 11:
+            team_player_list = team_player_list + team_bowler_list
 
         opponent_player_list = list()
         for boi in range(11):
@@ -672,14 +683,18 @@ def create_first_innings_train_test(train_start,test_start,test_end=None):
             else:
                 team_player_list.append(batsman)
 
+        team_bowler_list = []
         for tbo in range(11):
             t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
             if t_bowler == 'not_bowled':
                 break
             elif t_bowler not in team_player_list:
-                team_player_list.append(t_bowler)
+                team_bowler_list.append(t_bowler)
             else:
                 pass
+
+        if len(team_player_list) + len(team_bowler_list) ==11:
+            team_player_list = team_player_list+team_bowler_list
 
         opponent_player_list = list()
         for boi in range(11):
@@ -780,14 +795,18 @@ def create_second_innings_train_test(train_start,test_start,test_end=None):
             else:
                 team_player_list.append(batsman)
 
+        team_bowler_list = []
         for tbo in range(11):
-            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            t_bowler = team_info['bowler_' + str(tbo + 1)].values[0].strip()
             if t_bowler == 'not_bowled':
                 break
             elif t_bowler not in team_player_list:
-                team_player_list.append(t_bowler)
+                team_bowler_list.append(t_bowler)
             else:
                 pass
+
+        if len(team_player_list) + len(team_bowler_list) == 11:
+            team_player_list = team_player_list + team_bowler_list
 
         opponent_player_list = list()
         for boi in range(11):
@@ -1210,12 +1229,18 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
                 team_batsman_list.append(player)
 
         team_bowler_list = list()
+        temp_team_bowler_list = list()
         for i in range(11):
             player = innings_team['bowler_' + str(i + 1)].values[0]
             if player == 'not_bowled':
                 break
             else:
                 team_bowler_list.append(player)
+                if player not in team_batsman_list:
+                    temp_team_bowler_list.append(player)
+
+        if len(team_batsman_list+temp_team_bowler_list) == 11:
+            team_batsman_list = team_batsman_list+temp_team_bowler_list
 
         opponent_batsman_list = list()
         for i in range(11):
@@ -1226,12 +1251,19 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
                 opponent_batsman_list.append(player)
 
         opponent_bowler_list = list()
+        temp_opponent_bowler_list = list()
         for i in range(11):
             player = opponent_team['bowler_' + str(i + 1)].values[0]
             if player == 'not_bowled':
                 break
             else:
                 opponent_bowler_list.append(player)
+                if player not in opponent_batsman_list:
+                    temp_opponent_bowler_list.append(player)
+
+        if len(opponent_batsman_list+temp_opponent_bowler_list)==11:
+            opponent_batsman_list = opponent_batsman_list+temp_opponent_bowler_list
+
 
         # print("team ",team)
         # print("opponent ", opponent)
