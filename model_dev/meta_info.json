@@ -438,7 +438,7 @@
   },
   "combined_test_xy_fi_False_si_False": {
     "start_date": "2019-01-31",
-    "end_date": "2019-12-31",
+    "end_date": "2019-06-30",
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"
@@ -452,10 +452,10 @@
       0.7340946166394781
     ],
     "test_metrics": [
-      0.7536231884057971,
-      0.775,
-      0.7948717948717948,
-      0.7848101265822786
+      0.7547169811320755,
+      0.7666666666666667,
+      0.7931034482758621,
+      0.7796610169491527
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [

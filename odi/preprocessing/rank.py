@@ -531,7 +531,7 @@ def create_reduciton_factor(start_date,end_date):
         ref_date = cricutil.npdate_to_datetime(date)
         rank_file = get_latest_rank_file('batsman', ref_date)
         rank_df = pd.read_csv(rank_file)
-        score_mean = 0
+        score_sum = 0
         mean_dict = {"country": country}
         # print('country'country)
         for bi in range(11):
@@ -543,7 +543,8 @@ def create_reduciton_factor(start_date,end_date):
                     score = \
                     rank_df[(rank_df['country'] == country) & (rank_df['batsman'] == batsman)]['batsman_score'].values[
                         0]
-                    score_mean = (score_mean + score) / (bi + 1)
+                    score_sum = score_sum +score
+                    score_mean = score_sum/ (bi + 1)
                     mean_dict['position_' + str(bi + 1)] = score_mean
 
         mean_list.append(mean_dict)
