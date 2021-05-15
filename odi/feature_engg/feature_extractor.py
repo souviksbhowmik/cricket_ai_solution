@@ -134,33 +134,65 @@ def get_country_score(country, ref_date=None):
     return score
 
 
-def get_batsman_mean_max(country,batsman_list,ref_date=None):
+def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=8):
+    batsman_list=get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
     batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
     batsman_rank_df = pd.read_csv(batsman_rank_file)
     selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(batsman_list))\
                                    & (batsman_rank_df['country']==country)]
     if selected_batsman_df.shape[0]==0:
         raise Exception('No batsman score is available for '+country)
-    selected_batsman_df = selected_batsman_df.sort_values('batsman_score',ascending=False)
+    selected_batsman_df = selected_batsman_df.sort_values('batsman_score',ascending=False).head(no_of_batsman)
     #batsman_mean = selected_batsman_df.head(7)['batsman_score'].mean()
     batsman_mean = selected_batsman_df['batsman_score'].mean()
     batsman_max = selected_batsman_df['batsman_score'].max()
     batsman_sum = selected_batsman_df['batsman_score'].sum()
     return batsman_mean,batsman_max,batsman_sum
 
+def get_batsman_vector(country,batsman_list,ref_date=None,no_of_batsman=8):
 
-def get_bowler_mean_max(country,bowler_list,ref_date=None):
+
+    batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
+    batsman_rank_df = pd.read_csv(batsman_rank_file)
+    if len(batsman_list) < no_of_batsman:
+        batsman_rank_df.sort_values("batsman_score", ascending=False, inplace=True)
+        all_batsman = list(batsman_rank_df['batsman'])
+        search_index = 0
+        while len(batsman_list) <no_of_batsman and search_index<len(all_batsman):
+            if all_batsman[search_index] not in batsman_list:
+                batsman_list.append(all_batsman[search_index])
+            search_index = search_index+1
+        if len(batsman_list)<no_of_batsman:
+            raise Exception("not enough batsman")
+    temp_df = pd.DataFrame()
+    temp_df['batsman'] = batsman_list
+    temp_df['country'] = country
+
+    temp_df = temp_df.merge(batsman_rank_df,on=["batsman","country"],how="inner")
+    score_list = list(temp_df['batsman_score'])
+    if len(score_list)<no_of_batsman:
+        #print("adjustement for new batsman")
+        no_of_shortage = no_of_batsman-len(score_list)
+        for i in range (no_of_shortage):
+            score_list.append(np.array(score_list).mean())
+
+    #print("score_list ",score_list)
+    return np.array(score_list)[:8]
+
+
+def get_bowler_mean_max(country,bowler_list,ref_date=None,no_of_bowler=6):
+    bowler_list = get_top_n_bowlers(bowler_list, country, n=no_of_bowler, ref_date=ref_date)
     bowler_rank_file = rank.get_latest_rank_file('bowler',ref_date=ref_date)
     bowler_rank_df = pd.read_csv(bowler_rank_file)
     if bowler_rank_df[(bowler_rank_df['bowler'].isin(bowler_list))\
                                   & (bowler_rank_df['country']==country)].shape[0]==0:
         raise Exception('No bowler score available for '+country)
     bowler_mean = bowler_rank_df[(bowler_rank_df['bowler'].isin(bowler_list))\
-                                  & (bowler_rank_df['country']==country)]['bowler_score'].mean()
+                                  & (bowler_rank_df['country']==country)].head(no_of_bowler)['bowler_score'].mean()
     bowler_max = bowler_rank_df[(bowler_rank_df['bowler'].isin(bowler_list))\
-                                  & (bowler_rank_df['country']==country)]['bowler_score'].max()
+                                  & (bowler_rank_df['country']==country)].head(no_of_bowler)['bowler_score'].max()
     bowler_sum = bowler_rank_df[(bowler_rank_df['bowler'].isin(bowler_list)) \
-                                & (bowler_rank_df['country'] == country)]['bowler_score'].sum()
+                                & (bowler_rank_df['country'] == country)].head(no_of_bowler)['bowler_score'].sum()
     return bowler_mean,bowler_max,bowler_sum
 
 
@@ -219,6 +251,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
     batsman_mean,batsman_max,batsman_sum= get_batsman_mean_max(team, team_player_list, ref_date=ref_date)
     bowler_mean,bowler_max,bowler_sum= get_bowler_mean_max(opponent, opponent_player_list, ref_date=ref_date)
     #location_overall_mean = get_location_mean(location,"first")
+    #batting_score_list = get_batsman_vector(team,team_player_list,ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years)
@@ -282,6 +315,11 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
 
     }
 
+    # batting_score_list = list(batting_score_list)
+    # for idx,score in enumerate(batting_score_list):
+    #     feature_dict['batsman_'+str(idx)]=score
+
+    #print(feature_dict)
     return feature_dict
 
 
@@ -366,7 +404,7 @@ def get_oh_pos(pos):
     return vec
 
 
-def get_batsman_embedding(batsman_list,team,opponent,location):
+def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=8):
 
     global BATSMAN_EMBEDDING_MODEL_CACHE
     global COUNTRY_ENC_MAP_CACHE
@@ -407,6 +445,8 @@ def get_batsman_embedding(batsman_list,team,opponent,location):
     # print('getting batsman details')
     for bi,batsman in enumerate(batsman_list):
 
+        if bi == no_of_batsman:
+            break
         if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
             continue
         batsman_oh = batsman_enc_map[team.strip() + ' ' + batsman.strip()]

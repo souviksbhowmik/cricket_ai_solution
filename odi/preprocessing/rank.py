@@ -12,6 +12,22 @@ from odi.data_loader import data_loader as dl
 
 PREPROCESS_DATA_LOACATION = 'data'+os.sep+'preprocess'
 
+def get_quantile(quantile_df, value):
+    q1 = quantile_df.iloc[0][1]
+    q2 = quantile_df.iloc[1][1]
+    q3 = quantile_df.iloc[2][1]
+    iqr = q3-q1
+
+    if value>(q3+1.5*iqr):
+        return 5
+    elif value>q3:
+        return 4
+    elif value>q2:
+        return 3
+    elif value>q1:
+        return 2
+    else:
+        return 1
 
 def get_latest_rank_file(rank_type,ref_date = None):
 
@@ -139,6 +155,11 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     # score_df['score'] = score_scaler.fit_transform(score_df[['score']])
     score_df = score_df.sort_values('score', ascending=False)
     score_df['rank'] = range(1, score_df.shape[0] + 1)
+
+    score_quantile_df = score_df['score'].quantile([0.25, 0.5, 0.75]).reset_index()
+    score_df['country_quantile'] = score_df['score'].apply(
+        lambda x: get_quantile(score_quantile_df, x))
+
     score_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'country_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
 
 
@@ -264,6 +285,10 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     # score_scaler = MinMaxScaler()
     # batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
     batsman_performance_df.sort_values('batsman_score', ascending=False, inplace=True)
+
+    batsman_quantile_df = batsman_performance_df['batsman_score'].quantile([0.25,0.5,0.75]).reset_index()
+
+    batsman_performance_df['batsman_quantile'] = batsman_performance_df['batsman_score'].apply(lambda x:get_quantile(batsman_quantile_df,x))
     batsman_performance_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'batsman_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
 
 
@@ -400,7 +425,13 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
     # score_scaler = MinMaxScaler()
     # bowler_performance_df['bowler_score'] = score_scaler.fit_transform(bowler_performance_df[['bowler_score']])
     bowler_performance_df.sort_values('bowler_score', ascending=False, inplace=True)
+
+    bowler_quantile_df = bowler_performance_df['bowler_score'].quantile([0.25, 0.5, 0.75]).reset_index()
+    bowler_performance_df['bowler_quantile'] = bowler_performance_df['bowler_score'].apply(
+        lambda x: get_quantile(bowler_quantile_df, x))
+
     bowler_performance_df.to_csv(PREPROCESS_DATA_LOACATION+os.sep+'bowler_rank_' + str(performance_cutoff_date_end.date()) + '.csv', index=False)
+
 
 def create_bowler_rank(year_list,no_of_years=1):
     custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")

@@ -53,7 +53,7 @@ def predict_first_innings_run(team,opponent,location,
     # print(' first_emb_model ', first_emb_model)
     if mode=="inference":
         team_player_list = fe.get_top_n_batsman(team_player_list,team,n=8,ref_date=ref_date)
-        opponent_player_list = fe.get_top_n_bowlers(opponent_player_list,opponent,n=6,ref_date=ref_date)
+        opponent_player_list = fe.get_top_n_bowlers(opponent_player_list,opponent,n=5,ref_date=ref_date)
     if first_innings_emb:
         if first_emb_model == 'team':
             # print('======Predicting with team========')
@@ -87,7 +87,7 @@ def predict_second_innings_success(target,team,opponent,location,
 
     # print(' using embedding in second innings ',second_innings_emb)
     if mode=="inference":
-        team_player_list = fe.get_top_n_batsman(team_player_list,team,n=8,ref_date=ref_date)
+        team_player_list = fe.get_top_n_batsman(team_player_list,team,n=9,ref_date=ref_date)
         opponent_player_list = fe.get_top_n_bowlers(opponent_player_list,opponent,n=6,ref_date=ref_date)
     if second_innings_emb:
         if second_emb_model == 'team':

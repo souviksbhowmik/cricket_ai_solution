@@ -80,7 +80,7 @@
   },
   "batsman_embedding_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2021-05-15",
     "files": [
       "batsman_emb_batsman_oh_test_x.pkl",
       "batsman_emb_position_oh_test_x.pkl",
@@ -91,12 +91,12 @@
   },
   "batsman_position_opponent_location_embedding": {
     "train_metrics": [
-      726.6857299804688,
-      18.895931243896484
+      727.72265625,
+      18.9031925201416
     ],
     "test_metrics": [
-      847.8440551757812,
-      20.542470932006836
+      849.1668090820312,
+      20.562910079956055
     ],
     "info": "metrics is mse,mae(best mae)",
     "files": [
@@ -117,7 +117,7 @@
   },
   "first_innings_base_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-10",
+    "end_date": "2021-05-15",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -125,18 +125,18 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      19.728660938677002,
-      41.086665978800184,
-      2914.7091432953034,
-      0.2802648958888019
+      22.621441280294405,
+      47.667639440726525,
+      3765.193037519699,
+      0.07331900007478875
     ],
     "test_metrics": [
-      17.62700735496935,
-      43.254396641855074,
-      3336.6097619890847,
-      0.2802648958888019
+      19.415488387324817,
+      46.580561690898186,
+      3764.23919071943,
+      0.07331900007478875
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean']",
+    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'bowler_mean', 'bowler_sum']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -154,16 +154,16 @@
   },
   "second_innings_base_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2021-05-15",
     "files": [
       "second_innings_base_test_x.pkl",
       "second_innings_base_test_y.pkl"
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.8592321755027422,
-    "test_metrics": 0.8921568627450981,
-    "info": "metrics is accuracy - selected :['team_score', 'batsman_mean', 'batsman_sum', 'target_score']",
+    "train_metrics": 0.7523105360443623,
+    "test_metrics": 0.7254901960784313,
+    "info": "metrics is accuracy - selected :['batsman_mean', 'batsman_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
       "second_innings_model_base.pkl",
@@ -180,14 +180,14 @@
   },
   "first_innings_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-10",
+    "end_date": "2021-05-15",
     "files": [
       "first_innings_test_x.pkl",
       "first_innings_test_y.pkl"
     ]
   },
   "second_innings_train_xy": {
-    "start_date": "2015-01-01",
+    "start_date": "2011-01-01",
     "end_date": "2018-12-31",
     "files": [
       "second_innings_train_x.pkl",
@@ -196,7 +196,7 @@
   },
   "second_innings_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2021-05-15",
     "files": [
       "second_innings_test_x.pkl",
       "second_innings_test_y.pkl"
@@ -204,16 +204,16 @@
   },
   "first_innings_model": {
     "train_metrics": [
-      16.127948255681616,
-      34.41023975092119,
-      1997.3247183873139,
-      0.47602117948422185
+      19.88394911286323,
+      41.919613160851135,
+      2859.648940418796,
+      0.24979876076451224
     ],
     "test_metrics": [
-      15.603506693237414,
-      36.718634439825124,
-      2408.8697644015065,
-      0.47602117948422185
+      20.931029753550455,
+      50.31895344330441,
+      4103.81683363961,
+      0.24979876076451224
     ],
     "info": "metrics is mape,mae,mse,adjusted r squared - selected ",
     "files": [
@@ -221,8 +221,8 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": 0.8953488372093024,
-    "test_metrics": 0.9058823529411765,
+    "train_metrics": 0.7948243992606284,
+    "test_metrics": 0.788235294117647,
     "info": "metrics is accuracy",
     "files": [
       "second_innings_model.pkl"
@@ -236,9 +236,12 @@
   },
   "first_innings_trend_prediction_metrics": {
     "train_metrics": [
-      0,
-      0,
-      0
+      33.86451600820185,
+      33.43777679082741,
+      32.257311367327674,
+      25.78560189036519,
+      25.010064860513406,
+      23.856993909353353
     ],
     "test_metrics": [
       28.660104758309036,
@@ -375,16 +378,16 @@
   },
   "combined_model_fi_True_si_True": {
     "train_metrics": [
-      0.9094269870609981,
-      0.8892857142857142,
-      0.9325842696629213,
-      0.9104204753199269
+      0.6839186691312384,
+      0.6791044776119403,
+      0.6816479400749064,
+      0.6803738317757009
     ],
     "test_metrics": [
-      0.9393939393939394,
-      0.9459459459459459,
-      0.9459459459459459,
-      0.9459459459459459
+      0.7424242424242424,
+      0.7941176470588235,
+      0.7297297297297297,
+      0.7605633802816901
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [

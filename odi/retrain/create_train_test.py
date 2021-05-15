@@ -371,6 +371,14 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+        for tbo in range(11):
+            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            if t_bowler == 'not_bowled':
+                break
+            elif t_bowler not in team_player_list:
+                team_player_list.append(t_bowler)
+            else:
+                pass
         opponent_player_list = list()
         for boi in range(11):
             bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
@@ -384,6 +392,7 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
             feature_dict = fe.get_instance_feature_dict(team, opponent, location,
                                                         team_player_list, opponent_player_list,
                                                         ref_date)
+            #print(feature_dict)
             no_of_basman = no_of_basman+len(team_player_list)
 
             if ref_date<test_start_dt:
@@ -399,7 +408,9 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     train_y = np.stack(target_list_train)
     test_y = np.stack(target_list_test)
 
+    #print(pd.DataFrame(feature_list_train))
     train_x = np.array(pd.DataFrame(feature_list_train).drop(columns=['team','opponent','location']))
+    #print(train_x)
     test_x  = np.array(pd.DataFrame(feature_list_test).drop(columns=['team','opponent','location']))
     cols = list(pd.DataFrame(feature_list_train).drop(columns=['team','opponent','location']).columns)
 
@@ -551,6 +562,15 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+        for tbo in range(11):
+            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            if t_bowler == 'not_bowled':
+                break
+            elif t_bowler not in team_player_list:
+                team_player_list.append(t_bowler)
+            else:
+                pass
+
         opponent_player_list = list()
         for boi in range(11):
             bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
@@ -651,6 +671,16 @@ def create_first_innings_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+
+        for tbo in range(11):
+            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            if t_bowler == 'not_bowled':
+                break
+            elif t_bowler not in team_player_list:
+                team_player_list.append(t_bowler)
+            else:
+                pass
+
         opponent_player_list = list()
         for boi in range(11):
             bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
@@ -749,6 +779,16 @@ def create_second_innings_train_test(train_start,test_start,test_end=None):
                 break
             else:
                 team_player_list.append(batsman)
+
+        for tbo in range(11):
+            t_bowler = team_info['bowler_'+str(tbo+1)].values[0].strip()
+            if t_bowler == 'not_bowled':
+                break
+            elif t_bowler not in team_player_list:
+                team_player_list.append(t_bowler)
+            else:
+                pass
+
         opponent_player_list = list()
         for boi in range(11):
             bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
