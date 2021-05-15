@@ -190,6 +190,10 @@ def predict_match_outcome(team_a,team_b,location,
     print(" with probability of ",team_a," " ,combined_model.predict_proba(feature_combined)[0,1])
     print(" and probability of ", team_b, " ", combined_model.predict_proba(feature_combined)[0, 0])
 
+    #print("========returning============")
+
+    return target_by_a, target_by_b, probability_by_b, probability_by_a,combined_model.predict_proba(feature_combined)[0,1]
+
 
 def get_optimum_run(team,opponent,location,
                     team_player_list,opponent_player_list,
