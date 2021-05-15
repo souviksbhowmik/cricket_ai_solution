@@ -414,8 +414,8 @@ def retrain_second_innings_base(create_output=True):
     print('metrics test ', accuracy_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
-    selected_feature_index=list(range(train_x.shape[1]+1))
+    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    #selected_feature_index=list(range(train_x.shape[1]+1))
     print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
