@@ -336,8 +336,8 @@
   "threshold_recommendation_validation": {
     "train_metrics": [],
     "test_metrics": [
-      0.8947368421052632,
-      0.10526315789473684
+      0.8571428571428571,
+      0.14285714285714285
     ],
     "info": "metrics is prediction match and prediction mismatch bassed on threshold",
     "files": []
@@ -446,16 +446,16 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.72875226039783,
-      0.7074829931972789,
-      0.7647058823529411,
-      0.7349823321554771
+      0.705244122965642,
+      0.6598240469208211,
+      0.8272058823529411,
+      0.7340946166394781
     ],
     "test_metrics": [
-      0.7391304347826086,
-      0.8387096774193549,
-      0.6666666666666666,
-      0.7428571428571428
+      0.7536231884057971,
+      0.775,
+      0.7948717948717948,
+      0.7848101265822786
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [

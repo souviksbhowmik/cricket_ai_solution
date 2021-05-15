@@ -25,9 +25,10 @@ def mape(y_true,y_predict):
     return np.sum((np.abs(y_true-y_predict)/y_true)*100)/len(y_true)
 
 
-def evaluate_expected_threshold(from_date, to_date, environment='production'):
+def evaluate_expected_threshold(from_date, to_date, environment='production',first_innings_emb=True,second_innings_emb=True):
     outil.use_model_from(environment)
-
+    pred.set_first_innings_emb(first_innings_emb)
+    pred.set_second_innings_emb(second_innings_emb)
     start_date = datetime.strptime(from_date, '%Y-%m-%d')
     end_date = datetime.strptime(to_date, '%Y-%m-%d')
 
@@ -859,8 +860,10 @@ def batting_recommendation(from_date, to_date, env):
 @click.option('--from_date', help='start date in YYYY-mm-dd',required=True)
 @click.option('--to_date', help='end date in YYYY-mm-dd',required=True)
 @click.option('--env', help='end date in YYYY-mm-dd',default='production')
-def expected_threshold(from_date, to_date, env):
-    evaluate_expected_threshold(from_date, to_date, environment=env)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',default=True,type=bool)
+def expected_threshold(from_date, to_date, env,first_innings_emb,second_innings_emb):
+    evaluate_expected_threshold(from_date, to_date, environment=env,first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
 
 if __name__=='__main__':
