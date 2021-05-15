@@ -41,6 +41,7 @@ ADVERSARIAL_LOCATION_MODEL = 'adversarial_location_model'
 ADVERSARIAL_FIRST_INNINGS = 'advesarial_first_innings.pkl'
 
 BATSMAN_RUNS_MODELS = 'batsman_runs_models.pkl'
+SCORE_MEAN_REDUCTION_FACTOR = 'score_mean_reduction_factor.pkl'
 
 
 def store_keras_model(model,model_name):

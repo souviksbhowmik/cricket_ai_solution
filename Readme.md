@@ -45,6 +45,9 @@ python odi/preprocessing/rank.py bowler-only
 
 python odi/preprocessing/rank.py bowler-only
 
+### create player score mean reduction factor by position
+python odi/preprocessing/rank.py reduction-analysis --start_date 2016-01-01 --end_date 2019-01-01
+
 ## Inferencing
 ### verify team and location names
 python odi/model_util/input_helper.py find-location --location kolkata

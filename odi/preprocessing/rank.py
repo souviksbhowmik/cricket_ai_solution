@@ -6,6 +6,8 @@ from datetime import date,datetime
 import dateutil
 import click
 from odi.feature_engg import util as cricutil
+from odi.model_util import odi_util as outil
+import pickle
 
 from odi.data_loader import data_loader as dl
 
@@ -506,8 +508,60 @@ def create_location_rank(year_list,no_of_years=5):
             create_location_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
 
 
+
 def create_reduciton_factor(start_date,end_date):
-    pass
+    start_date = cricutil.str_to_date_time(start_date)
+    end_date = cricutil.str_to_date_time(end_date)
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date']>start_date) & (match_list_df['date']<end_date)]
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+
+    match_info = match_list_df.merge(match_stats_df, how='inner', on='match_id')
+
+    mean_list = []
+    match_id_list = match_info['match_id'].unique()
+    # for country in list(match_info_2018['first_innings'].unique()):
+    for match_id in match_id_list:
+
+        country_matches = match_info[
+            (match_info["match_id"] == match_id) &
+            (match_info["first_innings"] == match_info["team_statistics"])]
+        country = country_matches['first_innings'].values[0]
+        date = country_matches['date'].values[0]
+        ref_date = cricutil.npdate_to_datetime(date)
+        rank_file = get_latest_rank_file('batsman', ref_date)
+        rank_df = pd.read_csv(rank_file)
+        score_mean = 0
+        mean_dict = {"country": country}
+        # print('country'country)
+        for bi in range(11):
+            batsman = country_matches['batsman_' + str(bi + 1)].values[0]
+            if batsman == 'not_batted':
+                break
+            else:
+                if rank_df[(rank_df['country'] == country) & (rank_df['batsman'] == batsman)].shape[0] > 0:
+                    score = \
+                    rank_df[(rank_df['country'] == country) & (rank_df['batsman'] == batsman)]['batsman_score'].values[
+                        0]
+                    score_mean = (score_mean + score) / (bi + 1)
+                    mean_dict['position_' + str(bi + 1)] = score_mean
+
+        mean_list.append(mean_dict)
+
+    mean_df = pd.DataFrame(mean_list)
+    mean_df.dropna(inplace=True)
+
+    reduction_factor_df = pd.DataFrame()
+    reduction_factor_df['country'] = mean_df['country']
+    for cols in range(10):
+        reduction_factor_df[str(cols + 1) + '_by_' + str(cols + 2)] = mean_df['position_' + str(cols + 1)] / mean_df[
+            'position_' + str(cols + 2)]
+
+    #print(reduction_factor_df)
+    reduction_dict = dict(reduction_factor_df.drop(columns="country").mean())
+
+    print(reduction_dict)
+    pickle.dump(reduction_dict, open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'wb'))
 
 @click.group()
 def rank():
@@ -580,7 +634,7 @@ def location(year_list,no_of_years):
     year_list = list(year_list)
     create_location_rank(year_list,no_of_years)
 
-@retrain.command()
+@rank.command()
 @click.option('--start_date', help='start date for player score mean reduction_factor',required=True)
 @click.option('--end_date', help='end date for layer score mean reduction factor',required=True)
 def reduction_analysis(start_date,end_date):

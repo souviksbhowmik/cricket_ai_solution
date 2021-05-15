@@ -140,6 +140,7 @@ def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=9):
     batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
     batsman_rank_df = pd.read_csv(batsman_rank_file)
     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == country]
+    reduction_dict = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'rb'))
     # if len(batsman_list) < no_of_batsman:
     #     batsman_rank_df.sort_values("batsman_score", ascending=False, inplace=True)
     #     all_batsman = list(batsman_rank_df['batsman'])
@@ -164,7 +165,16 @@ def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=9):
     batsman_max = selected_batsman_df['batsman_score'].max()
     batsman_sum = selected_batsman_df['batsman_score'].sum()
     if len(batsman_list)<11:
-        pass
+        last_available = len(batsman_list)
+        mean = batsman_mean
+        for target in range(11-last_available):
+            current = last_available+target+1
+            previous = last_available+target
+            mean = reduction_dict[str(previous)+"_by_"+str(current)]*mean
+            batsman_sum = batsman_sum+mean
+
+        batsman_mean = batsman_mean/11
+
     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()
     batsman_quantile_sum = selected_batsman_df['batsman_quantile'].sum()
@@ -281,7 +291,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
     batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum= get_batsman_mean_max(team, team_player_list, ref_date=ref_date)
     bowler_mean, bowler_max, bowler_sum, bowler_quantile_mean, bowler_quantile_max, bowler_quantile_sum= get_bowler_mean_max(opponent, opponent_player_list, ref_date=ref_date)
     #location_overall_mean = get_location_mean(location,"first")
-    batting_score_list = get_batsman_vector(team,team_player_list,ref_date=ref_date)
+    #batting_score_list = get_batsman_vector(team,team_player_list,ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years)
