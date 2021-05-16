@@ -173,7 +173,8 @@ def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=9):
             mean = reduction_dict[str(previous)+"_by_"+str(current)]*mean
             batsman_sum = batsman_sum+mean
 
-        batsman_mean = batsman_mean/11
+        #batsman_mean = batsman_sum/11
+        batsman_mean = mean
 
     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()

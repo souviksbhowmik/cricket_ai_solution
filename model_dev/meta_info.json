@@ -125,18 +125,18 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      22.107627158303245,
-      46.47070099452789,
-      3617.6954161839535,
-      0.10522349387464325
+      22.118438666882277,
+      46.507477603200165,
+      3630.092923246027,
+      0.10014358792605293
     ],
     "test_metrics": [
-      21.39980279245326,
-      49.82011417312857,
-      4191.366112177967,
-      0.10522349387464325
+      21.16820309600426,
+      49.532611091134335,
+      4160.933212476253,
+      0.10014358792605293
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
+    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -161,9 +161,9 @@
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.7818853974121996,
+    "train_metrics": 0.7744916820702403,
     "test_metrics": 0.8024691358024691,
-    "info": "metrics is accuracy - selected :['batsman_max', 'batsman_sum', 'target_score']",
+    "info": "metrics is accuracy - selected :['batsman_mean', 'batsman_max', 'batsman_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
       "second_innings_model_base.pkl",
@@ -336,8 +336,8 @@
   "threshold_recommendation_validation": {
     "train_metrics": [],
     "test_metrics": [
-      0.8571428571428571,
-      0.14285714285714285
+      0.6666666666666666,
+      0.3333333333333333
     ],
     "info": "metrics is prediction match and prediction mismatch bassed on threshold",
     "files": []
@@ -446,16 +446,16 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.705244122965642,
-      0.6598240469208211,
-      0.8272058823529411,
-      0.7340946166394781
+      0.6799276672694394,
+      0.6632302405498282,
+      0.7095588235294118,
+      0.6856127886323268
     ],
     "test_metrics": [
-      0.7547169811320755,
-      0.7666666666666667,
-      0.7931034482758621,
-      0.7796610169491527
+      0.7358490566037735,
+      0.7586206896551724,
+      0.7586206896551724,
+      0.7586206896551724
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [
