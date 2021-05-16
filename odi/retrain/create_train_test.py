@@ -1332,6 +1332,190 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         file_list=[combined_test_x,
                    combined_test_y])
 
+
+def create_first_fow_train_test(train_start,test_start,test_end=None):
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    match_list_df = match_list_df.merge(match_stats_df, how='inner', on='match_id')
+    match_id_list = list(match_list_df['match_id'].unique())
+
+    feature_list_train = []
+    target_list_train = []
+
+    feature_list_test =[]
+    target_list_test = []
+    no_of_basman = 0
+    for index,match_id in tqdm(enumerate(match_id_list)):
+        match_info = match_list_df[match_list_df['match_id']==match_id]
+        team_info = match_info[match_info['first_innings']==match_info['team_statistics']]
+        opponent_info = match_info[match_info['second_innings']==match_info['team_statistics']]
+
+        team = team_info['team_statistics'].values[0].strip()
+        opponent = opponent_info['team_statistics'].values[0].strip()
+        location = team_info['location'].values[0].strip()
+        ref_dt_np = team_info['date'].values[0]
+        ref_date = cricutil.npdate_to_datetime(ref_dt_np)
+        runs_scored = team_info['total_run'].values[0]
+
+        team_player_list = list()
+        for bi in range(11):
+            batsman = team_info['batsman_'+str(bi+1)].values[0].strip()
+            if batsman == 'not_batted':
+                break
+            else:
+                team_player_list.append(batsman)
+
+
+        opponent_player_list = list()
+        for boi in range(11):
+            bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
+            if bowler == 'not_bowled':
+                break
+            else:
+                opponent_player_list.append(bowler)
+
+
+        try:
+            feature_dict = fe.get_instance_feature_dict(team, opponent, location,
+                                                        team_player_list, opponent_player_list,
+                                                        ref_date)
+            #print(feature_dict)
+            no_of_basman = no_of_basman+len(team_player_list)
+
+            if ref_date<test_start_dt:
+                feature_list_train.append(feature_dict)
+                target_list_train.append(runs_scored)
+            else:
+                feature_list_test.append(feature_dict)
+                target_list_test.append(runs_scored)
+        except Exception as ex:
+            print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
+            #raise ex
+
+    print('mean no of batsman - ',no_of_basman/index)
+    train_y = np.stack(target_list_train)
+    test_y = np.stack(target_list_test)
+
+    #print(pd.DataFrame(feature_list_train))
+    train_x = np.array(pd.DataFrame(feature_list_train).drop(columns=['team','opponent','location']))
+    #print(train_x)
+    test_x  = np.array(pd.DataFrame(feature_list_test).drop(columns=['team','opponent','location']))
+    cols = list(pd.DataFrame(feature_list_train).drop(columns=['team','opponent','location']).columns)
+
+    pickle.dump(train_x,open(os.path.join(TRAIN_TEST_DIR,first_innings_base_train_x),'wb'))
+    pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR,first_innings_base_train_y), 'wb'))
+    pickle.dump(cols, open(os.path.join(outil.DEV_DIR, first_innings_base_columns), 'wb'))
+
+    outil.create_meta_info_entry('first_innings_base_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[first_innings_base_train_x,
+                                            first_innings_base_train_y,
+                                            first_innings_base_columns])
+
+    pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, first_innings_base_test_x), 'wb'))
+    pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, first_innings_base_test_y), 'wb'))
+
+    outil.create_meta_info_entry('first_innings_base_test_xy', str(test_start_dt.date()),
+                                 str(test_end_dt.date()),
+                                 file_list=[first_innings_base_test_x,
+                                            first_innings_base_test_y])
+
+    # trend prediction test data
+    trend_data_df = pd.DataFrame(feature_list_test)
+    trend_data_df['runs_scored'] = target_list_test
+    trend_data_df[['team','opponent','location','opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']].to_csv(os.path.join(outil.DEV_DIR, "trend_predict.csv"), index=False)
+    # trend_data_df = trend_data_df[['opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']]
+
+    mape_opponent_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['opponent_trend_predict']))
+
+    mape_location_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                    np.array(trend_data_df['location_trend_predict']))
+
+    mape_current_trend = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['current_trend_predict']))
+
+    mape_opponent_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['opponent_mean']))
+
+    mape_location_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                         np.array(trend_data_df['location_mean']))
+
+    mape_current_mean = cric_eval.mape(np.array(trend_data_df['runs_scored']),
+                                        np.array(trend_data_df['current_mean']))
+
+
+    # trend prediction train data
+
+    trend_data_train_df = pd.DataFrame(feature_list_train)
+    trend_data_train_df['runs_scored'] = target_list_train
+    trend_data_train_df[
+        ['team', 'opponent', 'location', 'opponent_trend_predict', 'location_trend_predict', 'current_trend_predict',
+         'runs_scored']].to_csv(os.path.join(outil.DEV_DIR, "trend_predict_train.csv"), index=False)
+    # trend_data_train_df = trend_data_train_df[['opponent_trend_predict','location_trend_predict','current_trend_predict','runs_scored']]
+
+    mape_train_opponent_trend = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                         np.array(trend_data_train_df['opponent_trend_predict']))
+
+    mape_train_location_trend = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                         np.array(trend_data_train_df['location_trend_predict']))
+
+    mape_train_current_trend = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                        np.array(trend_data_train_df['current_trend_predict']))
+
+    mape_train_opponent_mean = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                        np.array(trend_data_train_df['opponent_mean']))
+
+    mape_train_location_mean = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                        np.array(trend_data_train_df['location_mean']))
+
+    mape_train_current_mean = cric_eval.mape(np.array(trend_data_train_df['runs_scored']),
+                                       np.array(trend_data_train_df['current_mean']))
+
+    outil.create_model_meta_info_entry('first_innings_trend_prediction_metrics',
+                                       (mape_train_opponent_trend, mape_train_location_trend, mape_train_current_trend,
+                                        mape_train_opponent_mean, mape_train_location_mean, mape_train_current_mean),
+                                       (mape_opponent_trend, mape_location_trend, mape_current_trend,
+                                        mape_opponent_mean, mape_location_mean, mape_current_mean),
+                                       info="metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,"+
+                                            "mape_opponent_mean, mape_location_mean, mape_current_mean ",
+                                       file_list=[
+                                           "tred_predict.csv",
+                                       ]
+                                       )
+    print("mape_train_opponent_trend", mape_train_opponent_trend)
+    print("mape_train_location_trend", mape_train_location_trend)
+    print("mape_train_current_trend", mape_train_current_trend)
+
+    print("mape_train_opponent_mean", mape_train_opponent_mean)
+    print("mape_train_location_mean", mape_train_location_mean)
+    print("mape_train_current_mean", mape_train_current_mean)
+
+    print("mape_opponent_trend",mape_opponent_trend)
+    print("mape_location_trend", mape_location_trend)
+    print("mape_current_trend", mape_current_trend)
+
+    print("mape_opponent_mean", mape_opponent_mean)
+    print("mape_location_mean", mape_location_mean)
+    print("mape_current_mean", mape_current_mean)
+
+
+
 @click.group()
 def traintest():
     pass

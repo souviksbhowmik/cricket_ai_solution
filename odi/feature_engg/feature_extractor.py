@@ -170,7 +170,7 @@ def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=9):
         for target in range(11-last_available):
             current = last_available+target+1
             previous = last_available+target
-            mean = reduction_dict[str(previous)+"_by_"+str(current)]*mean
+            mean = mean/reduction_dict[str(previous)+"_by_"+str(current)]
             batsman_sum = batsman_sum+mean
 
         #batsman_mean = batsman_sum/11

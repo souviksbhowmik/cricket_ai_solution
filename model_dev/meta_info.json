@@ -125,16 +125,16 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      22.118438666882277,
-      46.507477603200165,
-      3630.092923246027,
-      0.10014358792605293
+      22.160113025749617,
+      46.60785072563808,
+      3651.6091876744945,
+      0.09425839373209632
     ],
     "test_metrics": [
-      21.16820309600426,
-      49.532611091134335,
-      4160.933212476253,
-      0.10014358792605293
+      21.14170636279662,
+      49.48004223468414,
+      4140.650832738438,
+      0.09425839373209632
     ],
     "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
     "files": [
@@ -161,8 +161,8 @@
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.7744916820702403,
-    "test_metrics": 0.8024691358024691,
+    "train_metrics": 0.7763401109057301,
+    "test_metrics": 0.7901234567901234,
     "info": "metrics is accuracy - selected :['batsman_mean', 'batsman_max', 'batsman_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
@@ -446,16 +446,16 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.6799276672694394,
-      0.6632302405498282,
-      0.7095588235294118,
-      0.6856127886323268
+      0.6853526220614828,
+      0.6713286713286714,
+      0.7058823529411765,
+      0.6881720430107527
     ],
     "test_metrics": [
-      0.7358490566037735,
-      0.7586206896551724,
-      0.7586206896551724,
-      0.7586206896551724
+      0.7924528301886793,
+      0.8,
+      0.8275862068965517,
+      0.8135593220338982
     ],
     "info": "metrics is accuracy,precision, recall,fscore",
     "files": [
