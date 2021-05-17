@@ -43,6 +43,10 @@ ADVERSARIAL_FIRST_INNINGS = 'advesarial_first_innings.pkl'
 BATSMAN_RUNS_MODELS = 'batsman_runs_models.pkl'
 SCORE_MEAN_REDUCTION_FACTOR = 'score_mean_reduction_factor.pkl'
 
+FIRST_INN_FOW = 'first_innings_fow.pkl'
+SECOND_INN_FOW = 'second_innings_fow.pkl'
+LOCATION_VECTORIZER = 'location_vectorizer.pkl'
+
 
 def store_keras_model(model,model_name):
     # serialize model to JSON

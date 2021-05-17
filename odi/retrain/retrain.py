@@ -256,7 +256,8 @@ def retrain_first_innings_base(create_output=True):
     print('metrics test ', mape_test_lr, mae_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    selected_feature_index = list(range(train_x.shape[1] + 1))
     print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
@@ -414,8 +415,8 @@ def retrain_second_innings_base(create_output=True):
     print('metrics test ', accuracy_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
-    #selected_feature_index=list(range(train_x.shape[1]+1))
+    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    selected_feature_index=list(range(train_x.shape[1]+1))
     print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
@@ -897,10 +898,14 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     accuracy_test_lr = accuracy_score(test_y, test_y_predict_lr)
     precision_test, recall_test, fscore_test, _ = precision_recall_fscore_support(test_y, test_y_predict_lr,average="binary")
 
-
+    inermediate_predict = (np.round(test_x[:,1])!=1)*1
+    accuracy_test_intermediate = accuracy_score(test_y, inermediate_predict)
+    precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate, _ = precision_recall_fscore_support(test_y, inermediate_predict,
+                                                                                  average="binary")
     print("from scikit learn")
     print('metrics train ', accuracy_train_lr,precision_train,recall_train,fscore_train)
     print('metrics test ', accuracy_test_lr,precision_test, recall_test, fscore_test)
+    print('metrics test intermediate ', accuracy_test_intermediate, precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate)
 
 
     pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL),'wb'))
@@ -911,8 +916,8 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     outil.create_model_meta_info_entry(
         'combined_model_' + "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
         (accuracy_train_lr, precision_train, recall_train, fscore_train),
-        (accuracy_test_lr, precision_test, recall_test, fscore_test),
-        info="metrics is accuracy,precision, recall,fscore",
+        (accuracy_test_lr, precision_test, recall_test, fscore_test,accuracy_test_intermediate, precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate),
+        info="metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
         file_list=[
             outil.COMBINED_MODEL,
         ])

@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from odi.data_loader import data_loader as dl
 from odi.preprocessing import rank
+from odi.inference import prediction
 from odi.retrain import create_train_test as ctt
 from odi.model_util import odi_util as outil
 from odi.feature_engg import util as cricutil
@@ -11,6 +12,7 @@ import dateutil
 import pickle
 import numpy as np
 import math
+from sklearn.feature_extraction.text import CountVectorizer
 
 from sklearn.linear_model import LinearRegression
 
@@ -29,6 +31,8 @@ ADVERSARIAL_BATSMAN_MODEL_CACHE = None
 ADVERSARIAL_BOWLER_MODEL_CACHE = None
 ADVERSARIAL_LOCATION_MODEL_CACHE = None
 #ADVERSARIAL_LOCATION_MODEL_CACHE = None
+
+# NO_OF_WICKETS = 0
 
 
 def get_trend(input_df, team_or_opponent, team_name, target_field):
@@ -134,52 +138,102 @@ def get_country_score(country, ref_date=None):
 
     return score,quantile
 
-
-def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=9):
-    batsman_list=get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
+### calculation of weighted sum and mean
+def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=7):
+    # batsman_list=get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
+    # global NO_OF_WICKETS
+    # print("setting number of wickets to ", NO_OF_WICKETS)
+    # if NO_OF_WICKETS!=0:
+    #     #print("setting number of wickets to ",NO_OF_WICKETS)
+    #     no_of_batsman=int(NO_OF_WICKETS)
     batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
     batsman_rank_df = pd.read_csv(batsman_rank_file)
     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == country]
     reduction_dict = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'rb'))
-    # if len(batsman_list) < no_of_batsman:
-    #     batsman_rank_df.sort_values("batsman_score", ascending=False, inplace=True)
-    #     all_batsman = list(batsman_rank_df['batsman'])
-    #     search_index = 0
-    #     while len(batsman_list) < no_of_batsman and search_index < len(all_batsman):
-    #         if all_batsman[search_index] not in batsman_list:
-    #             batsman_list.append(all_batsman[search_index])
-    #         search_index = search_index + 1
-    #     if len(batsman_list) < no_of_batsman:
-    #         raise Exception("not enough batsman")
-    #     raise Exception("not enough batsman infromation")
-
-
 
     selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(batsman_list))\
                                    & (batsman_rank_df['country']==country)]
     if selected_batsman_df.shape[0]==0:
         raise Exception('No batsman score is available for '+country)
     selected_batsman_df = selected_batsman_df.sort_values('batsman_score',ascending=False)
-    #batsman_mean = selected_batsman_df.head(7)['batsman_score'].mean()
-    batsman_mean = selected_batsman_df['batsman_score'].mean()
+
     batsman_max = selected_batsman_df['batsman_score'].max()
-    batsman_sum = selected_batsman_df['batsman_score'].sum()
-    if len(batsman_list)<11:
+
+
+    #calculating weighted sum and mean
+    batsman_sum = 0
+    weighted_denom = 0
+    unweighted_mean = selected_batsman_df['batsman_score'].mean()
+
+    for idx,batsman in enumerate(batsman_list):
+        wt_idx = 11-idx
+        wt = math.log(math.ceil((wt_idx)/2)+1)
+        if selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].shape[0]!=0:
+            score = selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].values[0]
+            batsman_sum = batsman_sum + wt * score
+            weighted_denom = weighted_denom + wt
+        if idx==no_of_batsman-1:
+            break
+
+
+    if len(batsman_list)<no_of_batsman:
         last_available = len(batsman_list)
-        mean = batsman_mean
-        for target in range(11-last_available):
+        for target in range(no_of_batsman-last_available):
             current = last_available+target+1
             previous = last_available+target
-            mean = mean/reduction_dict[str(previous)+"_by_"+str(current)]
-            batsman_sum = batsman_sum+mean
+            unweighted_mean = unweighted_mean/reduction_dict[str(previous)+"_by_"+str(current)]
 
-        #batsman_mean = batsman_sum/11
-        batsman_mean = mean
+            wt_idx = (11-last_available-target)
+            wt = math.log(math.ceil((wt_idx) / 2) + 1)
+            batsman_sum = batsman_sum+wt*unweighted_mean
+
+    batsman_mean = batsman_sum/11
 
     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()
     batsman_quantile_sum = selected_batsman_df['batsman_quantile'].sum()
     return batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum
+
+## calculating unweighted mean and extrapoliting mean by reduction factor
+# def get_batsman_mean_max(country, batsman_list, ref_date=None, no_of_batsman=7):
+#     global NO_OF_WICKETS
+#     if NO_OF_WICKETS!=0:
+#         no_of_batsman=NO_OF_WICKETS
+#     batsman_list = get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
+#     batsman_rank_file = rank.get_latest_rank_file('batsman', ref_date=ref_date)
+#     batsman_rank_df = pd.read_csv(batsman_rank_file)
+#     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == country]
+#     reduction_dict = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'rb'))
+#
+#     selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(batsman_list)) \
+#                                           & (batsman_rank_df['country'] == country)]
+#     if selected_batsman_df.shape[0] == 0:
+#         raise Exception('No batsman score is available for ' + country)
+#     selected_batsman_df = selected_batsman_df.sort_values('batsman_score', ascending=False)
+#
+#     # batsman_mean = selected_batsman_df.head(7)['batsman_score'].mean()
+#     batsman_max = selected_batsman_df['batsman_score'].max()
+#     batsman_mean = selected_batsman_df.head(no_of_batsman)['batsman_score'].mean()
+#     batsman_sum = selected_batsman_df.head(no_of_batsman)['batsman_score'].sum()
+#
+#     # calculating weighted sum and mean
+#     available_batsman = selected_batsman_df.shape[0]
+#
+#     if available_batsman < no_of_batsman:
+#         last_available = available_batsman
+#         for target in range(no_of_batsman - last_available):
+#             current = last_available + target + 1
+#             previous = last_available + target
+#             batsman_mean = batsman_mean / reduction_dict[str(previous) + "_by_" + str(current)]
+#             batsman_sum = batsman_sum+batsman_mean
+#
+#
+#
+#
+#     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
+#     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()
+#     batsman_quantile_sum = selected_batsman_df['batsman_quantile'].sum()
+#     return batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum
 
 
 def get_batsman_vector(country,batsman_list,ref_date=None,no_of_batsman=9):
@@ -286,7 +340,8 @@ def get_overall_means(team,location,ref_date,opponent):
 
     return location_mean, team_location_mean, opponent_mean, team_opponent_mean
 
-def get_instance_feature_dict(team, opponent, location, team_player_list, opponent_player_list, ref_date=None, no_of_years=None):
+def get_instance_feature_dict(team, opponent, location, team_player_list, opponent_player_list, ref_date=None,no_of_years=None):
+
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
     opponent_score,opponent_quantile = get_country_score(opponent, ref_date=ref_date)
     batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum= get_batsman_mean_max(team, team_player_list, ref_date=ref_date)
@@ -453,7 +508,7 @@ def get_oh_pos(pos):
     return vec
 
 
-def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=8,ref_date=None):
+def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,ref_date=None):
     global BATSMAN_EMBEDDING_MODEL_CACHE
     global COUNTRY_ENC_MAP_CACHE
     global BATSMAN_ENC_MAP_CACHE
@@ -463,17 +518,17 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=8,re
     batsman_rank_file = rank.get_latest_rank_file('batsman', ref_date=ref_date)
     batsman_rank_df = pd.read_csv(batsman_rank_file)
     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == team]
-    if len(batsman_list) < no_of_batsman:
-        # batsman_rank_df.sort_values("batsman_score", ascending=False, inplace=True)
-        # all_batsman = list(batsman_rank_df['batsman'])
-        # search_index = 0
-        # while len(batsman_list) < no_of_batsman and search_index < len(all_batsman):
-        #     if all_batsman[search_index] not in batsman_list:
-        #         batsman_list.append(all_batsman[search_index])
-        #     search_index = search_index + 1
-        # if len(batsman_list) < no_of_batsman:
-        #     raise Exception("not enough batsman")
-        raise Exception("not enough batsman information")
+    # if len(batsman_list) < no_of_batsman:
+    #     batsman_rank_df.sort_values("batsman_score", ascending=False, inplace=True)
+    #     all_batsman = list(batsman_rank_df['batsman'])
+    #     search_index = 0
+    #     while len(batsman_list) < no_of_batsman and search_index < len(all_batsman):
+    #         if all_batsman[search_index] not in batsman_list:
+    #             batsman_list.append(all_batsman[search_index])
+    #         search_index = search_index + 1
+    #     if len(batsman_list) < no_of_batsman:
+    #         raise Exception("not enough batsman")
+    #     raise Exception("not enough batsman information")
 
     if BATSMAN_EMBEDDING_MODEL_CACHE is None:
         BATSMAN_EMBEDDING_MODEL_CACHE = outil.load_keras_model(outil.MODEL_DIR \
@@ -532,6 +587,12 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=8,re
     batsman_group_enc_mat = batsman_embedding.predict([batsman_mat, position_mat, loc_mat, opposition_mat])
     batsman_embedding_sum = batsman_group_enc_mat.sum(axis=0)
 
+
+    if len(batsman_oh_list)<no_of_batsman:
+        dif = len(batsman_oh_list) - no_of_batsman
+        batsman_embedding_mean = batsman_group_enc_mat.mean(axis=0)
+        batsman_embedding_sum = batsman_embedding_sum+dif*batsman_embedding_mean
+
     return batsman_embedding_sum
 
 
@@ -548,6 +609,8 @@ def get_first_innings_feature_embedding_vector(team, opponent, location, team_pl
     #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
     final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
 
+    #
+    #return country_embedding_vector
     return final_vector
 
 
@@ -563,9 +626,11 @@ def get_second_innings_feature_embedding_vector(target, team, opponent, location
     batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
 
     #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
-    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
+    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
+    final_vector = np.concatenate([country_embedding_vector,batsman_embedding_vector, np.array([target])])
 
     return final_vector
+
 
 
 ### Feature engineering for Batsman run prediction
@@ -952,5 +1017,54 @@ def get_top_n_batsman(batsman_list,country,n=8,ref_date=None):
     curren_batsman_df.sort_values("batsman_score", ascending=False, inplace=True)
 
     return list(curren_batsman_df.head(n)['batsman'])
+
+def get_similar_location(current_location):
+
+    global LOC_ENC_MAP_CACHE
+
+    if LOC_ENC_MAP_CACHE is None:
+        LOC_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                             + os.sep \
+                                             + outil.LOC_ENCODING_MAP,'rb'))
+    loc_enc_map = LOC_ENC_MAP_CACHE
+
+
+    stop_words = ['Cricket', 'Ground', 'Stadium', 'International', 'bad', 'St']
+
+    locations = list(loc_enc_map.keys())
+    adjusted_locations = []
+
+    for loc in locations:
+        new_loc = str(loc)
+        for word in stop_words:
+            new_loc = new_loc.replace(word, '').strip()
+        adjusted_locations.append(new_loc)
+
+    vectorizer = CountVectorizer(analyzer='char_wb', ngram_range=(1, 3), max_features=500)
+
+    name_vectors = vectorizer.fit_transform(adjusted_locations)
+
+    current_location_copy = str(current_location)
+    for word in stop_words:
+        current_location_copy = current_location_copy.replace(word, '').strip()
+
+    current_loc_vector = vectorizer.transform([current_location_copy])[0]
+
+    similarity_list = []
+    for index,existing_location in enumerate(locations):
+        similarity = (np.dot(name_vectors[index, :], current_loc_vector.T))[0, 0] / (
+                    np.sqrt(np.square(name_vectors[index, :].toarray()).sum()) * np.sqrt(
+                np.square(current_loc_vector.toarray()).sum()))
+
+        similarity_list.append(similarity)
+
+    highest_similarity_argument = np.argmax(np.array(similarity_list))
+    highest_similarity = np.array(similarity_list).max()
+
+    if highest_similarity > 0.80:
+        print("Found ",locations[highest_similarity_argument]," for ",current_location)
+        return locations[highest_similarity_argument]
+    else:
+        raise Exception(" No similar location could be found")
 
 

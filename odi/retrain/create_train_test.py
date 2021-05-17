@@ -143,7 +143,12 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
         try:
             team_oh = np.array(country_enc_map[team])
             opponent_oh = np.array(country_enc_map[opponent])
-            location_oh = np.array(location_enc_map[location])
+            try:
+                location_oh = np.array(location_enc_map[location])
+            except:
+                location=fe.get_similar_location(location).strip()
+                location_oh = np.array(location_enc_map[location.strip()])
+
             if date<test_start_dt:
                 team_oh_list_train.append(team_oh)
                 opponent_oh_list_train.append(opponent_oh)
@@ -158,6 +163,7 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
 
         except Exception as ex:
             print(ex,' for ',team,opponent,location,' on ',date)
+            #raise ex
 
     team_oh_train_x = np.stack(team_oh_list_train)
     opponent_oh_train_x = np.stack(opponent_oh_list_train)
@@ -253,7 +259,11 @@ def create_batsman_embedding_train_test(train_start,test_start,test_end=None,enc
             print('opponent ', opponent, ' not encoded for ', country, opponent, ' on ', date, ' at ',location)
             continue
 
-        location_oh = location_enc_map_for_batsman[location]
+        try:
+            location_oh = np.array(location_enc_map_for_batsman[location])
+        except:
+            location = fe.get_similar_location(location).strip()
+            location_oh = np.array(location_enc_map_for_batsman[location.strip()])
         opponent_oh = country_enc_map[opponent]
 
         for bi in range(11):
@@ -395,6 +405,9 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
 
 
         try:
+            #fow = pred.predict_number_of_wickets(team, opponent, opponent_player_list, location, innings="second",ref_date=ref_date)
+
+            #fe.NO_OF_WICKETS = fow
             feature_dict = fe.get_instance_feature_dict(team, opponent, location,
                                                         team_player_list, opponent_player_list,
                                                         ref_date)
@@ -593,6 +606,9 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
 
         try:
+            #fow = pred.predict_number_of_wickets(team,opponent,opponent_player_list, location, innings="second",ref_date=ref_date)
+
+            #fe.NO_OF_WICKETS = fow
             feature_dict = fe.get_instance_feature_dict(team, opponent, location,
                                                         team_player_list, opponent_player_list,
                                                         ref_date)
@@ -607,6 +623,7 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
                 result_list_test.append(win)
         except Exception as ex:
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
+            #raise ex
 
     print('mean no of batsman - ',no_of_basman/index)
     train_y = np.stack(result_list_train)
@@ -830,7 +847,7 @@ def create_second_innings_train_test(train_start,test_start,test_end=None):
                 feature_list_test.append(feature_vec)
                 result_list_test.append(win)
         except Exception as ex:
-            # raise ex
+            #raise ex
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
 
     train_x = np.stack(feature_list_train)
@@ -1278,11 +1295,32 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         try :
             pred.set_first_innings_emb(first_innings_emb)
             pred.set_second_innings_emb(second_innings_emb)
+
+            # current_base, current_trend, current_trend_predict, current_mean = fe.get_trend_recent(team, ref_date=ref_date)
+            # if current_base is None:
+            #     raise Exception('Team history unavailable')
+            #
+            # location_base, location_trend, location_trend_predict, location_mean = fe.get_trend_at_location(team, location, ref_date=ref_date)
+            #
+            # if location_mean is None:
+            #     location_mean = current_mean
+            #
+            # current_base_b, current_trend_b, current_trend_predict_b, current_mean_b = fe.get_trend_recent(opponent,ref_date=ref_date)
+            # if current_base_b is None:
+            #     raise Exception('Oppoent history unavailable')
+            #
+            # location_base_b, location_trend_b, location_trend_predict_b, location_mean_b = fe.get_trend_at_location(opponent,location,ref_date=ref_date)
+            #
+            # if location_mean_b is None:
+            #     location_mean_b = current_mean_b
+
             target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
+            #target_by_a = current_mean
 
             success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None,mode="train")
 
             target_by_b = pred.predict_first_innings_run(opponent,team,location,opponent_batsman_list,team_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
+            #target_by_b = current_mean_b
 
             success_by_a, probability_by_a = pred.predict_second_innings_success(target_by_b, team, opponent, location,team_batsman_list, opponent_bowler_list,ref_date=ref_date, no_of_years=None,mode="train")
 

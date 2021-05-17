@@ -1,6 +1,7 @@
 from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor as fe
 from odi.feature_engg import util as cricutil
+from odi.preprocessing import rank
 from odi.retrain import  create_train_test as ctt
 import pickle
 import os
@@ -410,6 +411,43 @@ def team(innings,team_xlsx, opponent_xlsx,target, ref_date, no_of_years,env,firs
                               team_player_list, opponent_player_list,
                               ref_date=ref_date, no_of_years=no_of_years
                               )
+
+
+def predict_number_of_wickets(team,opponent,bowler_list, location, innings="first",ref_date=None):
+    if innings == 'first':
+        model = pickle.load(open(outil.MODEL_DIR+os.sep+outil.FIRST_INN_FOW,'rb'))
+    else:
+        model = pickle.load(open(outil.MODEL_DIR + os.sep + outil.FIRST_INN_FOW, 'rb'))
+
+    country_rank_file = rank.get_latest_rank_file('country',ref_date=ref_date)
+    rank_df = pd.read_csv(country_rank_file)
+    location_file = rank.get_latest_rank_file('location',ref_date=ref_date)
+    bowler_rank_file = rank.get_latest_rank_file('bowler',ref_date=ref_date)
+
+    location_df = pd.read_csv(location_file)
+    bowler_rank_df = pd.read_csv(bowler_rank_file)
+    bowler_rank_df = bowler_rank_df[(bowler_rank_df['country']==opponent) & (bowler_rank_df['bowler'].isin(bowler_list)) ]
+    if bowler_rank_df.shape[0]==0:
+        # print('bowlers in file',bowler_rank_df['bowler'].unique() )
+        raise Exception("no bowlers found ",bowler_list,ref_date,team)
+    bowler_score = bowler_rank_df['bowler_score'].sum()
+
+    try:
+        location_mean = \
+        location_df[(location_df['location'] == location) & (location_df['innings'] == innings)]['total_run'].values[0]
+    except:
+        raise Exception("location not found ")
+    team_score = rank_df[rank_df['country'] == team]['score'].values[0]
+    opponent_score = rank_df[rank_df['country'] == opponent]['score'].values[0]
+
+    wickets =np.round(model.predict(np.array([team_score,opponent_score,bowler_score,location_mean]).reshape(1,-1)))[0]
+    no_of_players = wickets+2
+    if no_of_players<0:
+        no_of_players=2
+    if no_of_players>11:
+        no_of_players=11
+
+    return no_of_players
 
 
 if __name__=='__main__':

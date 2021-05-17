@@ -150,8 +150,8 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     score_df['score'] = scaler.fit_transform(
         score_df[['win_ratio', 'effective_win_by_runs', 'effective_win_by_wickets', 'matches_played']]).sum(axis=1)
 
-    # score_scaler = MinMaxScaler()
-    # score_df['score'] = score_scaler.fit_transform(score_df[['score']])
+    score_scaler = MinMaxScaler(feature_range=(1, 10))
+    score_df['score'] = score_scaler.fit_transform(score_df[['score']])
     score_df = score_df.sort_values('score', ascending=False)
     score_df['rank'] = range(1, score_df.shape[0] + 1)
     score_quantile_df = score_df['score'].quantile([0.25, 0.5, 0.75]).reset_index()
@@ -279,8 +279,8 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     batsman_performance_df.fillna(0, inplace=True)
     batsman_performance_df['batsman_score'] = scaler.fit_transform(
         batsman_performance_df.drop(columns=['batsman', 'country', 'consistency'])).sum(axis=1)
-    # score_scaler = MinMaxScaler()
-    # batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
+    score_scaler = MinMaxScaler(feature_range=(1, 10))
+    batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
     batsman_performance_df.sort_values('batsman_score', ascending=False, inplace=True)
 
     batsman_quantile_df = batsman_performance_df['batsman_score'].quantile([0.25, 0.5, 0.75]).reset_index()
@@ -425,8 +425,8 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
     bowler_performance_df.fillna(0, inplace=True)
     bowler_performance_df['bowler_score'] = scaler.fit_transform(
         bowler_performance_df.drop(columns=['bowler', 'country'])).sum(axis=1)
-    # score_scaler = MinMaxScaler()
-    # bowler_performance_df['bowler_score'] = score_scaler.fit_transform(bowler_performance_df[['bowler_score']])
+    score_scaler = MinMaxScaler(feature_range=(1, 10))
+    bowler_performance_df['bowler_score'] = score_scaler.fit_transform(bowler_performance_df[['bowler_score']])
     bowler_performance_df.sort_values('bowler_score', ascending=False, inplace=True)
 
     bowler_quantile_df = bowler_performance_df['bowler_score'].quantile([0.25, 0.5, 0.75]).reset_index()

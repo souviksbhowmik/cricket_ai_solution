@@ -1,20 +1,20 @@
 {
   "batsman_encoding": {
-    "start_date": "2010-01-01",
+    "start_date": "2011-01-01",
     "end_date": "2018-12-31",
     "files": [
       "batsman_enc_map.pkl"
     ]
   },
   "bowler_encoding": {
-    "start_date": "2010-01-01",
+    "start_date": "2011-01-01",
     "end_date": "2018-12-31",
     "files": [
       "bowler_enc_map.pkl"
     ]
   },
   "location_encoding": {
-    "start_date": "2010-01-01",
+    "start_date": "2011-01-01",
     "end_date": "2018-12-31",
     "files": [
       "loc_enc_map.pkl",
@@ -22,7 +22,7 @@
     ]
   },
   "country_encoding": {
-    "start_date": "2010-01-01",
+    "start_date": "2011-01-01",
     "end_date": "2018-12-31",
     "files": [
       "country_enc_map.pkl"
@@ -40,7 +40,7 @@
   },
   "country_embedding_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2021-05-09",
+    "end_date": "2019-12-31",
     "files": [
       "country_emb_team_oh_test_x.pkl",
       "country_emb_opponent_oh_test_x.pkl",
@@ -50,14 +50,14 @@
   },
   "team_opponent_location_embedding": {
     "train_metrics": [
-      3471.529541015625,
-      21.42943572998047,
-      45.113441467285156
+      3050.308837890625,
+      20.987253189086914,
+      41.19483947753906
     ],
     "test_metrics": [
-      3981.292724609375,
-      19.729808807373047,
-      49.20840835571289
+      4068.20556640625,
+      21.193254470825195,
+      50.0120849609375
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -68,8 +68,8 @@
     ]
   },
   "batsman_embedding_train_xy": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "batsman_emb_batsman_oh_train_x.pkl",
       "batsman_emb_position_oh_train_x.pkl",
@@ -79,8 +79,8 @@
     ]
   },
   "batsman_embedding_test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2021-05-15",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "batsman_emb_batsman_oh_test_x.pkl",
       "batsman_emb_position_oh_test_x.pkl",
@@ -91,12 +91,12 @@
   },
   "batsman_position_opponent_location_embedding": {
     "train_metrics": [
-      727.72265625,
-      18.9031925201416
+      633.6693725585938,
+      17.866012573242188
     ],
     "test_metrics": [
-      849.1668090820312,
-      20.562910079956055
+      846.5689086914062,
+      20.12303352355957
     ],
     "info": "metrics is mse,mae(best mae)",
     "files": [
@@ -107,8 +107,8 @@
     ]
   },
   "first_innings_base_train_xy": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "first_innings_base_train_x.pkl",
       "first_innings_base_train_y.pkl",
@@ -116,8 +116,8 @@
     ]
   },
   "first_innings_base_test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -125,18 +125,18 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      22.160113025749617,
-      46.60785072563808,
-      3651.6091876744945,
-      0.09425839373209632
+      20.620542068087072,
+      41.24876691906543,
+      2826.664443485021,
+      0.10839509901413236
     ],
     "test_metrics": [
-      21.14170636279662,
-      49.48004223468414,
-      4140.650832738438,
-      0.09425839373209632
+      18.134373624758382,
+      43.14363717758985,
+      2964.641569976808,
+      0.10839509901413236
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['current_mean', 'batsman_mean', 'batsman_sum', 'bowler_mean', 'bowler_sum']",
+    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -144,8 +144,8 @@
     ]
   },
   "second_innings_base_train_xy": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "second_innings_base_train_x.pkl",
       "second_innings_base_train_y.pkl",
@@ -153,17 +153,17 @@
     ]
   },
   "second_innings_base_test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "second_innings_base_test_x.pkl",
       "second_innings_base_test_y.pkl"
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.7763401109057301,
-    "test_metrics": 0.7901234567901234,
-    "info": "metrics is accuracy - selected :['batsman_mean', 'batsman_max', 'batsman_sum', 'target_score']",
+    "train_metrics": 0.7281879194630873,
+    "test_metrics": 0.7164179104477612,
+    "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
       "second_innings_model_base.pkl",
@@ -171,32 +171,32 @@
     ]
   },
   "first_innings_train_xy": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "first_innings_train_x.pkl",
       "first_innings_train_y.pkl"
     ]
   },
   "first_innings_test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "first_innings_test_x.pkl",
       "first_innings_test_y.pkl"
     ]
   },
   "second_innings_train_xy": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "second_innings_train_x.pkl",
       "second_innings_train_y.pkl"
     ]
   },
   "second_innings_test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "second_innings_test_x.pkl",
       "second_innings_test_y.pkl"
@@ -204,16 +204,16 @@
   },
   "first_innings_model": {
     "train_metrics": [
-      19.97711687985786,
-      41.68349745269014,
-      2864.3635930149485,
-      0.2396196661165182
+      19.015620944765953,
+      37.37195930224937,
+      2413.4182062510404,
+      0.19295365241705542
     ],
     "test_metrics": [
-      28.76244026048785,
-      61.57742500305176,
-      6758.3869738259455,
-      0.2396196661165182
+      23.244337528828233,
+      53.38921602310673,
+      4359.0877983019,
+      0.19295365241705542
     ],
     "info": "metrics is mape,mae,mse,adjusted r squared - selected ",
     "files": [
@@ -221,8 +221,8 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": 0.674364896073903,
-    "test_metrics": 0.660377358490566,
+    "train_metrics": 0.7550335570469798,
+    "test_metrics": 0.7419354838709677,
     "info": "metrics is accuracy",
     "files": [
       "second_innings_model.pkl"
@@ -236,20 +236,20 @@
   },
   "first_innings_trend_prediction_metrics": {
     "train_metrics": [
-      33.86451600820185,
-      33.43777679082741,
-      32.257311367327674,
-      25.78560189036519,
-      25.010064860513406,
-      23.856993909353353
+      34.69560759373381,
+      33.900101313961564,
+      31.92453729431525,
+      24.90144261852411,
+      25.189057705037193,
+      23.943609914045553
     ],
     "test_metrics": [
-      29.824223749983776,
-      33.17426898174037,
-      31.991658518669745,
-      21.643810471783308,
-      25.19404780835271,
-      23.227245057751354
+      29.042997342484117,
+      28.829843163037026,
+      29.49352189997353,
+      21.489434854769115,
+      20.927197647765755,
+      21.61781237454493
     ],
     "info": "metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,mape_opponent_mean, mape_location_mean, mape_current_mean ",
     "files": [
@@ -274,14 +274,14 @@
   },
   "first_innings_regression_neural": {
     "train_metrics": [
-      2617.2314453125,
-      18.647056579589844,
-      40.07640838623047
+      2677.9814453125,
+      19.594226837158203,
+      39.872764587402344
     ],
     "test_metrics": [
-      5162.765625,
-      24.085580825805664,
-      56.12504577636719
+      3155.80419921875,
+      18.609582901000977,
+      44.69584655761719
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -343,16 +343,16 @@
     "files": []
   },
   "combined_train_xy_fi_True_si_True": {
-    "start_date": "2011-01-01",
-    "end_date": "2018-12-31",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "combined_train_x.pkl",
       "combined_train_y.pkl"
     ]
   },
   "combined_test_xy_fi_True_si_True": {
-    "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"
@@ -378,18 +378,22 @@
   },
   "combined_model_fi_True_si_True": {
     "train_metrics": [
-      0.6839186691312384,
-      0.6791044776119403,
-      0.6816479400749064,
-      0.6803738317757009
+      0.714765100671141,
+      0.6912751677852349,
+      0.7253521126760564,
+      0.7079037800687286
     ],
     "test_metrics": [
-      0.7424242424242424,
-      0.7941176470588235,
-      0.7297297297297297,
-      0.7605633802816901
+      0.6612903225806451,
+      0.7142857142857143,
+      0.6060606060606061,
+      0.6557377049180327,
+      0.6612903225806451,
+      0.7142857142857143,
+      0.6060606060606061,
+      0.6557377049180327
     ],
-    "info": "metrics is accuracy,precision, recall,fscore",
+    "info": "metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
     "files": [
       "combined_model.pkl"
     ]
@@ -429,16 +433,16 @@
     ]
   },
   "combined_train_xy_fi_False_si_False": {
-    "start_date": "2011-01-01",
-    "end_date": "2019-01-30",
+    "start_date": "2010-01-01",
+    "end_date": "2013-12-31",
     "files": [
       "combined_train_x.pkl",
       "combined_train_y.pkl"
     ]
   },
   "combined_test_xy_fi_False_si_False": {
-    "start_date": "2019-01-31",
-    "end_date": "2019-06-30",
+    "start_date": "2014-01-01",
+    "end_date": "2014-12-31",
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"
@@ -446,18 +450,22 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.6853526220614828,
-      0.6713286713286714,
-      0.7058823529411765,
-      0.6881720430107527
+      0.6174496644295302,
+      0.6076923076923076,
+      0.5563380281690141,
+      0.5808823529411765
     ],
     "test_metrics": [
-      0.7924528301886793,
-      0.8,
-      0.8275862068965517,
-      0.8135593220338982
+      0.5671641791044776,
+      0.7692307692307693,
+      0.2777777777777778,
+      0.40816326530612246,
+      0.582089552238806,
+      0.75,
+      0.3333333333333333,
+      0.46153846153846156
     ],
-    "info": "metrics is accuracy,precision, recall,fscore",
+    "info": "metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
     "files": [
       "combined_model.pkl"
     ]
