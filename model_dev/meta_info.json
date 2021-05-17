@@ -91,12 +91,12 @@
   },
   "batsman_position_opponent_location_embedding": {
     "train_metrics": [
-      633.6693725585938,
-      17.866012573242188
+      787.1480712890625,
+      19.79335594177246
     ],
     "test_metrics": [
-      846.5689086914062,
-      20.12303352355957
+      853.4262084960938,
+      20.93003273010254
     ],
     "info": "metrics is mse,mae(best mae)",
     "files": [
@@ -171,32 +171,32 @@
     ]
   },
   "first_innings_train_xy": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "first_innings_train_x.pkl",
       "first_innings_train_y.pkl"
     ]
   },
   "first_innings_test_xy": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "first_innings_test_x.pkl",
       "first_innings_test_y.pkl"
     ]
   },
   "second_innings_train_xy": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "second_innings_train_x.pkl",
       "second_innings_train_y.pkl"
     ]
   },
   "second_innings_test_xy": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "second_innings_test_x.pkl",
       "second_innings_test_y.pkl"

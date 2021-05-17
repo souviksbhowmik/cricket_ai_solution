@@ -493,8 +493,7 @@ def get_team_opponent_location_embedding(team,opponent,location):
     team_oh_v = np.array(country_enc_map[team]).reshape(1, -1)
     opponent_oh_v = np.array(country_enc_map[opponent]).reshape(1, -1)
     if location not in loc_enc_map:
-        #print('did not find in ',outil.MODEL_DIR+ os.sep+ outil.LOC_ENCODING_MAP)
-        raise Exception("location not available")
+        location = get_similar_location(location).strip()
     loc_oh_v = np.array(loc_enc_map[location]).reshape(1, -1)
 
     country_embedding = team_opponent_location_embedding.predict([team_oh_v, opponent_oh_v, loc_oh_v]).reshape(-1)
@@ -554,7 +553,12 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,re
                                    + outil.LOC_ENCODING_MAP_FOR_BATSMAN, 'rb'))
     loc_enc_map_for_batsman = LOC_ENC_MAP_FOR_BATSMAN_CACHE
 
-    loc_oh = loc_enc_map_for_batsman[location]
+    try:
+        loc_oh = loc_enc_map_for_batsman[location]
+    except:
+        location = get_similar_location(location).strip()
+        loc_oh = loc_enc_map_for_batsman[location]
+
     opposition_oh = country_enc_map[opponent]
 
     batsman_oh_list = []
