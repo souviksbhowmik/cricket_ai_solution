@@ -204,16 +204,16 @@
   },
   "first_innings_model": {
     "train_metrics": [
-      19.015620944765953,
-      37.37195930224937,
-      2413.4182062510404,
-      0.19295365241705542
+      21.16568845147532,
+      44.70586055560704,
+      3283.7538151950976,
+      0.19503502097955405
     ],
     "test_metrics": [
-      23.244337528828233,
-      53.38921602310673,
-      4359.0877983019,
-      0.19295365241705542
+      22.035598692959933,
+      52.17556470061002,
+      4312.891928401533,
+      0.19503502097955405
     ],
     "info": "metrics is mape,mae,mse,adjusted r squared - selected ",
     "files": [
@@ -221,8 +221,8 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": 0.7550335570469798,
-    "test_metrics": 0.7419354838709677,
+    "train_metrics": 0.7645985401459854,
+    "test_metrics": 0.7397260273972602,
     "info": "metrics is accuracy",
     "files": [
       "second_innings_model.pkl"
@@ -343,16 +343,16 @@
     "files": []
   },
   "combined_train_xy_fi_True_si_True": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "combined_train_x.pkl",
       "combined_train_y.pkl"
     ]
   },
   "combined_test_xy_fi_True_si_True": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"
@@ -378,20 +378,20 @@
   },
   "combined_model_fi_True_si_True": {
     "train_metrics": [
-      0.714765100671141,
-      0.6912751677852349,
-      0.7253521126760564,
-      0.7079037800687286
+      0.6532846715328468,
+      0.6290322580645161,
+      0.7222222222222222,
+      0.6724137931034483
     ],
     "test_metrics": [
-      0.6612903225806451,
-      0.7142857142857143,
-      0.6060606060606061,
-      0.6557377049180327,
-      0.6612903225806451,
-      0.7142857142857143,
-      0.6060606060606061,
-      0.6557377049180327
+      0.6164383561643836,
+      0.6764705882352942,
+      0.575,
+      0.6216216216216216,
+      0.7123287671232876,
+      0.7714285714285715,
+      0.675,
+      0.72
     ],
     "info": "metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
     "files": [
@@ -433,16 +433,16 @@
     ]
   },
   "combined_train_xy_fi_False_si_False": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "combined_train_x.pkl",
       "combined_train_y.pkl"
     ]
   },
   "combined_test_xy_fi_False_si_False": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "combined_test_x.pkl",
       "combined_test_y.pkl"

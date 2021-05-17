@@ -224,7 +224,7 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
             # print(selected_batsman)
 
             batsman_df = match_stat_df[match_stat_df['batsman'] == selected_batsman]
-
+            no_of_batsman_matches = batsman_df['match_id'].nunique()
             total_runs = batsman_df['scored_runs'].sum()
             run_rate = batsman_df['scored_runs'].sum() / \
                        match_stat_df[match_stat_df['batsman'] == selected_batsman].shape[0]
@@ -270,7 +270,8 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
                 'player_of_the_match': player_of_the_match,
                 'winning_contribution': winning_contribution,
                 'run_rate_effectiveness': run_rate_effectiveness,
-                'consistency': consistency
+                'consistency': consistency,
+                'no_of_matches_batsman':no_of_batsman_matches
             }
 
             batsman_performance_list.append(batsman_dict)
@@ -278,7 +279,7 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     batsman_performance_df = pd.DataFrame(batsman_performance_list)
     batsman_performance_df.fillna(0, inplace=True)
     batsman_performance_df['batsman_score'] = scaler.fit_transform(
-        batsman_performance_df.drop(columns=['batsman', 'country', 'consistency'])).sum(axis=1)
+        batsman_performance_df.drop(columns=['batsman', 'country', 'consistency','no_of_matches_batsman'])).sum(axis=1)
     score_scaler = MinMaxScaler(feature_range=(1, 10))
     batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
     batsman_performance_df.sort_values('batsman_score', ascending=False, inplace=True)
@@ -355,6 +356,7 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
             # print(selected_batsman)
 
             bowler_df = match_stat_df[match_stat_df['bowler'] == selected_bowler]
+            no_of_bowler_matches = bowler_df['match_id'].nunique()
             total_runs = bowler_df['total'].sum()
             run_rate = total_runs / bowler_df.shape[0]
             negative_rate = -run_rate
@@ -416,6 +418,7 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
                 'opponent_mean': opponent_mean,
                 'winning_contribution': winning_contribution,
                 'winning_wicket_rate_contribution': winning_wicket_per_match_contribution,
+                'no_of_matches_bowler': no_of_bowler_matches
 
             }
 
@@ -424,7 +427,7 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
     bowler_performance_df = pd.DataFrame(bowler_performance_list)
     bowler_performance_df.fillna(0, inplace=True)
     bowler_performance_df['bowler_score'] = scaler.fit_transform(
-        bowler_performance_df.drop(columns=['bowler', 'country'])).sum(axis=1)
+        bowler_performance_df.drop(columns=['bowler', 'country','no_of_matches_bowler'])).sum(axis=1)
     score_scaler = MinMaxScaler(feature_range=(1, 10))
     bowler_performance_df['bowler_score'] = score_scaler.fit_transform(bowler_performance_df[['bowler_score']])
     bowler_performance_df.sort_values('bowler_score', ascending=False, inplace=True)
