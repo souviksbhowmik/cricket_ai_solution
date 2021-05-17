@@ -253,17 +253,17 @@ def create_batsman_embedding_train_test(train_start,test_start,test_end=None,enc
         date = match_list_df.iloc[index]['date']
 
         if location not in location_enc_map_for_batsman:
-            print('location ',location,' not encoded for ',country,opponent,' on ',date)
-            continue
+            try:
+                location = fe.get_similar_location(location).strip()
+            except:
+                print('location ',location,' not encoded for ',country,opponent,' on ',date)
+                continue
+
         if opponent not in country_enc_map:
             print('opponent ', opponent, ' not encoded for ', country, opponent, ' on ', date, ' at ',location)
             continue
 
-        try:
-            location_oh = np.array(location_enc_map_for_batsman[location])
-        except:
-            location = fe.get_similar_location(location).strip()
-            location_oh = np.array(location_enc_map_for_batsman[location.strip()])
+        location_oh = np.array(location_enc_map_for_batsman[location])
         opponent_oh = country_enc_map[opponent]
 
         for bi in range(11):

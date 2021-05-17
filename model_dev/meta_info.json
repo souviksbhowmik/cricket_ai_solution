@@ -50,14 +50,14 @@
   },
   "team_opponent_location_embedding": {
     "train_metrics": [
-      3050.308837890625,
-      20.987253189086914,
-      41.19483947753906
+      3497.378173828125,
+      21.452932357788086,
+      45.322479248046875
     ],
     "test_metrics": [
-      4068.20556640625,
-      21.193254470825195,
-      50.0120849609375
+      4192.38671875,
+      20.896875381469727,
+      50.54261016845703
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -68,8 +68,8 @@
     ]
   },
   "batsman_embedding_train_xy": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2014-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "batsman_emb_batsman_oh_train_x.pkl",
       "batsman_emb_position_oh_train_x.pkl",
@@ -79,8 +79,8 @@
     ]
   },
   "batsman_embedding_test_xy": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "batsman_emb_batsman_oh_test_x.pkl",
       "batsman_emb_position_oh_test_x.pkl",
