@@ -906,7 +906,8 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     print('metrics train ', accuracy_train_lr,precision_train,recall_train,fscore_train)
     print('metrics test ', accuracy_test_lr,precision_test, recall_test, fscore_test)
     print('metrics test intermediate ', accuracy_test_intermediate, precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate)
-
+    print("data volume train ",train_x.shape[0])
+    print("data volume test ", test_x.shape[0])
 
     pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL),'wb'))
 

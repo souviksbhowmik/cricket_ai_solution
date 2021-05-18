@@ -684,6 +684,8 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,re
     loc_oh_list = []
     opposition_oh_list = []
     # print('getting batsman details')
+    if len(batsman_list)< no_of_batsman:
+        raise Exception("not enough batsman information")
     for bi,batsman in enumerate(batsman_list):
 
         if bi == no_of_batsman:
@@ -720,16 +722,16 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,re
 
 def get_first_innings_feature_embedding_vector(team, opponent, location, team_player_list, opponent_player_list,
                                                ref_date=None, no_of_years=None):
-    # feature_vector = get_first_innings_feature_vector(team, opponent, location,
-    #                                                   team_player_list, opponent_player_list,
-    #                                                   ref_date=ref_date, no_of_years=no_of_years)
+    feature_vector = get_first_innings_feature_vector(team, opponent, location,
+                                                      team_player_list, opponent_player_list,
+                                                      ref_date=ref_date, no_of_years=no_of_years)
 
     country_embedding_vector = get_team_opponent_location_embedding(team,opponent,location)
 
     batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
 
-    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
-    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
+    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
+    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
 
     #
     #return country_embedding_vector
@@ -739,17 +741,17 @@ def get_first_innings_feature_embedding_vector(team, opponent, location, team_pl
 
 def get_second_innings_feature_embedding_vector(target, team, opponent, location, team_player_list, opponent_player_list,
                                                 ref_date=None, no_of_years=None):
-    # feature_vector = get_second_innings_feature_vector(target, team, opponent, location,
-    #                                                    team_player_list, opponent_player_list,
-    #                                                    ref_date=ref_date, no_of_years=no_of_years)
+    feature_vector = get_second_innings_feature_vector(target, team, opponent, location,
+                                                       team_player_list, opponent_player_list,
+                                                       ref_date=ref_date, no_of_years=no_of_years)
 
     country_embedding_vector = get_team_opponent_location_embedding(team,opponent,location)
 
     batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
 
-    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
+    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
     #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
-    final_vector = np.concatenate([country_embedding_vector,batsman_embedding_vector, np.array([target])])
+    #final_vector = np.concatenate([country_embedding_vector,batsman_embedding_vector, np.array([target])])
 
     return final_vector
 
