@@ -138,61 +138,179 @@ def get_country_score(country, ref_date=None):
 
     return score,quantile
 
-### calculation of weighted sum and mean
+
+def complete_batting_order(country,batsman_list,bowling_list,ref_date=None,no_of_batsman=7):
+
+    if len(batsman_list)>=no_of_batsman:
+        return batsman_list
+
+    batsman_rank_file = rank.get_latest_rank_file('batsman', ref_date=ref_date)
+    batsman_rank_df = pd.read_csv(batsman_rank_file)
+    batsman_rank_df = batsman_rank_df[batsman_rank_df['country']==country]
+
+    unique_bowling_list = []
+    for bowler in bowling_list:
+        if bowler not in batsman_list:
+            unique_bowling_list.append(bowler)
+
+    if len(batsman_list)+len(unique_bowling_list) ==11:# if all 11 player are available in balling and batting
+        # order the batting order of bowlers
+        all_rounder_df = batsman_rank_df[batsman_rank_df['batsman'].isin(unique_bowling_list)]
+        if all_rounder_df.shape[0]==0:# if none of the bowlers have any batting record
+            return batsman_list + unique_bowling_list
+
+        else:# if some bowlers have batting record - sort them by number of matches
+            all_rounder_df = all_rounder_df.sort_values(['no_of_matches_batsman'],ascending=False)
+            sorted_bowler_list = list(all_rounder_df['batsman'].unique())
+            if len(batsman_list) + len(sorted_bowler_list)<no_of_batsman: # if some bowler is left since he did not have batting record
+                batsman_list = batsman_list+sorted_bowler_list
+                for bowler in unique_bowling_list:
+                    if bowler not in sorted_bowler_list:
+                        batsman_list.append(bowler)
+                return batsman_list
+            else:# all bowlers had batting records
+                return batsman_list+sorted_bowler_list
+    else:# there are players missing - not in batting or bowling
+        # fill in the gap
+        missing_players = 11 - (len(batsman_list)+len(unique_bowling_list))
+        shortage_batsman = no_of_batsman - len(batsman_list)
+        all_rounder_df = batsman_rank_df[batsman_rank_df['batsman'].isin(unique_bowling_list)]
+        all_non_listed_batsman = batsman_rank_df[~(batsman_rank_df['batsman'].isin(unique_bowling_list))
+                                                 & ~(batsman_rank_df['batsman'].isin(batsman_list))]
+
+        if all_rounder_df.shape[0]>0 & all_non_listed_batsman.shape[0]>0: # get the batting_match_count of bowlers who have batting records
+            all_rounder_df = all_rounder_df.sort_values(['no_of_matches_batsman'],ascending=False)
+            all_non_listed_batsman = all_non_listed_batsman.sort_values(['no_of_matches_batsman'],ascending=False)
+
+            i=0
+            j=0
+            while i!=shortage_batsman & j!=shortage_batsman & i!=missing_players & i<all_non_listed_batsman.shape[0] & j<all_rounder_df.shape[0]:
+                nom_i = all_non_listed_batsman.iloc[i]['no_of_matches_batsman']
+                nom_j = all_rounder_df.iloc[j]['no_of_matches_batsman']
+
+                if nom_j>= nom_i:
+                    batsman_list.append(all_rounder_df.iloc[j]['batsman'])
+                    j=j+1
+                else:
+                    batsman_list.append(all_non_listed_batsman.iloc[i]['batsman'])
+                    i = i + 1
+
+            if (i==missing_players or i==all_non_listed_batsman.shape[0])  & (i+j)<shortage_batsman:
+                for z in range(j,shortage_batsman-(i+j)):
+                    batsman_list.append(all_rounder_df.iloc[z]['batsman'])
+            elif j==all_rounder_df.shape[0] & (i+j)<shortage_batsman:
+                for z in range(i,shortage_batsman-(i+j)):
+                    batsman_list.append(all_non_listed_batsman.iloc[z]['batsman'])
+            else:
+                pass
+
+            return batsman_list
+
+        elif all_rounder_df.shape[0] >0 :
+            all_rounder_df = all_rounder_df.sort_values(['no_of_matches_batsman'], ascending=False)
+            batsman_list = batsman_list + list(all_rounder_df.head(shortage_batsman)['batsman'])
+            return batsman_list
+        else:
+            all_non_listed_batsman = all_non_listed_batsman.sort_values(['no_of_matches_batsman'], ascending=False)
+            batsman_list = batsman_list + list(all_non_listed_batsman.head(shortage_batsman)['batsman'])
+
+            return batsman_list
+
+
+def get_weighted_score(row):
+    return row['batsman_score']*math.sqrt(row['no_of_matches_batsman']/row['matches_played'])
+
+
+# get batsman sum weighted by matches played
 def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=7):
-    # batsman_list=get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
-    # global NO_OF_WICKETS
-    # print("setting number of wickets to ", NO_OF_WICKETS)
-    # if NO_OF_WICKETS!=0:
-    #     #print("setting number of wickets to ",NO_OF_WICKETS)
-    #     no_of_batsman=int(NO_OF_WICKETS)
+
     batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
+    country_rank_file = rank.get_latest_rank_file('country',ref_date=ref_date)
     batsman_rank_df = pd.read_csv(batsman_rank_file)
     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == country]
-    reduction_dict = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'rb'))
+    country_rank_df = pd.read_csv(country_rank_file)[['country','matches_played']]
+    batsman_rank_df = batsman_rank_df.merge(country_rank_df, on='country', how ='inner')
+    adjusted_batsman_list = []
+    if len(batsman_list)<no_of_batsman:
+        raise Exception('Not enough batsman information')
 
-    selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(batsman_list))\
-                                   & (batsman_rank_df['country']==country)]
+    for i in range(no_of_batsman):
+        adjusted_batsman_list.append(batsman_list[i])
+
+    selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(adjusted_batsman_list))]
+
     if selected_batsman_df.shape[0]==0:
         raise Exception('No batsman score is available for '+country)
-    selected_batsman_df = selected_batsman_df.sort_values('batsman_score',ascending=False)
+
+    #selected_batsman_df['weighted_score'] = selected_batsman_df.apply(get_weighted_score,axis=1)
+    #selected_batsman_df.loc[:,'weighted_score'] = selected_batsman_df.apply(get_weighted_score,axis=1)
 
     batsman_max = selected_batsman_df['batsman_score'].max()
+    batsman_mean = selected_batsman_df['batsman_score'].max()
+    batsman_sum = selected_batsman_df['batsman_score'].sum()
 
-
-    #calculating weighted sum and mean
-    batsman_sum = 0
-    weighted_denom = 0
-    unweighted_mean = selected_batsman_df['batsman_score'].mean()
-
-    for idx,batsman in enumerate(batsman_list):
-        wt_idx = 11-idx
-        wt = math.log(math.ceil((wt_idx)/2)+1)
-        if selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].shape[0]!=0:
-            score = selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].values[0]
-            batsman_sum = batsman_sum + wt * score
-            weighted_denom = weighted_denom + wt
-        if idx==no_of_batsman-1:
-            break
-
-
-    if len(batsman_list)<no_of_batsman:
-        last_available = len(batsman_list)
-        for target in range(no_of_batsman-last_available):
-            current = last_available+target+1
-            previous = last_available+target
-            unweighted_mean = unweighted_mean/reduction_dict[str(previous)+"_by_"+str(current)]
-
-            wt_idx = (11-last_available-target)
-            wt = math.log(math.ceil((wt_idx) / 2) + 1)
-            batsman_sum = batsman_sum+wt*unweighted_mean
-
-    batsman_mean = batsman_sum/11
 
     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()
     batsman_quantile_sum = selected_batsman_df['batsman_quantile'].sum()
     return batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum
+
+
+### calculation of weighted sum and mean
+# def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=7):
+#     # batsman_list=get_top_n_batsman(batsman_list, country, n=no_of_batsman, ref_date=ref_date)
+#     # global NO_OF_WICKETS
+#     # print("setting number of wickets to ", NO_OF_WICKETS)
+#     # if NO_OF_WICKETS!=0:
+#     #     #print("setting number of wickets to ",NO_OF_WICKETS)
+#     #     no_of_batsman=int(NO_OF_WICKETS)
+#     batsman_rank_file = rank.get_latest_rank_file('batsman',ref_date=ref_date)
+#     batsman_rank_df = pd.read_csv(batsman_rank_file)
+#     batsman_rank_df = batsman_rank_df[batsman_rank_df['country'] == country]
+#     reduction_dict = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SCORE_MEAN_REDUCTION_FACTOR), 'rb'))
+#
+#     selected_batsman_df = batsman_rank_df[(batsman_rank_df['batsman'].isin(batsman_list))\
+#                                    & (batsman_rank_df['country']==country)]
+#     if selected_batsman_df.shape[0]==0:
+#         raise Exception('No batsman score is available for '+country)
+#     selected_batsman_df = selected_batsman_df.sort_values('batsman_score',ascending=False)
+#
+#     batsman_max = selected_batsman_df['batsman_score'].max()
+#
+#
+#     #calculating weighted sum and mean
+#     batsman_sum = 0
+#     weighted_denom = 0
+#     unweighted_mean = selected_batsman_df['batsman_score'].mean()
+#
+#     for idx,batsman in enumerate(batsman_list):
+#         wt_idx = 11-idx
+#         wt = math.log(math.ceil((wt_idx)/2)+1)
+#         if selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].shape[0]!=0:
+#             score = selected_batsman_df[selected_batsman_df['batsman']==batsman]['batsman_score'].values[0]
+#             batsman_sum = batsman_sum + wt * score
+#             weighted_denom = weighted_denom + wt
+#         if idx==no_of_batsman-1:
+#             break
+#
+#
+#     if len(batsman_list)<no_of_batsman:
+#         last_available = len(batsman_list)
+#         for target in range(no_of_batsman-last_available):
+#             current = last_available+target+1
+#             previous = last_available+target
+#             unweighted_mean = unweighted_mean/reduction_dict[str(previous)+"_by_"+str(current)]
+#
+#             wt_idx = (11-last_available-target)
+#             wt = math.log(math.ceil((wt_idx) / 2) + 1)
+#             batsman_sum = batsman_sum+wt*unweighted_mean
+#
+#     batsman_mean = batsman_sum/11
+#
+#     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
+#     batsman_quantile_max = selected_batsman_df['batsman_quantile'].max()
+#     batsman_quantile_sum = selected_batsman_df['batsman_quantile'].sum()
+#     return batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum
 
 ## calculating unweighted mean and extrapoliting mean by reduction factor
 # def get_batsman_mean_max(country, batsman_list, ref_date=None, no_of_batsman=7):

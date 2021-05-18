@@ -392,8 +392,10 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
             else:
                 pass
 
-        if len(team_player_list) + len(team_bowler_list) == 11:
-            team_player_list = team_player_list + team_bowler_list
+        # if len(team_player_list) + len(team_bowler_list) == 11:
+        #     team_player_list = team_player_list + team_bowler_list
+        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date=ref_date,
+                                                     no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):
@@ -593,8 +595,9 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
             else:
                 pass
 
-        if len(team_player_list) + len(team_bowler_list) == 11:
-            team_player_list = team_player_list + team_bowler_list
+        # if len(team_player_list) + len(team_bowler_list) == 11:
+        #     team_player_list = team_player_list + team_bowler_list
+        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date = ref_date, no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):

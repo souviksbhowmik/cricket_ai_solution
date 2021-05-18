@@ -107,8 +107,8 @@
     ]
   },
   "first_innings_base_train_xy": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "first_innings_base_train_x.pkl",
       "first_innings_base_train_y.pkl",
@@ -116,8 +116,8 @@
     ]
   },
   "first_innings_base_test_xy": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -125,16 +125,16 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      20.620542068087072,
-      41.24876691906543,
-      2826.664443485021,
-      0.10839509901413236
+      22.239875462550877,
+      46.97705550388583,
+      3610.4870562625188,
+      0.09071069789533381
     ],
     "test_metrics": [
-      18.134373624758382,
-      43.14363717758985,
-      2964.641569976808,
-      0.10839509901413236
+      21.367424860404157,
+      48.670137866210126,
+      4032.1673385922813,
+      0.09071069789533381
     ],
     "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum']",
     "files": [
@@ -144,8 +144,8 @@
     ]
   },
   "second_innings_base_train_xy": {
-    "start_date": "2010-01-01",
-    "end_date": "2013-12-31",
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
     "files": [
       "second_innings_base_train_x.pkl",
       "second_innings_base_train_y.pkl",
@@ -153,16 +153,16 @@
     ]
   },
   "second_innings_base_test_xy": {
-    "start_date": "2014-01-01",
-    "end_date": "2014-12-31",
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "second_innings_base_test_x.pkl",
       "second_innings_base_test_y.pkl"
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.7281879194630873,
-    "test_metrics": 0.7164179104477612,
+    "train_metrics": 0.7636022514071295,
+    "test_metrics": 0.8271604938271605,
     "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
@@ -236,20 +236,20 @@
   },
   "first_innings_trend_prediction_metrics": {
     "train_metrics": [
-      34.69560759373381,
-      33.900101313961564,
-      31.92453729431525,
-      24.90144261852411,
-      25.189057705037193,
-      23.943609914045553
+      32.107109082123934,
+      33.82085686730521,
+      32.29066071312751,
+      24.396379717402272,
+      25.03062894511714,
+      23.82971674771852
     ],
     "test_metrics": [
-      29.042997342484117,
-      28.829843163037026,
-      29.49352189997353,
-      21.489434854769115,
-      20.927197647765755,
-      21.61781237454493
+      29.768140024194636,
+      34.9082882779756,
+      31.991658518669745,
+      21.899338105615623,
+      27.703968719662853,
+      23.227245057751354
     ],
     "info": "metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,mape_opponent_mean, mape_location_mean, mape_current_mean ",
     "files": [
@@ -450,20 +450,20 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.6174496644295302,
-      0.6076923076923076,
-      0.5563380281690141,
-      0.5808823529411765
+      0.6359223300970874,
+      0.6635220125786163,
+      0.8307086614173228,
+      0.7377622377622378
     ],
     "test_metrics": [
-      0.5671641791044776,
-      0.7692307692307693,
-      0.2777777777777778,
-      0.40816326530612246,
-      0.582089552238806,
-      0.75,
-      0.3333333333333333,
-      0.46153846153846156
+      0.7868852459016393,
+      0.8571428571428571,
+      0.8372093023255814,
+      0.8470588235294119,
+      0.6229508196721312,
+      0.8571428571428571,
+      0.5581395348837209,
+      0.676056338028169
     ],
     "info": "metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
     "files": [
