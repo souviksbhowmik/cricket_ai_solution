@@ -248,6 +248,9 @@ def get_batsman_mean_max(country,batsman_list,ref_date=None,no_of_batsman=7):
     batsman_max = selected_batsman_df['batsman_score'].max()
     batsman_mean = selected_batsman_df['batsman_score'].max()
     batsman_sum = selected_batsman_df['batsman_score'].sum()
+    # batsman_max = selected_batsman_df['weighted_score'].max()
+    # batsman_mean = selected_batsman_df['weighted_score'].max()
+    # batsman_sum = selected_batsman_df['weighted_score'].sum()
 
 
     batsman_quantile_mean = selected_batsman_df['batsman_quantile'].mean()
