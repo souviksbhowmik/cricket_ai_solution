@@ -161,8 +161,8 @@
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.6996587030716723,
-    "test_metrics": 0.7727272727272727,
+    "train_metrics": 0.6962457337883959,
+    "test_metrics": 0.7575757575757576,
     "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
