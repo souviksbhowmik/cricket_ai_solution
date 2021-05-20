@@ -58,43 +58,48 @@ def create_not_batted_list(year_list,mode='a'):
         all_tr = all_tbody[0].find_all('tr')
 
         for tr in tqdm(all_tr):
-            row_dict = {}
-            for idx,td in enumerate(tr.find_all('td')):
-                if idx==0:
-                    row_dict['team_a']=td.text.strip()
-                elif idx==1:
-                    row_dict['team_b'] = td.text.strip()
-                elif idx==4:
-                    row_dict['venue'] = td.text.strip()
+            try:
+                row_dict = {}
+                for idx,td in enumerate(tr.find_all('td')):
+                    if idx==0:
+                        row_dict['team_a']=td.text.strip()
+                    elif idx==1:
+                        row_dict['team_b'] = td.text.strip()
+                    elif idx==4:
+                        row_dict['venue'] = td.text.strip()
 
-                elif idx == 5:
-                    date = datetime.strptime(td.text.strip(), '%b %d, %Y')
-                    row_dict['date'] = date
+                    elif idx == 5:
+                        date = datetime.strptime(td.text.strip(), '%b %d, %Y')
+                        row_dict['date'] = date
 
-                elif idx==6:
+                    elif idx==6:
 
-                    href = td.find_all('a')[0].get("href")
-                    row_dict['href'] =href
-                    team_a_list, team_b_list = get_missing_player_list(href)
+                        href = td.find_all('a')[0].get("href")
+                        row_dict['href'] =href
+                        team_a_list, team_b_list = get_missing_player_list(href)
 
-                    if team_a_list is not None and len(team_a_list)>0:
-                        missing_count = len(team_a_list)
-                        start_index = 11-missing_count
-                        for ind,player in enumerate(team_a_list):
-                            player_num = str(start_index+ind+1)
-                            row_dict["team_a_batsman_"+player_num] = player
+                        if team_a_list is not None and len(team_a_list)>0:
+                            missing_count = len(team_a_list)
+                            start_index = 11-missing_count
+                            for ind,player in enumerate(team_a_list):
+                                player_num = str(start_index+ind+1)
+                                row_dict["team_a_batsman_"+player_num] = player
 
-                    if team_b_list is not None and len(team_b_list)>0:
-                        missing_count = len(team_b_list)
-                        start_index = 11-missing_count
-                        for ind,player in enumerate(team_b_list):
-                            player_num = str(start_index+ind+1)
-                            row_dict["team_b_batsman_"+player_num] = player
+                        if team_b_list is not None and len(team_b_list)>0:
+                            missing_count = len(team_b_list)
+                            start_index = 11-missing_count
+                            for ind,player in enumerate(team_b_list):
+                                player_num = str(start_index+ind+1)
+                                row_dict["team_b_batsman_"+player_num] = player
 
-                else:
-                    pass
+                    else:
+                        pass
 
-            dict_list.append(row_dict)
+
+                dict_list.append(row_dict)
+            except Exception  as ex:
+                print(ex,' skipped ')
+
 
     data_df = pd.DataFrame(dict_list)
 
