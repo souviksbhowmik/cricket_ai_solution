@@ -21,6 +21,8 @@ python odi/data_loader/data_loader.py load-current --append n
 python odi/data_loader/data_loader.py load-current --from_date 2014-01-01 --to_date 2020-12-31
 ### for loading previous data
 python odi/data_loader/data_loader.py load-old --from_date 2011-01-01 --to_date 2013-12-31
+### load list of not batted
+python odi/data_loader/cricinfo_scraper.py load-not-batted --year_list 2009 --year_list 2010 --append n
 
 
 

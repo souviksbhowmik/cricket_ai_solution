@@ -4,6 +4,8 @@ from datetime import datetime
 import pandas as pd
 from odi.data_loader import data_loader as dl
 import os
+import click
+from tqdm import tqdm
 
 
 def get_missing_player_list(href):
@@ -30,13 +32,13 @@ def get_missing_player_list(href):
                             team_b_list = info.split(':')[1].split(',')
 
     #clean the list
-    if len(team_a_list)>0:
+    if team_a_list is not None and len(team_a_list)>0:
         temp_list = []
         for player in team_a_list:
             temp_list.append(player.strip())
         team_a_list = temp_list
 
-    if len(team_b_list)>0:
+    if team_b_list is not None and len(team_b_list)>0:
         temp_list = []
         for player in team_b_list:
             temp_list.append(player.strip())
@@ -45,22 +47,23 @@ def get_missing_player_list(href):
     return team_a_list,team_b_list
 
 
-def create_match_link_store_by_year(year_list):
-    for year in year_list:
+def create_not_batted_list(year_list,mode='a'):
+    dict_list = []
+    for year in tqdm(year_list):
         year = str(year)
         link = 'https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;id='+year+';type=year'
         page = requests.get(link)
         soup = BeautifulSoup(page.content, 'html.parser')
         all_tbody = soup.find_all('tbody')
         all_tr = all_tbody[0].find_all('tr')
-        dict_list = []
-        for tr in all_tr:
+
+        for tr in tqdm(all_tr):
             row_dict = {}
             for idx,td in enumerate(tr.find_all('td')):
                 if idx==0:
                     row_dict['team_a']=td.text.strip()
                 elif idx==1:
-                    row_dict['team_a'] = td.text.strip()
+                    row_dict['team_b'] = td.text.strip()
                 elif idx==4:
                     row_dict['venue'] = td.text.strip()
 
@@ -81,7 +84,7 @@ def create_match_link_store_by_year(year_list):
                             player_num = str(start_index+ind+1)
                             row_dict["team_a_batsman_"+player_num] = player
 
-                    if team__b_list is not None and len(team_b_list)>0:
+                    if team_b_list is not None and len(team_b_list)>0:
                         missing_count = len(team_b_list)
                         start_index = 11-missing_count
                         for ind,player in enumerate(team_b_list):
@@ -93,8 +96,27 @@ def create_match_link_store_by_year(year_list):
 
             dict_list.append(row_dict)
 
-        data_df = pd.DataFrame(dict_list)
-        data_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv',index=False)
+    data_df = pd.DataFrame(dict_list)
+
+    data_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'not_batted.csv',index=False)
+    data_df.drop_duplicates(subset=['team_a','team_b','date'],inplace=True)
+
+    if mode is None or mode!='a':
+        data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv', index=False)
+    else:
+        data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv', index=False, mode='a',header=False)
+
+@click.group()
+def scrapper():
+    pass
+
+@scrapper.command()
+@click.option('--year_list', multiple=True, help='list of years.')
+@click.option('--append', default='a', help='a for append,n for refresh.')
+def load_not_batted(year_list,append):
+    year_list = list(year_list)
+    create_not_batted_list(year_list, mode=append)
 
 
-
+if __name__ =='__main__':
+    scrapper()
