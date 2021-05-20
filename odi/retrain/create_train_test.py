@@ -117,7 +117,7 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
                                   (match_list_df['date'] <= overall_end)]
     match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
     match_list_df = match_list_df.merge(match_stats_df,how='inner',on='match_id')
-    match_list_df = match_list_df[match_list_df['first_innings']==match_list_df['team_statistics']]
+
 
     no_of_matches = match_list_df.shape[0]
     country_enc_map = pickle.load(open(os.path.join(encoding_dir,outil.COUNTRY_ENCODING_MAP),'rb'))
@@ -135,8 +135,17 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
 
     for index in tqdm(range(no_of_matches)):
 
-        team = match_list_df.iloc[index]['first_innings'].strip()
-        opponent = match_list_df.iloc[index]['second_innings'].strip()
+        if match_list_df.iloc[index]['first_innings'].strip() == match_list_df.iloc[index]['team_statistics'].strip():
+            batting_innings = 'first_innings'
+            bowling_innings = 'second_innings'
+        else:
+            batting_innings = 'second_innings'
+            bowling_innings = 'first_innings'
+            continue
+
+
+        team = match_list_df.iloc[index][batting_innings].strip()
+        opponent = match_list_df.iloc[index][bowling_innings].strip()
         location = match_list_df.iloc[index]['location'].strip()
         runs_scored = match_list_df.iloc[index]['total_run']
         date = match_list_df.iloc[index]['date']
@@ -207,6 +216,8 @@ def create_batsman_embedding_train_test(train_start,test_start,test_end=None,enc
         encoding_dir = outil.PROD_DIR
     else:
         encoding_dir = outil.DEV_DIR
+
+    outil.use_model_from('dev')
 
     train_start_dt = cricutil.str_to_date_time(train_start)
     test_start_dt = cricutil.str_to_date_time(test_start)
@@ -1265,8 +1276,9 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
                 if player not in team_batsman_list:
                     temp_team_bowler_list.append(player)
 
-        if len(team_batsman_list+temp_team_bowler_list) == 11:
-            team_batsman_list = team_batsman_list+temp_team_bowler_list
+        # if len(team_batsman_list+temp_team_bowler_list) == 11:
+        #     team_batsman_list = team_batsman_list+temp_team_bowler_list
+        team_batsman_list =fe.complete_batting_order(team,team_batsman_list,team_bowler_list,ref_date=ref_date)
 
         opponent_batsman_list = list()
         for i in range(11):
@@ -1287,8 +1299,10 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
                 if player not in opponent_batsman_list:
                     temp_opponent_bowler_list.append(player)
 
-        if len(opponent_batsman_list+temp_opponent_bowler_list)==11:
-            opponent_batsman_list = opponent_batsman_list+temp_opponent_bowler_list
+        # if len(opponent_batsman_list+temp_opponent_bowler_list)==11:
+        #     opponent_batsman_list = opponent_batsman_list+temp_opponent_bowler_list
+
+        opponent_batsman_list = fe.complete_batting_order(opponent, opponent_batsman_list, opponent_bowler_list, ref_date=ref_date)
 
 
         # print("team ",team)
@@ -1322,6 +1336,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
             # if location_mean_b is None:
             #     location_mean_b = current_mean_b
 
+            outil.use_model_from("dev")
             target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
             #target_by_a = current_mean
 
@@ -1348,13 +1363,16 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
             else:
                 feature_list_test.append(np.array([target_by_a,probability_by_b,target_by_b,probability_by_a]))
                 target_list_test.append(win_flag)
+                #print("added to test...")
 
         except Exception as ex:
             print(ex," : ignored ", team ," vs ",opponent, " on ",ref_date," at ",location )
+            #raise ex
 
+    print("train size ",len(feature_list_train))
     train_x = np.stack(feature_list_train)
     train_y = np.stack(target_list_train)
-
+    print("test size ", len(feature_list_test))
     test_x = np.stack(feature_list_test)
     test_y = np.stack(target_list_test)
 

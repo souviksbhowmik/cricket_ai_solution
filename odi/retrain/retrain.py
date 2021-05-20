@@ -98,6 +98,8 @@ def retrain_country_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
         outil.store_keras_model(runs_model,os.path.join(outil.DEV_DIR,outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL))
         outil.store_keras_model(group_encode_model,
                                 os.path.join(outil.DEV_DIR, outil.TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL))
+        outil.store_keras_model(team_model,
+                                os.path.join(outil.DEV_DIR, outil.TEAM_EMBEDDING_MODEL))
         outil.create_model_meta_info_entry('team_opponent_location_embedding',
                                            train_metrics,
                                            test_metrics,
@@ -196,6 +198,7 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
         print("Saving models - (in case of tuning - metrics improved) ")
         outil.store_keras_model(runs_model,os.path.join(outil.DEV_DIR,outil.BATSMAN_EMBEDDING_RUN_MODEL))
         outil.store_keras_model(group_encode_model, os.path.join(outil.DEV_DIR, outil.BATSMAN_EMBEDDING_MODEL))
+        outil.store_keras_model(batsman_model, os.path.join(outil.DEV_DIR, outil.BATSMAN_ONLY_EMBEDDING_MODEL))
         outil.create_model_meta_info_entry('batsman_position_opponent_location_embedding',
                                            train_metrics,
                                            test_metrics,
@@ -256,9 +259,10 @@ def retrain_first_innings_base(create_output=True):
     print('metrics test ', mape_test_lr, mae_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    #selected_feature_index = list(range(train_x.shape[1] + 1))
+    print("selected indices including bias by p value ",selected_feature_index)
     selected_feature_index = list(range(train_x.shape[1] + 1))
-    print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
 
@@ -383,20 +387,23 @@ def retrain_second_innings_base(create_output=True):
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_y), 'rb'))
 
-    statsmodel_scaler = StandardScaler()
-    train_x_scaled = statsmodel_scaler.fit_transform((train_x))
-    model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
+    try:
+        statsmodel_scaler = StandardScaler()
+        train_x_scaled = statsmodel_scaler.fit_transform((train_x))
+        model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
 
-    train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
-    test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
+        train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
+        test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
 
-    accuracy_train = accuracy_score(train_y,train_y_predict)
-    accuracy_test = accuracy_score(test_y, test_y_predict)
+        accuracy_train = accuracy_score(train_y,train_y_predict)
+        accuracy_test = accuracy_score(test_y, test_y_predict)
 
 
-    print(model.summary())
-    print('metrics train ', accuracy_train)
-    print('metrics test ', accuracy_test)
+        print(model.summary())
+        print('metrics train ', accuracy_train)
+        print('metrics test ', accuracy_test)
+    except:
+        print("could nt do statsmodel")
 
     pipe = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
     #pipe = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto',probability=True))])

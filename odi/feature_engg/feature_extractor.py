@@ -19,12 +19,15 @@ from sklearn.linear_model import LinearRegression
 SELECTED_FIRST_INNINGS_FEATURE_LIST_CACHE = None
 SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE = None
 TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_CACHE = None
+TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_CACHE = None
+TEAM_EMBEDDING_MODEL_CACHE = None
 COUNTRY_ENC_MAP_CACHE = None
 LOC_ENC_MAP_CACHE = None
 BATSMAN_ENC_MAP_CACHE = None
 BOWLER_ENC_MAP_CACHE = None
 LOC_ENC_MAP_FOR_BATSMAN_CACHE = None
 BATSMAN_EMBEDDING_MODEL_CACHE = None
+BATSMAN_ONLY_EMBEDDING_MODEL_CACHE = None
 BATSMAN_EMBEDDING_RUN_MODEL_CACHE = None
 
 ADVERSARIAL_BATSMAN_MODEL_CACHE = None
@@ -627,6 +630,34 @@ def get_oh_pos(pos):
     vec[pos-1]=1
     return vec
 
+def get_country_embedding(team):
+
+    global TEAM_EMBEDDING_MODEL_CACHE
+    global COUNTRY_ENC_MAP_CACHE
+
+    if TEAM_EMBEDDING_MODEL_CACHE is None:
+        TEAM_EMBEDDING_MODEL_CACHE = outil.load_keras_model(outil.MODEL_DIR \
+                                                              + os.sep \
+                                                              + outil.TEAM_EMBEDDING_MODEL)
+
+    team_embedding = TEAM_EMBEDDING_MODEL_CACHE
+
+    if COUNTRY_ENC_MAP_CACHE is None:
+        COUNTRY_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                   + os.sep \
+                                   + outil.COUNTRY_ENCODING_MAP,'rb'))
+    country_enc_map = COUNTRY_ENC_MAP_CACHE
+
+    loc_enc_map = LOC_ENC_MAP_CACHE
+
+    if team not in country_enc_map:
+        raise Exception('Team not available')
+    team_oh_v = np.array(country_enc_map[team]).reshape(1, -1)
+
+    country_embedding = team_embedding.predict([team_oh_v]).reshape(-1)
+
+    return country_embedding
+
 
 def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,ref_date=None):
     global BATSMAN_EMBEDDING_MODEL_CACHE
@@ -722,6 +753,54 @@ def get_batsman_embedding(batsman_list,team,opponent,location,no_of_batsman=7,re
 
     return batsman_embedding_sum
 
+def get_batsman_only_embedding(batsman_list,team,no_of_batsman=7,ref_date=None):
+    global BATSMAN_ONLY_EMBEDDING_MODEL_CACHE
+    global BATSMAN_ENC_MAP_CACHE
+
+
+    if BATSMAN_ONLY_EMBEDDING_MODEL_CACHE is None:
+        BATSMAN_ONLY_EMBEDDING_MODEL_CACHE = outil.load_keras_model(outil.MODEL_DIR \
+                                                   + os.sep
+                                                   + outil.BATSMAN_ONLY_EMBEDDING_MODEL)
+    batsman_embedding = BATSMAN_ONLY_EMBEDDING_MODEL_CACHE
+
+
+    if BATSMAN_ENC_MAP_CACHE is None:
+        BATSMAN_ENC_MAP_CACHE = pickle.load(open(outil.MODEL_DIR \
+                                   + os.sep \
+                                   + outil.BATSMAN_ENCODING_MAP, 'rb'))
+    batsman_enc_map = BATSMAN_ENC_MAP_CACHE
+
+    batsman_oh_list = []
+    # print('getting batsman details')
+    if len(batsman_list)< no_of_batsman:
+        raise Exception("not enough batsman information")
+    for bi,batsman in enumerate(batsman_list):
+
+        if bi == no_of_batsman:
+            break
+        if team.strip() + ' ' + batsman.strip() not in batsman_enc_map:
+            continue
+        batsman_oh = batsman_enc_map[team.strip() + ' ' + batsman.strip()]
+
+        batsman_oh_list.append(batsman_oh)
+
+    if len(batsman_oh_list)==0:
+        raise Exception('No Batsman embedding available for '+team)
+
+    batsman_mat = np.stack(batsman_oh_list)
+    # print('encoding')
+    batsman_group_enc_mat = batsman_embedding.predict([batsman_mat])
+    batsman_embedding_sum = batsman_group_enc_mat.sum(axis=0)
+
+
+    if len(batsman_oh_list)<no_of_batsman:
+        dif = len(batsman_oh_list) - no_of_batsman
+        batsman_embedding_mean = batsman_group_enc_mat.mean(axis=0)
+        batsman_embedding_sum = batsman_embedding_sum+dif*batsman_embedding_mean
+
+    return batsman_embedding_sum
+
 
 def get_first_innings_feature_embedding_vector(team, opponent, location, team_player_list, opponent_player_list,
                                                ref_date=None, no_of_years=None):
@@ -731,10 +810,12 @@ def get_first_innings_feature_embedding_vector(team, opponent, location, team_pl
 
     country_embedding_vector = get_team_opponent_location_embedding(team,opponent,location)
 
-    batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
+    #batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
+    #batsman_embedding_vector = get_batsman_only_embedding(team_player_list, team, ref_date=ref_date)
 
-    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
+    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
     #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
+    final_vector = np.concatenate([country_embedding_vector, feature_vector])
 
     #
     #return country_embedding_vector
@@ -749,12 +830,16 @@ def get_second_innings_feature_embedding_vector(target, team, opponent, location
                                                        ref_date=ref_date, no_of_years=no_of_years)
 
     country_embedding_vector = get_team_opponent_location_embedding(team,opponent,location)
+    # country_embedding_vector = get_country_embedding(team)
 
-    batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
+    # batsman_embedding_vector = get_batsman_embedding(team_player_list, team, opponent, location,ref_date=ref_date)
+    # batsman_embedding_vector = get_batsman_only_embedding(team_player_list, team, ref_date=ref_date)
+    # batsman_embedding_vector = get_batsman_only_embedding(team_player_list, team, ref_date=ref_date)
 
-    final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
+    #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector, feature_vector])
     #final_vector = np.concatenate([batsman_embedding_vector, country_embedding_vector])
     #final_vector = np.concatenate([country_embedding_vector,batsman_embedding_vector, np.array([target])])
+    final_vector = np.concatenate([country_embedding_vector, feature_vector])
 
     return final_vector
 
