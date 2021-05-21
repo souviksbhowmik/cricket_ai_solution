@@ -47,11 +47,32 @@ def get_missing_player_list(href):
     return team_a_list,team_b_list
 
 
+def get_multiple_dates(date_str):
+    y = date_str.split(' ')
+
+    date_str1 = y[0]+' '+y[1].split('-')[0]+','+' '+y[2]
+    date_str2 = y[0]+' '+y[1].split('-')[1]+' '+y[2]
+    return date_str1, date_str2
+
 def create_not_batted_list(year_list,mode='a'):
     dict_list = []
+    # create a dummy entry
+    dummy = {}
+    dummy['team_a']='dummy1'
+    dummy['team_b'] = 'dummy2'
+    dummy['venue']='dummy'
+    dummy['date']=datetime.today()
+    dummy['href']='/dummy/'
+    for i in range(11):
+        dummy["team_a_batsman_" + str(i + 1)] = 'dummy_player_' + str(i + 1)
+        dummy["team_b_batsman_" + str(i + 1)] = 'dummy_player_' + str(i + 1)
+
+    dict_list.append(dummy)
+    # end of dummy entry
     for year in tqdm(year_list):
         year = str(year)
         link = 'https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;id='+year+';type=year'
+        #print('link :',link)
         page = requests.get(link)
         soup = BeautifulSoup(page.content, 'html.parser')
         all_tbody = soup.find_all('tbody')
@@ -60,6 +81,7 @@ def create_not_batted_list(year_list,mode='a'):
         for tr in tqdm(all_tr):
             try:
                 row_dict = {}
+                alt_date = None
                 for idx,td in enumerate(tr.find_all('td')):
                     if idx==0:
                         row_dict['team_a']=td.text.strip()
@@ -69,8 +91,14 @@ def create_not_batted_list(year_list,mode='a'):
                         row_dict['venue'] = td.text.strip()
 
                     elif idx == 5:
-                        date = datetime.strptime(td.text.strip(), '%b %d, %Y')
-                        row_dict['date'] = date
+                        if '-' not in td.text.strip():
+                            date = datetime.strptime(td.text.strip(), '%b %d, %Y')
+                            row_dict['date'] = date
+                        else:
+                            date_str_1,date_str_2 = get_multiple_dates(td.text.strip())
+                            date = datetime.strptime(date_str_1, '%b %d, %Y')
+                            alt_date = datetime.strptime(date_str_2, '%b %d, %Y')
+                            row_dict['date'] = date
 
                     elif idx==6:
 
@@ -95,8 +123,14 @@ def create_not_batted_list(year_list,mode='a'):
                     else:
                         pass
 
-
                 dict_list.append(row_dict)
+                if alt_date is not None:
+                    copy_row_dict = dict(row_dict)
+                    copy_row_dict['date']=alt_date
+                    dict_list.append(copy_row_dict)
+                # print(row_dict)
+                # print("============")
+                # break
             except Exception  as ex:
                 print(ex,' skipped ')
 
