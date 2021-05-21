@@ -93,12 +93,12 @@ def create_not_batted_list(year_list,mode='a'):
                     elif idx == 5:
                         if '-' not in td.text.strip():
                             date = datetime.strptime(td.text.strip(), '%b %d, %Y')
-                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d')
+                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d').strip()
                         else:
                             date_str_1,date_str_2 = get_multiple_dates(td.text.strip())
                             date = datetime.strptime(date_str_1, '%b %d, %Y')
                             alt_date = datetime.strptime(date_str_2, '%b %d, %Y')
-                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d')
+                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d').strip()
 
                     elif idx==6:
 
@@ -126,7 +126,7 @@ def create_not_batted_list(year_list,mode='a'):
                 dict_list.append(row_dict)
                 if alt_date is not None:
                     copy_row_dict = dict(row_dict)
-                    copy_row_dict['date']=datetime.strftime(alt_date, '%Y-%m-%d')
+                    copy_row_dict['date']=datetime.strftime(alt_date, '%Y-%m-%d').strip()
                     dict_list.append(copy_row_dict)
                 # print(row_dict)
                 # print("============")
