@@ -61,7 +61,7 @@ def create_not_batted_list(year_list,mode='a'):
     dummy['team_a']='dummy1'
     dummy['team_b'] = 'dummy2'
     dummy['venue']='dummy'
-    dummy['date']=datetime.today()
+    dummy['date']=datetime.strftime(datetime.today(), '%Y-%m-%d').strip()
     dummy['href']='/dummy/'
     for i in range(11):
         dummy["team_a_batsman_" + str(i + 1)] = 'dummy_player_' + str(i + 1)
@@ -123,6 +123,7 @@ def create_not_batted_list(year_list,mode='a'):
                     else:
                         pass
 
+                #print("row_dict ",row_dict)
                 dict_list.append(row_dict)
                 if alt_date is not None:
                     copy_row_dict = dict(row_dict)
@@ -130,19 +131,20 @@ def create_not_batted_list(year_list,mode='a'):
                     dict_list.append(copy_row_dict)
                 # print(row_dict)
                 # print("============")
-                # break
+                #break
             except Exception  as ex:
                 print(ex,' skipped ')
 
 
+    #print(dict_list)
     data_df = pd.DataFrame(dict_list)
 
-    data_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'not_batted.csv',index=False)
-    data_df.drop_duplicates(subset=['team_a','team_b','date'],inplace=True)
 
     if mode is None or mode!='a':
+        #print("mode new ",mode)
         data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv', index=False)
     else:
+        #print("mode append ",mode)
         data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv', index=False, mode='a',header=False)
 
 @click.group()
