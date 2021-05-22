@@ -366,10 +366,10 @@ def download_matches(year_list,mode='a'):
 
                 row_dict['toss_winner'] = toss_winner
                 row_dict['first_innings_run'] = total_runs_first
-                row_dict['first_innings_low'] = loss_of_wickets_first
+                row_dict['first_innings_fow'] = loss_of_wickets_first
                 row_dict['first_innings_extras'] = extras_first
                 row_dict['second_innings_run'] = total_runs_first
-                row_dict['second_innings_low'] = loss_of_wickets_first
+                row_dict['second_innings_fow'] = loss_of_wickets_first
                 row_dict['second_innings_extras'] = extras_first
                 match_list.append(row_dict)
 
@@ -447,6 +447,7 @@ def get_match_statistics(href,first_innings,second_innings,date):
     return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner,\
            total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second
 
+
 def get_batting(table,team,innings_type,date):
     innings_batting = []
     not_batted_list = None
@@ -455,11 +456,6 @@ def get_batting(table,team,innings_type,date):
     total_runs = None
     loss_of_wickets = None
     for tr in table.find_all("tr"):
-        batting_dict = {}
-        batting_dict["team"]=team
-        batting_dict["batting_innings"] = innings_type
-        batting_dict["date"] = date
-        batting_dict["did_bat"] = 1
 
         if 'fall of wickets' in tr.text.lower():
             continue
@@ -486,6 +482,11 @@ def get_batting(table,team,innings_type,date):
         else:
             pass
 
+        batting_dict = {}
+        batting_dict["team"] = team
+        batting_dict["batting_innings"] = innings_type
+        batting_dict["date"] = date
+        batting_dict["did_bat"] = 1
 
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
@@ -533,7 +534,7 @@ def get_batting(table,team,innings_type,date):
 
             batting_dict = {}
             batting_dict["team"] = team
-            batting_dict["innings"] = innings_type
+            batting_dict["batting_innings"] = innings_type
             batting_dict["date"] = date
             batting_dict["did_bat"] = 0
             batting_dict['name'] = player.strip()
@@ -553,12 +554,14 @@ def get_batting(table,team,innings_type,date):
 def get_bowling(table,team,innings_type,date):
     innings_bowling = []
     for tr in table.find_all("tr"):
-        bowling_dict = {}
-        bowling_dict["team"]=team
-        bowling_dict["bowling_innings"] = innings_type
-        bowling_dict["date"] = date
+
         if tr.text.strip() =='':
             continue
+
+        bowling_dict = {}
+        bowling_dict["team"] = team
+        bowling_dict["bowling_innings"] = innings_type
+        bowling_dict["date"] = date
 
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
