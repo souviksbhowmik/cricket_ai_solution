@@ -14,7 +14,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import dateutil
 
-
+include_list = ['Sri Lanka', 'New Zealand', 'England', 'West Indies', 'Bangladesh', 'India', 'Pakistan', 'Australia', 'South Africa']
 def get_missing_player_list(href):
     link = 'https://stats.espncricinfo.com'+href
     match_page = requests.get(link)
@@ -294,6 +294,251 @@ def remove_incorrect_matches():
     match_list = match_list[match_list['match_id'].isin(keep_list)]
     match_list.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv',index=False)
 
+
+def download_matches(year_list,mode='a'):
+    match_list = []
+    batting_list = []
+    bowling_list = []
+    for year in tqdm(year_list):
+        year = str(year)
+        link = 'https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;id='+year+';type=year'
+        #print('link :',link)
+        page = requests.get(link)
+        soup = BeautifulSoup(page.content, 'html.parser')
+        all_tbody = soup.find_all('tbody')
+        all_tr = all_tbody[0].find_all('tr')
+
+        for tr in tqdm(all_tr):
+            try:
+                row_dict = {}
+                alt_date = None
+                for idx,td in enumerate(tr.find_all('td')):
+                    if idx==0:
+                        row_dict['first_innings']=td.text.strip()
+                        if row_dict['first_innings'] not in include_list:
+                            continue
+                    elif idx==1:
+                        row_dict['second_innings'] = td.text.strip()
+                        if row_dict['second_innings'] not in include_list:
+                            continue
+                    elif idx==2:
+                        row_dict['winner'] = td.text.strip()
+                    elif idx==2:
+                        if 'runs' in td.text.strip():
+                            row_dict['win_by'] = "runs"
+                            row_dict["win_by_runs"] = td.text.strip()
+                            row_dict["win_by_count"] = td.text.strip()
+                        elif "wickets" in td.text.strip():
+                            row_dict['win_by'] = "wickets"
+                            row_dict["win_by_wickets"] = td.text.strip()
+                            row_dict["win_by_count"] = td.text.strip()
+                        else:
+                            row_dict["win_by"] = "not_applicable"
+                            row_dict["win_by_wickets"] = 0
+                            row_dict["win_by_count"] = 0
+                    elif idx==4:
+                        row_dict['location'] = td.text.strip()
+
+                    elif idx == 5:
+                        if '-' not in td.text.strip():
+                            date = datetime.strptime(td.text.strip(), '%b %d, %Y')
+                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d').strip()
+                        else:
+                            date_str_1,date_str_2 = get_multiple_dates(td.text.strip())
+                            date = datetime.strptime(date_str_1, '%b %d, %Y')
+                            alt_date = datetime.strptime(date_str_2, '%b %d, %Y')
+                            row_dict['date'] = datetime.strftime(date, '%Y-%m-%d').strip()
+
+                    elif idx==6:
+
+                        href = td.find_all('a')[0].get("href")
+                        row_dict['href'] =href
+
+
+                    else:
+                        pass
+
+                first_innings_batting, first_innings_bowling, second_innings_batting, second_innings_bowling, toss_winner=get_match_statistics(row_dict['href'], row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
+                row_dict['toss_winner'] = toss_winner
+                match_list.append(row_dict)
+
+                batting_list = batting_list + first_innings_batting + second_innings_batting
+                bowling_list = bowling_list + first_innings_bowling + second_innings_bowling
+
+                # if alt_date is not None:
+                #     copy_row_dict = dict(row_dict)
+                #     copy_row_dict['date']=datetime.strftime(alt_date, '%Y-%m-%d').strip()
+                #     match_list.append(copy_row_dict)
+                # print(row_dict)
+                # print("============")
+                #break
+            except Exception  as ex:
+                print(ex,' skipped ')
+
+
+    #print(dict_list)
+    data_df = pd.DataFrame(match_list)
+    batting_df = pd.DataFrame(batting_list)
+    bowling_df = pd.DataFrame(bowling_list)
+
+
+    if mode is None or mode!='a':
+        #print("mode new ",mode)
+        data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_match_list.csv', index=False)
+        batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False)
+        bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_mbowling.csv', index=False)
+    else:
+        #print("mode append ",mode)
+        data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_match_list.csv', index=False, mode='a',header=False)
+        batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False, mode='a', header=False)
+        bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv', index=False, mode='a', header=False)
+
+def get_match_statistics(href,first_innings,second_innings,date):
+
+    first_innings_batting =[]
+    first_innings_bowling = []
+    second_innings_batting = []
+    second_innings_bowling = []
+    toss_winner = None
+
+    link = 'https://stats.espncricinfo.com' + href
+    match_page = requests.get(link)
+    match_soup = BeautifulSoup(match_page.content, 'html.parser')
+    for idx, table in enumerate(match_soup.find_all("table")):
+        if idx == 0:
+            first_innings_batting = get_batting(table,first_innings,"first",date)
+        elif idx==1:
+            first_innings_bowling = get_bowling(table,second_innings,"first",date)
+        elif idx == 2:
+            second_innings_batting = get_batting(table,second_innings,"second",date)
+        elif idx==3:
+            second_innings_bowling = get_bowling(table,first_innings,"second",date)
+        elif idx == 4:
+            for tr in table.find_all("tr"):
+                if "toss" in tr.text.lower():
+                    if first_innings in tr.text:
+                        toss_winner = first_innings
+                    else:
+                        toss_winner = second_innings
+
+        else:
+            pass
+
+
+
+    return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner
+
+def get_batting(table,team,innings_type,date):
+    innings_batting = []
+    not_batted_list = None
+    batting_pos = 0
+    for tr in table.find_all("tr"):
+        batting_dict = {}
+        batting_dict["team"]=team
+        batting_dict["batting_innings"] = innings_type
+        batting_dict["date"] = date
+        batting_dict["did_bat"] = 1
+        for td_idx,td in enumerate(tr.find_all('td')):
+            if td_idx == 0:
+                if td.text.strip() == '':
+                    continue
+                elif 'fall of wickets' in td.text.lower():
+                    pass
+                elif 'did not bat' in td.text.lower():
+                    info = td.text
+                    not_batted_list = info.split(':')[1].split(',')
+                else:
+                    batting_dict['name']=td.text.strip()
+                    batting_pos = batting_pos+1
+                    batting_dict['position'] = batting_pos
+            elif td_idx == 1:
+                if 'not out' in td.text.lower():
+                    batting_dict['is_out']=0
+                else:
+                    batting_dict['is_out'] = 1
+            elif td_idx == 2:
+                batting_dict['runs'] = td.text.strip()
+            elif td_idx == 3:
+                batting_dict['balls'] = td.text.strip()
+            elif td_idx == 4:
+                batting_dict['m'] = td.text.strip()
+            elif td_idx == 5:
+                batting_dict['4s'] = td.text.strip()
+            elif td_idx == 6:
+                batting_dict['6s'] = td.text.strip()
+            elif td_idx == 7:
+                batting_dict['sr'] = td.text.strip()
+            else:
+                pass
+
+        innings_batting.append(batting_dict)
+
+    if not_batted_list is not None and len(not_batted_list)>0:
+        for player in not_batted_list:
+
+            batting_dict = {}
+            batting_dict["team"] = team
+            batting_dict["innings"] = innings_type
+            batting_dict["date"] = date
+            batting_dict["did_bat"] = 0
+            batting_dict['name'] = player.strip()
+            batting_pos = batting_pos + 1
+            batting_dict['position'] = batting_pos
+            batting_dict['runs'] = 0
+            batting_dict['balls'] = 0
+            batting_dict['m'] = 0
+            batting_dict['4s'] = 0
+            batting_dict['6s'] = 0
+            batting_dict['sr'] = 0
+
+            innings_batting.append(batting_dict)
+
+    return innings_batting
+
+def get_bowling(table,team,innings_type,date):
+    innings_bowling = []
+    for tr in table.find_all("tr"):
+        bowling_dict = {}
+        bowling_dict["team"]=team
+        bowling_dict["bowling_innings"] = innings_type
+        bowling_dict["date"] = date
+
+        for td_idx,td in enumerate(tr.find_all('td')):
+            if td_idx == 0:
+                if td.text.strip() == '':
+                    continue
+                else:
+                    bowling_dict['name']=td.text.strip()
+            elif td_idx ==1:
+                bowling_dict['overs'] = td.text.strip()
+            elif td_idx ==2:
+                bowling_dict['maidens'] = td.text.strip()
+            elif td_idx ==3:
+                bowling_dict['runs'] = td.text.strip()
+            elif td_idx ==4:
+                bowling_dict['wickets'] = td.text.strip()
+            elif td_idx ==5:
+                bowling_dict['econ'] = td.text.strip()
+            elif td_idx ==6:
+                bowling_dict['0s'] = td.text.strip()
+            elif td_idx ==7:
+                bowling_dict['4s'] = td.text.strip()
+            elif td_idx ==8:
+                bowling_dict['6s'] = td.text.strip()
+            elif td_idx ==9:
+                bowling_dict['wd'] = td.text.strip()
+            elif td_idx ==9:
+                bowling_dict['nb'] = td.text.strip()
+            else:
+                pass
+
+        innings_bowling.append(bowling_dict)
+
+
+        return innings_bowling
+
+
+
 @click.group()
 def scrapper():
     pass
@@ -314,6 +559,13 @@ def update_stats(start_date, end_date):
 @scrapper.command()
 def remove_incorrect():
     remove_incorrect_matches()
+
+@scrapper.command()
+@click.option('--year_list', multiple=True, help='list of years.')
+@click.option('--append', default='a', help='a for append,n for refresh.')
+def load_match_cricinfo(year_list,append):
+    year_list = list(year_list)
+    download_matches(year_list, mode=append)
 
 
 
