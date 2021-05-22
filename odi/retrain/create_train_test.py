@@ -405,8 +405,7 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
 
         # if len(team_player_list) + len(team_bowler_list) == 11:
         #     team_player_list = team_player_list + team_bowler_list
-        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date=ref_date,
-                                                     no_of_batsman=7)
+        #team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date=ref_date,no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):
@@ -608,7 +607,7 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
         # if len(team_player_list) + len(team_bowler_list) == 11:
         #     team_player_list = team_player_list + team_bowler_list
-        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date = ref_date, no_of_batsman=7)
+        #team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date = ref_date, no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):
@@ -727,8 +726,7 @@ def create_first_innings_train_test(train_start,test_start,test_end=None):
 
         # if len(team_player_list) + len(team_bowler_list) ==11:
         #     team_player_list = team_player_list+team_bowler_list
-        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date=ref_date,
-                                                     no_of_batsman=7)
+        #team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date=ref_date,no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):
@@ -841,9 +839,9 @@ def create_second_innings_train_test(train_start,test_start,test_end=None):
 
         # if len(team_player_list) + len(team_bowler_list) ==11:
         #     team_player_list = team_player_list+team_bowler_list
-        team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list,
-                                                     ref_date=ref_date,
-                                                     no_of_batsman=7)
+        # team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list,
+        #                                              ref_date=ref_date,
+        #                                              no_of_batsman=7)
 
         opponent_player_list = list()
         for boi in range(11):
@@ -1278,7 +1276,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
 
         # if len(team_batsman_list+temp_team_bowler_list) == 11:
         #     team_batsman_list = team_batsman_list+temp_team_bowler_list
-        team_batsman_list =fe.complete_batting_order(team,team_batsman_list,team_bowler_list,ref_date=ref_date)
+        #team_batsman_list =fe.complete_batting_order(team,team_batsman_list,team_bowler_list,ref_date=ref_date)
 
         opponent_batsman_list = list()
         for i in range(11):
@@ -1302,7 +1300,7 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
         # if len(opponent_batsman_list+temp_opponent_bowler_list)==11:
         #     opponent_batsman_list = opponent_batsman_list+temp_opponent_bowler_list
 
-        opponent_batsman_list = fe.complete_batting_order(opponent, opponent_batsman_list, opponent_bowler_list, ref_date=ref_date)
+        #opponent_batsman_list = fe.complete_batting_order(opponent, opponent_batsman_list, opponent_bowler_list, ref_date=ref_date)
 
 
         # print("team ",team)

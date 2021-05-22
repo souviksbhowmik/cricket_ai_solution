@@ -50,14 +50,14 @@
   },
   "team_opponent_location_embedding": {
     "train_metrics": [
-      3541.733642578125,
-      21.645198822021484,
-      45.57804489135742
+      3740.081787109375,
+      21.173429489135742,
+      46.301265716552734
     ],
     "test_metrics": [
-      4194.3525390625,
-      20.989952087402344,
-      50.714630126953125
+      4625.21435546875,
+      20.275922775268555,
+      54.096126556396484
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -125,16 +125,16 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      22.239875462550877,
-      46.97705550388583,
-      3610.4870562625188,
-      0.09071069789533381
+      20.451725434394586,
+      44.81663067265214,
+      3348.187166866267,
+      0.12335535837204503
     ],
     "test_metrics": [
-      21.367424860404157,
-      48.670137866210126,
-      4032.1673385922813,
-      0.09071069789533381
+      19.220650560468087,
+      49.31484217227363,
+      3720.9420233989963,
+      0.12335535837204503
     ],
     "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum']",
     "files": [
@@ -161,8 +161,8 @@
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.7636022514071295,
-    "test_metrics": 0.8271604938271605,
+    "train_metrics": 0.8,
+    "test_metrics": 0.8333333333333334,
     "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
@@ -204,16 +204,16 @@
   },
   "first_innings_model": {
     "train_metrics": [
-      20.31293317669145,
-      43.39318352530644,
-      3054.3715295290785,
-      0.19871517298807606
+      24.19556092770617,
+      55.20449756851077,
+      4995.892697640242,
+      0.2363500047780609
     ],
     "test_metrics": [
-      21.353751164555383,
-      49.26163603249432,
-      4161.124282958782,
-      0.19871517298807606
+      23.302720570207736,
+      59.712392796806384,
+      5884.388213790191,
+      0.2363500047780609
     ],
     "info": "metrics is mape,mae,mse,adjusted r squared - selected ",
     "files": [
@@ -221,8 +221,8 @@
     ]
   },
   "second_innings_model": {
-    "train_metrics": 0.7636022514071295,
-    "test_metrics": 0.8356164383561644,
+    "train_metrics": 0.8175438596491228,
+    "test_metrics": 0.868421052631579,
     "info": "metrics is accuracy",
     "files": [
       "second_innings_model.pkl"
@@ -236,20 +236,20 @@
   },
   "first_innings_trend_prediction_metrics": {
     "train_metrics": [
-      32.107109082123934,
-      33.82085686730521,
-      32.29066071312751,
-      24.396379717402272,
-      25.03062894511714,
-      23.82971674771852
+      31.68406982248482,
+      32.52695632374903,
+      27.489616529305053,
+      22.49212778419056,
+      23.979630059641178,
+      23.149862243792562
     ],
     "test_metrics": [
-      29.768140024194636,
-      34.9082882779756,
-      31.991658518669745,
-      21.899338105615623,
-      27.703968719662853,
-      23.227245057751354
+      28.7315201057065,
+      27.56637372096703,
+      25.844518736663236,
+      20.72515040382248,
+      23.915762288005663,
+      20.479970383451747
     ],
     "info": "metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,mape_opponent_mean, mape_location_mean, mape_current_mean ",
     "files": [
@@ -454,20 +454,20 @@
   },
   "combined_model_fi_False_si_False": {
     "train_metrics": [
-      0.6341463414634146,
-      0.6353383458646616,
-      0.6329588014981273,
-      0.6341463414634145
+      0.6619217081850534,
+      0.6818181818181818,
+      0.8083832335329342,
+      0.7397260273972602
     ],
     "test_metrics": [
-      0.6666666666666666,
-      0.7297297297297297,
-      0.6136363636363636,
-      0.6666666666666666,
-      0.654320987654321,
-      0.7352941176470589,
-      0.5681818181818182,
-      0.641025641025641
+      0.7317073170731707,
+      0.8064516129032258,
+      0.8333333333333334,
+      0.819672131147541,
+      0.7073170731707317,
+      0.8,
+      0.8,
+      0.8000000000000002
     ],
     "info": "metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
     "files": [
