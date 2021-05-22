@@ -326,11 +326,11 @@ def download_matches(year_list,mode='a'):
                     elif idx==3:
                         if 'runs' in td.text.strip():
                             row_dict['win_by'] = "runs"
-                            row_dict["win_by_runs"] = td.text.strip()
+                            row_dict["win_by_runs"] = td.text.strip().split(' ')[0]
                             row_dict["win_by_count"] = td.text.strip()
                         elif "wickets" in td.text.strip():
                             row_dict['win_by'] = "wickets"
-                            row_dict["win_by_wickets"] = td.text.strip()
+                            row_dict["win_by_wickets"] = td.text.strip().split(' ')[0]
                             row_dict["win_by_count"] = td.text.strip()
                         else:
                             row_dict["win_by"] = "not_applicable"
