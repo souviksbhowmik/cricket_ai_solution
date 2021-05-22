@@ -515,6 +515,7 @@ def get_batting(table,team,innings_type,date):
                     batting_dict['is_out']=0
                 else:
                     batting_dict['is_out'] = 1
+                batting_dict['wicket_type'] = td.text
             elif td_idx == 2:
                 batting_dict['runs'] = td.text.strip()
             elif td_idx == 3:
