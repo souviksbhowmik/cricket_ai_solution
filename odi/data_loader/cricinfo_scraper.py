@@ -358,8 +358,19 @@ def download_matches(year_list,mode='a'):
                     else:
                         pass
 
-                first_innings_batting, first_innings_bowling, second_innings_batting, second_innings_bowling, toss_winner=get_match_statistics(row_dict['href'], row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
+                first_innings_batting, first_innings_bowling, \
+                second_innings_batting, second_innings_bowling, toss_winner, \
+                total_runs_first,loss_of_wickets_first,extras_first,\
+                total_runs_second,loss_of_wickets_second,extras_second=\
+               get_match_statistics(row_dict['href'], row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
+
                 row_dict['toss_winner'] = toss_winner
+                row_dict['first_innings_run'] = total_runs_first
+                row_dict['first_innings_low'] = loss_of_wickets_first
+                row_dict['first_innings_extras'] = extras_first
+                row_dict['second_innings_run'] = total_runs_first
+                row_dict['second_innings_low'] = loss_of_wickets_first
+                row_dict['second_innings_extras'] = extras_first
                 match_list.append(row_dict)
 
                 batting_list = batting_list + first_innings_batting + second_innings_batting
@@ -374,6 +385,7 @@ def download_matches(year_list,mode='a'):
                 #break
             except Exception  as ex:
                 print(ex,' skipped ')
+                #raise ex
 
 
     #print(dict_list)
@@ -386,7 +398,7 @@ def download_matches(year_list,mode='a'):
         #print("mode new ",mode)
         data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_match_list.csv', index=False)
         batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False)
-        bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_mbowling.csv', index=False)
+        bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv', index=False)
     else:
         #print("mode append ",mode)
         data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_match_list.csv', index=False, mode='a',header=False)
@@ -400,17 +412,23 @@ def get_match_statistics(href,first_innings,second_innings,date):
     second_innings_batting = []
     second_innings_bowling = []
     toss_winner = None
+    total_runs_first = None
+    loss_of_wickets_first = None
+    extras_first = None
+    total_runs_second = None
+    loss_of_wickets_second= None
+    extras_second = None
 
     link = 'https://stats.espncricinfo.com' + href
     match_page = requests.get(link)
     match_soup = BeautifulSoup(match_page.content, 'html.parser')
     for idx, table in enumerate(match_soup.find_all("table")):
         if idx == 0:
-            first_innings_batting = get_batting(table,first_innings,"first",date)
+            first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,first_innings,"first",date)
         elif idx==1:
             first_innings_bowling = get_bowling(table,second_innings,"first",date)
         elif idx == 2:
-            second_innings_batting = get_batting(table,second_innings,"second",date)
+            second_innings_batting,total_runs_second,loss_of_wickets_second,extras_second = get_batting(table,second_innings,"second",date)
         elif idx==3:
             second_innings_bowling = get_bowling(table,first_innings,"second",date)
         elif idx == 4:
@@ -426,18 +444,49 @@ def get_match_statistics(href,first_innings,second_innings,date):
 
 
 
-    return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner
+    return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner,\
+           total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second
 
 def get_batting(table,team,innings_type,date):
     innings_batting = []
     not_batted_list = None
     batting_pos = 0
+    extras = None
+    total_runs = None
+    loss_of_wickets = None
     for tr in table.find_all("tr"):
         batting_dict = {}
         batting_dict["team"]=team
         batting_dict["batting_innings"] = innings_type
         batting_dict["date"] = date
         batting_dict["did_bat"] = 1
+
+        if 'fall of wickets' in tr.text.lower():
+            continue
+        elif 'did not bat' in tr.text.lower():
+            info = tr.find_all('td')[0].text
+            not_batted_list = info.split(':')[1].split(',')
+            continue
+        elif 'extras' in tr.text.lower():
+            if len(tr.find_all('td'))>=3:
+                extras = tr.find_all('td')[2].text
+            continue
+        elif 'total' in tr.text.lower():
+            if len(tr.find_all('td')) >= 3:
+                info = tr.find_all('td')[2].text
+                #print("=========",info)
+                total_runs = info.split('/')[0]
+                if len(info.split('/'))==2:
+                    loss_of_wickets = info.split('/')[1]
+                else:
+                    loss_of_wickets = 10
+            continue
+        elif tr.text.strip() =='':
+            continue
+        else:
+            pass
+
+
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
                 if td.text.strip() == '':
@@ -447,6 +496,12 @@ def get_batting(table,team,innings_type,date):
                 elif 'did not bat' in td.text.lower():
                     info = td.text
                     not_batted_list = info.split(':')[1].split(',')
+                elif 'extras' in td.text.lower():
+                    info = td.text
+                    pass
+                elif 'total' in td.text.lower():
+                    info = td.text
+                    pass
                 else:
                     batting_dict['name']=td.text.strip()
                     batting_pos = batting_pos+1
@@ -493,7 +548,7 @@ def get_batting(table,team,innings_type,date):
 
             innings_batting.append(batting_dict)
 
-    return innings_batting
+    return innings_batting,total_runs,loss_of_wickets,extras
 
 def get_bowling(table,team,innings_type,date):
     innings_bowling = []
@@ -502,6 +557,8 @@ def get_bowling(table,team,innings_type,date):
         bowling_dict["team"]=team
         bowling_dict["bowling_innings"] = innings_type
         bowling_dict["date"] = date
+        if tr.text.strip() =='':
+            continue
 
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
@@ -535,7 +592,7 @@ def get_bowling(table,team,innings_type,date):
         innings_bowling.append(bowling_dict)
 
 
-        return innings_bowling
+    return innings_bowling
 
 
 
