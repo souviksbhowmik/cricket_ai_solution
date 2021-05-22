@@ -1,0 +1,967 @@
+match_id,date,location,first_innings,second_innings,winner,win_by,win_dif,toss_winner,player_of_match
+661689,2014-01-01,Queenstown Events Centre,New Zealand,West Indies,New Zealand,runs,159,West Indies,CJ Anderson
+661693,2014-01-08,Hamilton,West Indies,New Zealand,West Indies,runs,203,New Zealand,DJ Bravo
+636159,2014-01-12,Melbourne Cricket Ground,England,Australia,Australia,wickets,6,England,AJ Finch
+636160,2014-01-17,Brisbane,England,Australia,Australia,wickets,1,England,JP Faulkner
+667641,2014-01-19,Napier,New Zealand,India,New Zealand,runs,24,India,CJ Anderson
+636161,2014-01-19,Sydney Cricket Ground,England,Australia,Australia,wickets,7,England,DA Warner
+636162,2014-01-24,Perth,England,Australia,England,runs,57,Australia,BA Stokes
+636163,2014-01-26,Adelaide Oval,Australia,England,Australia,runs,5,Australia,JP Faulkner
+667647,2014-01-28,Hamilton,India,New Zealand,New Zealand,wickets,7,India,LRPL Taylor
+667649,2014-01-31,Wellington,New Zealand,India,New Zealand,runs,87,India,LRPL Taylor
+690355,2014-02-17,Mirpur,Sri Lanka,Bangladesh,Sri Lanka,runs,13,Bangladesh,NLTC Perera
+690357,2014-02-20,Mirpur,Sri Lanka,Bangladesh,Sri Lanka,runs,61,Sri Lanka,KC Sangakkara
+690359,2014-02-22,Mirpur,Bangladesh,Sri Lanka,Sri Lanka,wickets,6,Sri Lanka,MDKJ Perera
+710291,2014-02-25,Fatullah,Sri Lanka,Pakistan,Sri Lanka,runs,12,Sri Lanka,SL Malinga
+710293,2014-02-26,Fatullah,Bangladesh,India,India,wickets,6,India,V Kohli
+710297,2014-02-28,Fatullah,India,Sri Lanka,Sri Lanka,wickets,2,Sri Lanka,KC Sangakkara
+636533,2014-02-28,Antigua,West Indies,England,West Indies,runs,15,England,DJ Bravo
+710301,2014-03-02,Mirpur,India,Pakistan,Pakistan,wickets,1,Pakistan,Mohammad Hafeez
+636534,2014-03-02,Antigua,West Indies,England,England,wickets,3,England,SD Parry
+710305,2014-03-04,Mirpur,Bangladesh,Pakistan,Pakistan,wickets,3,Bangladesh,Shahid Afridi
+636535,2014-03-05,Antigua,England,West Indies,England,runs,25,West Indies,JE Root
+710309,2014-03-06,Mirpur,Bangladesh,Sri Lanka,Sri Lanka,wickets,3,Bangladesh,AD Mathews
+710311,2014-03-08,Mirpur,Pakistan,Sri Lanka,Sri Lanka,wickets,5,Pakistan,SL Malinga
+667891,2014-05-25,Chester-le-Street,Sri Lanka,England,Sri Lanka,runs,157,England,TM Dilshan
+667893,2014-05-28,Manchester,Sri Lanka,England,England,wickets,10,England,CJ Jordan
+667895,2014-05-31,London,Sri Lanka,England,Sri Lanka,runs,7,England,JC Buttler
+667897,2014-06-03,Birmingham,England,Sri Lanka,Sri Lanka,wickets,6,England,HDRL Thirimanne
+730083,2014-07-06,Colombo,South Africa,Sri Lanka,South Africa,runs,75,South Africa,HM Amla
+730085,2014-07-09,Pallekele International Cricket Stadium,Sri Lanka,South Africa,Sri Lanka,runs,87,Sri Lanka,TM Dilshan
+730087,2014-07-12,Hambantota,South Africa,Sri Lanka,South Africa,runs,82,South Africa,AB de Villiers
+730287,2014-08-20,Grenada,Bangladesh,West Indies,West Indies,wickets,3,West Indies,KA Pollard
+730289,2014-08-22,Grenada,West Indies,Bangladesh,West Indies,runs,177,Bangladesh,SP Narine
+730291,2014-08-25,St Kitts,West Indies,Bangladesh,West Indies,runs,91,West Indies,D Ramdin
+745161,2014-08-26,Hambantota,Sri Lanka,Pakistan,Sri Lanka,runs,77,Sri Lanka,NLTC Perera
+736445,2014-08-27,Harare Sports Club,Australia,South Africa,South Africa,wickets,7,South Africa,AB de Villiers
+667725,2014-08-30,Nottingham,England,India,India,wickets,6,India,R Ashwin
+736451,2014-09-02,Harare Sports Club,Australia,South Africa,Australia,runs,62,South Africa,MR Marsh
+667727,2014-09-02,Birmingham,England,India,India,wickets,9,India,AM Rahane
+667729,2014-09-05,Leeds,England,India,England,runs,41,India,JE Root
+736455,2014-09-06,Harare Sports Club,Australia,South Africa,South Africa,wickets,6,South Africa,DW Steyn
+727919,2014-10-07,Sharjah Cricket Stadium,Australia,Pakistan,Australia,runs,93,Australia,SPD Smith
+770121,2014-10-08,Kochi,West Indies,India,West Indies,runs,124,India,MN Samuels
+727921,2014-10-10,Dubai International Cricket Stadium,Pakistan,Australia,Australia,wickets,5,Pakistan,GJ Maxwell
+770123,2014-10-11,Delhi,India,West Indies,India,runs,48,India,Mohammed Shami
+727923,2014-10-12,Abu Dhabi,Australia,Pakistan,Australia,runs,1,Australia,GJ Maxwell
+770127,2014-10-17,Dharmasala,India,West Indies,India,runs,59,West Indies,V Kohli
+749771,2014-10-21,Mount Maunganui,New Zealand,South Africa,South Africa,wickets,6,South Africa,AB de Villiers
+749773,2014-10-24,Mount Maunganui,South Africa,New Zealand,South Africa,runs,72,New Zealand,HM Amla
+792289,2014-11-02,Cuttack,India,Sri Lanka,India,runs,169,Sri Lanka,AM Rahane
+792291,2014-11-06,Ahmedabad,Sri Lanka,India,India,wickets,6,Sri Lanka,AT Rayudu
+792293,2014-11-09,Hyderabad,Sri Lanka,India,India,wickets,6,Sri Lanka,DPMD Jayawardene
+792295,2014-11-13,Kolkata,India,Sri Lanka,India,runs,153,India,RG Sharma
+754723,2014-11-14,Perth,Australia,South Africa,Australia,runs,32,South Africa,NM Coulter-Nile
+792297,2014-11-16,Ranchi,Sri Lanka,India,India,wickets,3,Sri Lanka,AD Mathews
+754725,2014-11-16,Perth,Australia,South Africa,South Africa,wickets,3,Australia,M Morkel
+754727,2014-11-19,Canberra,Australia,South Africa,Australia,runs,73,Australia,SPD Smith
+754729,2014-11-21,Melbourne Cricket Ground,South Africa,Australia,Australia,wickets,3,South Africa,SPD Smith
+750663,2014-11-26,Colombo,Sri Lanka,England,Sri Lanka,runs,25,England,TM Dilshan
+750665,2014-11-29,Colombo,England,Sri Lanka,Sri Lanka,wickets,8,England,DPMD Jayawardene
+750669,2014-12-07,Colombo,England,Sri Lanka,Sri Lanka,wickets,6,England,KC Sangakkara
+742619,2014-12-08,Dubai International Cricket Stadium,New Zealand,Pakistan,Pakistan,wickets,3,Pakistan,Haris Sohail
+750671,2014-12-10,Pallekele International Cricket Stadium,Sri Lanka,England,England,wickets,5,England,JE Root
+742621,2014-12-12,Sharjah Cricket Stadium,Pakistan,New Zealand,New Zealand,wickets,4,Pakistan,KS Williamson
+750673,2014-12-13,Pallekele International Cricket Stadium,Sri Lanka,England,Sri Lanka,runs,90,Sri Lanka,KC Sangakkara
+742623,2014-12-14,Sharjah Cricket Stadium,Pakistan,New Zealand,Pakistan,runs,147,Pakistan,Ahmed Shehzad
+750675,2014-12-16,Colombo,Sri Lanka,England,Sri Lanka,runs,87,Sri Lanka,TM Dilshan
+742625,2014-12-17,Abu Dhabi,New Zealand,Pakistan,New Zealand,runs,7,New Zealand,KS Williamson
+742627,2014-12-19,Abu Dhabi,New Zealand,Pakistan,New Zealand,runs,68,New Zealand,MJ Henry
+749781,2015-01-11,Christchurch,Sri Lanka,New Zealand,New Zealand,wickets,3,Sri Lanka,CJ Anderson
+749783,2015-01-15,Hamilton,New Zealand,Sri Lanka,Sri Lanka,wickets,6,New Zealand,TM Dilshan
+754751,2015-01-16,Sydney Cricket Ground,England,Australia,Australia,wickets,3,England,MA Starc
+722341,2015-01-18,Johannesburg,South Africa,West Indies,South Africa,runs,148,West Indies,AB de Villiers
+754749,2015-01-18,Melbourne Cricket Ground,India,Australia,Australia,wickets,4,India,MA Starc
+749787,2015-01-20,Nelson,Sri Lanka,New Zealand,New Zealand,wickets,4,Sri Lanka,KS Williamson
+754753,2015-01-20,Brisbane,India,England,England,wickets,9,India,ST Finn
+722343,2015-01-21,East London,West Indies,South Africa,South Africa,wickets,9,West Indies,VD Philander
+749789,2015-01-23,Dunedin,New Zealand,Sri Lanka,New Zealand,runs,108,Sri Lanka,GD Elliott
+754755,2015-01-23,Hobart,England,Australia,Australia,wickets,3,Australia,SPD Smith
+749791,2015-01-25,Dunedin,New Zealand,Sri Lanka,New Zealand,runs,120,New Zealand,CJ Anderson
+722345,2015-01-25,Port Elizabeth,South Africa,West Indies,West Indies,wickets,1,West Indies,AD Russell
+722347,2015-01-28,Centurion,South Africa,West Indies,South Africa,runs,131,West Indies,RR Rossouw
+749793,2015-01-29,Wellington,Sri Lanka,New Zealand,Sri Lanka,runs,34,Sri Lanka,KC Sangakkara
+754759,2015-01-30,Perth,India,England,England,wickets,3,England,JWA Taylor
+749795,2015-01-31,Wellington,Pakistan,New Zealand,New Zealand,wickets,7,New Zealand,GD Elliott
+754761,2015-02-01,Perth,Australia,England,Australia,runs,112,England,GJ Maxwell
+749797,2015-02-03,Napier,New Zealand,Pakistan,New Zealand,runs,119,New Zealand,KS Williamson
+656401,2015-02-14,Melbourne Cricket Ground,Australia,England,Australia,runs,111,England,AJ Finch
+656399,2015-02-14,Christchurch,New Zealand,Sri Lanka,New Zealand,runs,98,Sri Lanka,CJ Anderson
+656405,2015-02-15,Adelaide Oval,India,Pakistan,India,runs,76,India,V Kohli
+656415,2015-02-20,Wellington,England,New Zealand,New Zealand,wickets,8,England,TG Southee
+656417,2015-02-21,Christchurch,West Indies,Pakistan,West Indies,runs,150,Pakistan,AD Russell
+656423,2015-02-22,Melbourne Cricket Ground,India,South Africa,India,runs,130,India,S Dhawan
+656433,2015-02-26,Melbourne Cricket Ground,Sri Lanka,Bangladesh,Sri Lanka,runs,92,Sri Lanka,TM Dilshan
+656435,2015-02-27,Sydney Cricket Ground,South Africa,West Indies,South Africa,runs,257,South Africa,AB de Villiers
+656437,2015-02-28,Auckland,Australia,New Zealand,New Zealand,wickets,1,Australia,TA Boult
+656441,2015-03-01,Wellington,England,Sri Lanka,Sri Lanka,wickets,9,England,KC Sangakkara
+656453,2015-03-06,Perth,West Indies,India,India,wickets,4,West Indies,Mohammed Shami
+656461,2015-03-08,Sydney Cricket Ground,Australia,Sri Lanka,Australia,runs,64,Australia,GJ Maxwell
+656463,2015-03-09,Adelaide Oval,Bangladesh,England,Bangladesh,runs,15,England,Mahmudullah
+656471,2015-03-13,Hamilton,Bangladesh,New Zealand,New Zealand,wickets,3,New Zealand,MJ Guptill
+656483,2015-03-18,Sydney Cricket Ground,Sri Lanka,South Africa,South Africa,wickets,9,Sri Lanka,Imran Tahir
+656485,2015-03-19,Melbourne Cricket Ground,India,Bangladesh,India,runs,109,India,RG Sharma
+656487,2015-03-20,Adelaide Oval,Pakistan,Australia,Australia,wickets,6,Pakistan,JR Hazlewood
+656489,2015-03-21,Wellington,New Zealand,West Indies,New Zealand,runs,143,New Zealand,MJ Guptill
+656493,2015-03-26,Sydney Cricket Ground,Australia,India,Australia,runs,95,Australia,SPD Smith
+656495,2015-03-29,Melbourne Cricket Ground,New Zealand,Australia,Australia,wickets,7,New Zealand,JP Faulkner
+858485,2015-04-17,Mirpur,Bangladesh,Pakistan,Bangladesh,runs,79,Bangladesh,Mushfiqur Rahim
+858487,2015-04-19,Mirpur,Pakistan,Bangladesh,Bangladesh,wickets,7,Pakistan,Tamim Iqbal
+858489,2015-04-22,Mirpur,Pakistan,Bangladesh,Bangladesh,wickets,8,Pakistan,Soumya Sarkar
+743943,2015-06-09,Birmingham,England,New Zealand,England,runs,210,New Zealand,JC Buttler
+743947,2015-06-14,Southampton,England,New Zealand,New Zealand,wickets,3,England,KS Williamson
+743949,2015-06-17,Nottingham,New Zealand,England,England,wickets,7,New Zealand,EJG Morgan
+870731,2015-06-18,Mirpur,Bangladesh,India,Bangladesh,runs,79,Bangladesh,Mustafizur Rahman
+870735,2015-06-24,Mirpur,India,Bangladesh,India,runs,77,Bangladesh,SK Raina
+817207,2015-07-10,Mirpur,Bangladesh,South Africa,South Africa,wickets,8,Bangladesh,K Rabada
+860269,2015-07-11,Rangiri Dambulla International Stadium,Sri Lanka,Pakistan,Pakistan,wickets,6,Pakistan,Mohammad Hafeez
+817209,2015-07-12,Mirpur,South Africa,Bangladesh,Bangladesh,wickets,7,South Africa,Soumya Sarkar
+860271,2015-07-15,Pallekele International Cricket Stadium,Pakistan,Sri Lanka,Sri Lanka,wickets,2,Pakistan,MDKJ Perera
+860273,2015-07-19,Colombo,Pakistan,Sri Lanka,Pakistan,runs,135,Pakistan,Sarfraz Ahmed
+860275,2015-07-22,Colombo,Sri Lanka,Pakistan,Pakistan,wickets,7,Sri Lanka,Ahmed Shehzad
+860277,2015-07-26,Hambantota,Sri Lanka,Pakistan,Sri Lanka,runs,165,Sri Lanka,MDKJ Perera
+848843,2015-08-19,Centurion,South Africa,New Zealand,South Africa,runs,20,New Zealand,HM Amla
+848845,2015-08-23,Potchefstroom,South Africa,New Zealand,New Zealand,wickets,8,South Africa,MJ Guptill
+848847,2015-08-26,Durban,South Africa,New Zealand,South Africa,runs,62,South Africa,AB de Villiers
+743977,2015-09-03,Southampton,Australia,England,Australia,runs,59,Australia,MS Wade
+743979,2015-09-05,London,Australia,England,Australia,runs,64,England,MR Marsh
+743981,2015-09-08,Manchester,England,Australia,England,runs,93,England,JWA Taylor
+743983,2015-09-11,Leeds,Australia,England,England,wickets,3,Australia,EJG Morgan
+743985,2015-09-13,Manchester,England,Australia,Australia,wickets,8,England,MR Marsh
+903593,2015-10-11,Kanpur,South Africa,India,South Africa,runs,5,South Africa,AB de Villiers
+903595,2015-10-14,Indore,India,South Africa,India,runs,22,India,MS Dhoni
+903597,2015-10-18,Rajkot,South Africa,India,South Africa,runs,18,South Africa,M Morkel
+903599,2015-10-22,Chennai,India,South Africa,India,runs,35,India,V Kohli
+903601,2015-10-25,Mumbai,South Africa,India,South Africa,runs,214,South Africa,Q de Kock
+902641,2015-11-11,Abu Dhabi,England,Pakistan,Pakistan,wickets,6,England,Mohammad Hafeez
+902643,2015-11-13,Abu Dhabi,England,Pakistan,England,runs,95,England,AD Hales
+902645,2015-11-17,Sharjah Cricket Stadium,Pakistan,England,England,wickets,6,Pakistan,JWA Taylor
+902647,2015-11-20,Dubai International Cricket Stadium,England,Pakistan,England,runs,84,England,JC Buttler
+914207,2015-12-26,Christchurch,Sri Lanka,New Zealand,New Zealand,wickets,7,Sri Lanka,MJ Henry
+914209,2015-12-28,Christchurch,Sri Lanka,New Zealand,New Zealand,wickets,10,Sri Lanka,MJ Guptill
+914211,2015-12-31,Nelson,New Zealand,Sri Lanka,Sri Lanka,wickets,8,New Zealand,MD Gunathilaka
+914215,2016-01-05,Mount Maunganui,New Zealand,Sri Lanka,New Zealand,runs,36,Sri Lanka,MJ Henry
+895807,2016-01-12,Perth,India,Australia,Australia,wickets,5,India,SPD Smith
+895809,2016-01-15,Brisbane,India,Australia,Australia,wickets,7,India,RG Sharma
+895811,2016-01-17,Melbourne Cricket Ground,India,Australia,Australia,wickets,3,Australia,GJ Maxwell
+895813,2016-01-20,Canberra,Australia,India,Australia,runs,25,Australia,KW Richardson
+895815,2016-01-23,Sydney Cricket Ground,Australia,India,India,wickets,6,India,MK Pandey
+914227,2016-01-25,Wellington,New Zealand,Pakistan,New Zealand,runs,70,Pakistan,HM Nicholls
+914231,2016-02-03,Auckland,New Zealand,Australia,New Zealand,runs,159,Australia,MJ Guptill
+914233,2016-02-06,Wellington,New Zealand,Australia,Australia,wickets,4,New Zealand,MR Marsh
+800471,2016-02-06,Port Elizabeth,South Africa,England,England,wickets,5,South Africa,AD Hales
+914235,2016-02-08,Hamilton,New Zealand,Australia,New Zealand,runs,55,Australia,IS Sodhi
+800473,2016-02-09,Centurion,England,South Africa,South Africa,wickets,7,England,Q de Kock
+800475,2016-02-12,Johannesburg,England,South Africa,South Africa,wickets,1,South Africa,CH Morris
+800477,2016-02-14,Cape Town,England,South Africa,South Africa,wickets,5,South Africa,AB de Villiers
+932849,2016-06-03,Guyana,South Africa,West Indies,West Indies,wickets,4,South Africa,SP Narine
+932851,2016-06-05,Guyana,West Indies,Australia,Australia,wickets,6,Australia,NM Lyon
+932853,2016-06-07,Guyana,South Africa,Australia,South Africa,runs,47,South Africa,F Behardien
+932855,2016-06-11,St Kitts,Australia,South Africa,Australia,runs,36,Australia,DA Warner
+932857,2016-06-13,St Kitts,Australia,West Indies,West Indies,wickets,4,West Indies,MN Samuels
+932859,2016-06-15,St Kitts,South Africa,West Indies,South Africa,runs,139,West Indies,Imran Tahir
+932863,2016-06-21,Barbados,West Indies,Australia,Australia,wickets,6,Australia,MN Samuels
+932865,2016-06-24,Barbados,West Indies,South Africa,West Indies,runs,100,South Africa,DM Bravo
+913625,2016-06-24,Birmingham,Sri Lanka,England,England,wickets,10,Sri Lanka,JJ Roy
+932867,2016-06-26,Barbados,Australia,West Indies,Australia,runs,58,Australia,MR Marsh
+913631,2016-07-02,Cardiff,England,Sri Lanka,England,runs,122,Sri Lanka,JC Buttler
+995457,2016-08-21,Colombo,Sri Lanka,Australia,Australia,wickets,3,Australia,JP Faulkner
+995459,2016-08-24,Colombo,Sri Lanka,Australia,Sri Lanka,runs,82,Sri Lanka,AD Mathews
+913655,2016-08-27,London,Pakistan,England,England,wickets,4,Pakistan,JE Root
+995461,2016-08-28,Rangiri Dambulla International Stadium,Sri Lanka,Australia,Australia,wickets,2,Sri Lanka,GJ Bailey
+913657,2016-08-30,Nottingham,England,Pakistan,England,runs,169,England,AD Hales
+995463,2016-08-31,Rangiri Dambulla International Stadium,Sri Lanka,Australia,Australia,wickets,6,Sri Lanka,JW Hastings
+995465,2016-09-01,Pallekele International Cricket Stadium,Sri Lanka,Australia,Australia,wickets,5,Sri Lanka,DA Warner
+913659,2016-09-01,Leeds,Pakistan,England,England,wickets,4,Pakistan,JM Bairstow
+913661,2016-09-04,Cardiff,England,Pakistan,Pakistan,wickets,4,Pakistan,Sarfraz Ahmed
+936135,2016-09-30,Centurion,Australia,South Africa,South Africa,wickets,6,South Africa,Q de Kock
+936137,2016-10-02,Johannesburg,South Africa,Australia,South Africa,runs,142,Australia,F du Plessis
+1050225,2016-10-02,Sharjah Cricket Stadium,Pakistan,West Indies,Pakistan,runs,59,Pakistan,Babar Azam
+936139,2016-10-05,Durban,Australia,South Africa,South Africa,wickets,4,Australia,DA Miller
+1050227,2016-10-05,Abu Dhabi,Pakistan,West Indies,Pakistan,runs,136,Pakistan,Babar Azam
+1029819,2016-10-07,Mirpur,England,Bangladesh,England,runs,21,England,JT Ball
+1029821,2016-10-09,Mirpur,Bangladesh,England,Bangladesh,runs,34,England,Mashrafe Mortaza
+936141,2016-10-09,Port Elizabeth,Australia,South Africa,South Africa,wickets,6,Australia,KJ Abbott
+1029823,2016-10-12,Chittagong,Bangladesh,England,England,wickets,4,England,AU Rashid
+936143,2016-10-12,Cape Town,South Africa,Australia,South Africa,runs,31,South Africa,DA Warner
+1030219,2016-10-16,Dharmasala,New Zealand,India,India,wickets,6,India,HH Pandya
+1030221,2016-10-20,Delhi,New Zealand,India,New Zealand,runs,6,India,KS Williamson
+1030223,2016-10-23,Chandigarh,New Zealand,India,India,wickets,7,India,V Kohli
+1030225,2016-10-26,Ranchi,New Zealand,India,New Zealand,runs,19,New Zealand,MJ Guptill
+1030227,2016-10-29,Visakhapatnam,India,New Zealand,India,runs,190,India,A Mishra
+1059711,2016-11-16,Harare Sports Club,West Indies,Sri Lanka,West Indies,runs,62,Sri Lanka,JO Holder
+1059714,2016-11-23,Bulawayo,Sri Lanka,West Indies,Sri Lanka,runs,1,West Indies,BKG Mendis
+1001371,2016-12-04,Sydney Cricket Ground,Australia,New Zealand,Australia,runs,68,Australia,SPD Smith
+1001373,2016-12-06,Canberra,Australia,New Zealand,Australia,runs,116,New Zealand,DA Warner
+1001375,2016-12-09,Melbourne Cricket Ground,Australia,New Zealand,Australia,runs,117,Australia,DA Warner
+1019973,2016-12-26,Christchurch,New Zealand,Bangladesh,New Zealand,runs,77,New Zealand,TWM Latham
+1019975,2016-12-29,Nelson,New Zealand,Bangladesh,New Zealand,runs,67,Bangladesh,NT Broom
+1019977,2016-12-31,Nelson,Bangladesh,New Zealand,New Zealand,wickets,8,Bangladesh,KS Williamson
+1000887,2017-01-13,Brisbane,Australia,Pakistan,Australia,runs,92,Australia,MS Wade
+1034819,2017-01-15,Pune,England,India,India,wickets,3,India,KM Jadhav
+1000889,2017-01-15,Melbourne Cricket Ground,Australia,Pakistan,Pakistan,wickets,6,Australia,Mohammad Hafeez
+1034821,2017-01-19,Cuttack,India,England,India,runs,15,England,Yuvraj Singh
+1000891,2017-01-19,Perth,Pakistan,Australia,Australia,wickets,7,Australia,SPD Smith
+1000893,2017-01-22,Sydney Cricket Ground,Australia,Pakistan,Australia,runs,86,Australia,DA Warner
+1034823,2017-01-22,Kolkata,England,India,England,runs,5,India,BA Stokes
+1000895,2017-01-26,Adelaide Oval,Australia,Pakistan,Australia,runs,57,Australia,DA Warner
+936159,2017-01-28,Port Elizabeth,Sri Lanka,South Africa,South Africa,wickets,8,South Africa,Imran Tahir
+1020013,2017-01-30,Auckland,New Zealand,Australia,New Zealand,runs,6,Australia,MP Stoinis
+936161,2017-02-01,Durban,South Africa,Sri Lanka,South Africa,runs,121,Sri Lanka,F du Plessis
+936163,2017-02-04,Johannesburg,Sri Lanka,South Africa,South Africa,wickets,7,South Africa,D Pretorius
+1020017,2017-02-05,Hamilton,New Zealand,Australia,New Zealand,runs,24,New Zealand,TA Boult
+936165,2017-02-07,Cape Town,South Africa,Sri Lanka,South Africa,runs,40,South Africa,F du Plessis
+936167,2017-02-10,Centurion,South Africa,Sri Lanka,South Africa,runs,88,Sri Lanka,HM Amla
+1020031,2017-02-19,Hamilton,New Zealand,South Africa,South Africa,wickets,4,South Africa,Q de Kock
+1020033,2017-02-22,Christchurch,New Zealand,South Africa,New Zealand,runs,6,South Africa,LRPL Taylor
+1020035,2017-02-25,Wellington,South Africa,New Zealand,South Africa,runs,159,South Africa,AB de Villiers
+1020037,2017-03-01,Hamilton,South Africa,New Zealand,New Zealand,wickets,7,South Africa,MJ Guptill
+1027315,2017-03-03,Antigua,England,West Indies,England,runs,45,West Indies,EJG Morgan
+1020039,2017-03-04,Auckland,New Zealand,South Africa,South Africa,wickets,6,South Africa,K Rabada
+1027317,2017-03-05,Antigua,West Indies,England,England,wickets,4,West Indies,JE Root
+1027319,2017-03-09,Barbados,England,West Indies,England,runs,186,West Indies,AD Hales
+1083446,2017-03-25,Rangiri Dambulla International Stadium,Bangladesh,Sri Lanka,Bangladesh,runs,90,Sri Lanka,Tamim Iqbal
+1083448,2017-04-01,Colombo,Sri Lanka,Bangladesh,Sri Lanka,runs,70,Bangladesh,NLTC Perera
+1077949,2017-04-07,Guyana,Pakistan,West Indies,West Indies,wickets,4,West Indies,JN Mohammed
+1077950,2017-04-09,Guyana,Pakistan,West Indies,Pakistan,runs,74,West Indies,Babar Azam
+1077951,2017-04-11,Guyana,West Indies,Pakistan,Pakistan,wickets,6,West Indies,Shoaib Malik
+1033365,2017-05-17,Dublin,Bangladesh,New Zealand,New Zealand,wickets,4,New Zealand,JDS Neesham
+1033371,2017-05-24,Dublin,New Zealand,Bangladesh,Bangladesh,wickets,5,Bangladesh,Mushfiqur Rahim
+1031425,2017-05-24,Leeds,England,South Africa,England,runs,72,South Africa,MM Ali
+1031427,2017-05-27,Southampton,England,South Africa,England,runs,2,South Africa,BA Stokes
+1031429,2017-05-29,London,England,South Africa,South Africa,wickets,7,South Africa,K Rabada
+1022347,2017-06-01,London,Bangladesh,England,England,wickets,8,England,JE Root
+1022351,2017-06-03,London,South Africa,Sri Lanka,South Africa,runs,96,Sri Lanka,Imran Tahir
+1022357,2017-06-06,Cardiff,England,New Zealand,England,runs,87,New Zealand,JT Ball
+1022361,2017-06-08,London,India,Sri Lanka,Sri Lanka,wickets,7,Sri Lanka,BKG Mendis
+1022363,2017-06-09,Cardiff,New Zealand,Bangladesh,Bangladesh,wickets,5,New Zealand,Shakib Al Hasan
+1022367,2017-06-11,London,South Africa,India,India,wickets,8,India,JJ Bumrah
+1022369,2017-06-12,Cardiff,Sri Lanka,Pakistan,Pakistan,wickets,3,Pakistan,Sarfraz Ahmed
+1022371,2017-06-14,Cardiff,England,Pakistan,Pakistan,wickets,8,Pakistan,Hasan Ali
+1022373,2017-06-15,Birmingham,Bangladesh,India,India,wickets,9,India,RG Sharma
+1022375,2017-06-18,London,Pakistan,India,Pakistan,runs,180,India,Fakhar Zaman
+1098207,2017-06-25,Trinidad,India,West Indies,India,runs,105,West Indies,AM Rahane
+1098208,2017-06-30,Antigua,India,West Indies,India,runs,93,West Indies,MS Dhoni
+1098209,2017-07-02,Antigua,West Indies,India,West Indies,runs,11,West Indies,JO Holder
+1098210,2017-07-06,Jamaica,West Indies,India,India,wickets,8,West Indies,V Kohli
+1109605,2017-08-20,Rangiri Dambulla International Stadium,Sri Lanka,India,India,wickets,9,India,S Dhawan
+1109607,2017-08-27,Pallekele International Cricket Stadium,Sri Lanka,India,India,wickets,6,Sri Lanka,JJ Bumrah
+1109608,2017-08-31,Colombo,India,Sri Lanka,India,runs,168,India,V Kohli
+1109609,2017-09-03,Colombo,Sri Lanka,India,India,wickets,6,Sri Lanka,B Kumar
+1031667,2017-09-19,Manchester,West Indies,England,England,wickets,7,West Indies,JM Bairstow
+1119497,2017-09-21,Kolkata,India,Australia,India,runs,50,India,V Kohli
+1119498,2017-09-24,Indore,Australia,India,India,wickets,5,Australia,HH Pandya
+1031671,2017-09-24,Bristol,England,West Indies,England,runs,124,West Indies,MM Ali
+1119499,2017-09-28,Bengaluru,Australia,India,Australia,runs,21,Australia,DA Warner
+1031675,2017-09-29,Southampton,West Indies,England,England,wickets,9,England,JM Bairstow
+1119500,2017-10-01,Nagpur,Australia,India,India,wickets,7,Australia,RG Sharma
+1120286,2017-10-13,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Pakistan,runs,83,Sri Lanka,Shoaib Malik
+1075504,2017-10-15,Kimberley,Bangladesh,South Africa,South Africa,wickets,10,Bangladesh,Q de Kock
+1120287,2017-10-16,Abu Dhabi,Pakistan,Sri Lanka,Pakistan,runs,32,Pakistan,Shadab Khan
+1075505,2017-10-18,Paarl,South Africa,Bangladesh,South Africa,runs,104,Bangladesh,AB de Villiers
+1120288,2017-10-18,Abu Dhabi,Sri Lanka,Pakistan,Pakistan,wickets,7,Sri Lanka,Imam-ul-Haq
+1120289,2017-10-20,Sharjah Cricket Stadium,Sri Lanka,Pakistan,Pakistan,wickets,7,Sri Lanka,Babar Azam
+1120090,2017-10-22,Mumbai,India,New Zealand,New Zealand,wickets,6,India,TWM Latham
+1075506,2017-10-22,East London,South Africa,Bangladesh,South Africa,runs,200,South Africa,F du Plessis
+1120290,2017-10-23,Sharjah Cricket Stadium,Sri Lanka,Pakistan,Pakistan,wickets,9,Sri Lanka,Usman Shinwari
+1120091,2017-10-25,Pune,New Zealand,India,India,wickets,6,New Zealand,B Kumar
+1120092,2017-10-29,Kanpur,India,New Zealand,India,runs,6,New Zealand,RG Sharma
+1122726,2017-12-10,Dharamsala,India,Sri Lanka,Sri Lanka,wickets,7,Sri Lanka,RAS Lakmal
+1122727,2017-12-13,Chandigarh,India,Sri Lanka,India,runs,141,Sri Lanka,RG Sharma
+1122728,2017-12-17,Visakhapatnam,Sri Lanka,India,India,wickets,8,India,Kuldeep Yadav
+1115795,2017-12-20,Whangarei,West Indies,New Zealand,New Zealand,wickets,5,New Zealand,DAJ Bracewell
+1115796,2017-12-23,Christchurch,New Zealand,West Indies,New Zealand,runs,204,West Indies,TA Boult
+1115804,2018-01-13,Dunedin,New Zealand,Pakistan,New Zealand,runs,183,New Zealand,TA Boult
+1072310,2018-01-14,Melbourne Cricket Ground,Australia,England,England,wickets,5,England,JJ Roy
+1115805,2018-01-16,Hamilton,Pakistan,New Zealand,New Zealand,wickets,5,Pakistan,C de Grandhomme
+1115806,2018-01-19,Wellington,New Zealand,Pakistan,New Zealand,runs,15,New Zealand,MJ Guptill
+1072311,2018-01-19,Brisbane,Australia,England,England,wickets,4,Australia,JE Root
+1130739,2018-01-19,Dhaka,Bangladesh,Sri Lanka,Bangladesh,runs,163,Bangladesh,Shakib Al Hasan
+1072312,2018-01-21,Sydney Cricket Ground,England,Australia,England,runs,16,Australia,JC Buttler
+1130742,2018-01-25,Dhaka,Bangladesh,Sri Lanka,Sri Lanka,wickets,10,Bangladesh,RAS Lakmal
+1072313,2018-01-26,Adelaide Oval,England,Australia,Australia,wickets,3,Australia,PJ Cummins
+1130743,2018-01-27,Dhaka,Sri Lanka,Bangladesh,Sri Lanka,runs,79,Sri Lanka,WU Tharanga
+1072314,2018-01-28,Perth Stadium,England,Australia,England,runs,12,Australia,TK Curran
+1122279,2018-02-01,Durban,South Africa,India,India,wickets,6,South Africa,V Kohli
+1122280,2018-02-04,Centurion,South Africa,India,India,wickets,9,India,YS Chahal
+1122281,2018-02-07,Cape Town,India,South Africa,India,runs,124,South Africa,V Kohli
+1122283,2018-02-13,Port Elizabeth,India,South Africa,India,runs,73,South Africa,RG Sharma
+1122284,2018-02-16,Centurion,South Africa,India,India,wickets,8,India,V Kohli
+1115775,2018-02-25,Hamilton,England,New Zealand,New Zealand,wickets,3,New Zealand,LRPL Taylor
+1115776,2018-02-28,Mount Maunganui,New Zealand,England,England,wickets,6,England,BA Stokes
+1115777,2018-03-03,Wellington,England,New Zealand,England,runs,4,New Zealand,MM Ali
+1115778,2018-03-07,Dunedin,England,New Zealand,New Zealand,wickets,5,New Zealand,LRPL Taylor
+1115779,2018-03-10,Christchurch,New Zealand,England,England,wickets,7,England,JM Bairstow
+1119537,2018-06-13,London,Australia,England,England,wickets,3,Australia,MM Ali
+1119538,2018-06-16,Cardiff,England,Australia,England,runs,38,Australia,JJ Roy
+1119539,2018-06-19,Nottingham,England,Australia,England,runs,242,Australia,AD Hales
+1119540,2018-06-21,Chester-le-Street,Australia,England,England,wickets,6,Australia,JJ Roy
+1119541,2018-06-24,Manchester,Australia,England,England,wickets,1,Australia,JC Buttler
+1119546,2018-07-12,Nottingham,England,India,India,wickets,8,India,Kuldeep Yadav
+1119547,2018-07-14,London,England,India,England,runs,86,England,JE Root
+1119548,2018-07-17,Leeds,India,England,England,wickets,8,England,AU Rashid
+1146720,2018-07-22,Guyana,Bangladesh,West Indies,Bangladesh,runs,48,Bangladesh,Tamim Iqbal
+1146721,2018-07-25,Guyana,West Indies,Bangladesh,West Indies,runs,3,Bangladesh,SO Hetmyer
+1146722,2018-07-28,St Kitts,Bangladesh,West Indies,Bangladesh,runs,18,Bangladesh,Tamim Iqbal
+1142584,2018-07-29,Rangiri Dambulla International Stadium,Sri Lanka,South Africa,South Africa,wickets,5,Sri Lanka,T Shamsi
+1142585,2018-08-01,Rangiri Dambulla International Stadium,Sri Lanka,South Africa,South Africa,wickets,4,Sri Lanka,Q de Kock
+1142586,2018-08-05,Pallekele International Cricket Stadium,South Africa,Sri Lanka,South Africa,runs,78,Sri Lanka,RR Hendricks
+1142588,2018-08-12,Colombo,Sri Lanka,South Africa,Sri Lanka,runs,178,Sri Lanka,A Dananjaya
+1153243,2018-09-15,Dubai International Cricket Stadium,Bangladesh,Sri Lanka,Bangladesh,runs,137,Bangladesh,Mushfiqur Rahim
+1153247,2018-09-19,Dubai International Cricket Stadium,Pakistan,India,India,wickets,8,Pakistan,B Kumar
+1153249,2018-09-21,Dubai International Cricket Stadium,Bangladesh,India,India,wickets,7,India,RA Jadeja
+1153251,2018-09-23,Dubai International Cricket Stadium,Pakistan,India,India,wickets,9,Pakistan,S Dhawan
+1153254,2018-09-26,Abu Dhabi,Bangladesh,Pakistan,Bangladesh,runs,37,Bangladesh,Mushfiqur Rahim
+1153255,2018-09-28,Dubai International Cricket Stadium,Bangladesh,India,India,wickets,3,India,Liton Das
+1140381,2018-10-17,Pallekele International Cricket Stadium,Sri Lanka,England,England,wickets,7,England,AU Rashid
+1157754,2018-10-21,Guwahati,West Indies,India,India,wickets,8,India,V Kohli
+1157756,2018-10-27,Pune,West Indies,India,West Indies,runs,43,India,AR Nurse
+1157757,2018-10-29,Mumbai,India,West Indies,India,runs,224,India,RG Sharma
+1157758,2018-11-01,Thiruvananthapuram,West Indies,India,India,wickets,9,West Indies,RA Jadeja
+1144986,2018-11-04,Perth Stadium,Australia,South Africa,South Africa,wickets,6,South Africa,DW Steyn
+1157378,2018-11-07,Abu Dhabi,New Zealand,Pakistan,New Zealand,runs,47,New Zealand,TA Boult
+1144987,2018-11-09,Adelaide Oval,Australia,South Africa,Australia,runs,7,South Africa,AJ Finch
+1157379,2018-11-09,Abu Dhabi,New Zealand,Pakistan,Pakistan,wickets,6,New Zealand,Shaheen Shah Afridi
+1144988,2018-11-11,Hobart,South Africa,Australia,South Africa,runs,40,Australia,DA Miller
+1153314,2018-12-09,Dhaka,West Indies,Bangladesh,Bangladesh,wickets,5,West Indies,Mashrafe Mortaza
+1153315,2018-12-11,Dhaka,Bangladesh,West Indies,West Indies,wickets,4,West Indies,SD Hope
+1153316,2018-12-14,Sylhet,West Indies,Bangladesh,Bangladesh,wickets,8,Bangladesh,Mehedi Hasan Miraz
+1153840,2019-01-03,Mount Maunganui,New Zealand,Sri Lanka,New Zealand,runs,45,New Zealand,MJ Guptill
+1153841,2019-01-05,Mount Maunganui,New Zealand,Sri Lanka,New Zealand,runs,21,New Zealand,NLTC Perera
+1153842,2019-01-08,Nelson,New Zealand,Sri Lanka,New Zealand,runs,115,Sri Lanka,LRPL Taylor
+1144997,2019-01-12,Sydney,Australia,India,Australia,runs,34,Australia,JA Richardson
+1144998,2019-01-15,Adelaide,Australia,India,India,wickets,6,Australia,V Kohli
+1144999,2019-01-18,Melbourne,Australia,India,India,wickets,7,India,YS Chahal
+1144156,2019-01-19,Port Elizabeth,South Africa,Pakistan,Pakistan,wickets,5,South Africa,Mohammad Hafeez
+1144157,2019-01-22,Durban,Pakistan,South Africa,South Africa,wickets,5,South Africa,AL Phehlukwayo
+1153692,2019-01-26,Mount Maunganui,India,New Zealand,India,runs,90,India,RG Sharma
+1144159,2019-01-27,Johannesburg,South Africa,Pakistan,Pakistan,wickets,8,Pakistan,Usman Shinwari
+1153693,2019-01-28,Mount Maunganui,New Zealand,India,India,wickets,7,New Zealand,Mohammed Shami
+1144160,2019-01-30,Cape Town,Pakistan,South Africa,South Africa,wickets,7,South Africa,Q de Kock
+1153694,2019-01-31,Hamilton,India,New Zealand,New Zealand,wickets,8,New Zealand,TA Boult
+1153695,2019-02-03,Wellington,India,New Zealand,India,runs,35,India,AT Rayudu
+1153844,2019-02-13,Napier,Bangladesh,New Zealand,New Zealand,wickets,8,Bangladesh,MJ Guptill
+1153845,2019-02-16,Christchurch,Bangladesh,New Zealand,New Zealand,wickets,8,New Zealand,MJ Guptill
+1153846,2019-02-20,Dunedin,New Zealand,Bangladesh,New Zealand,runs,88,Bangladesh,TG Southee
+1158066,2019-02-20,Bridgetown,West Indies,England,England,wickets,6,West Indies,JJ Roy
+1158067,2019-02-22,Bridgetown,West Indies,England,West Indies,runs,26,England,SO Hetmyer
+1158069,2019-02-27,St George's,England,West Indies,England,runs,29,West Indies,JC Buttler
+1158070,2019-03-02,Gros Islet,England,West Indies,West Indies,wickets,7,West Indies,O Thomas
+1168242,2019-03-02,Hyderabad,Australia,India,India,wickets,6,Australia,KM Jadhav
+1144167,2019-03-03,Johannesburg,Sri Lanka,South Africa,South Africa,wickets,8,South Africa,F du Plessis
+1168243,2019-03-05,Nagpur,India,Australia,India,runs,8,Australia,V Kohli
+1144168,2019-03-06,Centurion,South Africa,Sri Lanka,South Africa,runs,113,Sri Lanka,Q de Kock
+1168244,2019-03-08,Ranchi,Australia,India,Australia,runs,32,India,UT Khawaja
+1168245,2019-03-10,Chandigarh,India,Australia,Australia,wickets,4,India,AJ Turner
+1168246,2019-03-13,Delhi,Australia,India,Australia,runs,35,Australia,UT Khawaja
+1144170,2019-03-13,Port Elizabeth,Sri Lanka,South Africa,South Africa,wickets,6,South Africa,I Udana
+1174238,2019-03-22,Sharjah,Pakistan,Australia,Australia,wickets,8,Pakistan,AJ Finch
+1174239,2019-03-24,Sharjah,Pakistan,Australia,Australia,wickets,8,Pakistan,AJ Finch
+1174240,2019-03-27,Abu Dhabi,Australia,Pakistan,Australia,runs,80,Australia,PJ Cummins
+1174241,2019-03-29,Dubai,Australia,Pakistan,Australia,runs,6,Pakistan,GJ Maxwell
+1174242,2019-03-31,Dubai,Australia,Pakistan,Australia,runs,20,Pakistan,GJ Maxwell
+1168509,2019-05-07,Dublin,West Indies,Bangladesh,Bangladesh,wickets,8,West Indies,SD Hope
+1152842,2019-05-11,Southampton,England,Pakistan,England,runs,12,Pakistan,JC Buttler
+1168512,2019-05-13,Dublin,West Indies,Bangladesh,Bangladesh,wickets,5,West Indies,Mustafizur Rahman
+1152843,2019-05-14,Bristol,Pakistan,England,England,wickets,6,England,JM Bairstow
+1152844,2019-05-17,Nottingham,Pakistan,England,England,wickets,3,England,JJ Roy
+1152845,2019-05-19,Leeds,England,Pakistan,England,runs,54,England,CR Woakes
+1144483,2019-05-30,London,England,South Africa,England,runs,104,South Africa,BA Stokes
+1144484,2019-05-31,Nottingham,Pakistan,West Indies,West Indies,wickets,7,West Indies,O Thomas
+1144485,2019-06-01,Cardiff,Sri Lanka,New Zealand,New Zealand,wickets,10,New Zealand,MJ Henry
+1144487,2019-06-02,London,Bangladesh,South Africa,Bangladesh,runs,21,South Africa,Shakib Al Hasan
+1144488,2019-06-03,Nottingham,Pakistan,England,Pakistan,runs,14,England,Mohammad Hafeez
+1144491,2019-06-05,London,Bangladesh,New Zealand,New Zealand,wickets,2,New Zealand,LRPL Taylor
+1144490,2019-06-05,Southampton,South Africa,India,India,wickets,6,South Africa,RG Sharma
+1144492,2019-06-06,Nottingham,Australia,West Indies,Australia,runs,15,West Indies,NM Coulter-Nile
+1144494,2019-06-08,Cardiff,England,Bangladesh,England,runs,106,Bangladesh,JJ Roy
+1144496,2019-06-09,London,India,Australia,India,runs,36,India,S Dhawan
+1144499,2019-06-12,Taunton,Australia,Pakistan,Australia,runs,41,Pakistan,DA Warner
+1144501,2019-06-14,Southampton,West Indies,England,England,wickets,8,England,JE Root
+1144502,2019-06-15,London,Australia,Sri Lanka,Australia,runs,87,Sri Lanka,AJ Finch
+1144505,2019-06-17,Taunton,West Indies,Bangladesh,Bangladesh,wickets,7,Bangladesh,Shakib Al Hasan
+1144507,2019-06-19,Birmingham,South Africa,New Zealand,New Zealand,wickets,4,New Zealand,KS Williamson
+1144508,2019-06-20,Nottingham,Australia,Bangladesh,Australia,runs,48,Australia,DA Warner
+1144509,2019-06-21,Leeds,Sri Lanka,England,Sri Lanka,runs,20,Sri Lanka,SL Malinga
+1144511,2019-06-22,Manchester,New Zealand,West Indies,New Zealand,runs,5,West Indies,KS Williamson
+1144512,2019-06-23,London,Pakistan,South Africa,Pakistan,runs,49,Pakistan,Haris Sohail
+1144514,2019-06-25,London,Australia,England,Australia,runs,64,England,AJ Finch
+1144515,2019-06-26,Birmingham,New Zealand,Pakistan,Pakistan,wickets,6,New Zealand,Babar Azam
+1144516,2019-06-27,Manchester,India,West Indies,India,runs,125,India,V Kohli
+1144517,2019-06-28,Chester-le-Street,Sri Lanka,South Africa,South Africa,wickets,9,South Africa,D Pretorius
+1144519,2019-06-29,London,Australia,New Zealand,Australia,runs,86,Australia,AT Carey
+1144520,2019-06-30,Birmingham,England,India,England,runs,31,England,JM Bairstow
+1144521,2019-07-01,Chester-le-Street,Sri Lanka,West Indies,Sri Lanka,runs,23,West Indies,WIA Fernando
+1144522,2019-07-02,Birmingham,India,Bangladesh,India,runs,28,India,RG Sharma
+1144523,2019-07-03,Chester-le-Street,England,New Zealand,England,runs,119,England,JM Bairstow
+1144525,2019-07-05,London,Pakistan,Bangladesh,Pakistan,runs,94,Pakistan,Shaheen Shah Afridi
+1144526,2019-07-06,Leeds,Sri Lanka,India,India,wickets,7,Sri Lanka,RG Sharma
+1144527,2019-07-06,Manchester,South Africa,Australia,South Africa,runs,10,South Africa,F du Plessis
+1144528,2019-07-09,Manchester,New Zealand,India,New Zealand,runs,18,New Zealand,MJ Henry
+1144529,2019-07-11,Birmingham,Australia,England,England,wickets,8,Australia,CR Woakes
+1193504,2019-07-26,Colombo,Sri Lanka,Bangladesh,Sri Lanka,runs,91,Sri Lanka,MDKJ Perera
+1193505,2019-07-28,Colombo,Bangladesh,Sri Lanka,Sri Lanka,wickets,7,Bangladesh,WIA Fernando
+1193506,2019-07-31,Colombo,Sri Lanka,Bangladesh,Sri Lanka,runs,122,Sri Lanka,AD Mathews
+1198487,2019-09-30,Karachi,Pakistan,Sri Lanka,Pakistan,runs,67,Pakistan,Usman Shinwari
+1198488,2019-10-02,Karachi,Sri Lanka,Pakistan,Pakistan,wickets,5,Sri Lanka,Abid Ali
+1187021,2019-12-15,Chennai,India,West Indies,West Indies,wickets,8,West Indies,SO Hetmyer
+1187022,2019-12-18,Visakhapatnam,India,West Indies,India,runs,107,West Indies,RG Sharma
+1187023,2019-12-22,Cuttack,West Indies,India,India,wickets,4,India,V Kohli
+1187027,2020-01-14,Mumbai,India,Australia,Australia,wickets,10,Australia,DA Warner
+1187028,2020-01-17,Rajkot,India,Australia,India,runs,36,Australia,KL Rahul
+1187029,2020-01-19,Bengaluru,Australia,India,India,wickets,7,Australia,RG Sharma
+1185310,2020-02-04,Cape Town,England,South Africa,South Africa,wickets,7,South Africa,Q de Kock
+1187682,2020-02-05,Hamilton,India,New Zealand,New Zealand,wickets,4,New Zealand,LRPL Taylor
+1187683,2020-02-08,Auckland,New Zealand,India,New Zealand,runs,22,India,KA Jamieson
+1185312,2020-02-09,Johannesburg,South Africa,England,England,wickets,2,England,AU Rashid
+1187684,2020-02-11,Mount Maunganui,India,New Zealand,New Zealand,wickets,5,New Zealand,HM Nicholls
+1213871,2020-02-22,Colombo,West Indies,Sri Lanka,Sri Lanka,wickets,1,Sri Lanka,PWH de Silva
+1213872,2020-02-26,Hambantota,Sri Lanka,West Indies,Sri Lanka,runs,161,West Indies,WIA Fernando
+1185319,2020-02-29,Paarl,South Africa,Australia,South Africa,runs,74,South Africa,H Klaasen
+1213873,2020-03-01,Kandy,Sri Lanka,West Indies,Sri Lanka,runs,6,Sri Lanka,AD Mathews
+1185320,2020-03-04,Bloemfontein,Australia,South Africa,South Africa,wickets,6,Australia,L Ngidi
+1185321,2020-03-07,Potchefstroom,Australia,South Africa,South Africa,wickets,6,South Africa,JT Smuts
+1183537,2020-03-13,Sydney,Australia,New Zealand,Australia,runs,71,Australia,MR Marsh
+1198238,2020-09-11,Manchester,Australia,England,Australia,runs,19,England,JR Hazlewood
+1198239,2020-09-13,Manchester,England,Australia,England,runs,24,England,JC Archer
+1198240,2020-09-16,Manchester,England,Australia,Australia,wickets,3,England,GJ Maxwell
+1223955,2020-11-27,Sydney Cricket Ground,Australia,India,Australia,runs,66,Australia,SPD Smith
+1223956,2020-11-29,Sydney Cricket Ground,Australia,India,Australia,runs,51,Australia,SPD Smith
+1223957,2020-12-02,Canberra,India,Australia,India,runs,13,India,HH Pandya
+463150,2011-01-12,Durban,South Africa,India,South Africa,runs,135,South Africa,LL Tsotsobe
+463151,2011-01-15,Johannesburg,India,South Africa,India,runs,1,India,MM Patel
+446962,2011-01-16,Melbourne Cricket Ground,England,Australia,Australia,wickets,6,England,SR Watson
+463152,2011-01-18,Cape Town,South Africa,India,India,wickets,2,South Africa,YK Pathan
+446963,2011-01-21,Hobart,Australia,England,Australia,runs,46,England,SE Marsh
+473923,2011-01-22,Wellington,Pakistan,New Zealand,New Zealand,wickets,9,Pakistan,TG Southee
+446964,2011-01-23,Sydney Cricket Ground,England,Australia,Australia,wickets,4,England,B Lee
+446965,2011-01-26,Adelaide Oval,England,Australia,England,runs,21,England,IJL Trott
+473925,2011-01-29,Christchurch,Pakistan,New Zealand,Pakistan,runs,43,New Zealand,Mohammad Hafeez
+446966,2011-01-30,Brisbane,Australia,England,Australia,runs,51,Australia,CR Woakes
+473926,2011-02-01,Napier,New Zealand,Pakistan,Pakistan,wickets,2,New Zealand,Misbah-ul-Haq
+446967,2011-02-02,Sydney Cricket Ground,England,Australia,Australia,wickets,2,England,IJL Trott
+473927,2011-02-03,Hamilton,Pakistan,New Zealand,Pakistan,runs,41,New Zealand,Ahmed Shehzad
+473928,2011-02-05,Auckland,New Zealand,Pakistan,New Zealand,runs,57,Pakistan,JD Ryder
+464992,2011-02-06,Colombo,Sri Lanka,West Indies,Sri Lanka,runs,26,West Indies,KC Sangakkara
+446968,2011-02-06,Perth,Australia,England,Australia,runs,57,Australia,AC Voges
+433558,2011-02-19,Mirpur,India,Bangladesh,India,runs,87,Bangladesh,V Sehwag
+433564,2011-02-24,Delhi,West Indies,South Africa,South Africa,wickets,7,South Africa,AB de Villiers
+433565,2011-02-25,Nagpur,New Zealand,Australia,Australia,wickets,7,Australia,MG Johnson
+433567,2011-02-26,Colombo,Pakistan,Sri Lanka,Pakistan,runs,11,Pakistan,Shahid Afridi
+433576,2011-03-04,Mirpur,Bangladesh,West Indies,West Indies,wickets,9,Bangladesh,KAJ Roach
+433579,2011-03-06,Chennai,England,South Africa,England,runs,6,England,RS Bopara
+433581,2011-03-08,Pallekele International Cricket Stadium,New Zealand,Pakistan,New Zealand,runs,110,New Zealand,LRPL Taylor
+433585,2011-03-11,Chittagong,England,Bangladesh,Bangladesh,wickets,2,Bangladesh,Imrul Kayes
+433586,2011-03-12,Nagpur,India,South Africa,South Africa,wickets,3,India,DW Steyn
+433593,2011-03-17,Chennai,England,West Indies,England,runs,18,England,JC Tredwell
+433594,2011-03-18,Mumbai,Sri Lanka,New Zealand,Sri Lanka,runs,112,Sri Lanka,KC Sangakkara
+433596,2011-03-19,Colombo,Australia,Pakistan,Pakistan,wickets,4,Australia,Umar Akmal
+433597,2011-03-19,Mirpur,South Africa,Bangladesh,South Africa,runs,206,South Africa,LL Tsotsobe
+433599,2011-03-20,Chennai,India,West Indies,India,runs,80,India,Yuvraj Singh
+433600,2011-03-23,Mirpur,West Indies,Pakistan,Pakistan,wickets,10,West Indies,Mohammad Hafeez
+433601,2011-03-24,Ahmedabad,Australia,India,India,wickets,5,Australia,Yuvraj Singh
+433602,2011-03-25,Mirpur,New Zealand,South Africa,New Zealand,runs,49,New Zealand,JDP Oram
+433603,2011-03-26,Colombo,England,Sri Lanka,Sri Lanka,wickets,10,England,TM Dilshan
+433604,2011-03-29,Colombo,New Zealand,Sri Lanka,Sri Lanka,wickets,5,New Zealand,KC Sangakkara
+433605,2011-03-30,Chandigarh,India,Pakistan,India,runs,29,India,SR Tendulkar
+433606,2011-04-02,Mumbai,Sri Lanka,India,India,wickets,6,Sri Lanka,MS Dhoni
+503363,2011-04-09,Mirpur,Australia,Bangladesh,Australia,runs,60,Bangladesh,MJ Clarke
+503364,2011-04-11,Mirpur,Bangladesh,Australia,Australia,wickets,9,Bangladesh,SR Watson
+503365,2011-04-13,Mirpur,Australia,Bangladesh,Australia,runs,66,Australia,MEK Hussey
+489213,2011-04-23,St Lucia,West Indies,Pakistan,Pakistan,wickets,8,West Indies,Mohammad Hafeez
+489214,2011-04-25,St Lucia,West Indies,Pakistan,Pakistan,wickets,7,Pakistan,Ahmed Shehzad
+489215,2011-04-28,Barbados,West Indies,Pakistan,Pakistan,wickets,3,Pakistan,Misbah-ul-Haq
+489217,2011-05-05,Guyana,Pakistan,West Indies,West Indies,wickets,10,Pakistan,LMP Simmons
+489221,2011-06-06,Trinidad,West Indies,India,India,wickets,4,West Indies,RG Sharma
+489223,2011-06-11,Antigua,West Indies,India,India,wickets,3,India,AD Russell
+489224,2011-06-13,Antigua,West Indies,India,West Indies,runs,103,India,A Martin
+489225,2011-06-16,Jamaica,India,West Indies,West Indies,wickets,7,West Indies,AD Russell
+474468,2011-07-01,Leeds,Sri Lanka,England,Sri Lanka,runs,69,England,DPMD Jayawardene
+474469,2011-07-03,London,England,Sri Lanka,Sri Lanka,wickets,6,England,LD Chandimal
+474471,2011-07-09,Manchester,England,Sri Lanka,England,runs,16,England,IJL Trott
+516206,2011-08-10,Pallekele International Cricket Stadium,Sri Lanka,Australia,Australia,wickets,7,Sri Lanka,MG Johnson
+516207,2011-08-14,Hambantota,Sri Lanka,Australia,Australia,wickets,8,Sri Lanka,RT Ponting
+516208,2011-08-16,Hambantota,Sri Lanka,Australia,Sri Lanka,runs,78,Australia,WU Tharanga
+516209,2011-08-20,Colombo,Sri Lanka,Australia,Australia,wickets,5,Sri Lanka,XJ Doherty
+516210,2011-08-22,Colombo,Australia,Sri Lanka,Sri Lanka,wickets,4,Sri Lanka,SL Malinga
+474478,2011-09-06,Southampton,India,England,England,wickets,7,England,AN Cook
+531983,2011-10-13,Mirpur,West Indies,Bangladesh,West Indies,runs,40,Bangladesh,LMP Simmons
+521218,2011-10-14,Hyderabad,India,England,India,runs,126,India,MS Dhoni
+531984,2011-10-15,Mirpur,Bangladesh,West Indies,West Indies,wickets,8,Bangladesh,MN Samuels
+521219,2011-10-17,Delhi,England,India,India,wickets,8,England,V Kohli
+531985,2011-10-18,Chittagong,West Indies,Bangladesh,Bangladesh,wickets,8,Bangladesh,Shakib Al Hasan
+521220,2011-10-20,Chandigarh,England,India,India,wickets,5,England,AM Rahane
+514026,2011-10-23,Port Elizabeth,South Africa,Australia,South Africa,runs,80,South Africa,M Morkel
+521221,2011-10-23,Mumbai,England,India,India,wickets,6,England,SK Raina
+521222,2011-10-25,Kolkata,India,England,India,runs,95,England,RA Jadeja
+514027,2011-10-28,Durban,South Africa,Australia,Australia,wickets,3,South Africa,SR Watson
+530427,2011-11-11,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Pakistan,wickets,8,Sri Lanka,Shahid Afridi
+530428,2011-11-14,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,runs,25,Sri Lanka,SL Malinga
+530429,2011-11-18,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Pakistan,runs,21,Pakistan,Mohammad Hafeez
+530430,2011-11-20,Sharjah Cricket Stadium,Pakistan,Sri Lanka,Pakistan,runs,26,Pakistan,Shahid Afridi
+530431,2011-11-23,Abu Dhabi,Sri Lanka,Pakistan,Pakistan,wickets,3,Sri Lanka,Umar Akmal
+536929,2011-11-29,Cuttack,West Indies,India,India,wickets,1,India,RG Sharma
+538069,2011-12-01,Mirpur,Bangladesh,Pakistan,Pakistan,wickets,5,Bangladesh,Shahid Afridi
+536930,2011-12-02,Visakhapatnam,West Indies,India,India,wickets,5,India,V Kohli
+538070,2011-12-03,Mirpur,Pakistan,Bangladesh,Pakistan,runs,76,Pakistan,Nasir Hossain
+536931,2011-12-05,Ahmedabad,West Indies,India,West Indies,runs,16,India,R Rampaul
+538071,2011-12-06,Chittagong,Pakistan,Bangladesh,Pakistan,runs,58,Pakistan,Umar Akmal
+536932,2011-12-08,Indore,India,West Indies,India,runs,153,India,V Sehwag
+536933,2011-12-11,Chennai,India,West Indies,India,runs,34,India,MK Tiwary
+514035,2012-01-11,Paarl,South Africa,Sri Lanka,South Africa,runs,258,South Africa,M Morkel
+514036,2012-01-14,East London,Sri Lanka,South Africa,South Africa,wickets,5,South Africa,JP Duminy
+514038,2012-01-20,Kimberley,South Africa,Sri Lanka,Sri Lanka,wickets,5,South Africa,NLTC Perera
+514039,2012-01-22,Johannesburg,South Africa,Sri Lanka,Sri Lanka,wickets,2,Sri Lanka,KC Sangakkara
+518957,2012-02-08,Perth,Sri Lanka,India,India,wickets,4,Sri Lanka,R Ashwin
+518958,2012-02-10,Perth,Australia,Sri Lanka,Australia,runs,5,Sri Lanka,MJ Clarke
+518959,2012-02-12,Adelaide Oval,Australia,India,India,wickets,4,Australia,G Gambhir
+531631,2012-02-13,Abu Dhabi,England,Pakistan,England,runs,130,England,AN Cook
+531632,2012-02-15,Abu Dhabi,England,Pakistan,England,runs,20,England,AN Cook
+531633,2012-02-18,Dubai International Cricket Stadium,Pakistan,England,England,wickets,9,Pakistan,KP Pietersen
+518962,2012-02-19,Brisbane,Australia,India,Australia,runs,110,Australia,BW Hilfenhaus
+531634,2012-02-21,Dubai International Cricket Stadium,Pakistan,England,England,wickets,4,Pakistan,KP Pietersen
+518963,2012-02-21,Brisbane,Sri Lanka,India,Sri Lanka,runs,51,Sri Lanka,KMDN Kulasekara
+518964,2012-02-24,Hobart,Australia,Sri Lanka,Sri Lanka,wickets,3,Australia,DPMD Jayawardene
+520600,2012-02-25,Wellington,New Zealand,South Africa,South Africa,wickets,6,New Zealand,AB de Villiers
+518965,2012-02-26,Sydney Cricket Ground,Australia,India,Australia,runs,87,Australia,DA Warner
+518966,2012-02-28,Hobart,Sri Lanka,India,India,wickets,7,India,V Kohli
+520601,2012-02-29,Napier,New Zealand,South Africa,South Africa,wickets,6,South Africa,M Morkel
+518967,2012-03-02,Melbourne Cricket Ground,Sri Lanka,Australia,Sri Lanka,runs,9,Sri Lanka,LD Chandimal
+520602,2012-03-03,Auckland,New Zealand,South Africa,South Africa,wickets,5,South Africa,M de Lange
+518968,2012-03-04,Brisbane,Australia,Sri Lanka,Australia,runs,15,Australia,DA Warner
+518969,2012-03-06,Adelaide Oval,Australia,Sri Lanka,Sri Lanka,wickets,8,Australia,TM Dilshan
+518970,2012-03-08,Adelaide Oval,Australia,Sri Lanka,Australia,runs,16,Sri Lanka,CJ McKay
+535794,2012-03-11,Mirpur,Pakistan,Bangladesh,Pakistan,runs,21,Bangladesh,Mohammad Hafeez
+535795,2012-03-13,Mirpur,India,Sri Lanka,India,runs,50,Sri Lanka,V Kohli
+535796,2012-03-15,Mirpur,Sri Lanka,Pakistan,Pakistan,wickets,6,Sri Lanka,Aizaz Cheema
+540168,2012-03-16,St Vincent,Australia,West Indies,Australia,runs,64,Australia,GJ Bailey
+535797,2012-03-16,Mirpur,India,Bangladesh,Bangladesh,wickets,5,Bangladesh,Shakib Al Hasan
+535798,2012-03-18,Mirpur,Pakistan,India,India,wickets,6,Pakistan,V Kohli
+535800,2012-03-22,Mirpur,Pakistan,Bangladesh,Pakistan,runs,2,Bangladesh,Shahid Afridi
+540171,2012-03-23,St Lucia,West Indies,Australia,West Indies,runs,42,Australia,KA Pollard
+540172,2012-03-25,St Lucia,Australia,West Indies,Australia,runs,30,West Indies,DJG Sammy
+562440,2012-06-09,Pallekele International Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,runs,76,Sri Lanka,NLTC Perera
+562442,2012-06-16,Colombo,Sri Lanka,Pakistan,Sri Lanka,runs,44,Sri Lanka,NLTC Perera
+562443,2012-06-18,Colombo,Pakistan,Sri Lanka,Sri Lanka,wickets,2,Pakistan,AD Mathews
+534210,2012-06-19,London,West Indies,England,England,wickets,8,England,AN Cook
+534215,2012-06-29,London,England,Australia,England,runs,15,Australia,EJG Morgan
+534216,2012-07-01,London,Australia,England,England,wickets,6,Australia,RS Bopara
+534218,2012-07-07,Chester-le-Street,Australia,England,England,wickets,8,England,ST Finn
+560924,2012-07-07,Jamaica,West Indies,New Zealand,West Indies,runs,55,New Zealand,MN Samuels
+560925,2012-07-11,St Kitts,New Zealand,West Indies,New Zealand,runs,88,West Indies,RJ Nicol
+560926,2012-07-14,St Kitts,West Indies,New Zealand,West Indies,runs,24,West Indies,SP Narine
+560927,2012-07-16,St Kitts,West Indies,New Zealand,West Indies,runs,20,West Indies,SP Narine
+564781,2012-07-21,Hambantota,India,Sri Lanka,India,runs,21,India,V Kohli
+564782,2012-07-24,Hambantota,India,Sri Lanka,Sri Lanka,wickets,9,India,NLTC Perera
+564783,2012-07-28,Colombo,Sri Lanka,India,India,wickets,5,Sri Lanka,SK Raina
+564784,2012-07-31,Colombo,Sri Lanka,India,India,wickets,6,Sri Lanka,V Kohli
+564785,2012-08-04,Pallekele International Cricket Stadium,India,Sri Lanka,India,runs,20,India,IK Pathan
+571145,2012-08-28,Sharjah Cricket Stadium,Pakistan,Australia,Australia,wickets,4,Pakistan,MA Starc
+534229,2012-08-28,Southampton,South Africa,England,South Africa,runs,80,South Africa,HM Amla
+534230,2012-08-31,London,South Africa,England,England,wickets,4,South Africa,EJG Morgan
+571146,2012-08-31,Abu Dhabi,Australia,Pakistan,Pakistan,wickets,7,Australia,Nasir Jamshed
+534231,2012-09-02,London,South Africa,England,England,wickets,6,England,IR Bell
+571147,2012-09-03,Sharjah Cricket Stadium,Pakistan,Australia,Australia,wickets,3,Australia,MEK Hussey
+534232,2012-09-05,Nottingham,England,South Africa,South Africa,wickets,7,England,HM Amla
+587471,2012-11-30,Khulna,West Indies,Bangladesh,Bangladesh,wickets,7,West Indies,Sohag Gazi
+587472,2012-12-02,Khulna,Bangladesh,West Indies,Bangladesh,runs,160,West Indies,Anamul Haque
+587473,2012-12-05,Mirpur,Bangladesh,West Indies,West Indies,wickets,4,West Indies,MN Samuels
+587474,2012-12-07,Mirpur,West Indies,Bangladesh,West Indies,runs,75,Bangladesh,DJG Sammy
+587475,2012-12-08,Mirpur,West Indies,Bangladesh,Bangladesh,wickets,2,Bangladesh,Mahmudullah
+589308,2012-12-30,Chennai,India,Pakistan,Pakistan,wickets,6,Pakistan,MS Dhoni
+589309,2013-01-03,Kolkata,Pakistan,India,Pakistan,runs,85,India,Nasir Jamshed
+589310,2013-01-06,Delhi,India,Pakistan,India,runs,10,India,MS Dhoni
+573014,2013-01-11,Melbourne Cricket Ground,Australia,Sri Lanka,Australia,runs,107,Australia,PJ Hughes
+565812,2013-01-11,Rajkot,England,India,England,runs,9,England,JC Tredwell
+573015,2013-01-13,Adelaide Oval,Australia,Sri Lanka,Sri Lanka,wickets,8,Sri Lanka,HDRL Thirimanne
+565813,2013-01-15,Kochi,India,England,India,runs,127,India,RA Jadeja
+573016,2013-01-18,Brisbane,Australia,Sri Lanka,Sri Lanka,wickets,4,Australia,KMDN Kulasekara
+565814,2013-01-19,Ranchi,England,India,India,wickets,7,India,V Kohli
+567358,2013-01-19,Paarl,South Africa,New Zealand,New Zealand,wickets,1,New Zealand,JEC Franklin
+567359,2013-01-22,Kimberley,New Zealand,South Africa,New Zealand,runs,27,South Africa,KS Williamson
+573018,2013-01-23,Hobart,Australia,Sri Lanka,Australia,runs,32,Sri Lanka,PJ Hughes
+565815,2013-01-23,Chandigarh,England,India,India,wickets,5,India,SK Raina
+567360,2013-01-25,Potchefstroom,New Zealand,South Africa,South Africa,wickets,1,New Zealand,GC Smith
+565816,2013-01-27,Dharamsala,India,England,England,wickets,7,England,IR Bell
+573022,2013-02-01,Perth,West Indies,Australia,Australia,wickets,9,West Indies,MA Starc
+573023,2013-02-03,Perth,Australia,West Indies,Australia,runs,54,West Indies,GJ Bailey
+573024,2013-02-06,Canberra,Australia,West Indies,Australia,runs,39,Australia,SR Watson
+573025,2013-02-08,Sydney Cricket Ground,West Indies,Australia,Australia,wickets,5,West Indies,KA Pollard
+573026,2013-02-10,Melbourne Cricket Ground,Australia,West Indies,Australia,runs,17,West Indies,AC Voges
+569240,2013-02-17,Hamilton,England,New Zealand,New Zealand,wickets,3,New Zealand,BB McCullum
+569241,2013-02-20,Napier,New Zealand,England,England,wickets,8,England,NA
+569242,2013-02-23,Auckland,New Zealand,England,England,wickets,5,England,NA
+567368,2013-03-10,Bloemfontein,South Africa,Pakistan,South Africa,runs,125,Pakistan,CA Ingram
+567370,2013-03-17,Johannesburg,South Africa,Pakistan,South Africa,runs,34,Pakistan,HM Amla
+567371,2013-03-21,Durban,South Africa,Pakistan,Pakistan,wickets,3,South Africa,Misbah-ul-Haq
+567372,2013-03-24,Benoni,Pakistan,South Africa,South Africa,wickets,6,Pakistan,AB de Villiers
+566923,2013-05-31,London,England,New Zealand,New Zealand,wickets,5,New Zealand,MJ Guptill
+566924,2013-06-02,Southampton,New Zealand,England,New Zealand,runs,86,New Zealand,MJ Guptill
+566925,2013-06-05,Nottingham,England,New Zealand,England,runs,34,New Zealand,JC Buttler
+578614,2013-06-06,Cardiff,India,South Africa,India,runs,26,South Africa,S Dhawan
+578615,2013-06-07,London,Pakistan,West Indies,West Indies,wickets,2,West Indies,KAJ Roach
+578616,2013-06-08,Birmingham,England,Australia,England,runs,48,England,IR Bell
+578617,2013-06-09,Cardiff,Sri Lanka,New Zealand,New Zealand,wickets,1,Sri Lanka,NL McCullum
+578618,2013-06-10,Birmingham,South Africa,Pakistan,South Africa,runs,67,South Africa,HM Amla
+578619,2013-06-11,London,West Indies,India,India,wickets,8,India,RA Jadeja
+578621,2013-06-13,London,England,Sri Lanka,Sri Lanka,wickets,7,Sri Lanka,KC Sangakkara
+578624,2013-06-16,Cardiff,England,New Zealand,England,runs,10,New Zealand,AN Cook
+578625,2013-06-17,London,Sri Lanka,Australia,Sri Lanka,runs,20,Australia,DPMD Jayawardene
+566946,2013-06-19,London,South Africa,England,England,wickets,7,England,JC Tredwell
+566947,2013-06-20,Cardiff,Sri Lanka,India,India,wickets,8,India,I Sharma
+566948,2013-06-23,Birmingham,India,England,India,runs,5,England,RA Jadeja
+597923,2013-06-28,Jamaica,Sri Lanka,West Indies,West Indies,wickets,6,West Indies,CH Gayle
+597924,2013-06-30,Jamaica,India,West Indies,West Indies,wickets,1,West Indies,J Charles
+597925,2013-07-02,Jamaica,Sri Lanka,India,Sri Lanka,runs,161,India,WU Tharanga
+597929,2013-07-11,Trinidad,Sri Lanka,India,India,wickets,1,India,MS Dhoni
+645635,2013-07-14,Guyana,Pakistan,West Indies,Pakistan,runs,126,West Indies,Shahid Afridi
+645637,2013-07-16,Guyana,West Indies,Pakistan,West Indies,runs,37,Pakistan,SP Narine
+635653,2013-07-20,Colombo,Sri Lanka,South Africa,Sri Lanka,runs,180,South Africa,KC Sangakkara
+645643,2013-07-24,St Lucia,West Indies,Pakistan,Pakistan,wickets,4,Pakistan,Misbah-ul-Haq
+635655,2013-07-26,Pallekele International Cricket Stadium,South Africa,Sri Lanka,South Africa,runs,56,South Africa,DA Miller
+635656,2013-07-28,Pallekele International Cricket Stadium,South Africa,Sri Lanka,Sri Lanka,wickets,8,South Africa,TM Dilshan
+635657,2013-07-31,Colombo,Sri Lanka,South Africa,Sri Lanka,runs,128,Sri Lanka,TM Dilshan
+566942,2013-09-08,Manchester,Australia,England,Australia,runs,88,England,MJ Clarke
+566944,2013-09-14,Cardiff,Australia,England,England,wickets,3,England,JC Buttler
+566945,2013-09-16,Southampton,Australia,England,Australia,runs,49,Australia,SR Watson
+647249,2013-10-13,Pune,Australia,India,Australia,runs,72,Australia,GJ Bailey
+647251,2013-10-16,Jaipur,Australia,India,India,wickets,9,Australia,RG Sharma
+647253,2013-10-19,Chandigarh,India,Australia,Australia,wickets,4,Australia,JP Faulkner
+649091,2013-10-30,Sharjah Cricket Stadium,South Africa,Pakistan,South Africa,runs,1,South Africa,WD Parnell
+647259,2013-10-30,Nagpur,Australia,India,India,wickets,6,India,V Kohli
+668955,2013-10-31,Mirpur,Bangladesh,New Zealand,Bangladesh,runs,40,Bangladesh,Sohag Gazi
+649093,2013-11-01,Dubai International Cricket Stadium,Pakistan,South Africa,Pakistan,runs,66,Pakistan,Shahid Afridi
+647261,2013-11-02,Bangalore,India,Australia,India,runs,57,Australia,RG Sharma
+668957,2013-11-03,Fatullah,New Zealand,Bangladesh,Bangladesh,wickets,4,Bangladesh,Shamsur Rahman
+649095,2013-11-06,Abu Dhabi,South Africa,Pakistan,South Africa,runs,68,South Africa,F du Plessis
+649097,2013-11-08,Abu Dhabi,South Africa,Pakistan,South Africa,runs,28,South Africa,DW Steyn
+649099,2013-11-11,Sharjah Cricket Stadium,South Africa,Pakistan,South Africa,runs,117,South Africa,AB de Villiers
+676529,2013-11-21,Kochi,West Indies,India,India,wickets,6,West Indies,V Kohli
+676531,2013-11-24,Visakhapatnam,India,West Indies,West Indies,wickets,2,West Indies,DJG Sammy
+685731,2013-11-24,Cape Town,Pakistan,South Africa,Pakistan,runs,23,Pakistan,Anwar Ali
+676533,2013-11-27,Kanpur,West Indies,India,India,wickets,5,India,S Dhawan
+685733,2013-11-27,Port Elizabeth,Pakistan,South Africa,Pakistan,runs,1,South Africa,Ahmed Shehzad
+685735,2013-11-30,Centurion,Pakistan,South Africa,South Africa,wickets,4,South Africa,VD Philander
+648651,2013-12-05,Johannesburg,South Africa,India,South Africa,runs,141,India,Q de Kock
+648653,2013-12-08,Durban,South Africa,India,South Africa,runs,134,India,Q de Kock
+657637,2013-12-18,Sharjah Cricket Stadium,Pakistan,Sri Lanka,Pakistan,runs,11,Pakistan,Mohammad Hafeez
+657639,2013-12-20,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Sri Lanka,wickets,2,Sri Lanka,AD Mathews
+657641,2013-12-22,Sharjah Cricket Stadium,Pakistan,Sri Lanka,Pakistan,runs,113,Sri Lanka,Mohammad Hafeez
+657643,2013-12-25,Abu Dhabi,Sri Lanka,Pakistan,Pakistan,wickets,8,Sri Lanka,Mohammad Hafeez
+661685,2013-12-26,Auckland,New Zealand,West Indies,West Indies,wickets,2,West Indies,DJG Sammy
+657645,2013-12-27,Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,wickets,2,Pakistan,LD Chandimal
+434258,2010-01-04,Mirpur,Bangladesh,Sri Lanka,Sri Lanka,wickets,7,Sri Lanka,TM Dilshan
+434259,2010-01-05,Mirpur,India,Sri Lanka,Sri Lanka,wickets,5,Sri Lanka,TT Samaraweera
+434260,2010-01-07,Mirpur,Bangladesh,India,India,wickets,6,Bangladesh,MS Dhoni
+434261,2010-01-08,Mirpur,Bangladesh,Sri Lanka,Sri Lanka,wickets,9,Sri Lanka,WU Tharanga
+434262,2010-01-10,Mirpur,Sri Lanka,India,India,wickets,8,Sri Lanka,Z Khan
+434263,2010-01-11,Mirpur,Bangladesh,India,India,wickets,6,India,V Kohli
+434264,2010-01-13,Mirpur,India,Sri Lanka,Sri Lanka,wickets,4,Sri Lanka,KMDN Kulasekara
+406202,2010-01-22,Brisbane,Pakistan,Australia,Australia,wickets,5,Pakistan,CL White
+406203,2010-01-24,Sydney Cricket Ground,Australia,Pakistan,Australia,runs,140,Pakistan,SR Watson
+406204,2010-01-26,Adelaide Oval,Australia,Pakistan,Australia,runs,40,Australia,RJ Harris
+406205,2010-01-29,Perth,Australia,Pakistan,Australia,runs,135,Australia,RJ Harris
+406206,2010-01-31,Perth,Pakistan,Australia,Australia,wickets,2,Pakistan,CJ McKay
+423783,2010-02-05,Napier,New Zealand,Bangladesh,New Zealand,runs,146,New Zealand,JDP Oram
+406192,2010-02-07,Melbourne Cricket Ground,Australia,West Indies,Australia,runs,113,West Indies,SR Watson
+423784,2010-02-08,Dunedin,Bangladesh,New Zealand,New Zealand,wickets,5,New Zealand,LRPL Taylor
+406193,2010-02-09,Adelaide Oval,West Indies,Australia,Australia,wickets,8,West Indies,DE Bollinger
+423785,2010-02-11,Christchurch,Bangladesh,New Zealand,New Zealand,wickets,3,New Zealand,MJ Guptill
+406195,2010-02-14,Brisbane,Australia,West Indies,Australia,runs,50,West Indies,RT Ponting
+406196,2010-02-19,Melbourne Cricket Ground,Australia,West Indies,Australia,runs,125,Australia,JR Hopes
+441827,2010-02-21,Jaipur,India,South Africa,India,runs,1,South Africa,RA Jadeja
+441828,2010-02-24,Gwalior,India,South Africa,India,runs,153,India,SR Tendulkar
+441829,2010-02-27,Ahmedabad,South Africa,India,South Africa,runs,90,South Africa,AB de Villiers
+426420,2010-02-28,Mirpur,Bangladesh,England,England,wickets,6,England,Tamim Iqbal
+426421,2010-03-02,Mirpur,Bangladesh,England,England,wickets,2,England,EJG Morgan
+423791,2010-03-03,Napier,Australia,New Zealand,New Zealand,wickets,2,Australia,LRPL Taylor
+426422,2010-03-05,Chittagong,England,Bangladesh,England,runs,45,Bangladesh,C Kieswetter
+423793,2010-03-09,Hamilton,New Zealand,Australia,Australia,wickets,6,Australia,BJ Haddin
+423795,2010-03-13,Wellington,New Zealand,Australia,New Zealand,runs,51,Australia,TG Southee
+439148,2010-05-24,Antigua,South Africa,West Indies,South Africa,runs,17,South Africa,HM Amla
+439149,2010-05-28,Dominica,South Africa,West Indies,South Africa,runs,67,South Africa,AB de Villiers
+439150,2010-05-30,Dominica,West Indies,South Africa,South Africa,wickets,7,West Indies,HM Amla
+452147,2010-05-30,Bulawayo,Sri Lanka,India,India,wickets,7,India,RG Sharma
+439151,2010-06-03,Trinidad,West Indies,South Africa,South Africa,wickets,1,West Indies,JH Kallis
+452150,2010-06-05,Harare Sports Club,India,Sri Lanka,Sri Lanka,wickets,6,Sri Lanka,LD Chandimal
+455231,2010-06-15,Rangiri Dambulla International Stadium,Sri Lanka,Pakistan,Sri Lanka,runs,16,Sri Lanka,Shahid Afridi
+455232,2010-06-16,Rangiri Dambulla International Stadium,Bangladesh,India,India,wickets,6,Bangladesh,G Gambhir
+455233,2010-06-18,Rangiri Dambulla International Stadium,Sri Lanka,Bangladesh,Sri Lanka,runs,126,Sri Lanka,TM Dilshan
+455234,2010-06-19,Rangiri Dambulla International Stadium,Pakistan,India,India,wickets,3,Pakistan,G Gambhir
+455235,2010-06-21,Rangiri Dambulla International Stadium,Pakistan,Bangladesh,Pakistan,runs,139,Pakistan,Shahid Afridi
+455236,2010-06-22,Rangiri Dambulla International Stadium,India,Sri Lanka,Sri Lanka,wickets,7,Sri Lanka,MF Maharoof
+426387,2010-06-22,Southampton,Australia,England,England,wickets,4,Australia,EJG Morgan
+426388,2010-06-24,Cardiff,Australia,England,England,wickets,4,Australia,SCJ Broad
+455237,2010-06-24,Rangiri Dambulla International Stadium,India,Sri Lanka,India,runs,81,India,KD Karthik
+426389,2010-06-27,Manchester,Australia,England,England,wickets,1,England,GP Swann
+426390,2010-06-30,London,Australia,England,Australia,runs,78,England,RJ Harris
+426391,2010-07-03,London,Australia,England,Australia,runs,42,Australia,SW Tait
+426403,2010-07-08,Nottingham,Bangladesh,England,England,wickets,6,Bangladesh,IR Bell
+426404,2010-07-10,Bristol,Bangladesh,England,Bangladesh,runs,5,England,Mashrafe Mortaza
+426405,2010-07-12,Birmingham,England,Bangladesh,England,runs,144,Bangladesh,AJ Strauss
+456662,2010-08-10,Rangiri Dambulla International Stadium,New Zealand,India,New Zealand,runs,200,New Zealand,LRPL Taylor
+456664,2010-08-13,Rangiri Dambulla International Stadium,New Zealand,Sri Lanka,Sri Lanka,wickets,3,New Zealand,WU Tharanga
+456663,2010-08-16,Rangiri Dambulla International Stadium,Sri Lanka,India,India,wickets,6,Sri Lanka,V Sehwag
+456666,2010-08-22,Rangiri Dambulla International Stadium,India,Sri Lanka,Sri Lanka,wickets,8,India,NLTC Perera
+456665,2010-08-25,Rangiri Dambulla International Stadium,India,New Zealand,India,runs,105,India,V Sehwag
+456668,2010-08-28,Rangiri Dambulla International Stadium,Sri Lanka,India,Sri Lanka,runs,74,Sri Lanka,TM Dilshan
+426428,2010-09-10,Chester-le-Street,England,Pakistan,England,runs,24,Pakistan,SM Davies
+426429,2010-09-12,Leeds,Pakistan,England,England,wickets,4,Pakistan,AJ Strauss
+426430,2010-09-17,London,Pakistan,England,Pakistan,runs,23,Pakistan,Umar Gul
+426431,2010-09-20,London,Pakistan,England,Pakistan,runs,38,Pakistan,Abdul Razzaq
+426432,2010-09-22,Southampton,England,Pakistan,England,runs,121,England,EJG Morgan
+476598,2010-10-11,Mirpur,New Zealand,Bangladesh,Bangladesh,wickets,7,Bangladesh,Suhrawadi Shuvo
+476599,2010-10-14,Mirpur,Bangladesh,New Zealand,Bangladesh,runs,9,New Zealand,Shakib Al Hasan
+476600,2010-10-17,Mirpur,Bangladesh,New Zealand,Bangladesh,runs,3,Bangladesh,Rubel Hossain
+464529,2010-10-20,Visakhapatnam,Australia,India,India,wickets,5,India,V Kohli
+461566,2010-10-29,Abu Dhabi,Pakistan,South Africa,South Africa,wickets,8,Pakistan,LL Tsotsobe
+461567,2010-10-31,Abu Dhabi,South Africa,Pakistan,Pakistan,wickets,1,South Africa,Abdul Razzaq
+461568,2010-11-02,Dubai International Cricket Stadium,South Africa,Pakistan,South Africa,runs,2,Pakistan,HM Amla
+446957,2010-11-03,Melbourne Cricket Ground,Australia,Sri Lanka,Sri Lanka,wickets,1,Australia,AD Mathews
+461569,2010-11-05,Dubai International Cricket Stadium,South Africa,Pakistan,Pakistan,wickets,1,South Africa,Younis Khan
+446959,2010-11-07,Brisbane,Sri Lanka,Australia,Australia,wickets,8,Sri Lanka,CJ McKay
+461570,2010-11-08,Dubai International Cricket Stadium,South Africa,Pakistan,South Africa,runs,57,South Africa,JH Kallis
+467883,2010-11-28,Guwahati,India,New Zealand,India,runs,40,New Zealand,V Kohli
+467884,2010-12-01,Jaipur,New Zealand,India,India,wickets,8,India,G Gambhir
+467885,2010-12-04,Vadodara,New Zealand,India,India,wickets,9,India,G Gambhir
+467886,2010-12-07,Bangalore,New Zealand,India,India,wickets,5,India,YK Pathan
+467887,2010-12-10,Chennai,New Zealand,India,India,wickets,8,New Zealand,Yuvraj Singh
+251492,2007-01-06,Auckland,Sri Lanka,New Zealand,Sri Lanka,runs,189,Sri Lanka,ST Jayasuriya
+249232,2007-01-12,Melbourne Cricket Ground,England,Australia,Australia,wickets,8,England,AC Gilchrist
+249228,2007-01-14,Hobart,Australia,New Zealand,Australia,runs,105,Australia,A Symonds
+249236,2007-01-16,Hobart,New Zealand,England,England,wickets,3,New Zealand,A Flintoff
+249233,2007-01-19,Brisbane,England,Australia,Australia,wickets,4,England,MEK Hussey
+249229,2007-01-21,Sydney Cricket Ground,New Zealand,Australia,Australia,wickets,2,New Zealand,MJ Clarke
+249237,2007-01-23,Adelaide Oval,New Zealand,England,New Zealand,runs,90,New Zealand,JDP Oram
+249234,2007-01-26,Adelaide Oval,England,Australia,Australia,wickets,9,England,MG Johnson
+267708,2007-01-27,Chennai,India,West Indies,West Indies,wickets,3,West Indies,MN Samuels
+249230,2007-01-28,Perth,Australia,New Zealand,Australia,runs,8,Australia,RT Ponting
+249238,2007-01-30,Perth,New Zealand,England,New Zealand,runs,58,New Zealand,L Vincent
+267709,2007-01-31,Vadodara,India,West Indies,India,runs,160,West Indies,SR Tendulkar
+249235,2007-02-02,Sydney Cricket Ground,England,Australia,England,runs,92,England,EC Joyce
+249231,2007-02-04,Melbourne Cricket Ground,New Zealand,Australia,Australia,wickets,5,New Zealand,RT Ponting
+250668,2007-02-04,Centurion,South Africa,Pakistan,South Africa,runs,164,Pakistan,JH Kallis
+249239,2007-02-06,Brisbane,England,New Zealand,England,runs,14,England,PD Collingwood
+250669,2007-02-07,Durban,Pakistan,South Africa,Pakistan,runs,141,Pakistan,Younis Khan
+249240,2007-02-09,Melbourne Cricket Ground,Australia,England,England,wickets,4,Australia,PD Collingwood
+250671,2007-02-11,Cape Town,Pakistan,South Africa,South Africa,wickets,10,South Africa,SM Pollock
+267712,2007-02-11,Rajkot,Sri Lanka,India,Sri Lanka,runs,5,India,KC Sangakkara
+267715,2007-02-14,Margao,Sri Lanka,India,India,wickets,5,Sri Lanka,Z Khan
+250672,2007-02-14,Johannesburg,Pakistan,South Africa,South Africa,wickets,9,Pakistan,SM Pollock
+251494,2007-02-16,Wellington,Australia,New Zealand,New Zealand,wickets,10,New Zealand,SE Bond
+267713,2007-02-17,Visakhapatnam,Sri Lanka,India,India,wickets,7,India,LPC Silva
+251495,2007-02-18,Auckland,Australia,New Zealand,New Zealand,wickets,5,New Zealand,LRPL Taylor
+251496,2007-02-20,Hamilton,Australia,New Zealand,New Zealand,wickets,1,Australia,ML Hayden
+247457,2007-03-13,Jamaica,West Indies,Pakistan,West Indies,runs,54,Pakistan,DR Smith
+247463,2007-03-16,St Lucia,England,New Zealand,New Zealand,wickets,6,New Zealand,SB Styris
+247464,2007-03-17,Trinidad,India,Bangladesh,Bangladesh,wickets,5,India,Mashrafe Mortaza
+247476,2007-03-23,Trinidad,Sri Lanka,India,Sri Lanka,runs,69,India,M Muralitharan
+247478,2007-03-24,St Kitts,Australia,South Africa,Australia,runs,83,South Africa,ML Hayden
+247481,2007-03-27,Antigua,Australia,West Indies,Australia,runs,103,West Indies,ML Hayden
+247482,2007-03-28,Guyana,Sri Lanka,South Africa,South Africa,wickets,1,Sri Lanka,CK Langeveldt
+247483,2007-03-29,Antigua,West Indies,New Zealand,New Zealand,wickets,7,New Zealand,JDP Oram
+247485,2007-03-31,Antigua,Bangladesh,Australia,Australia,wickets,10,Australia,GD McGrath
+247486,2007-04-01,Guyana,Sri Lanka,West Indies,Sri Lanka,runs,113,West Indies,ST Jayasuriya
+247487,2007-04-02,Antigua,Bangladesh,New Zealand,New Zealand,wickets,9,New Zealand,SE Bond
+247489,2007-04-04,Antigua,Sri Lanka,England,Sri Lanka,runs,2,England,RS Bopara
+247490,2007-04-07,Guyana,Bangladesh,South Africa,Bangladesh,runs,67,South Africa,Mohammad Ashraful
+247491,2007-04-08,Antigua,England,Australia,Australia,wickets,7,England,SW Tait
+247493,2007-04-10,Grenada,South Africa,West Indies,South Africa,runs,67,West Indies,AB de Villiers
+247494,2007-04-11,Barbados,Bangladesh,England,England,wickets,4,England,SI Mahmood
+247495,2007-04-12,Grenada,New Zealand,Sri Lanka,Sri Lanka,wickets,6,New Zealand,WPUJC Vaas
+247497,2007-04-14,Grenada,South Africa,New Zealand,New Zealand,wickets,5,New Zealand,CD McMillan
+247499,2007-04-16,Grenada,Sri Lanka,Australia,Australia,wickets,7,Sri Lanka,NW Bracken
+247500,2007-04-17,Barbados,England,South Africa,South Africa,wickets,9,England,AJ Hall
+247502,2007-04-19,Barbados,West Indies,Bangladesh,West Indies,runs,99,Bangladesh,RR Sarwan
+247503,2007-04-20,Grenada,Australia,New Zealand,Australia,runs,215,Australia,ML Hayden
+247504,2007-04-21,Barbados,West Indies,England,England,wickets,1,England,KP Pietersen
+247505,2007-04-24,Jamaica,Sri Lanka,New Zealand,Sri Lanka,runs,81,Sri Lanka,DPMD Jayawardene
+247506,2007-04-25,St Lucia,South Africa,Australia,Australia,wickets,7,South Africa,GD McGrath
+282688,2007-05-10,Mirpur,Bangladesh,India,India,wickets,5,Bangladesh,MS Dhoni
+282689,2007-05-12,Mirpur,India,Bangladesh,India,runs,46,India,G Gambhir
+293076,2007-06-26,Belfast,India,South Africa,South Africa,wickets,4,South Africa,JH Kallis
+293077,2007-06-29,Belfast,South Africa,India,India,wickets,6,India,SR Tendulkar
+293078,2007-07-01,Belfast,South Africa,India,India,wickets,6,India,Yuvraj Singh
+258465,2007-07-01,London,England,West Indies,England,runs,79,West Indies,FH Edwards
+258466,2007-07-04,Birmingham,West Indies,England,West Indies,runs,61,England,S Chanderpaul
+258467,2007-07-07,Nottingham,West Indies,England,West Indies,runs,93,West Indies,DBL Powell
+293481,2007-07-20,Colombo,Sri Lanka,Bangladesh,Sri Lanka,runs,70,Bangladesh,CRD Fernando
+293482,2007-07-23,Colombo,Bangladesh,Sri Lanka,Sri Lanka,wickets,5,Sri Lanka,ST Jayasuriya
+293483,2007-07-25,Colombo,Sri Lanka,Bangladesh,Sri Lanka,runs,39,Bangladesh,J Mubarak
+258471,2007-08-21,Southampton,England,India,England,runs,104,India,IR Bell
+258472,2007-08-24,Bristol,India,England,India,runs,9,India,R Dravid
+258473,2007-08-27,Birmingham,England,India,England,runs,42,India,IR Bell
+258474,2007-08-30,Manchester,India,England,England,wickets,3,India,SCJ Broad
+258476,2007-09-05,London,England,India,India,wickets,2,England,SR Tendulkar
+258477,2007-09-08,London,India,England,England,wickets,7,India,KP Pietersen
+291217,2007-10-01,Rangiri Dambulla International Stadium,Sri Lanka,England,Sri Lanka,runs,119,Sri Lanka,MF Maharoof
+297794,2007-10-02,Kochi,Australia,India,Australia,runs,84,India,BJ Haddin
+291218,2007-10-04,Rangiri Dambulla International Stadium,England,Sri Lanka,England,runs,65,England,OA Shah
+297795,2007-10-05,Hyderabad,Australia,India,Australia,runs,47,Australia,A Symonds
+297796,2007-10-08,Chandigarh,India,Australia,India,runs,8,India,MS Dhoni
+291220,2007-10-10,Colombo,Sri Lanka,England,England,wickets,5,Sri Lanka,AN Cook
+297797,2007-10-11,Vadodara,India,Australia,Australia,wickets,9,India,MG Johnson
+291221,2007-10-13,Colombo,Sri Lanka,England,Sri Lanka,runs,107,Sri Lanka,CRD Fernando
+297798,2007-10-14,Nagpur,Australia,India,Australia,runs,18,Australia,A Symonds
+297799,2007-10-17,Mumbai,Australia,India,India,wickets,2,Australia,M Kartik
+299006,2007-10-18,Lahore,South Africa,Pakistan,South Africa,runs,45,South Africa,AB de Villiers
+299007,2007-10-20,Lahore,Pakistan,South Africa,Pakistan,runs,25,Pakistan,Mohammad Yousuf
+299008,2007-10-23,Faisalabad,South Africa,Pakistan,Pakistan,wickets,6,South Africa,Shahid Afridi
+299009,2007-10-26,Multan Cricket Stadium,Pakistan,South Africa,South Africa,wickets,7,Pakistan,SM Pollock
+299010,2007-10-29,Lahore,South Africa,Pakistan,South Africa,runs,14,South Africa,M Ntini
+297801,2007-11-05,Guwahati,Pakistan,India,India,wickets,5,Pakistan,MS Dhoni
+297802,2007-11-08,Chandigarh,India,Pakistan,Pakistan,wickets,4,India,Younis Khan
+297803,2007-11-11,Kanpur,India,Pakistan,India,runs,46,Pakistan,Yuvraj Singh
+297804,2007-11-15,Gwalior,Pakistan,India,India,wickets,6,Pakistan,SR Tendulkar
+297805,2007-11-18,Jaipur,Pakistan,India,Pakistan,runs,31,India,Shoaib Malik
+298796,2007-11-25,Durban,New Zealand,South Africa,South Africa,wickets,2,South Africa,AB de Villiers
+298797,2007-11-30,Port Elizabeth,South Africa,New Zealand,New Zealand,wickets,7,South Africa,JM How
+298798,2007-12-02,Cape Town,New Zealand,South Africa,South Africa,wickets,5,New Zealand,HH Gibbs
+291345,2007-12-14,Adelaide Oval,New Zealand,Australia,Australia,wickets,7,New Zealand,RT Ponting
+291347,2007-12-20,Hobart,Australia,New Zealand,Australia,runs,114,New Zealand,RT Ponting
+300426,2007-12-26,Auckland,Bangladesh,New Zealand,New Zealand,wickets,6,New Zealand,JM How
+300428,2007-12-31,Queenstown Events Centre,Bangladesh,New Zealand,New Zealand,wickets,10,New Zealand,DL Vettori
+298805,2008-01-20,Centurion,West Indies,South Africa,South Africa,wickets,6,South Africa,JP Duminy
+298806,2008-01-25,Cape Town,South Africa,West Indies,South Africa,runs,86,South Africa,SM Pollock
+298807,2008-01-27,Port Elizabeth,West Indies,South Africa,South Africa,wickets,7,West Indies,JH Kallis
+298808,2008-02-01,Durban,West Indies,South Africa,South Africa,wickets,5,West Indies,AB de Villiers
+291361,2008-02-08,Sydney Cricket Ground,Australia,Sri Lanka,Australia,runs,128,Australia,NW Bracken
+300437,2008-02-09,Wellington,England,New Zealand,New Zealand,wickets,6,England,SB Styris
+291362,2008-02-10,Melbourne Cricket Ground,Australia,India,India,wickets,5,Australia,I Sharma
+291364,2008-02-15,Perth,Australia,Sri Lanka,Australia,runs,63,Australia,AC Gilchrist
+291365,2008-02-17,Adelaide Oval,Australia,India,Australia,runs,50,Australia,MJ Clarke
+291366,2008-02-19,Adelaide Oval,Sri Lanka,India,India,wickets,2,Sri Lanka,KC Sangakkara
+291368,2008-02-24,Sydney Cricket Ground,Australia,India,Australia,runs,18,Australia,RT Ponting
+291369,2008-02-26,Hobart,Sri Lanka,India,India,wickets,7,India,P Kumar
+291370,2008-02-29,Melbourne Cricket Ground,Sri Lanka,Australia,Sri Lanka,runs,13,Sri Lanka,AC Gilchrist
+291371,2008-03-02,Sydney Cricket Ground,Australia,India,India,wickets,6,Australia,SR Tendulkar
+291372,2008-03-04,Brisbane,India,Australia,India,runs,9,India,P Kumar
+323949,2008-03-09,Chittagong Divisional Stadium,Bangladesh,South Africa,South Africa,wickets,9,Bangladesh,GC Smith
+323950,2008-03-12,Mirpur,Bangladesh,South Africa,South Africa,wickets,7,Bangladesh,A Nel
+323951,2008-03-14,Mirpur,Bangladesh,South Africa,South Africa,wickets,7,Bangladesh,JA Morkel
+319134,2008-04-10,Trinidad,Sri Lanka,West Indies,West Indies,wickets,1,West Indies,DJ Bravo
+343761,2008-04-13,Lahore,Pakistan,Bangladesh,Pakistan,runs,23,Pakistan,Salman Butt
+343762,2008-04-16,Multan Cricket Stadium,Bangladesh,Pakistan,Pakistan,wickets,7,Bangladesh,Shakib Al Hasan
+343763,2008-04-19,Karachi,Pakistan,Bangladesh,Pakistan,runs,150,Pakistan,Mohammad Asif
+345468,2008-06-08,Mirpur,Pakistan,Bangladesh,Pakistan,runs,70,Bangladesh,Salman Butt
+345469,2008-06-10,Mirpur,India,Pakistan,India,runs,140,India,V Sehwag
+345470,2008-06-12,Mirpur,Bangladesh,India,India,wickets,7,Bangladesh,G Gambhir
+345471,2008-06-14,Mirpur,Pakistan,India,Pakistan,runs,25,Pakistan,Younis Khan
+296904,2008-06-15,Chester-le-Street,England,New Zealand,England,runs,114,New Zealand,KP Pietersen
+296906,2008-06-21,Bristol,New Zealand,England,New Zealand,runs,22,England,KD Mills
+319143,2008-06-24,St Vincent,Australia,West Indies,Australia,runs,84,West Indies,SE Marsh
+296907,2008-06-25,London,England,New Zealand,New Zealand,wickets,1,New Zealand,SB Styris
+335348,2008-06-25,Lahore,Sri Lanka,Bangladesh,Sri Lanka,runs,131,Bangladesh,KC Sangakkara
+335351,2008-06-26,Karachi,Pakistan,India,India,wickets,6,Pakistan,SK Raina
+296908,2008-06-28,London,New Zealand,England,New Zealand,runs,51,England,SB Styris
+335352,2008-06-28,Karachi,Bangladesh,India,India,wickets,7,Bangladesh,SK Raina
+335353,2008-06-29,Karachi,Sri Lanka,Pakistan,Sri Lanka,runs,64,Pakistan,KC Sangakkara
+319145,2008-06-29,Grenada,West Indies,Australia,Australia,wickets,7,Australia,SR Watson
+335354,2008-06-30,Karachi,Sri Lanka,Bangladesh,Sri Lanka,runs,158,Sri Lanka,ST Jayasuriya
+335355,2008-07-02,Karachi,India,Pakistan,Pakistan,wickets,8,India,Younis Khan
+335356,2008-07-03,Karachi,Sri Lanka,India,India,wickets,6,Sri Lanka,MS Dhoni
+335357,2008-07-04,Karachi,Bangladesh,Pakistan,Pakistan,wickets,10,Bangladesh,Abdur Rauf
+319146,2008-07-04,St Kitts,Australia,West Indies,Australia,runs,1,West Indies,A Symonds
+319147,2008-07-06,St Kitts,Australia,West Indies,Australia,runs,169,Australia,L Ronchi
+335358,2008-07-06,Karachi,Sri Lanka,India,Sri Lanka,runs,100,India,BAW Mendis
+343732,2008-08-18,Rangiri Dambulla International Stadium,India,Sri Lanka,Sri Lanka,wickets,8,India,BAW Mendis
+343733,2008-08-20,Rangiri Dambulla International Stadium,Sri Lanka,India,India,wickets,3,India,Z Khan
+296914,2008-08-22,Leeds,England,South Africa,England,runs,20,England,KP Pietersen
+343734,2008-08-24,Colombo,India,Sri Lanka,India,runs,33,India,MS Dhoni
+296915,2008-08-26,Nottingham,South Africa,England,England,wickets,10,South Africa,SCJ Broad
+366341,2008-08-27,Colombo,India,Sri Lanka,India,runs,46,India,SK Raina
+296916,2008-08-29,London,England,South Africa,England,runs,126,South Africa,SR Patel
+336201,2008-08-30,Darwin,Australia,Bangladesh,Australia,runs,180,Bangladesh,MEK Hussey
+336202,2008-09-03,Darwin,Bangladesh,Australia,Australia,wickets,8,Bangladesh,SE Marsh
+336204,2008-09-06,Darwin,Australia,Bangladesh,Australia,runs,73,Australia,Tamim Iqbal
+350348,2008-11-07,Potchefstroom,South Africa,Bangladesh,South Africa,runs,61,South Africa,DW Steyn
+374059,2008-11-12,Abu Dhabi,West Indies,Pakistan,Pakistan,wickets,4,West Indies,CH Gayle
+374060,2008-11-14,Abu Dhabi,Pakistan,West Indies,Pakistan,runs,24,Pakistan,Sohail Tanvir
+361043,2008-11-14,Rajkot,India,England,India,runs,158,England,Yuvraj Singh
+361044,2008-11-17,Indore,India,England,India,runs,54,India,Yuvraj Singh
+361047,2008-11-26,Cuttack,England,India,India,wickets,6,India,V Sehwag
+366711,2009-01-07,Wellington,West Indies,New Zealand,New Zealand,wickets,7,New Zealand,DL Vettori
+378755,2009-01-14,Mirpur,Sri Lanka,Bangladesh,Bangladesh,wickets,5,Bangladesh,Shakib Al Hasan
+351684,2009-01-16,Melbourne Cricket Ground,Australia,South Africa,South Africa,wickets,3,Australia,JA Morkel
+351685,2009-01-18,Hobart,Australia,South Africa,Australia,runs,5,South Africa,SE Marsh
+385749,2009-01-20,Karachi,Sri Lanka,Pakistan,Pakistan,wickets,8,Sri Lanka,Salman Butt
+385750,2009-01-21,Karachi,Sri Lanka,Pakistan,Sri Lanka,runs,129,Pakistan,TM Dilshan
+351686,2009-01-23,Sydney Cricket Ground,Australia,South Africa,South Africa,wickets,3,Australia,JA Morkel
+385751,2009-01-24,Lahore,Sri Lanka,Pakistan,Sri Lanka,runs,234,Sri Lanka,TM Dilshan
+351687,2009-01-26,Adelaide Oval,Australia,South Africa,South Africa,wickets,8,Australia,AB de Villiers
+386530,2009-01-28,Rangiri Dambulla International Stadium,Sri Lanka,India,India,wickets,6,India,ST Jayasuriya
+351688,2009-01-30,Perth,South Africa,Australia,South Africa,runs,39,South Africa,HM Amla
+386531,2009-01-31,Colombo,India,Sri Lanka,India,runs,15,India,I Sharma
+351689,2009-02-01,Perth,Australia,New Zealand,New Zealand,wickets,2,Australia,KD Mills
+386532,2009-02-03,Colombo,India,Sri Lanka,India,runs,147,India,Yuvraj Singh
+386533,2009-02-05,Colombo,India,Sri Lanka,India,runs,67,India,G Gambhir
+351690,2009-02-06,Melbourne Cricket Ground,Australia,New Zealand,New Zealand,wickets,6,New Zealand,MJ Clarke
+386534,2009-02-08,Colombo,Sri Lanka,India,Sri Lanka,runs,68,Sri Lanka,KC Sangakkara
+351691,2009-02-08,Sydney Cricket Ground,Australia,New Zealand,Australia,runs,32,New Zealand,BJ Haddin
+351692,2009-02-10,Adelaide Oval,New Zealand,Australia,Australia,wickets,6,New Zealand,DJ Hussey
+366627,2009-03-08,Christchurch,India,New Zealand,India,runs,58,New Zealand,SR Tendulkar
+366625,2009-03-14,Auckland,India,New Zealand,New Zealand,wickets,8,India,JD Ryder
+352666,2009-03-22,Guyana,West Indies,England,West Indies,runs,21,West Indies,S Chanderpaul
+352669,2009-04-03,St Lucia,England,West Indies,England,runs,26,West Indies,A Flintoff
+350477,2009-04-03,Durban,Australia,South Africa,Australia,runs,141,Australia,MEK Hussey
+350478,2009-04-05,Centurion,Australia,South Africa,South Africa,wickets,7,Australia,WD Parnell
+350479,2009-04-09,Cape Town,South Africa,Australia,South Africa,runs,25,South Africa,JH Kallis
+350480,2009-04-13,Port Elizabeth,South Africa,Australia,South Africa,runs,61,Australia,HH Gibbs
+350481,2009-04-17,Johannesburg,Australia,South Africa,Australia,runs,47,South Africa,NM Hauritz
+392616,2009-04-22,Dubai Sports City Cricket Stadium,Australia,Pakistan,Pakistan,wickets,4,Australia,Shahid Afridi
+392617,2009-04-24,Dubai Sports City Cricket Stadium,Pakistan,Australia,Australia,wickets,6,Pakistan,A Symonds
+392618,2009-04-27,Abu Dhabi,Australia,Pakistan,Australia,runs,27,Australia,MJ Clarke
+392619,2009-05-01,Abu Dhabi,Pakistan,Australia,Australia,wickets,8,Pakistan,DE Bollinger
+392620,2009-05-03,Abu Dhabi,Australia,Pakistan,Pakistan,wickets,7,Australia,Kamran Akmal
+380715,2009-05-24,Bristol,West Indies,England,England,wickets,6,England,PD Collingwood
+380716,2009-05-26,Birmingham,England,West Indies,England,runs,58,West Indies,MJ Prior
+377313,2009-06-26,Jamaica,India,West Indies,India,runs,20,India,Yuvraj Singh
+377314,2009-06-28,Jamaica,India,West Indies,West Indies,wickets,8,India,R Rampaul
+401073,2009-07-26,Dominica,Bangladesh,West Indies,Bangladesh,runs,52,West Indies,Abdur Razzak
+401074,2009-07-28,Dominica,West Indies,Bangladesh,Bangladesh,wickets,3,West Indies,Shakib Al Hasan
+403370,2009-07-30,Rangiri Dambulla International Stadium,Sri Lanka,Pakistan,Sri Lanka,runs,36,Pakistan,M Muralitharan
+401075,2009-07-31,St Kitts,West Indies,Bangladesh,Bangladesh,wickets,3,West Indies,Mahmudullah
+403371,2009-08-01,Rangiri Dambulla International Stadium,Pakistan,Sri Lanka,Sri Lanka,wickets,6,Sri Lanka,CK Kapugedera
+403372,2009-08-03,Rangiri Dambulla International Stadium,Pakistan,Sri Lanka,Sri Lanka,wickets,6,Sri Lanka,DPMD Jayawardene
+403373,2009-08-07,Colombo,Pakistan,Sri Lanka,Pakistan,runs,146,Pakistan,Umar Akmal
+403374,2009-08-09,Colombo,Pakistan,Sri Lanka,Pakistan,runs,132,Pakistan,Naved-ul-Hasan
+350043,2009-09-04,London,Australia,England,Australia,runs,4,England,CJ Ferguson
+350044,2009-09-06,London,Australia,England,Australia,runs,39,England,MG Johnson
+403380,2009-09-08,Colombo,Sri Lanka,New Zealand,Sri Lanka,runs,97,Sri Lanka,TT Samaraweera
+350045,2009-09-09,Southampton,England,Australia,Australia,wickets,6,England,CL White
+403382,2009-09-11,Colombo,New Zealand,India,India,wickets,6,New Zealand,A Nehra
+403381,2009-09-12,Colombo,Sri Lanka,India,Sri Lanka,runs,139,Sri Lanka,AD Mathews
+350046,2009-09-12,London,England,Australia,Australia,wickets,7,England,B Lee
+403383,2009-09-14,Colombo,India,Sri Lanka,India,runs,46,India,SR Tendulkar
+350047,2009-09-15,Nottingham,England,Australia,Australia,wickets,4,England,RT Ponting
+350048,2009-09-17,Nottingham,Australia,England,Australia,runs,111,Australia,TD Paine
+350049,2009-09-20,Chester-le-Street,Australia,England,England,wickets,4,England,GP Swann
+415274,2009-09-23,Johannesburg,West Indies,Pakistan,Pakistan,wickets,5,West Indies,Umar Akmal
+415275,2009-09-24,Centurion,New Zealand,South Africa,South Africa,wickets,5,South Africa,WD Parnell
+415276,2009-09-25,Johannesburg,Sri Lanka,England,England,wickets,6,England,PD Collingwood
+415278,2009-09-26,Centurion,Pakistan,India,Pakistan,runs,54,Pakistan,Shoaib Malik
+415277,2009-09-26,Johannesburg,Australia,West Indies,Australia,runs,50,West Indies,MG Johnson
+415279,2009-09-27,Johannesburg,New Zealand,Sri Lanka,New Zealand,runs,38,Sri Lanka,DL Vettori
+415280,2009-09-27,Centurion,England,South Africa,England,runs,22,England,OA Shah
+415282,2009-09-29,Johannesburg,England,New Zealand,New Zealand,wickets,4,New Zealand,GD Elliott
+415284,2009-09-30,Johannesburg,West Indies,India,India,wickets,7,India,V Kohli
+415283,2009-09-30,Centurion,Pakistan,Australia,Australia,wickets,2,Australia,MEK Hussey
+415285,2009-10-02,Centurion,England,Australia,Australia,wickets,9,England,SR Watson
+415286,2009-10-03,Johannesburg,Pakistan,New Zealand,New Zealand,wickets,5,Pakistan,DL Vettori
+415287,2009-10-05,Centurion,New Zealand,Australia,Australia,wickets,6,New Zealand,SR Watson
+416236,2009-10-25,Vadodara,Australia,India,Australia,runs,4,Australia,MEK Hussey
+416237,2009-10-28,Nagpur,India,Australia,India,runs,99,Australia,MS Dhoni
+416238,2009-10-31,Delhi,Australia,India,India,wickets,6,Australia,Yuvraj Singh
+416239,2009-11-02,Chandigarh,Australia,India,Australia,runs,24,India,SR Watson
+426720,2009-11-03,Abu Dhabi,Pakistan,New Zealand,Pakistan,runs,138,Pakistan,Shahid Afridi
+416240,2009-11-05,Hyderabad,Australia,India,Australia,runs,3,Australia,SR Tendulkar
+426721,2009-11-06,Abu Dhabi,New Zealand,Pakistan,New Zealand,runs,64,New Zealand,BB McCullum
+416241,2009-11-08,Guwahati,India,Australia,Australia,wickets,6,India,DE Bollinger
+426722,2009-11-09,Abu Dhabi,New Zealand,Pakistan,New Zealand,runs,7,New Zealand,Mohammad Amir
+387566,2009-11-22,Centurion,South Africa,England,England,wickets,7,England,PD Collingwood
+387567,2009-11-27,Cape Town,South Africa,England,South Africa,runs,112,South Africa,AB de Villiers
+387568,2009-11-29,Port Elizabeth,South Africa,England,England,wickets,7,South Africa,JM Anderson
+430886,2009-12-15,Rajkot,India,Sri Lanka,India,runs,3,Sri Lanka,V Sehwag
+430887,2009-12-18,Nagpur,India,Sri Lanka,Sri Lanka,wickets,3,India,TM Dilshan
+430888,2009-12-21,Cuttack,Sri Lanka,India,India,wickets,7,Sri Lanka,RA Jadeja
+430889,2009-12-24,Kolkata,Sri Lanka,India,India,wickets,7,Sri Lanka,G Gambhir

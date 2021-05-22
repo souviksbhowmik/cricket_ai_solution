@@ -24,6 +24,10 @@ python odi/data_loader/data_loader.py load-old --from_date 2011-01-01 --to_date 
 ### load list of not batted
 python odi/data_loader/cricinfo_scraper.py load-not-batted --year_list 2009 --year_list 2010 --append n
 
+### update match stats for not batted-should be done after ranking
+python odi/data_loader/cricinfo_scraper.py update-stats
+### remove incorrect matches 
+python odi/data_loader/cricinfo_scraper.py remove-incorrect
 
 
 ## Preprocessing - Creating Ranks (Depends on loaded data)
@@ -49,6 +53,11 @@ python odi/preprocessing/rank.py bowler-only
 
 ### create player score mean reduction factor by position
 python odi/preprocessing/rank.py reduction-analysis --start_date 2016-01-01 --end_date 2019-01-01
+
+### update match stats for not batted
+python odi/data_loader/cricinfo_scraper.py update-stats
+### remove incorrect mathces
+python odi/data_loader/cricinfo_scraper.py remove-incorrect --start_date 2009-01-01
 
 ## Inferencing
 ### verify team and location names

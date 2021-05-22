@@ -3,9 +3,16 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import pandas as pd
 from odi.data_loader import data_loader as dl
+from odi.feature_engg import util as cricutil
+from odi.preprocessing import rank
 import os
 import click
 from tqdm import tqdm
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+import dateutil
 
 
 def get_missing_player_list(href):
@@ -147,6 +154,146 @@ def create_not_batted_list(year_list,mode='a'):
         #print("mode append ",mode)
         data_df.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv', index=False, mode='a',header=False)
 
+def update_match_stats(start_date=None,end_date=None):
+    nb_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv')
+    match_list = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv')
+    match_stats = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_stats.csv')
+    nb_df.rename(columns={"team_a": "first_innings", "team_b": "second_innings"}, inplace=True)
+
+    if start_date is not None:
+        start_dt = cricutil.str_to_date_time(start_date)
+        match_list = match_list[match_list['date']>=start_date]
+    if end_date is not None:
+        end_dt = cricutil.str_to_date_time(end_date)
+        match_list = match_list[match_list['date'] <= end_date]
+
+    merged_match_list = match_list.merge(nb_df, how="inner", on=["first_innings", "second_innings", "date"])
+    merged_match_list = merged_match_list.merge(match_stats, on="match_id", how="inner")
+    merged_match_list.fillna('not_available',inplace=True)
+
+    for row_index in tqdm(range(merged_match_list.shape[0])):
+        # print(merged_match_list.iloc[row_index])
+        team = merged_match_list.iloc[row_index].team_statistics
+        first_innings = merged_match_list.iloc[row_index].first_innings
+        second_innings = merged_match_list.iloc[row_index].second_innings
+        date = merged_match_list.iloc[row_index].date
+        match_id = merged_match_list.iloc[row_index].match_id
+        # print("========",type(date),date.to_pydatetime())
+        ref_date = date.to_pydatetime()
+
+        if team == first_innings:
+            team_type = 'team_a'
+        else:
+            team_type = 'team_b'
+
+        previous_year_batsman_rank_file = rank.get_latest_rank_file('batsman', ref_date=ref_date)
+        previous_year_bowler_rank_file = rank.get_latest_rank_file('bowler', ref_date=ref_date)
+
+        a_year = dateutil.relativedelta.relativedelta(years=1)
+        ref_date_ahead = ref_date + a_year
+        current_year_batsman_rank_file = rank.get_latest_rank_file('batsman', ref_date=ref_date_ahead)
+        current_year_bowler_rank_file = rank.get_latest_rank_file('bowler', ref_date=ref_date_ahead)
+
+        #     print(team)
+        #     print(ref_date)
+        #     print('file 1',previous_year_batsman_rank_file)
+        #     print('file 2',previous_year_bowler_rank_file)
+        #     print('file 3',current_year_batsman_rank_file)
+        #     print('file 4',current_year_bowler_rank_file)
+
+        player_set = set()
+
+        if previous_year_batsman_rank_file is not None:
+            previous_year_df = pd.read_csv(previous_year_batsman_rank_file)
+            batsman_list = list(previous_year_df[previous_year_df['country'] == team]['batsman'].unique())
+
+            player_set = player_set.union(set(batsman_list))
+
+        if current_year_batsman_rank_file is not None:
+            current_year_df = pd.read_csv(current_year_batsman_rank_file)
+            batsman_list = list(current_year_df[current_year_df['country'] == team]['batsman'].unique())
+
+            player_set = player_set.union(set(batsman_list))
+
+        if previous_year_bowler_rank_file is not None:
+            previous_year_df = pd.read_csv(previous_year_bowler_rank_file)
+            bowler_list = list(previous_year_df[previous_year_df['country'] == team]['bowler'].unique())
+
+            player_set = player_set.union(set(bowler_list))
+
+        if current_year_bowler_rank_file is not None:
+            current_year_df = pd.read_csv(current_year_bowler_rank_file)
+            bowler_list = list(current_year_df[current_year_df['country'] == team]['bowler'].unique())
+
+            player_set = player_set.union(set(bowler_list))
+
+        last_name_list = []
+        full_name_list = []
+        for player in player_set:
+            last_name_list.append(player.split(" ")[-1])
+            full_name_list.append(player)
+
+        #     print('=============set=============')
+        # print(last_name_list)
+
+        if len(last_name_list) == 0:
+            continue
+
+        name_vectorizer = CountVectorizer(analyzer='char', ngram_range=(1, 3))
+        last_name_vecotrs = name_vectorizer.fit_transform(last_name_list)
+
+        for i in range(11):
+            batsman_name = merged_match_list.iloc[row_index]['batsman_' + str(i + 1)]
+            if batsman_name == 'not_batted':
+
+                reserved_batsman = merged_match_list.iloc[row_index][team_type + '_batsman_' + str(i + 1)]
+                if reserved_batsman=='not_available':
+                    continue
+                #print(date,team,team_type + '_batsman_' + str(i + 1),reserved_batsman)
+                #print("getting from not batted list ", reserved_batsman)
+                reserved_last_name = reserved_batsman.split(' ')[-1]
+                reserved_last_name_vector = name_vectorizer.transform([reserved_last_name])
+                cosine_sim_list = []
+                for vector in last_name_vecotrs:
+                    cosine_sim_list.append(cosine_similarity(reserved_last_name_vector, vector)[0][0])
+
+                max_sim = np.max(np.array(cosine_sim_list))
+                if max_sim > 0.9:
+                    max_arg = np.argmax(np.array(cosine_sim_list))
+                    matching_player = full_name_list[max_arg]
+                    # print("\t matched with  ", matching_player)
+                    match_stats_idx = match_stats[
+                        (match_stats['match_id'] == match_id) & (match_stats['team_statistics'] == team)].index
+                    # print('\t at index ', match_stats_idx)
+                    match_stats.loc[match_stats_idx, 'batsman_' + str(i + 1)] = matching_player
+                else:
+                    max_arg = np.argmax(np.array(cosine_sim_list))
+                    matching_player = full_name_list[max_arg]
+                    print("\t did not find for ",reserved_last_name," - closest match  with  ", matching_player, ' - ', max_sim)
+
+            else:
+                #print("batting ", batsman_name)
+                pass
+
+    match_stats.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_stats.csv',index=False)
+
+def remove_incorrect_matches():
+    nb_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION+os.sep+'not_batted.csv')
+    match_list = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv')
+    nb_df.rename(columns={"team_a": "first_innings", "team_b": "second_innings"}, inplace=True)
+
+    # if start_date is not None:
+    #     start_dt = cricutil.str_to_date_time(start_date)
+    #     match_list = match_list[match_list['date']>=start_date]
+    # if end_date is not None:
+    #     end_dt = cricutil.str_to_date_time(end_date)
+    #     match_list = match_list[match_list['date'] <= end_date]
+
+    merged_match_list = match_list.merge(nb_df, how="inner", on=["first_innings", "second_innings", "date"])
+    keep_list = list(merged_match_list['match_id'])
+    match_list = match_list[match_list['match_id'].isin(keep_list)]
+    match_list.to_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv',index=False)
+
 @click.group()
 def scrapper():
     pass
@@ -157,6 +304,17 @@ def scrapper():
 def load_not_batted(year_list,append):
     year_list = list(year_list)
     create_not_batted_list(year_list, mode=append)
+
+@scrapper.command()
+@click.option('--start_date', help='start date  (YYYY-mm-dd)')
+@click.option('--end_date', help='end dat (YYYY-mm-dd)')
+def update_stats(start_date, end_date):
+    update_match_stats(start_date=start_date, end_date=end_date)
+
+@scrapper.command()
+def remove_incorrect():
+    remove_incorrect_matches()
+
 
 
 if __name__ =='__main__':
