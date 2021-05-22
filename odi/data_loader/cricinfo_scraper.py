@@ -323,7 +323,7 @@ def download_matches(year_list,mode='a'):
                             continue
                     elif idx==2:
                         row_dict['winner'] = td.text.strip()
-                    elif idx==2:
+                    elif idx==3:
                         if 'runs' in td.text.strip():
                             row_dict['win_by'] = "runs"
                             row_dict["win_by_runs"] = td.text.strip()
