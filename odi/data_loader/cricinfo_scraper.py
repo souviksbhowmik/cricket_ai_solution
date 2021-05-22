@@ -368,9 +368,9 @@ def download_matches(year_list,mode='a'):
                 row_dict['first_innings_run'] = total_runs_first
                 row_dict['first_innings_fow'] = loss_of_wickets_first
                 row_dict['first_innings_extras'] = extras_first
-                row_dict['second_innings_run'] = total_runs_first
-                row_dict['second_innings_fow'] = loss_of_wickets_first
-                row_dict['second_innings_extras'] = extras_first
+                row_dict['second_innings_run'] = total_runs_second
+                row_dict['second_innings_fow'] = loss_of_wickets_second
+                row_dict['second_innings_extras'] = extras_second
                 match_list.append(row_dict)
 
                 batting_list = batting_list + first_innings_batting + second_innings_batting
