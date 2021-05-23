@@ -214,7 +214,7 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
 #         return PREPROCESS_DATA_LOACATION+os.sep+'country_rank_'+str(latest)+'.csv'
 
 
-def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df):
+def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, batsman_df):
     if not os.path.isdir(PREPROCESS_DATA_LOACATION):
         os.makedirs(PREPROCESS_DATA_LOACATION)
 
@@ -226,42 +226,37 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
                         'Country rank not available for '+\
                         str(performance_cutoff_date_end.date()))
     country_rank = pd.read_csv(country_rank_file)
-    country_list = list(country_rank['country'])
+
+
+    previous_country_rank_file = get_latest_rank_file('country', ref_date=performance_cutoff_date_start)
+
+    year_batting_df = batsman_df[(batsman_df['date'] >= performance_cutoff_date_start)
+                                      & (batsman_df['date'] <= performance_cutoff_date_end)]
+    opponent_country_rank = pd.DataFrame(country_rank)
+    opponent_country_rank = opponent_country_rank.rename(columns={'country':'opponent','score':'opponent_score'})[['opponent','opponent_score']]
+    year_batting_df = year_batting_df.merge(opponent_country_rank,how='left',on='opponent')
+
+    country_list = list(year_batting_df['team'].unique())
 
     batsman_performance_list = []
     for selected_country in tqdm(country_list):
         # print(selected_country)
-        country_games = match_list_df[(match_list_df['date'] >= performance_cutoff_date_start)
-                                      & (match_list_df['date'] <= performance_cutoff_date_end)
-                                      & ((match_list_df['first_innings'] == selected_country)
-                                         | (match_list_df['second_innings'] == selected_country)
-                                         )]
-        match_id_list = list(country_games['match_id'])
-        match_stat_list = []
-        for match_id in match_id_list:
+        country_batting_df = year_batting_df[year_batting_df['team']==selected_country]
 
-            match_df = pd.read_csv(dl.CSV_LOAD_LOCATION+ os.sep + str(match_id) + '.csv')
-
-            match_stat_list.append(match_df)
-
-        match_stat_df = pd.concat(match_stat_list)
-        match_stat_df.fillna('NA', inplace=True)
-
-        match_stat_df = match_stat_df.merge(country_games, how='inner', on='match_id')
-        batsman_list = list(match_stat_df[match_stat_df['team'] == selected_country]['batsman'].unique())
+        batsman_list = list(country_batting_df['name'].unique())
 
         for selected_batsman in tqdm(batsman_list):
             # print(selected_batsman)
 
-            batsman_df = match_stat_df[match_stat_df['batsman'] == selected_batsman]
+            batsman_df = country_batting_df[country_batting_df['name'] == selected_batsman]
             no_of_batsman_matches = batsman_df['match_id'].nunique()
-            total_runs = batsman_df['scored_runs'].sum()
-            run_rate = batsman_df['scored_runs'].sum() / \
-                       match_stat_df[match_stat_df['batsman'] == selected_batsman].shape[0]
+            total_runs = batsman_df['runs'].sum()
+            run_rate = batsman_df['runs'].sum() / batsman_df['balls']
             team_score = country_rank[country_rank['country'] == selected_country]['score'].values[0]
             # opponent_mean
 
-            batsman_df.rename(columns={'opponent': 'country'}, inplace=True)
+            #batsman_df.rename(columns={'opponent': 'country'}, inplace=True)
+
             batsman_df = batsman_df.merge(country_rank, on='country', how='inner')
             opponent_mean = batsman_df[['match_id', 'country', 'score']].groupby(['match_id']).min().reset_index()[
                 'score'].mean()
@@ -324,9 +319,11 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
 
 def create_batsman_rank(year_list,no_of_years=1):
     custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
-    match_list_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv',
+    batsman_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_batting.csv',
                                 parse_dates=['date'],
                                 date_parser=custom_date_parser)
+    batsman_df = batsman_df[~batsman_df['name'].isnull()]
+    batsman_df = batsman_df[~batsman_df['runs'].isnull()]
 
     if year_list is None or len(year_list)==0:
         today = date.today()
@@ -334,7 +331,7 @@ def create_batsman_rank(year_list,no_of_years=1):
         a_year = dateutil.relativedelta.relativedelta(years=no_of_years)
         performance_cutoff_date_start = performance_cutoff_date_end - a_year
 
-        create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
+        create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, batsman_df)
 
     else:
         for year in tqdm(year_list):
@@ -344,7 +341,7 @@ def create_batsman_rank(year_list,no_of_years=1):
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
                                                                              (performance_cutoff_date_end, no_of_years),
                                                                              1)
-                create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
+                create_batsman_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, batsman_df)
 
 
 def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df):
@@ -545,6 +542,7 @@ def create_location_rank(year_list,no_of_years=5):
                                                                              (performance_cutoff_date_end, no_of_years),
                                                                              1)
                 create_location_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
+
 
 
 @click.group()

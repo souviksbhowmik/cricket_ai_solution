@@ -712,6 +712,21 @@ def get_bowling(table,match_id,team,opponent,innings_type,date):
 
     return innings_bowling
 
+def clean_data():
+    match_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    no_result_id_list = list(match_df[(match_df['winner']=='no result') | (match_df['winner']=='tied') ]['match_id'].unique())
+    match_df = match_df[~(match_df['winner'].isin(['no result', 'tied']))]
+
+    batting_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_df = batting_df[~batting_df['name'].isnull()]
+    batting_df = batting_df[~(batting_df['match_id'].isin(no_result_id_list))]
+    batting_df = batting_df.replace('-',0)
+    batting_df['runs'] = batting_df['runs'].astype(int)
+    batting_df['balls'].astype(int).mean()
+
+    match_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv', index=False)
+    batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False)
+
 
 
 @click.group()
@@ -741,6 +756,10 @@ def remove_incorrect():
 def load_match_cricinfo(year_list,append):
     year_list = list(year_list)
     download_matches(year_list, mode=append)
+
+@scrapper.command()
+def clean_cricinfo():
+    clean_data()
 
 
 
