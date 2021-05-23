@@ -625,7 +625,7 @@ def get_batting(table,team,opponent,innings_type,date):
             batting_dict["player_of_the_match"] = 0
             batting_dict["is_captain"] = 0
             batting_dict["wc"] = 0
-            name = td.text.strip()
+            name = player.strip()
             if '(c)' in name:
                 name = name.replace('(c)', '').strip()
                 batting_dict['is_captain'] = 1
