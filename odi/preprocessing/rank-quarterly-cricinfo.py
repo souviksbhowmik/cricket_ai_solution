@@ -67,7 +67,7 @@ def get_latest_rank_file(rank_type,ref_date = None):
 
 def create_country_rank(year_list,no_of_years=1):
     custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
-    match_list_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'match_list.csv',
+    match_list_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+'cricinfo_match_list.csv',
                                 parse_dates=['date'],
                                 date_parser=custom_date_parser)
 
@@ -91,14 +91,51 @@ def create_country_rank(year_list,no_of_years=1):
                                                                              1)
                 create_country_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df)
 
+def get_win_weightage(previous_country_rank_df,row):
+    winner = row['winner']
+    first_innings = row['first_innings']
+    second_innings = row['second_innings']
+    if winner == first_innings:
+        loser = second_innings
+    elif winner == second_innings:
+        loser = first_innings
+    else:
+        loser = winner
+
+    winner_row = previous_country_rank_df[previous_country_rank_df['country']==winner]
+    if winner_row.shape[0]>0:
+        winner_score = winner_row.iloc[0].country_quantile
+    else:
+        winner_score = 1
+
+    loser_row = previous_country_rank_df[previous_country_rank_df['country'] == loser]
+    if loser_row.shape[0] > 0:
+        loser_score = loser_row.iloc[0].country_quantile
+    else:
+        loser_score = 1
+
+    win_weightage = winner_score/loser_score
+    return win_weightage
 
 def create_country_rank_for_date(performance_cutoff_date_start, performance_cutoff_date_end, match_list_df):
     if not os.path.isdir(PREPROCESS_DATA_LOACATION):
         os.makedirs(PREPROCESS_DATA_LOACATION)
 
+
+
     match_list_year = match_list_df[(match_list_df['date'] >= performance_cutoff_date_start) & (
             match_list_df['date'] <= performance_cutoff_date_end)]
-    country_set = set(match_list_year['first_innings'].unique()).union(set(match_list_year['first_innings'].unique()))
+
+    previous_country_ranking_file = get_latest_rank_file('country', ref_date=performance_cutoff_date_start)
+    if previous_country_ranking_file is not None:
+        #print("=========calculating win weightage with===",previous_country_ranking_file,' for ',performance_cutoff_date_start)
+        previous_country_rank_df = pd.read_csv(previous_country_ranking_file)
+        match_list_year['win_weightage']=match_list_year.apply(lambda x:get_win_weightage(previous_country_rank_df,x),axis=1)
+    else:
+        #print("=========cannot calculate win weightage since file is not there===")
+        match_list_year['win_weightage'] = 1
+
+    country_set = set(match_list_year['first_innings'].unique()).union(set(match_list_year['second_innings'].unique()))
     country_list = list(country_set)
     # print(country_list)
     country_rank_list = []
@@ -107,23 +144,16 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     for selected_country in tqdm(country_list):
         # print(selected_country)
         win_count = match_list_year[match_list_year['winner'] == selected_country].shape[0]
+        weighted_win_count = match_list_year[match_list_year['winner'] == selected_country]['win_weightage'].sum()
         matches_played = match_list_year[(match_list_year['first_innings'] == selected_country) | (
                     match_list_year['second_innings'] == selected_country)].shape[0]
-        total_win_by_runs = \
-        match_list_year[(match_list_year['winner'] == selected_country) & (match_list_year['win_by'] == 'runs')][
-            'win_dif'].sum()
-        total_win_by_wickets = \
-        match_list_year[(match_list_year['winner'] == selected_country) & (match_list_year['win_by'] == 'wickets')][
-            'win_dif'].sum()
+        total_win_by_runs = match_list_year[(match_list_year['winner'] == selected_country)]['win_by_runs'].sum()
+        total_win_by_wickets = match_list_year[(match_list_year['winner'] == selected_country)]['win_by_wickets'].sum()
         win_ratio = win_count / matches_played
-        total_loss_by_runs = match_list_year[((match_list_year['first_innings'] == selected_country) | (
-                    match_list_year['second_innings'] == selected_country))
-                                             & (match_list_year['winner'] != selected_country) & (
-                                                         match_list_year['win_by'] == 'runs')]['win_dif'].sum()
-        total_loss_by_wickets = match_list_year[((match_list_year['first_innings'] == selected_country) | (
-                    match_list_year['second_innings'] == selected_country))
-                                                & (match_list_year['winner'] != selected_country) & (
-                                                            match_list_year['win_by'] == 'wickets')]['win_dif'].sum()
+        total_loss_by_runs = match_list_year[(match_list_year['first_innings'] == selected_country)
+                                             & (match_list_year['winner'] != selected_country)]['win_by_runs'].sum()
+        total_loss_by_wickets = match_list_year[(match_list_year['second_innings'] == selected_country)
+                                                & (match_list_year['winner'] != selected_country)]['win_by_wickets'].sum()
 
         rank_dict = {'country': selected_country,
                      'win_ratio': win_ratio,
@@ -134,7 +164,7 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
                      'effective_win_by_runs': total_win_by_runs - total_loss_by_runs,
                      'effective_win_by_wickets': total_win_by_wickets - total_loss_by_wickets,
                      'matches_played': matches_played,
-                     'win_count': win_count,
+                     'weighted_win_count': weighted_win_count,
 
                      }
         # print('dict',selected_country,rank_dict)
@@ -148,7 +178,7 @@ def create_country_rank_for_date(performance_cutoff_date_start, performance_cuto
     scaler = MinMaxScaler()
 
     score_df['score'] = scaler.fit_transform(
-        score_df[['win_ratio', 'effective_win_by_runs', 'effective_win_by_wickets', 'matches_played']]).sum(axis=1)
+        score_df[['win_ratio', 'effective_win_by_runs', 'effective_win_by_wickets', 'matches_played','weighted_win_count']]).sum(axis=1)
 
     score_scaler = MinMaxScaler(feature_range=(1, 10))
     score_df['score'] = score_scaler.fit_transform(score_df[['score']])
