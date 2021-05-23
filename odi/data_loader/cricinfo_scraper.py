@@ -13,6 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import dateutil
+import time
 
 include_list = ['Sri Lanka', 'New Zealand', 'England', 'West Indies', 'Bangladesh', 'India', 'Pakistan', 'Australia', 'South Africa']
 def get_missing_player_list(href):
@@ -315,6 +316,7 @@ def download_matches(year_list,mode='a'):
                 team_a = None
                 team_b = None
                 href = None
+                match_id = None
                 for idx,td in enumerate(tr.find_all('td')):
                     if idx==0:
                         team_a=td.text.strip()
@@ -356,6 +358,12 @@ def download_matches(year_list,mode='a'):
                         href = td.find_all('a')[0].get("href")
                         row_dict['href'] =href
 
+                        if len(td.text.strip().split(" "))>=3:
+                            match_id = td.text.strip().split(" ")[2]
+                        else:
+                            match_id = str(time.time())
+                        row_dict['match_id'] = match_id
+
 
                     else:
                         pass
@@ -371,7 +379,7 @@ def download_matches(year_list,mode='a'):
                 second_innings_batting, second_innings_bowling, toss_winner, \
                 total_runs_first,loss_of_wickets_first,extras_first,\
                 total_runs_second,loss_of_wickets_second,extras_second=\
-               get_match_statistics(match_soup, row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
+               get_match_statistics(match_soup,match_id, row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
 
                 row_dict['toss_winner'] = toss_winner
                 row_dict['first_innings_run'] = total_runs_first
@@ -440,7 +448,7 @@ def get_innings_sequence(match_soup,team_a,team_b):
 
 
 
-def get_match_statistics(match_soup,first_innings,second_innings,date):
+def get_match_statistics(match_soup,match_id,first_innings,second_innings,date):
 
     first_innings_batting =[]
     first_innings_bowling = []
@@ -456,13 +464,13 @@ def get_match_statistics(match_soup,first_innings,second_innings,date):
 
     for idx, table in enumerate(match_soup.find_all("table")):
         if idx == 0:
-            first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,first_innings,second_innings,"first",date)
+            first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,match_id,first_innings,second_innings,"first",date)
         elif idx==1:
-            first_innings_bowling = get_bowling(table,second_innings,first_innings,"first",date)
+            first_innings_bowling = get_bowling(table,match_id,second_innings,first_innings,"first",date)
         elif idx == 2:
-            second_innings_batting,total_runs_second,loss_of_wickets_second,extras_second = get_batting(table,second_innings,first_innings,"second",date)
+            second_innings_batting,total_runs_second,loss_of_wickets_second,extras_second = get_batting(table,match_id,second_innings,first_innings,"second",date)
         elif idx==3:
-            second_innings_bowling = get_bowling(table,first_innings,second_innings,"second",date)
+            second_innings_bowling = get_bowling(table,match_id,first_innings,second_innings,"second",date)
         elif idx == 4:
             for tr in table.find_all("tr"):
                 if "toss" in tr.text.lower():
@@ -519,7 +527,7 @@ def get_match_statistics(match_soup,first_innings,second_innings,date):
            total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second
 
 
-def get_batting(table,team,opponent,innings_type,date):
+def get_batting(table,match_id,team,opponent,innings_type,date):
     innings_batting = []
     not_batted_list = None
     batting_pos = 0
@@ -554,6 +562,7 @@ def get_batting(table,team,opponent,innings_type,date):
             pass
 
         batting_dict = {}
+        batting_dict["match_id"] = match_id
         batting_dict["team"] = team
         batting_dict["opponent"] = opponent
         batting_dict["batting_innings"] = innings_type
@@ -617,6 +626,7 @@ def get_batting(table,team,opponent,innings_type,date):
         for player in not_batted_list:
 
             batting_dict = {}
+            batting_dict["match_id"] = match_id
             batting_dict["team"] = team
             batting_dict["opponent"] = opponent
             batting_dict["batting_innings"] = innings_type
@@ -647,7 +657,7 @@ def get_batting(table,team,opponent,innings_type,date):
 
     return innings_batting,total_runs,loss_of_wickets,extras
 
-def get_bowling(table,team,opponent,innings_type,date):
+def get_bowling(table,match_id,team,opponent,innings_type,date):
     innings_bowling = []
     for tr in table.find_all("tr"):
 
@@ -655,6 +665,7 @@ def get_bowling(table,team,opponent,innings_type,date):
             continue
 
         bowling_dict = {}
+        bowling_dict["match_id"] = match_id
         bowling_dict["team"] = team
         bowling_dict["opponent"] = opponent
         bowling_dict["bowling_innings"] = innings_type
