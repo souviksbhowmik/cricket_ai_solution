@@ -427,13 +427,13 @@ def get_match_statistics(href,first_innings,second_innings,date):
     match_soup = BeautifulSoup(match_page.content, 'html.parser')
     for idx, table in enumerate(match_soup.find_all("table")):
         if idx == 0:
-            first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,first_innings,"first",date)
+            first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,first_innings,second_innings,"first",date)
         elif idx==1:
-            first_innings_bowling = get_bowling(table,second_innings,"first",date)
+            first_innings_bowling = get_bowling(table,second_innings,first_innings,"first",date)
         elif idx == 2:
-            second_innings_batting,total_runs_second,loss_of_wickets_second,extras_second = get_batting(table,second_innings,"second",date)
+            second_innings_batting,total_runs_second,loss_of_wickets_second,extras_second = get_batting(table,second_innings,first_innings,"second",date)
         elif idx==3:
-            second_innings_bowling = get_bowling(table,first_innings,"second",date)
+            second_innings_bowling = get_bowling(table,first_innings,second_innings,"second",date)
         elif idx == 4:
             for tr in table.find_all("tr"):
                 if "toss" in tr.text.lower():
