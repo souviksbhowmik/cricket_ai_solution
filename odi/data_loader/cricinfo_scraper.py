@@ -312,15 +312,14 @@ def download_matches(year_list,mode='a'):
             try:
                 row_dict = {}
                 alt_date = None
+                team_a = None
+                team_b = None
+                href = None
                 for idx,td in enumerate(tr.find_all('td')):
                     if idx==0:
-                        row_dict['first_innings']=td.text.strip()
-                        if row_dict['first_innings'] not in include_list:
-                            continue
+                        team_a=td.text.strip()
                     elif idx==1:
-                        row_dict['second_innings'] = td.text.strip()
-                        if row_dict['second_innings'] not in include_list:
-                            continue
+                        team_b = td.text.strip()
                     elif idx==2:
                         row_dict['winner'] = td.text.strip()
                     elif idx==3:
@@ -361,11 +360,18 @@ def download_matches(year_list,mode='a'):
                     else:
                         pass
 
+                if team_a not in include_list or team_b not in include_list:
+                    continue
+
+                match_soup=get_match_as_soup(href)
+                first_innings,second_innings = get_innings_sequence(match_soup,team_a,team_b)
+                row_dict['first_innings'] = first_innings
+                row_dict['second_innings'] = second_innings
                 first_innings_batting, first_innings_bowling, \
                 second_innings_batting, second_innings_bowling, toss_winner, \
                 total_runs_first,loss_of_wickets_first,extras_first,\
                 total_runs_second,loss_of_wickets_second,extras_second=\
-               get_match_statistics(row_dict['href'], row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
+               get_match_statistics(match_soup, row_dict['first_innings'], row_dict['second_innings'], row_dict['date'])
 
                 row_dict['toss_winner'] = toss_winner
                 row_dict['first_innings_run'] = total_runs_first
@@ -408,7 +414,33 @@ def download_matches(year_list,mode='a'):
         batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False, mode='a', header=False)
         bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv', index=False, mode='a', header=False)
 
-def get_match_statistics(href,first_innings,second_innings,date):
+def get_match_as_soup(href):
+    link = 'https://stats.espncricinfo.com' + href
+    match_page = requests.get(link)
+    match_soup = BeautifulSoup(match_page.content, 'html.parser')
+
+    return match_soup
+
+def get_innings_sequence(match_soup,team_a,team_b):
+    h5_list = match_soup.find_all("h5")
+    first_inn_h5 = h5_list[0]
+    first_innings = None
+    second_innings = None
+
+    if team_a in  first_inn_h5.text:
+        first_innings = team_a
+        second_innings = team_b
+    elif team_b in first_inn_h5.text:
+        first_innings = team_b
+        second_innings = team_a
+    else:
+        raise Exception("Could not interprete nnings")
+
+    return first_innings,second_innings
+
+
+
+def get_match_statistics(match_soup,first_innings,second_innings,date):
 
     first_innings_batting =[]
     first_innings_bowling = []
@@ -422,9 +454,6 @@ def get_match_statistics(href,first_innings,second_innings,date):
     loss_of_wickets_second= None
     extras_second = None
 
-    link = 'https://stats.espncricinfo.com' + href
-    match_page = requests.get(link)
-    match_soup = BeautifulSoup(match_page.content, 'html.parser')
     for idx, table in enumerate(match_soup.find_all("table")):
         if idx == 0:
             first_innings_batting,total_runs_first,loss_of_wickets_first,extras_first = get_batting(table,first_innings,second_innings,"first",date)
@@ -441,6 +470,45 @@ def get_match_statistics(href,first_innings,second_innings,date):
                         toss_winner = first_innings
                     else:
                         toss_winner = second_innings
+
+                if "player Of the match" in tr.text.lower():
+                    if tr.find_all("td")>=2:
+                        player_of_the_match = tr.find_all("td")[1].text.strip()
+                        if '(c)' in player_of_the_match:
+                            player_of_the_match = player_of_the_match.replace('(c)','').strip()
+                        if '†' in player_of_the_match:
+                            player_of_the_match = player_of_the_match.replace('†','').strip()
+                        found = False
+                        for entries in first_innings_batting:
+                            if entries["name"]==player_of_the_match:
+                                entries["player_of_the_match"]=1
+                                found= True
+                                break
+
+                        if found == False:
+                            for entries in second_innings_batting:
+                                if entries["name"] == player_of_the_match:
+                                    entries["player_of_the_match"] = 1
+                                    found = True
+                                    break
+
+                        if found == False:
+                            for entries in first_innings_bowling:
+                                if entries["name"] == player_of_the_match:
+                                    entries["player_of_the_match"] = 1
+                                    found = True
+                                    break
+
+                        if found == False:
+                            for entries in second_innings_bowling:
+                                if entries["name"] == player_of_the_match:
+                                    entries["player_of_the_match"] = 1
+                                    found = True
+                                    break
+
+
+
+
 
         else:
             pass
@@ -491,6 +559,9 @@ def get_batting(table,team,opponent,innings_type,date):
         batting_dict["batting_innings"] = innings_type
         batting_dict["date"] = date
         batting_dict["did_bat"] = 1
+        batting_dict["player_of_the_match"] = 0
+        batting_dict["is_captain"] = 0
+        batting_dict["wc"] = 0
 
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
@@ -508,7 +579,15 @@ def get_batting(table,team,opponent,innings_type,date):
                     info = td.text
                     pass
                 else:
-                    batting_dict['name']=td.text.strip()
+                    name =td.text.strip()
+                    if '(c)' in name:
+                        name = name.replace('(c)', '').strip()
+                        batting_dict['is_captain'] = 1
+                    if '†' in name:
+                        name = name.replace('†', '').strip()
+                        batting_dict['wc'] = 1
+
+                    batting_dict['name']=name
                     batting_pos = batting_pos+1
                     batting_dict['position'] = batting_pos
             elif td_idx == 1:
@@ -543,7 +622,18 @@ def get_batting(table,team,opponent,innings_type,date):
             batting_dict["batting_innings"] = innings_type
             batting_dict["date"] = date
             batting_dict["did_bat"] = 0
-            batting_dict['name'] = player.strip()
+            batting_dict["player_of_the_match"] = 0
+            batting_dict["is_captain"] = 0
+            batting_dict["wc"] = 0
+            name = td.text.strip()
+            if '(c)' in name:
+                name = name.replace('(c)', '').strip()
+                batting_dict['is_captain'] = 1
+            if '†' in name:
+                name = name.replace('†', '').strip()
+                batting_dict['wc'] = 1
+
+            batting_dict['name'] = name
             batting_pos = batting_pos + 1
             batting_dict['position'] = batting_pos
             batting_dict['runs'] = 0
@@ -569,13 +659,20 @@ def get_bowling(table,team,opponent,innings_type,date):
         bowling_dict["opponent"] = opponent
         bowling_dict["bowling_innings"] = innings_type
         bowling_dict["date"] = date
+        bowling_dict["player_of_the_match"] = 0
+        bowling_dict["is_captain"] = 0
 
         for td_idx,td in enumerate(tr.find_all('td')):
             if td_idx == 0:
                 if td.text.strip() == '':
                     continue
                 else:
-                    bowling_dict['name']=td.text.strip()
+                    name = td.text.strip()
+                    if '(c)' in name:
+                        name = name.replace('(c)', '').strip()
+                        bowling_dict['is_captain'] = 1
+
+                    bowling_dict['name']=name
             elif td_idx ==1:
                 bowling_dict['overs'] = td.text.strip()
             elif td_idx ==2:
