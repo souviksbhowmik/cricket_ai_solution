@@ -32,6 +32,8 @@ python odi/data_loader/cricinfo_scraper.py remove-incorrect
 ### download from cricinfo
 python odi/data_loader/cricinfo_scraper.py load-match-cricinfo --year_list 2009 --year_list 2010 --append n
 
+### clean cricinfo data
+python odi/data_loader/cricinfo_scraper.py clean-cricinfo
 
 ## Preprocessing - Creating Ranks (Depends on loaded data)
 Create ranks of participating batsman, bowler and countries
