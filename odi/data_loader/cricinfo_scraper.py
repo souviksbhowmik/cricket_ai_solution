@@ -451,7 +451,7 @@ def get_match_statistics(href,first_innings,second_innings,date):
            total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second
 
 
-def get_batting(table,team,innings_type,date):
+def get_batting(table,team,opponent,innings_type,date):
     innings_batting = []
     not_batted_list = None
     batting_pos = 0
@@ -487,6 +487,7 @@ def get_batting(table,team,innings_type,date):
 
         batting_dict = {}
         batting_dict["team"] = team
+        batting_dict["opponent"] = opponent
         batting_dict["batting_innings"] = innings_type
         batting_dict["date"] = date
         batting_dict["did_bat"] = 1
@@ -538,6 +539,7 @@ def get_batting(table,team,innings_type,date):
 
             batting_dict = {}
             batting_dict["team"] = team
+            batting_dict["opponent"] = opponent
             batting_dict["batting_innings"] = innings_type
             batting_dict["date"] = date
             batting_dict["did_bat"] = 0
@@ -555,7 +557,7 @@ def get_batting(table,team,innings_type,date):
 
     return innings_batting,total_runs,loss_of_wickets,extras
 
-def get_bowling(table,team,innings_type,date):
+def get_bowling(table,team,opponent,innings_type,date):
     innings_bowling = []
     for tr in table.find_all("tr"):
 
@@ -564,6 +566,7 @@ def get_bowling(table,team,innings_type,date):
 
         bowling_dict = {}
         bowling_dict["team"] = team
+        bowling_dict["opponent"] = opponent
         bowling_dict["bowling_innings"] = innings_type
         bowling_dict["date"] = date
 
