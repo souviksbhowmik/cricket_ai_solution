@@ -722,8 +722,13 @@ def clean_data():
     batting_df['runs'] = batting_df['runs'].astype(int)
     batting_df['balls'].astype(int).mean()
 
+    bowling_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_df = bowling_df[~bowling_df['name'].isnull()]
+    bowling_df = bowling_df.dropna()
+
     match_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv', index=False)
     batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False)
+    bowling_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv', index=False)
 
 
 
