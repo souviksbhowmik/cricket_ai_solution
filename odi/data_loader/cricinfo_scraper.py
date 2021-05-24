@@ -447,7 +447,6 @@ def get_innings_sequence(match_soup,team_a,team_b):
     return first_innings,second_innings
 
 
-
 def get_match_statistics(match_soup,match_id,first_innings,second_innings,date):
 
     first_innings_batting =[]
@@ -479,49 +478,48 @@ def get_match_statistics(match_soup,match_id,first_innings,second_innings,date):
                     else:
                         toss_winner = second_innings
 
-                if "player Of the match" in tr.text.lower():
-                    if tr.find_all("td")>=2:
+                if "player of the match" in tr.text.lower():
+
+                    if len(tr.find_all("td"))>=2:
                         player_of_the_match = tr.find_all("td")[1].text.strip()
                         if '(c)' in player_of_the_match:
                             player_of_the_match = player_of_the_match.replace('(c)','').strip()
                         if '†' in player_of_the_match:
                             player_of_the_match = player_of_the_match.replace('†','').strip()
                         found = False
+
                         for entries in first_innings_batting:
-                            if entries["name"]==player_of_the_match:
+
+                            if "name" in entries and entries["name"]==player_of_the_match:
                                 entries["player_of_the_match"]=1
                                 found= True
                                 break
 
                         if found == False:
+
                             for entries in second_innings_batting:
-                                if entries["name"] == player_of_the_match:
+                                if "name" in entries and entries["name"] == player_of_the_match:
                                     entries["player_of_the_match"] = 1
                                     found = True
                                     break
 
                         if found == False:
+
                             for entries in first_innings_bowling:
-                                if entries["name"] == player_of_the_match:
+                                if "name" in entries and entries["name"] == player_of_the_match:
                                     entries["player_of_the_match"] = 1
                                     found = True
                                     break
 
                         if found == False:
+
                             for entries in second_innings_bowling:
-                                if entries["name"] == player_of_the_match:
+                                if "name" in entries and entries["name"] == player_of_the_match:
                                     entries["player_of_the_match"] = 1
                                     found = True
                                     break
-
-
-
-
-
         else:
             pass
-
-
 
     return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner,\
            total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second

@@ -6,6 +6,7 @@ from datetime import date,datetime
 import dateutil
 import click
 from odi.feature_engg import util as cricutil
+from scipy.stats import pearsonr
 
 from odi.data_loader import data_loader as dl
 
@@ -219,7 +220,7 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
         os.makedirs(PREPROCESS_DATA_LOACATION)
 
     scaler = MinMaxScaler()
-
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     country_rank_file = get_latest_rank_file('country',ref_date=performance_cutoff_date_end)
     if country_rank_file is None:
         raise Exception('Cannot create batsman rank-'+\
@@ -228,13 +229,17 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     country_rank = pd.read_csv(country_rank_file)
 
 
-    previous_country_rank_file = get_latest_rank_file('country', ref_date=performance_cutoff_date_start)
+    # previous_country_rank_file = get_latest_rank_file('country', ref_date=performance_cutoff_date_start)
 
     year_batting_df = batsman_df[(batsman_df['date'] >= performance_cutoff_date_start)
-                                      & (batsman_df['date'] <= performance_cutoff_date_end)]
+                                      & (batsman_df['date'] <= performance_cutoff_date_end)
+                                 & (batsman_df['did_bat']==1)]
+    year_match_list_df = match_list_df[(match_list_df['date'] >= performance_cutoff_date_start)
+                                      & (match_list_df['date'] <= performance_cutoff_date_end)]
+
     opponent_country_rank = pd.DataFrame(country_rank)
     opponent_country_rank = opponent_country_rank.rename(columns={'country':'opponent','score':'opponent_score'})[['opponent','opponent_score']]
-    year_batting_df = year_batting_df.merge(opponent_country_rank,how='left',on='opponent')
+    year_batting_df = year_batting_df.merge(opponent_country_rank,how='inner',on='opponent')
 
     country_list = list(year_batting_df['team'].unique())
 
@@ -248,40 +253,69 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
         for selected_batsman in tqdm(batsman_list):
             # print(selected_batsman)
 
-            batsman_df = country_batting_df[country_batting_df['name'] == selected_batsman]
-            no_of_batsman_matches = batsman_df['match_id'].nunique()
-            total_runs = batsman_df['runs'].sum()
-            run_rate = batsman_df['runs'].sum() / batsman_df['balls']
+            selected_batsman_df = country_batting_df[country_batting_df['name'] == selected_batsman]
+            no_of_batsman_matches = selected_batsman_df['match_id'].nunique()
+            total_runs = selected_batsman_df['runs'].sum()
+            if selected_batsman_df['balls'].sum() !=0:
+                run_rate = selected_batsman_df['runs'].sum() / selected_batsman_df['balls'].sum()
+            else:
+                run_rate = 0
             team_score = country_rank[country_rank['country'] == selected_country]['score'].values[0]
             # opponent_mean
 
-            #batsman_df.rename(columns={'opponent': 'country'}, inplace=True)
-
-            batsman_df = batsman_df.merge(country_rank, on='country', how='inner')
-            opponent_mean = batsman_df[['match_id', 'country', 'score']].groupby(['match_id']).min().reset_index()[
-                'score'].mean()
+            opponent_mean = selected_batsman_df['opponent_score'].mean()
             # matches_played = len(list(batsman_df['match_id'].unique()))
-            player_of_the_match = country_games[country_games['player_of_match'] == selected_batsman].shape[0]
+            player_of_the_match = selected_batsman_df['player_of_the_match'].sum()
 
             # winning contribution(effectiveness)-% of winning score
-            country_win_list = list(country_games[country_games['winner'] == selected_country]['match_id'])
-            winning_match_df = match_stat_df[match_stat_df['match_id'].isin(country_win_list)]
-            winning_contribution = winning_match_df[winning_match_df['batsman'] == selected_batsman][
-                                       'scored_runs'].sum() / \
-                                   winning_match_df[winning_match_df['team'] == selected_country]['scored_runs'].sum()
+            country_winning_runs=year_match_list_df[(year_match_list_df['winner']==selected_country)&
+                               (year_match_list_df['first_innings']==selected_country)]['first_innings_run'].sum()\
+            +\
+                year_match_list_df[(year_match_list_df['winner'] == selected_country) &
+                               (year_match_list_df['second_innings'] == selected_country)]['second_innings_run'].sum()
+
+            winning_match_id_list = list(year_match_list_df[(year_match_list_df['winner'] == selected_country)]['match_id'])
+
+            batsman_winning_runs=selected_batsman_df[selected_batsman_df['match_id'].isin(winning_match_id_list)]['runs'].sum()
+            winning_contribution = batsman_winning_runs/country_winning_runs
 
             # run_rate_effectiveness
-            country_run_rate = winning_match_df[winning_match_df['team'] == selected_country]['scored_runs'].sum() / \
-                               winning_match_df[winning_match_df['team'] == selected_country].shape[0]
-            batsman_run_rate = winning_match_df[winning_match_df['batsman'] == selected_batsman]['scored_runs'].sum() / \
-                               winning_match_df[winning_match_df['batsman'] == selected_batsman].shape[0]
+            balls_played_by_country_in_winning_matches = year_match_list_df[(year_match_list_df['winner']==selected_country)&
+                                                                            (year_match_list_df['first_innings']==selected_country)].shape[0]*50 + \
+                                                         year_match_list_df[(year_match_list_df['winner']==selected_country)&
+                                                                            (year_match_list_df['first_innings']==selected_country)].shape[0]*50
 
-            run_rate_effectiveness = batsman_run_rate / country_run_rate
+            country_winning_run_rate = country_winning_runs/balls_played_by_country_in_winning_matches
+            balls_played_by_batsman_in_winning_matches = selected_batsman_df[selected_batsman_df['match_id'].isin(winning_match_id_list)]['balls'].sum()
+            batsman_winning_run_rate = batsman_winning_runs/balls_played_by_batsman_in_winning_matches
 
-            batting_std = batsman_df.groupby(['match_id'])['scored_runs'].sum().reset_index()['scored_runs'].std()
+            run_rate_effectiveness = batsman_winning_run_rate / country_winning_run_rate
 
-            consistency = 1 / batting_std if batting_std != 0 else 1
-            average_score = batsman_df.groupby(['match_id'])['scored_runs'].sum().reset_index()['scored_runs'].mean()
+            #batting_std = batsman_df.groupby(['match_id'])['scored_runs'].sum().reset_index()['scored_runs'].std()
+
+            #consistency = 1 / batting_std if batting_std != 0 else 1
+            average_score = selected_batsman_df['runs'].mean()
+
+            # correlation
+            team_as_first_innings_df = year_match_list_df[year_match_list_df['first_innings']==selected_country]
+            team_as_first_innings_df = team_as_first_innings_df.merge(selected_batsman_df,how='inner',on='match_id')
+            team_as_first_innings_df = team_as_first_innings_df[["runs","first_innings_run"]]
+            team_as_first_innings_df.rename(columns = {"first_innings_run":"innings_run"},inplace=True)
+
+            team_as_second_innings_df = year_match_list_df[year_match_list_df['second_innings'] == selected_country]
+            team_as_second_innings_df = team_as_second_innings_df.merge(selected_batsman_df, how='inner', on='match_id')
+            team_as_second_innings_df = team_as_second_innings_df[["runs", "second_innings_run"]]
+            team_as_second_innings_df.rename(columns={"second_innings_run": "innings_run"}, inplace=True)
+
+            combined_df = pd.concat([team_as_first_innings_df,team_as_second_innings_df])
+            player_runs = list(combined_df["runs"])
+            team_runs = list(combined_df["innings_run"])
+            if combined_df.shape[0]>=2:
+                cor,_ =pearsonr(player_runs, team_runs)
+            else:
+                cor = 0.01
+
+
 
             batsman_dict = {
                 'batsman': selected_batsman,
@@ -295,7 +329,8 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
                 'player_of_the_match': player_of_the_match,
                 'winning_contribution': winning_contribution,
                 'run_rate_effectiveness': run_rate_effectiveness,
-                'consistency': consistency,
+                'correlation':cor,
+                #'consistency': consistency,
                 'no_of_matches_batsman':no_of_batsman_matches
             }
 
@@ -304,7 +339,7 @@ def create_batsman_rank_for_date(performance_cutoff_date_start, performance_cuto
     batsman_performance_df = pd.DataFrame(batsman_performance_list)
     batsman_performance_df.fillna(0, inplace=True)
     batsman_performance_df['batsman_score'] = scaler.fit_transform(
-        batsman_performance_df.drop(columns=['batsman', 'country', 'consistency','no_of_matches_batsman'])).sum(axis=1)
+        batsman_performance_df.drop(columns=['batsman', 'country','no_of_matches_batsman','correlation'])).sum(axis=1)
     score_scaler = MinMaxScaler(feature_range=(1, 10))
     batsman_performance_df['batsman_score'] = score_scaler.fit_transform(batsman_performance_df[['batsman_score']])
     batsman_performance_df.sort_values('batsman_score', ascending=False, inplace=True)
