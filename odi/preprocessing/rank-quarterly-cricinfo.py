@@ -444,7 +444,6 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
             team_score = country_rank[country_rank['country'] == selected_country]['score'].values[0]
             # opponent_mean
             opponent_mean = selected_bowler_df['opponent_score'].mean()
-            matches_played = selected_bowler_df['match_id'].nunique()
 
             # winning contribution(effectiveness)-% of wickets taken in winning matches
             country_win_list = list(year_match_list_df[(year_match_list_df['winner'] == selected_country)]['match_id'])
@@ -457,24 +456,13 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
             else:
                 winning_contribution = 0
 
-            # winning_wicket_per_run rate contribution
-            # winning wicket_per_match contirbution
-
-            # team_wickets_per_run = winning_match_df[winning_match_df['opponent'] == selected_country]['wicket'].sum() / \
-            #                        winning_match_df[winning_match_df['opponent'] == selected_country]['total'].sum()
-            # bowler_wicket_per_run = winning_match_df[winning_match_df['bowler'] == selected_bowler]['wicket'].sum() / \
-            #                         winning_match_df[winning_match_df['bowler'] == selected_bowler]['total'].sum()
-            # winning_wicket_per_run_rate_contribution = bowler_wicket_per_run / team_wickets_per_run
 
             team_wicket_per_match = winning_match_df.groupby(['match_id'])['wickets'].sum().reset_index()['wickets'].mean()
 
             bowler_wicket_per_match = winning_match_df[winning_match_df['name'] == selected_bowler].groupby(['match_id'])['wickets'].sum().reset_index()['wickets'].mean()
-            need to fix this
             winning_wicket_per_match_contribution = bowler_wicket_per_match / team_wicket_per_match
 
             no_of_wins = winning_match_df[winning_match_df['name'] == selected_bowler]['match_id'].nunique()
-            # consistency
-            # consistency = 1/match_stat_df[match_stat_df['bowler']==selected_bowler].groupby(['match_id'])['wicket'].sum().reset_index()['wicket'].std()
 
             bowler_dict = {
                 'bowler': selected_bowler,
@@ -496,7 +484,7 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
 
     bowler_performance_df = pd.DataFrame(bowler_performance_list)
     #print(bowler_performance_df.isin([np.inf, -np.inf]).sum())
-    print(bowler_performance_df.isnull().sum())
+    #print(bowler_performance_df.isnull().sum())
     bowler_performance_df.fillna(0, inplace=True)
     bowler_performance_df['bowler_score'] = scaler.fit_transform(
         bowler_performance_df.drop(columns=['bowler', 'country','no_of_matches_bowler'])).sum(axis=1)
