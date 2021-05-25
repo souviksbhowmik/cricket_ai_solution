@@ -714,17 +714,22 @@ def clean_data():
     match_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     no_result_id_list = list(match_df[(match_df['winner']=='no result') | (match_df['winner']=='tied') ]['match_id'].unique())
     match_df = match_df[~(match_df['winner'].isin(['no result', 'tied']))]
+    match_df = match_df.drop_duplicates(subset=["match_id"])
+
 
     batting_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_df = batting_df[~batting_df['name'].isnull()]
     batting_df = batting_df[~(batting_df['match_id'].isin(no_result_id_list))]
     batting_df = batting_df.replace('-',0)
     batting_df['runs'] = batting_df['runs'].astype(int)
-    batting_df['balls'].astype(int).mean()
+    batting_df = batting_df.drop_duplicates(subset=["match_id","team","name"])
+    # drop duplicates
 
     bowling_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
     bowling_df = bowling_df[~bowling_df['name'].isnull()]
     bowling_df = bowling_df.dropna()
+    bowling_df = bowling_df.drop_duplicates(subset=["match_id", "team", "name"])
+    # drop duplicates
 
     match_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv', index=False)
     batting_df.to_csv(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv', index=False)
