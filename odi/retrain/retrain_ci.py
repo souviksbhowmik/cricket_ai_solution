@@ -10,6 +10,7 @@ from keras.callbacks import ModelCheckpoint
 from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,precision_recall_fscore_support
 
 from sklearn.linear_model import LinearRegression,LogisticRegression
+from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
@@ -97,6 +98,8 @@ def retrain_country_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
         outil.store_keras_model(runs_model,os.path.join(outil.DEV_DIR,outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL))
         outil.store_keras_model(group_encode_model,
                                 os.path.join(outil.DEV_DIR, outil.TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL))
+        outil.store_keras_model(team_model,
+                                os.path.join(outil.DEV_DIR, outil.TEAM_EMBEDDING_MODEL))
         outil.create_model_meta_info_entry('team_opponent_location_embedding',
                                            train_metrics,
                                            test_metrics,
@@ -195,6 +198,7 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
         print("Saving models - (in case of tuning - metrics improved) ")
         outil.store_keras_model(runs_model,os.path.join(outil.DEV_DIR,outil.BATSMAN_EMBEDDING_RUN_MODEL))
         outil.store_keras_model(group_encode_model, os.path.join(outil.DEV_DIR, outil.BATSMAN_EMBEDDING_MODEL))
+        outil.store_keras_model(batsman_model, os.path.join(outil.DEV_DIR, outil.BATSMAN_ONLY_EMBEDDING_MODEL))
         outil.create_model_meta_info_entry('batsman_position_opponent_location_embedding',
                                            train_metrics,
                                            test_metrics,
@@ -256,7 +260,9 @@ def retrain_first_innings_base(create_output=True):
 
     #print(np.where(np.array(model.pvalues) < 0.05))
     selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
-    print("selected indices including bias ",selected_feature_index)
+    #selected_feature_index = list(range(train_x.shape[1] + 1))
+    print("selected indices including bias by p value ",selected_feature_index)
+    selected_feature_index = list(range(train_x.shape[1] + 1))
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
 
@@ -381,22 +387,27 @@ def retrain_second_innings_base(create_output=True):
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_y), 'rb'))
 
-    statsmodel_scaler = StandardScaler()
-    train_x_scaled = statsmodel_scaler.fit_transform((train_x))
-    model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
+    try:
+        statsmodel_scaler = StandardScaler()
+        train_x_scaled = statsmodel_scaler.fit_transform((train_x))
+        model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
 
-    train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
-    test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
+        train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
+        test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
 
-    accuracy_train = accuracy_score(train_y,train_y_predict)
-    accuracy_test = accuracy_score(test_y, test_y_predict)
+        accuracy_train = accuracy_score(train_y,train_y_predict)
+        accuracy_test = accuracy_score(test_y, test_y_predict)
 
 
-    print(model.summary())
-    print('metrics train ', accuracy_train)
-    print('metrics test ', accuracy_test)
+        print(model.summary())
+        print('metrics train ', accuracy_train)
+        print('metrics test ', accuracy_test)
+    except:
+        print("could nt do statsmodel")
 
     pipe = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
+    #pipe = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto',probability=True))])
+
     pipe.fit(train_x,train_y)
 
     train_y_predict_lr = pipe.predict(train_x)
@@ -411,7 +422,8 @@ def retrain_second_innings_base(create_output=True):
     print('metrics test ', accuracy_test_lr)
 
     #print(np.where(np.array(model.pvalues) < 0.05))
-    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
+    selected_feature_index=list(range(train_x.shape[1]+1))
     print("selected indices including bias ",selected_feature_index)
     # need to substract 1 to exclude bias index consideration:
     column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
@@ -433,6 +445,7 @@ def retrain_second_innings_base(create_output=True):
     print("new train_x ",new_train_x.shape)
     print("new test x ", new_test_x.shape)
     pipe_new = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
+    #pipe_new = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto', probability=True,kernel='poly'))])
     pipe_new.fit(new_train_x,train_y)
 
     new_train_y_predict = pipe_new.predict(new_train_x)
@@ -849,11 +862,15 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
 
 
 def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
-    train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_train_x), 'rb'))
-    train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_train_y), 'rb'))
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
+        second_innings_emb) + "_" + ctt.combined_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
+        second_innings_emb) + "_" + ctt.combined_train_y), 'rb'))
 
-    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_test_x), 'rb'))
-    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_" + ctt.combined_test_y), 'rb'))
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
+        second_innings_emb) + "_" + ctt.combined_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
+        second_innings_emb) + "_" + ctt.combined_test_y), 'rb'))
 
     statsmodel_scaler = StandardScaler()
     train_x_scaled = statsmodel_scaler.fit_transform((train_x))
@@ -888,21 +905,30 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     accuracy_test_lr = accuracy_score(test_y, test_y_predict_lr)
     precision_test, recall_test, fscore_test, _ = precision_recall_fscore_support(test_y, test_y_predict_lr,average="binary")
 
-
+    inermediate_predict = (np.round(test_x[:,1])!=1)*1
+    accuracy_test_intermediate = accuracy_score(test_y, inermediate_predict)
+    precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate, _ = precision_recall_fscore_support(test_y, inermediate_predict,
+                                                                                  average="binary")
     print("from scikit learn")
     print('metrics train ', accuracy_train_lr,precision_train,recall_train,fscore_train)
     print('metrics test ', accuracy_test_lr,precision_test, recall_test, fscore_test)
+    print('metrics test intermediate ', accuracy_test_intermediate, precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate)
+    print("data volume train ",train_x.shape[0])
+    print("data volume test ", test_x.shape[0])
 
+    pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL),'wb'))
 
-    pickle.dump(pipe,open(os.path.join(outil.DEV_DIR,"fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb) + "_"+outil.COMBINED_MODEL),'wb'))
+    pickle.dump(pipe, open(os.path.join(outil.DEV_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
+        second_innings_emb) + "_" + outil.COMBINED_MODEL), 'wb'))
 
-    outil.create_model_meta_info_entry('combbined_model_'+"fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
-                                       (accuracy_train_lr,precision_train,recall_train,fscore_train),
-                                       (accuracy_test_lr,precision_test, recall_test, fscore_test),
-                                       info="metrics is accuracy,precision, recall,fscore",
-                                       file_list=[
-                                           outil.COMBINED_MODEL,
-                                           ])
+    outil.create_model_meta_info_entry(
+        'combined_model_' + "fi_" + str(first_innings_emb) + "_si_" + str(second_innings_emb),
+        (accuracy_train_lr, precision_train, recall_train, fscore_train),
+        (accuracy_test_lr, precision_test, recall_test, fscore_test,accuracy_test_intermediate, precision_test_intermediate, recall_test_intermediate, fscore_test_intermediate),
+        info="metrics is accuracy,precision, recall,fscore and intemediate accuracy,precision, recall,fscore",
+        file_list=[
+            outil.COMBINED_MODEL,
+        ])
 
 
 @click.group()
@@ -1032,10 +1058,13 @@ def adversarial_first_innings():
     adversarial_first_innings_runs()
 
 @retrain.command()
-@click.option('--first_innings_emb/--no-first_innings_emb', help='whether to use embedding in first innnings',required=True)
-@click.option('--second_innings_emb/--no-second_innings_emb', help='whether to use embedding in first innnings',required=True)
+@click.option('--first_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
+@click.option('--second_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
 def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
+
+
+
 
 if __name__=="__main__":
     retrain()
