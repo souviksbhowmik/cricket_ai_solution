@@ -49,8 +49,17 @@ def get_batsman_score_features(player_list_df,ref_date=None):
     batsman_rank_df.rename(columns={'batsman': 'name', 'country': 'team'}, inplace=True)
 
     player_list_df = player_list_df.merge(batsman_rank_df, how='inner', on=['name', 'team'])
-    if player_list_df.shape[0] < 11:
-        raise Exception("Team information incomplete")
+    if len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 0:
+        indices = list(player_list_df[player_list_df['batsman_score'].isnull()].index)
+        skip = False
+        for ind in indices:
+            if player_list_df.loc[ind].position <= 7:
+                skip = True
+                break
+        if skip == True:
+            raise Exception("Missing key batsman in history")
+        else:
+            player_list_df.dropna(inplace=True)
     player_list_df['position'] = player_list_df['position'].astype(int)
     player_list_df.sort_values(['position'], inplace=True)
 
@@ -68,6 +77,8 @@ def get_batsman_score_features(player_list_df,ref_date=None):
 
     score_sum_3 = player_list_df.head(3)['batsman_score'].sum()
     score_mean_3 = player_list_df.head(3)['batsman_score'].mean()
+
+    score_max = player_list_df.head(7)['batsman_score'].max()
 
     # weighted_by_correlation
     player_list_df['score_weighted_corr'] = player_list_df['batsman_score'] * player_list_df['correlation']
@@ -122,6 +133,7 @@ def get_batsman_score_features(player_list_df,ref_date=None):
         "score_sum_5": score_sum_5,
         "score_sum_4": score_sum_4,
         "score_sum_3": score_sum_3,
+        "score_max":score_max,
         "score_sum_weighted_by_correlation": score_sum_weighted_by_correlation,
         "score_sum_weighted_by_contribution": score_sum_weighted_by_contribution,
         "score_sum_weighted_by_effectiveness": score_sum_weighted_by_effectiveness,
