@@ -6,6 +6,8 @@ import pandas as pd
 def str_to_date_time(strvalue):
     return datetime.strptime(strvalue, '%Y-%m-%d')
 
+def pandas_timestamp_to_datetime(t):
+    return t.to_pydatetime()
 
 def today_as_date():
     return date.today()
