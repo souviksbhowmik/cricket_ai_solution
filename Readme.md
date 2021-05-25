@@ -104,6 +104,10 @@ python odi/inference/prediction.py team --innings optimize
 ### individual run prediction
 python odi/inference/prediction.py individual-runs
 
+## Retraining with cricinfo (Necessary data loading and Ranking has been done)
+### Step 1 - Select highly correlated score features
+python odi/retrain/retrain_ci.py select-score-cols --start_date 2011-01-01 --end_date 2019-01-01
+
 ## Retraining (Necessary data loading and Ranking has been done)
 ### Step 1 - Create one hot encoding for batsman, location and country
 python odi/retrain/create_encoding.py batsman --start_date '2014-01-01' --end_date '2018-12-31'

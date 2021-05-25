@@ -3,6 +3,12 @@ from odi.retrain import base_model_architecture as bma
 from odi.retrain import create_train_test as ctt
 from odi.model_util import odi_util as outil
 from odi.evaluation import evaluate as cric_eval
+from odi.feature_engg import util as cricutil
+from odi.feature_engg import feature_extractor_ci as fec
+
+from tqdm import tqdm
+import pandas as pd
+from scipy.stats import pearsonr
 
 
 from keras.optimizers import Adam
@@ -931,6 +937,94 @@ def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
         ])
 
 
+
+def score_correlation(start_date,end_date,first_innings_select_count,second_innings_select_count):
+
+    start_dt = cricutil.str_to_date_time(start_date)
+    end_dt = cricutil.str_to_date_time(end_date)
+
+    match_list_df = cricutil.read_csv_with_date('data/csv_load/cricinfo_match_list.csv')
+    batting_df = cricutil.read_csv_with_date('data/csv_load/cricinfo_batting.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= start_dt) & (match_list_df['date'] < end_dt)]
+
+    match_id_list = list(match_list_df['match_id'].unique())
+
+    dict_list = []
+    for match_id in tqdm(match_id_list):
+        for innings_type in ['first', 'second']:
+            runs = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings_run"]
+            team = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings"]
+            date = match_list_df['date'].iloc[0]
+            ref_date = date.to_pydatetime()
+            player_list_df = batting_df[
+                (batting_df['match_id'] == match_id) & (batting_df['batting_innings'] == innings_type)]
+
+            player_list_df = player_list_df[['team', 'name', 'position']]
+            try:
+                entry = fec.get_batsman_score_features(player_list_df,ref_date=ref_date)
+                entry["innings_type"] = innings_type
+                entry["runs"] = runs
+                dict_list.append(entry)
+            except Exception as ex:
+                #print("skipped due to  ",ex)
+                pass
+
+    score_df = pd.DataFrame(dict_list)
+    score_df.dropna(inplace=True)
+    print("no of instances = ",score_df.shape[0])
+
+    all_cols = list(score_df.columns)
+
+    score_df_first = score_df[score_df['innings_type'] == 'first']
+    target = list(score_df_first['runs'])
+    displaye_list_first = []
+    for col_idx in range(len(all_cols) - 2):
+        l = list(score_df_first[all_cols[col_idx]])
+        corr, p_value = pearsonr(l, target)
+        # print(all_cols[col_idx],'\t\t\t\t',corr,'\t',p_value)
+        display_dict = {
+            'col': all_cols[col_idx],
+            'cor': corr,
+            'p_value': p_value
+        }
+
+        displaye_list_first.append(display_dict)
+
+    score_importance_first = pd.DataFrame(displaye_list_first).sort_values(['cor'], ascending=False)
+    print("First innings correlations")
+    print(score_importance_first)
+
+    score_df_second = score_df[score_df['innings_type'] == 'second']
+    target = list(score_df_second['runs'])
+    displaye_list_second = []
+    for col_idx in range(len(all_cols) - 2):
+        l = list(score_df_second[all_cols[col_idx]])
+        corr, p_value = pearsonr(l, target)
+        # print(all_cols[col_idx],'\t\t\t\t',corr,'\t',p_value)
+        display_dict = {
+            'col': all_cols[col_idx],
+            'cor': corr,
+            'p_value': p_value
+        }
+
+        displaye_list_second.append(display_dict)
+
+    score_importance_second = pd.DataFrame(displaye_list_second).sort_values(['cor'], ascending=False)
+    print("Second innings correlations")
+    print(score_importance_second)
+
+    selected_first_innings_score_features = list(score_importance_first['col'][:first_innings_select_count])
+    selected_second_innings_score_features = list(score_importance_second['col'][:second_innings_select_count])
+
+    pickle.dump(selected_first_innings_score_features,open(os.path.join(outil.DEV_DIR,outil.FIRST_INN_SCORE_COLS),'wb'))
+    pickle.dump(selected_second_innings_score_features, open(os.path.join(outil.DEV_DIR, outil.SECOND_INN_SCORE_COLS), 'wb'))
+
+
+
+
+
+
+
 @click.group()
 def retrain():
     pass
@@ -1062,6 +1156,15 @@ def adversarial_first_innings():
 @click.option('--second_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
 def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
+
+@retrain.command()
+@click.option('--start_date', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--end_date', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--first_innings_select_count',help='no of score features to select',default=5)
+@click.option('--second_innings_select_count',help='no of score fetures to select for second innings',default=6)
+def select_score_cols(start_date,end_date,first_innings_select_count,second_innings_select_count):
+    score_correlation(start_date,end_date,first_innings_select_count=first_innings_select_count,
+                      second_innings_select_count=second_innings_select_count)
 
 
 

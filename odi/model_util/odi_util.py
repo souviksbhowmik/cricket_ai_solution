@@ -49,6 +49,9 @@ FIRST_INN_FOW = 'first_innings_fow.pkl'
 SECOND_INN_FOW = 'second_innings_fow.pkl'
 LOCATION_VECTORIZER = 'location_vectorizer.pkl'
 
+FIRST_INN_SCORE_COLS = 'first_inn_score_col.pkl'
+SECOND_INN_SCORE_COLS = 'second_inn_score_col.pkl'
+
 
 def store_keras_model(model,model_name):
     # serialize model to JSON
