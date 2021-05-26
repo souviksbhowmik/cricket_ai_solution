@@ -37,7 +37,12 @@ ADVERSARIAL_LOCATION_MODEL_CACHE = None
 
 # NO_OF_WICKETS = 0
 
-def get_batsman_score_features(player_list_df,ref_date=None):
+def get_bowler_score_features(player_list_df,ref_date=None):
+    no_of_bowlers = player_list_df.shape[0]
+    pass
+
+
+def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
 
     latest_batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=ref_date)
     #print("======",latest_batsman_rank_file)
@@ -48,23 +53,34 @@ def get_batsman_score_features(player_list_df,ref_date=None):
          'batsman_quantile']]
     batsman_rank_df.rename(columns={'batsman': 'name', 'country': 'team'}, inplace=True)
 
-    player_list_df = player_list_df.merge(batsman_rank_df, how='inner', on=['name', 'team'])
-    if len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 0:
-        indices = list(player_list_df[player_list_df['batsman_score'].isnull()].index)
-        skip = False
-        for ind in indices:
-            if player_list_df.loc[ind].position <= 7:
-                skip = True
-                break
-        if skip == True:
-            raise Exception("Missing key batsman in history")
-        else:
-            player_list_df.dropna(inplace=True)
+    player_list_df = player_list_df.merge(batsman_rank_df, how='left', on=['name', 'team'])
+    player_list_df = player_list_df.head(batsman_count)
+
+    if len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 1:
+        raise Exception("Too amny new batsman")
+    elif len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 0:
+
+        mean_score = player_list_df[~(player_list_df['batsman_score'].isnull())]['batsman_score'].mean()
+        mean_correlation = player_list_df[~(player_list_df['correlation'].isnull())]['correlation'].mean()
+        mean_run_rate_effectiveness = player_list_df[~(player_list_df['run_rate_effectiveness'].isnull())][
+            'run_rate_effectiveness'].mean()
+        mean_winning_contribution = player_list_df[~(player_list_df['winning_contribution'].isnull())][
+            'winning_contribution'].mean()
+
+        missing_indices = player_list_df[player_list_df['batsman_score'].isnull()].index
+        for missing_index in missing_indices:
+            player_list_df.loc[missing_index, 'batsman_score'] = mean_score
+            player_list_df.loc[missing_index, 'mean_correlation'] = mean_correlation
+            player_list_df.loc[missing_index, 'mean_run_rate_effectiveness'] = mean_run_rate_effectiveness
+            player_list_df.loc[missing_index, 'mean_winning_contribution'] = mean_winning_contribution
+    else:
+        pass
+
     player_list_df['position'] = player_list_df['position'].astype(int)
     player_list_df.sort_values(['position'], inplace=True)
 
-    score_sum_7 = player_list_df.head(7)['batsman_score'].sum()
-    score_mean_7 = player_list_df.head(7)['batsman_score'].mean()
+    score_sum_7 = player_list_df.head(batsman_count)['batsman_score'].sum()
+    score_mean_7 = player_list_df.head(batsman_count)['batsman_score'].mean()
 
     score_sum_6 = player_list_df.head(6)['batsman_score'].sum()
     score_mean_6 = player_list_df.head(6)['batsman_score'].mean()
@@ -91,18 +107,18 @@ def get_batsman_score_features(player_list_df,ref_date=None):
     player_list_df['log_scale'] = np.log(player_list_df['log_factor'])
     player_list_df['score_weighted_log'] = player_list_df['batsman_score'] * player_list_df['log_scale']
 
-    score_sum_weighted_by_correlation = player_list_df.head(7)['score_weighted_corr'].sum()
-    score_sum_weighted_by_contribution = player_list_df.head(7)['score_weighted_contr'].sum()
-    score_sum_weighted_by_effectiveness = player_list_df.head(7)['score_weighted_effectiveness'].sum()
-    score_sum_weighted_by_log = player_list_df.head(7)['score_weighted_log'].sum()
+    score_sum_weighted_by_correlation = player_list_df.head(batsman_count)['score_weighted_corr'].sum()
+    score_sum_weighted_by_contribution = player_list_df.head(batsman_count)['score_weighted_contr'].sum()
+    score_sum_weighted_by_effectiveness = player_list_df.head(batsman_count)['score_weighted_effectiveness'].sum()
+    score_sum_weighted_by_log = player_list_df.head(batsman_count)['score_weighted_log'].sum()
 
-    score_mean_weighted_by_correlation = player_list_df.head(7)['score_weighted_corr'].sum() / \
-                                         player_list_df.head(7)['correlation'].sum()
-    score_mean_weighted_by_contribution = player_list_df.head(7)['score_weighted_contr'].sum() / \
-                                          player_list_df.head(7)['winning_contribution'].sum()
-    score_mean_weighted_by_effectiveness = player_list_df.head(7)['score_weighted_effectiveness'].sum() / \
-                                           player_list_df.head(7)['run_rate_effectiveness'].sum()
-    score_mean_weighted_by_log = player_list_df.head(7)['score_weighted_log'].sum() / player_list_df.head(7)[
+    score_mean_weighted_by_correlation = player_list_df.head(batsman_count)['score_weighted_corr'].sum() / \
+                                         player_list_df.head(batsman_count)['correlation'].sum()
+    score_mean_weighted_by_contribution = player_list_df.head(batsman_count)['score_weighted_contr'].sum() / \
+                                          player_list_df.head(batsman_count)['winning_contribution'].sum()
+    score_mean_weighted_by_effectiveness = player_list_df.head(batsman_count)['score_weighted_effectiveness'].sum() / \
+                                           player_list_df.head(batsman_count)['run_rate_effectiveness'].sum()
+    score_mean_weighted_by_log = player_list_df.head(batsman_count)['score_weighted_log'].sum() / player_list_df.head(7)[
         'log_scale'].sum()
 
     score_sum_weighted_by_correlation_4 = player_list_df.head(4)['score_weighted_corr'].sum()
@@ -111,11 +127,11 @@ def get_batsman_score_features(player_list_df,ref_date=None):
     score_sum_weighted_by_log_4 = player_list_df.head(4)['score_weighted_log'].sum()
 
     score_mean_weighted_by_correlation_4 = player_list_df.head(4)['score_weighted_corr'].sum() / \
-                                           player_list_df.head(7)['correlation'].sum()
+                                           player_list_df.head(4)['correlation'].sum()
     score_mean_weighted_by_contribution_4 = player_list_df.head(4)['score_weighted_contr'].sum() / \
-                                            player_list_df.head(7)['winning_contribution'].sum()
+                                            player_list_df.head(4)['winning_contribution'].sum()
     score_mean_weighted_by_effectiveness_4 = player_list_df.head(4)['score_weighted_effectiveness'].sum() / \
-                                             player_list_df.head(7)['run_rate_effectiveness'].sum()
+                                             player_list_df.head(4)['run_rate_effectiveness'].sum()
     score_mean_weighted_by_log_4 = player_list_df.head(4)['score_weighted_log'].sum() / player_list_df.head(7)[
         'log_scale'].sum()
 
