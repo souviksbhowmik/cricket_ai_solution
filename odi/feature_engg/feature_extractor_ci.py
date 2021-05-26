@@ -675,6 +675,7 @@ def get_overall_means(team,location,ref_date,opponent):
 
     return location_mean, team_location_mean, opponent_mean, team_opponent_mean
 
+
 def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None):
 
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)

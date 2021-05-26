@@ -412,7 +412,6 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
             #raise ex
 
-    print('mean no of batsman - ',no_of_basman/index)
     train_y = np.stack(target_list_train)
     test_y = np.stack(target_list_test)
 
