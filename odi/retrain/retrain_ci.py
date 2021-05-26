@@ -17,6 +17,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_scor
 
 from sklearn.linear_model import LinearRegression,LogisticRegression
 from sklearn.svm import SVC
+from sklearn.feature_selection import SequentialFeatureSelector
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
@@ -954,6 +955,8 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
         for innings_type in ['first', 'second']:
             runs = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings_run"]
             team = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings"]
+            winner = match_list_df[match_list_df["match_id"] == match_id].iloc[0]['winner']
+            is_win = (team == winner) * 1
             date = match_list_df['date'].iloc[0]
             ref_date = date.to_pydatetime()
             player_list_df = batting_df[
@@ -964,6 +967,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
                 entry = fec.get_batsman_score_features(player_list_df,ref_date=ref_date)
                 entry["innings_type"] = innings_type
                 entry["runs"] = runs
+                entry["is_win"] = is_win
                 dict_list.append(entry)
             except Exception as ex:
                 #print("skipped due to  ",ex)
@@ -978,7 +982,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     score_df_first = score_df[score_df['innings_type'] == 'first']
     target = list(score_df_first['runs'])
     displaye_list_first = []
-    for col_idx in range(len(all_cols) - 2):
+    for col_idx in range(len(all_cols) - 3):
         l = list(score_df_first[all_cols[col_idx]])
         corr, p_value = pearsonr(l, target)
         # print(all_cols[col_idx],'\t\t\t\t',corr,'\t',p_value)
@@ -997,7 +1001,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     score_df_second = score_df[score_df['innings_type'] == 'second']
     target = list(score_df_second['runs'])
     displaye_list_second = []
-    for col_idx in range(len(all_cols) - 2):
+    for col_idx in range(len(all_cols) - 3):
         l = list(score_df_second[all_cols[col_idx]])
         corr, p_value = pearsonr(l, target)
         # print(all_cols[col_idx],'\t\t\t\t',corr,'\t',p_value)
@@ -1013,13 +1017,37 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     print("Second innings correlations")
     print(score_importance_second)
 
-    selected_first_innings_score_features = list(score_importance_first['col'][:first_innings_select_count])
-    selected_second_innings_score_features = list(score_importance_second['col'][:second_innings_select_count])
+    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+    sfs_first = SequentialFeatureSelector(pipe, n_features_to_select=5)
+    sfs_first.fit(score_df_first.drop(columns=['innings_type', 'runs', 'is_win']), score_df_first['runs'])
 
-    pickle.dump(selected_first_innings_score_features,open(os.path.join(outil.DEV_DIR,outil.FIRST_INN_SCORE_COLS),'wb'))
-    pickle.dump(selected_second_innings_score_features, open(os.path.join(outil.DEV_DIR, outil.SECOND_INN_SCORE_COLS), 'wb'))
+    print("=======first innnings improtance=========")
+    for idx in np.where(sfs_first.get_support())[0]:
+        print(all_cols[idx])
 
+    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+    sfs_second = SequentialFeatureSelector(pipe, n_features_to_select=5)
+    sfs_second.fit(score_df_second.drop(columns=['innings_type', 'runs', 'is_win']), score_df_second['runs'])
 
+    print("=======second innnings improtance for runs=========")
+    for idx in np.where(sfs_second.get_support())[0]:
+        print(all_cols[idx])
+
+    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LogisticRegression())])
+    sfs_second_log = SequentialFeatureSelector(pipe, n_features_to_select=5)
+    sfs_second_log.fit(score_df_second.drop(columns=['innings_type', 'runs', 'is_win']), score_df_second['is_win'])
+
+    print("=======second innnings improtance for win=========")
+    for idx in np.where(sfs_second_log.get_support())[0]:
+        print(all_cols[idx])
+
+    # selected_first_innings_score_features = list(score_importance_first['col'][:first_innings_select_count])
+    # selected_second_innings_score_features = list(score_importance_second['col'][:second_innings_select_count])
+    #
+    # pickle.dump(selected_first_innings_score_features,open(os.path.join(outil.DEV_DIR,outil.FIRST_INN_SCORE_COLS),'wb'))
+    # pickle.dump(selected_second_innings_score_features, open(os.path.join(outil.DEV_DIR, outil.SECOND_INN_SCORE_COLS), 'wb'))
+    #
+    #
 
 
 
