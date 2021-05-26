@@ -37,20 +37,77 @@ ADVERSARIAL_LOCATION_MODEL_CACHE = None
 
 # NO_OF_WICKETS = 0
 
+first_innings_default_mean =260
+second_innings_default_mean =224
+
+
 def get_bowler_score_features(player_list_df,ref_date=None):
+
     no_of_bowlers = player_list_df.shape[0]
-    pass
+    latest_bowler_rank_file = rank.get_latest_rank_file("bowler", ref_date=ref_date)
+    bowler_rank_df = pd.read_csv(latest_bowler_rank_file)
+
+    bowler_rank_df = bowler_rank_df[
+        ['bowler', 'country', 'winning_contribution','winning_wicket_rate_contribution', 'bowler_score']]
+    bowler_rank_df.rename(columns={'bowler': 'name', 'country': 'team'}, inplace=True)
+
+    player_list_df = player_list_df.merge(bowler_rank_df, how='left', on=['name', 'team'])
+    absent_record_index = player_list_df[player_list_df['bowler_score'].isnull()].index
+
+    if len(absent_record_index) >=2 and no_of_bowlers <6:
+        raise Exception("not enough bowler History")
+    elif len(absent_record_index) >=3 :
+        raise Exception("not enough bowler History")
+    elif len(absent_record_index)>0:
+        mean_score = player_list_df[~(player_list_df['bowler_score'].isnull())]['bowler_score'].mean()
+        mean_contribution = player_list_df[~(player_list_df['winning_contribution'].isnull())]['winning_contribution'].mean()
+        mean_wr_contribution = player_list_df[~(player_list_df['winning_wicket_rate_contribution'].isnull())][
+            'winning_wicket_rate_contribution'].mean()
+
+        for missing_index in absent_record_index:
+            player_list_df.loc[missing_index, 'bowler_score'] = mean_score
+            player_list_df.loc[missing_index, 'winning_contribution'] = mean_contribution
+            player_list_df.loc[missing_index, 'winning_wicket_rate_contribution'] = mean_wr_contribution
+
+    else:
+        pass
+
+    score_sum = player_list_df['bowler_score'].sum()
+    score_mean = player_list_df['bowler_score'].mean()
+    score_max = player_list_df['bowler_score'].max()
+
+    player_list_df['score_weighted_contribution'] = player_list_df['bowler_score']*player_list_df['winning_contribution']
+    player_list_df['score_weighted_wr_contribution'] = player_list_df['bowler_score']*player_list_df['winning_wicket_rate_contribution']
+
+    score_sum_weighted_by_contribution = player_list_df['score_weighted_contribution'].sum()
+    score_sum_weighted_by_wr_contribution = player_list_df['score_weighted_wr_contribution'].sum()
+
+    score_mean_weighted_by_contribution = player_list_df['score_weighted_contribution'].sum()/player_list_df['winning_contribution'].sum()
+    score_mean_weighted_by_wr_contribution = player_list_df['score_weighted_wr_contribution'].sum()/player_list_df['winning_wicket_rate_contribution'].sum()
+
+    entry = {
+        "bowler_score_sum":score_sum,
+        "bowler_score_mean":score_mean,
+        "bowler_score_max":score_max,
+        "bowler_score_sum_weighted_by_contribution":score_sum_weighted_by_contribution,
+        "bowler_score_mean_weighted_by_contribution":score_mean_weighted_by_contribution,
+        "bowler_score_sum_weighted_by_wr_contribution":score_sum_weighted_by_wr_contribution,
+        "bowler_score_mean_weighted_by_wr_contribution":score_mean_weighted_by_wr_contribution
+
+    }
+
+    return entry
 
 
 def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
+
 
     latest_batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=ref_date)
     #print("======",latest_batsman_rank_file)
     batsman_rank_df = pd.read_csv(latest_batsman_rank_file)
 
     batsman_rank_df = batsman_rank_df[
-        ['batsman', 'country', 'winning_contribution', 'run_rate_effectiveness', 'correlation', 'batsman_score',
-         'batsman_quantile']]
+        ['batsman', 'country', 'winning_contribution', 'run_rate_effectiveness', 'correlation', 'batsman_score']]
     batsman_rank_df.rename(columns={'batsman': 'name', 'country': 'team'}, inplace=True)
 
     player_list_df = player_list_df.merge(batsman_rank_df, how='left', on=['name', 'team'])
@@ -185,28 +242,15 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
 
 
 
-def get_trend(input_df, team_or_opponent, team_name, target_field):
-    if input_df.shape[0]==0:
+def get_trend(input_df,target_field,date_field='date'):
+
+    if input_df.shape[0]<=1:
         return None, None,None,None
-    input_df.rename(columns={'winner': 'winning_team'}, inplace=True)
 
-    selected_match_id_list = list(input_df['match_id'])
-    match_detail_list = []
-    for match_id in selected_match_id_list:
-        match_info = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep
-                                 + str(match_id) + '.csv')
-        match_detail_list.append(match_info)
-    match_detail_df = pd.concat(match_detail_list)
-    match_detail_df.fillna('NA', inplace=True)
+    input_df.sort_values(date_field, inplace=True)
 
-    match_detail_df = input_df.merge(match_detail_df, how='inner', on='match_id')
-
-    sorted_df = match_detail_df[match_detail_df[team_or_opponent].isin(team_name)].groupby('match_id').agg(
-        {'date': 'min', target_field: 'sum'}).reset_index()
-    sorted_df.sort_values('date', inplace=True)
-
-    y = np.array(sorted_df[target_field])
-    x = np.array(range(sorted_df.shape[0])).reshape(-1, 1) + 1
+    y = np.array(input_df[target_field])
+    x = np.array(range(input_df.shape[0])).reshape(-1, 1) + 1
     linear_trend_model = LinearRegression()
     linear_trend_model.fit(x, y)
     next_instance_num = x.shape[0] + 1
@@ -217,7 +261,7 @@ def get_trend(input_df, team_or_opponent, team_name, target_field):
     mean_error = np.mean(y-y_pred)
     #trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]
     trend_predict = linear_trend_model.predict(np.array([next_instance_num]).reshape(-1, 1))[0]+mean_error
-    mean = sorted_df[target_field].mean()
+    mean = input_df[target_field].mean()
 
     return base, trend, trend_predict, mean
 
@@ -225,9 +269,9 @@ def get_trend(input_df, team_or_opponent, team_name, target_field):
 def get_specified_summary_df(match_summary_df=None,ref_date=None,no_of_years=None):
 
     if match_summary_df is None:
-        custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
-        match_summary_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv',
-                                       parse_dates=['date'], date_parser=custom_date_parser)
+        #custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
+        match_summary_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricingfo_match_list.csv')
+
     if ref_date is None:
         today = date.today()
         ref_date = datetime(year=today.year, month=today.month, day=today.day)
@@ -251,7 +295,7 @@ def get_trend_with_opponent(team,opponent,match_summary_df=None,ref_date=None,no
                                        & (match_summary_df['second_innings'] == opponent)
                                        ].sort_values('date', ascending=False).head(5)
 
-    return get_trend(last_5_opponent, 'team', [team], 'total')
+    return get_trend(last_5_opponent,'first_innings_run')
 
 
 def get_trend_at_location(team,location,match_summary_df=None,ref_date=None,no_of_years=None):
@@ -263,7 +307,7 @@ def get_trend_at_location(team,location,match_summary_df=None,ref_date=None,no_o
                                        & (match_summary_df['location'] == location)
                                        ].sort_values('date', ascending=False).head(5)
 
-    return get_trend(last_5_location, 'team', [team], 'total')
+    return get_trend(last_5_location,'first_innings_run')
 
 
 def get_trend_recent(team,match_summary_df=None,ref_date=None,no_of_years=None):
@@ -271,10 +315,10 @@ def get_trend_recent(team,match_summary_df=None,ref_date=None,no_of_years=None):
                                                 ref_date=ref_date,
                                                 no_of_years=no_of_years)
 
-    last_5_match = match_summary_df[(match_summary_df['first_innings'] == team)
-                                    ].sort_values('date', ascending=False).head(5)
+    last_20_match = match_summary_df[(match_summary_df['first_innings'] == team)
+                                    ].sort_values('date', ascending=False).head(20)
 
-    return get_trend(last_5_match, 'team', [team], 'total')
+    return get_trend(last_20_match,'first_innings_run')
 
 
 def get_country_score(country, ref_date=None):
@@ -580,6 +624,26 @@ def get_location_mean(location,innings,ref_date=None):
     location_mean = location_rank_df[(location_rank_df['location']==location) & (location_rank_df['innings']==innings)]['total_run'].values[0]
     return location_mean
 
+
+def get_conditional_mean(condition=None,condition_value=None,ref_date=None,innings_type=None):
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricingfo_match_list.csv')
+    if ref_date is None:
+        ref_date = cricutil.today_as_date_time()
+
+    match_list_df = match_list_df[match_list_df['date']<ref_date]
+    if condition is not None:
+        match_list_df = match_list_df[match_list_df[condition]==condition_value]
+
+    if match_list_df.shape[0]==0:
+        if innings_type == 'first':
+            return first_innings_default_mean
+        else:
+            return second_innings_default_mean
+    mean_value = match_list_df[innings_type+'_innings_run'].mean()
+
+    return mean_value
+
+
 def get_overall_means(team,location,ref_date,opponent):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
     match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
@@ -611,14 +675,13 @@ def get_overall_means(team,location,ref_date,opponent):
 
     return location_mean, team_location_mean, opponent_mean, team_opponent_mean
 
-def get_instance_feature_dict(team, opponent, location, team_player_list, opponent_player_list, ref_date=None,no_of_years=None):
+def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None):
 
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
     opponent_score,opponent_quantile = get_country_score(opponent, ref_date=ref_date)
-    batsman_mean,batsman_max,batsman_sum,batsman_quantile_mean,batsman_quantile_max,batsman_quantile_sum= get_batsman_mean_max(team, team_player_list, ref_date=ref_date)
-    bowler_mean, bowler_max, bowler_sum, bowler_quantile_mean, bowler_quantile_max, bowler_quantile_sum= get_bowler_mean_max(opponent, opponent_player_list, ref_date=ref_date)
-    #location_overall_mean = get_location_mean(location,"first")
-    #batting_score_list = get_batsman_vector(team,team_player_list,ref_date=ref_date)
+
+    batting_score_dict = get_batsman_score_features(team_player_list_df,ref_date=ref_date)
+    bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years)
@@ -626,19 +689,32 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
     if current_base is None:
         raise Exception('Team history unavailable')
 
+    first_innings_mean = get_conditional_mean(ref_date=ref_date,innings_type='first')
+    run_factor = current_mean/first_innings_mean
+
     location_base, location_trend, location_trend_predict, location_mean =\
         get_trend_at_location(team,location,ref_date=ref_date,no_of_years=no_of_years)
 
+
     if location_base is None:
+        first_innings_location_mean = get_conditional_mean(condition='location',condition_value=location,
+                                                           ref_date=ref_date, innings_type='first')
+        adjusted_location_mean = first_innings_location_mean*run_factor
+
         location_base, location_trend, location_trend_predict, location_mean = \
-            (current_base, current_trend, current_trend_predict, current_mean)
+            (adjusted_location_mean, 0, adjusted_location_mean, adjusted_location_mean)
 
     opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
         get_trend_with_opponent(team,opponent,ref_date=ref_date,no_of_years=no_of_years)
 
+
     if opponent_base is None:
+
+        first_innings_opponent_mean = get_conditional_mean(condition='second_innings', condition_value=opponent,
+                                                           ref_date=ref_date, innings_type='first')
+        adjusted_opponent_mean = first_innings_opponent_mean * run_factor
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
-            (current_base, current_trend, current_trend_predict, current_mean)
+            (adjusted_opponent_mean, 0, adjusted_opponent_mean, adjusted_opponent_mean)
 
     #overall_location_mean, overall_team_location_mean, overall_opponent_mean, overall_team_opponent_mean = get_overall_means(team,location,ref_date,opponent)
     #standard_mean = 250
@@ -648,9 +724,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         'opponent': opponent,
         'location': location,
         'team_score': team_score,
-        #'team_quantile':team_quantile,
         'opponent_score': opponent_score,
-        #'opponent_quantile':opponent_quantile,
         'opponent_base': opponent_base,
         'opponent_trend': opponent_trend,
         'opponent_trend_predict': opponent_trend_predict,
@@ -663,32 +737,10 @@ def get_instance_feature_dict(team, opponent, location, team_player_list, oppone
         'current_trend': current_trend,
         'current_trend_predict': current_trend_predict,
         'current_mean': current_mean,
-        'batsman_mean': batsman_mean,
-        'batsman_max': batsman_max,
-        'batsman_sum':batsman_sum,
-        #'batsman_quantile_mean': batsman_quantile_mean,
-        #'batsman_quantile_max': batsman_quantile_max,
-        #'batsman_quantile_sum': batsman_quantile_sum,
-        'bowler_mean': bowler_mean,
-        'bowler_max': bowler_max,
-        'bowler_sum': bowler_sum
-        #'bowler_quantile_mean': bowler_quantile_mean,
-        #'bowler_quantile_max': bowler_quantile_max,
-        #'bowler_quantile_sum': bowler_quantile_sum
-        # 'bat_ball_ratio':batsman_sum/bowler_sum
-        # 'location_overall_mean':location_overall_mean
-        #'standard_mean':standard_mean,
-        #'overall_location_mean':overall_location_mean,
-        #'overall_team_location_mean':overall_team_location_mean,
-        #'overall_opponent_mean':overall_opponent_mean,
-        #'overall_team_opponent_mean':overall_team_opponent_mean
-        # 'location_factor':overall_team_location_mean/overall_location_mean,
-        # 'overall_location_adder': overall_team_location_mean - overall_location_mean,
-        # 'opponent_factor':overall_team_opponent_mean/overall_opponent_mean,
-        # 'opponent_adder':overall_team_opponent_mean - overall_opponent_mean
-
-
+        'run_factor':run_factor
     }
+    feature_dict.update(batting_score_dict)
+    feature_dict.update(bowling_score_dict)
 
     # batting_score_list = list(batting_score_list)
     # for idx,score in enumerate(batting_score_list):
