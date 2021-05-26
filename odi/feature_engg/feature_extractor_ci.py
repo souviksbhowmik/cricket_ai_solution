@@ -114,7 +114,7 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
     player_list_df = player_list_df.head(batsman_count)
 
     if len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 1:
-        raise Exception("Too amny new batsman")
+        raise Exception("Too many new batsman")
     elif len(player_list_df[player_list_df['batsman_score'].isnull()].index) > 0:
 
         mean_score = player_list_df[~(player_list_df['batsman_score'].isnull())]['batsman_score'].mean()
