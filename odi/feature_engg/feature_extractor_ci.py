@@ -286,36 +286,40 @@ def get_specified_summary_df(match_summary_df=None,ref_date=None,no_of_years=Non
     return match_summary_df
 
 
-def get_trend_with_opponent(team,opponent,match_summary_df=None,ref_date=None,no_of_years=None):
+def get_trend_with_opponent(team,opponent,match_summary_df=None,ref_date=None,no_of_years=None,innings_type='first'):
     match_summary_df = get_specified_summary_df(match_summary_df=match_summary_df,
                                                 ref_date=ref_date,
                                                 no_of_years=no_of_years)
 
-    last_5_opponent = match_summary_df[(match_summary_df['first_innings'] == team)
-                                       & (match_summary_df['second_innings'] == opponent)
+    if innings_type =='first':
+        opponent_innnings_type = 'second'
+    else:
+        opponent_innnings_type ='first'
+    last_5_opponent = match_summary_df[(match_summary_df[innings_type+'_innings'] == team)
+                                       & (match_summary_df[opponent_innnings_type+'_innings'] == opponent)
                                        ].sort_values('date', ascending=False).head(5)
 
     return get_trend(last_5_opponent,'first_innings_run')
 
 
-def get_trend_at_location(team,location,match_summary_df=None,ref_date=None,no_of_years=None):
+def get_trend_at_location(team,location,match_summary_df=None,ref_date=None,no_of_years=None,innings_type='first'):
     match_summary_df = get_specified_summary_df(match_summary_df=match_summary_df,
                                                 ref_date=ref_date,
                                                 no_of_years=no_of_years)
 
-    last_5_location = match_summary_df[(match_summary_df['first_innings'] == team)
+    last_5_location = match_summary_df[(match_summary_df[innings_type+'_innings'] == team)
                                        & (match_summary_df['location'] == location)
                                        ].sort_values('date', ascending=False).head(5)
 
     return get_trend(last_5_location,'first_innings_run')
 
 
-def get_trend_recent(team,match_summary_df=None,ref_date=None,no_of_years=None):
+def get_trend_recent(team,match_summary_df=None,ref_date=None,no_of_years=None,innings_type='first'):
     match_summary_df = get_specified_summary_df(match_summary_df=match_summary_df,
                                                 ref_date=ref_date,
                                                 no_of_years=no_of_years)
 
-    last_20_match = match_summary_df[(match_summary_df['first_innings'] == team)
+    last_20_match = match_summary_df[(match_summary_df[innings_type+'_innings'] == team)
                                     ].sort_values('date', ascending=False).head(20)
 
     return get_trend(last_20_match,'first_innings_run')
@@ -685,35 +689,35 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
-        get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years)
+        get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years,innings_type=innings_type)
 
     if current_base is None:
         raise Exception('Team history unavailable')
 
-    first_innings_mean = get_conditional_mean(ref_date=ref_date,innings_type=innings_type)
-    run_factor = current_mean/first_innings_mean
+    innings_mean = get_conditional_mean(ref_date=ref_date,innings_type=innings_type)
+    run_factor = current_mean/innings_mean
 
     location_base, location_trend, location_trend_predict, location_mean =\
-        get_trend_at_location(team,location,ref_date=ref_date,no_of_years=no_of_years)
+        get_trend_at_location(team,location,ref_date=ref_date,no_of_years=no_of_years,innings_type=innings_type)
 
 
     if location_base is None:
-        first_innings_location_mean = get_conditional_mean(condition='location',condition_value=location,
+        innings_location_mean = get_conditional_mean(condition='location',condition_value=location,
                                                            ref_date=ref_date, innings_type=innings_type)
-        adjusted_location_mean = first_innings_location_mean*run_factor
+        adjusted_location_mean = innings_location_mean*run_factor
 
         location_base, location_trend, location_trend_predict, location_mean = \
             (adjusted_location_mean, 0, adjusted_location_mean, adjusted_location_mean)
 
     opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
-        get_trend_with_opponent(team,opponent,ref_date=ref_date,no_of_years=no_of_years)
+        get_trend_with_opponent(team,opponent,ref_date=ref_date,no_of_years=no_of_years,innings_type=innings_type)
 
 
     if opponent_base is None:
 
-        first_innings_opponent_mean = get_conditional_mean(condition='second_innings', condition_value=opponent,
+        innings_opponent_mean = get_conditional_mean(condition='first_innings', condition_value=opponent,
                                                            ref_date=ref_date, innings_type=innings_type)
-        adjusted_opponent_mean = first_innings_opponent_mean * run_factor
+        adjusted_opponent_mean = innings_opponent_mean * run_factor
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
             (adjusted_opponent_mean, 0, adjusted_opponent_mean, adjusted_opponent_mean)
 

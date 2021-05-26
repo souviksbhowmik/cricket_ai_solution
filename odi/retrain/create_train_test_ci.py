@@ -533,75 +533,49 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
     overall_start = train_start_dt
     overall_end = test_end_dt
-    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
-    match_list_df = match_list_df.merge(match_stats_df, how='inner', on='match_id')
-    match_id_list = list(match_list_df['match_id'].unique())
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+                                      (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+                                      (bowling_list_df['date'] <= overall_end)]
 
+    match_id_list = list(match_list_df['match_id'].unique())
     feature_list_train = []
     result_list_train = []
 
-    feature_list_test =[]
+    feature_list_test = []
     result_list_test = []
-    no_of_basman = 0
     for index,match_id in tqdm(enumerate(match_id_list)):
-        match_info = match_list_df[match_list_df['match_id']==match_id]
-        team_info = match_info[match_info['second_innings']==match_info['team_statistics']]
-        opponent_info = match_info[match_info['first_innings']==match_info['team_statistics']]
+        team = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["second_innings"]
+        opponent = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["first_innings"]
+        winner = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["winner"]
+        location = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        target = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['first_innings_run']
+        win = 1*(team==winner)
 
-        team = team_info['team_statistics'].values[0].strip()
-        opponent = opponent_info['team_statistics'].values[0].strip()
-        location = team_info['location'].values[0].strip()
-        ref_dt_np = team_info['date'].values[0]
-        ref_date = cricutil.npdate_to_datetime(ref_dt_np)
-        target = opponent_info['total_run'].values[0]
-        win=0
-        if team_info['winner'].values[0]==team:
-            win=1
+        team_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team)]
 
+        team_player_list_df = team_player_list_df[['team', 'name', 'position']]
 
-        team_player_list = list()
-        for bi in range(11):
-            batsman = team_info['batsman_'+str(bi+1)].values[0].strip()
-            if batsman == 'not_batted':
-                break
-            else:
-                team_player_list.append(batsman)
+        opponent_bowler_list_df = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == opponent)]
 
-        team_bowler_list = []
-        for tbo in range(11):
-            t_bowler = team_info['bowler_' + str(tbo + 1)].values[0].strip()
-            if t_bowler == 'not_bowled':
-                break
-            elif t_bowler not in team_player_list:
-                team_bowler_list.append(t_bowler)
-            else:
-                pass
-
-        # if len(team_player_list) + len(team_bowler_list) == 11:
-        #     team_player_list = team_player_list + team_bowler_list
-        #team_player_list = fe.complete_batting_order(team, team_player_list, team_bowler_list, ref_date = ref_date, no_of_batsman=7)
-
-        opponent_player_list = list()
-        for boi in range(11):
-            bowler = opponent_info['bowler_' + str(boi + 1)].values[0].strip()
-            if bowler == 'not_bowled':
-                break
-            else:
-                opponent_player_list.append(bowler)
+        opponent_bowler_list_df = opponent_bowler_list_df[['team', 'name']]
 
 
         try:
-            #fow = pred.predict_number_of_wickets(team,opponent,opponent_player_list, location, innings="second",ref_date=ref_date)
 
-            #fe.NO_OF_WICKETS = fow
-            feature_dict = fe.get_instance_feature_dict(team, opponent, location,
-                                                        team_player_list, opponent_player_list,
-                                                        ref_date)
+            feature_dict = fec.get_instance_feature_dict(team, opponent, location,team_player_list_df,
+                                                                opponent_bowler_list_df,ref_date=ref_date,innings_type='second')
+
             feature_dict['target_score'] = target
-            no_of_basman = no_of_basman+len(team_player_list)
 
             if ref_date<test_start_dt:
                 feature_list_train.append(feature_dict)
@@ -613,7 +587,6 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
             #raise ex
 
-    print('mean no of batsman - ',no_of_basman/index)
     train_y = np.stack(result_list_train)
     test_y = np.stack(result_list_test)
 
