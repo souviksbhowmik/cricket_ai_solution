@@ -270,7 +270,7 @@ def get_specified_summary_df(match_summary_df=None,ref_date=None,no_of_years=Non
 
     if match_summary_df is None:
         #custom_date_parser = lambda x: datetime.strptime(x, "%Y-%m-%d")
-        match_summary_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricingfo_match_list.csv')
+        match_summary_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
 
     if ref_date is None:
         today = date.today()
@@ -626,7 +626,7 @@ def get_location_mean(location,innings,ref_date=None):
 
 
 def get_conditional_mean(condition=None,condition_value=None,ref_date=None,innings_type=None):
-    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricingfo_match_list.csv')
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     if ref_date is None:
         ref_date = cricutil.today_as_date_time()
 

@@ -363,10 +363,10 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting_list.csv')
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                   (batting_list_df['date'] <= overall_end)]
-    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling_list.csv')
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
     bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
                                       (bowling_list_df['date'] <= overall_end)]
 
