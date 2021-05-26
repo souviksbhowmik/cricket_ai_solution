@@ -689,7 +689,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     if current_base is None:
         raise Exception('Team history unavailable')
 
-    first_innings_mean = get_conditional_mean(ref_date=ref_date,innings_type='first')
+    first_innings_mean = get_conditional_mean(ref_date=ref_date,innings_type=innings_type)
     run_factor = current_mean/first_innings_mean
 
     location_base, location_trend, location_trend_predict, location_mean =\
@@ -698,7 +698,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
 
     if location_base is None:
         first_innings_location_mean = get_conditional_mean(condition='location',condition_value=location,
-                                                           ref_date=ref_date, innings_type='first')
+                                                           ref_date=ref_date, innings_type=innings_type)
         adjusted_location_mean = first_innings_location_mean*run_factor
 
         location_base, location_trend, location_trend_predict, location_mean = \
@@ -711,7 +711,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     if opponent_base is None:
 
         first_innings_opponent_mean = get_conditional_mean(condition='second_innings', condition_value=opponent,
-                                                           ref_date=ref_date, innings_type='first')
+                                                           ref_date=ref_date, innings_type=innings_type)
         adjusted_opponent_mean = first_innings_opponent_mean * run_factor
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
             (adjusted_opponent_mean, 0, adjusted_opponent_mean, adjusted_opponent_mean)
