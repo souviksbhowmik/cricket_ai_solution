@@ -679,6 +679,52 @@ def get_overall_means(team,location,ref_date,opponent):
 
     return location_mean, team_location_mean, opponent_mean, team_opponent_mean
 
+def set_quantile(q1,q2,q3,val):
+    iqr = q3 - q1
+    anomaly_h = q3 + 1.5 * iqr
+    anomaly_l = q1 - 1.5 * iqr
+
+    if val > anomaly_h:
+        target_q = 6
+    elif val > q3:
+        target_q = 5
+    elif val > q2:
+        target_q = 4
+    elif val > q1:
+        target_q = 3
+    elif val > anomaly_l:
+        target_q = 2
+    else:
+        target_q = 1
+
+    return target_q
+
+def get_win_probability_based_on_target(team,target,ref_date=None, condition=None,conditio_value=None):
+    second_innings_run_list = None
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date']<ref_date) & (match_list_df['second_innings']==team)]
+    second_innings_run_list  = list(match_list_df['second_innings_run'])
+    q1 = np.quantile(second_innings_run_list,0.25)
+    q2 = np.quantile(second_innings_run_list,0.50)
+    q3 = np.quantile(second_innings_run_list,0.75)
+    iqr = q3-q1
+    anomaly_h = q3 + 1.5*iqr
+    anomaly_l = q1 - 1.5*iqr
+    target_q = None
+    if target > anomaly_h:
+        target_q = 6
+    elif target > q3:
+        target_q = 5
+    elif target > q2:
+        target_q = 4
+    elif target > q1:
+        target_q = 3
+    elif target > anomaly_l:
+        target_q = 2
+    else:
+        target_q = 1
+
+    match_list_df['target_q']=match_list_df['second_innings_run'].apply(lambda x:set_quantile(q1,q2,q3,x))
 
 def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None):
 

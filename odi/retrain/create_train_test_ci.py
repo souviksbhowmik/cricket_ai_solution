@@ -4,7 +4,7 @@ from odi.data_loader import  data_loader as dl
 from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor_ci as fec
 from odi.evaluation import evaluate as cric_eval
-from odi.inference import prediction as pred
+from odi.inference import prediction_ci as predc
 from datetime import datetime
 
 import os
@@ -1163,7 +1163,6 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
 
-    outil.use_model_from('dev')
     train_start_dt = cricutil.str_to_date_time(train_start)
     test_start_dt = cricutil.str_to_date_time(test_start)
     if test_end is None:
@@ -1173,11 +1172,16 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
 
     overall_start = train_start_dt
     overall_end = test_end_dt
-    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
-    match_list_df = match_list_df.merge(match_stats_df, how='inner', on='match_id')
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+                                      (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+                                      (bowling_list_df['date'] <= overall_end)]
+
     match_id_list = list(match_list_df['match_id'].unique())
 
     feature_list_train = []
@@ -1188,102 +1192,29 @@ def create_combined_prediction_train_test(train_start,test_start,test_end=None, 
 
     for match_id in tqdm(match_id_list):
 
-        selected_innings = 'first_innings'
-        opponent_innings = 'second_innings'
-        innings_team = match_list_df[(match_list_df['match_id'] == match_id) &
-                                     (match_list_df[selected_innings] == match_list_df["team_statistics"])]
+        team_a = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["first_innings"]
+        team_b = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["second_innings"]
+        location = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        runs_scored = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['first_innings_run']
 
-        team = innings_team["team_statistics"].values[0]
-        opponent = match_list_df[(match_list_df['match_id'] == match_id)][opponent_innings].values[0]
+        team_a_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team_a)]
 
-        opponent_team = match_list_df[(match_list_df['match_id'] == match_id) &
-                                     (match_list_df[opponent_innings] == match_list_df["team_statistics"])]
+        team_a_player_list_df = team_a_player_list_df[['team', 'name', 'position']]
 
-        location = innings_team["location"].values[0]
-        win_flag = int(innings_team[selected_innings].values[0] == innings_team["winner"].values[0])
-        ref_date = datetime.strptime(innings_team['date'].astype(str).values[0], '%Y-%m-%d')
+        team_a_bowler_list_df = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_a)]
 
-        team_batsman_list = list()
-        for i in range(11):
-            player = innings_team['batsman_' + str(i + 1)].values[0]
-            if player == 'not_batted':
-                break
-            else:
-                team_batsman_list.append(player)
-
-        team_bowler_list = list()
-        temp_team_bowler_list = list()
-        for i in range(11):
-            player = innings_team['bowler_' + str(i + 1)].values[0]
-            if player == 'not_bowled':
-                break
-            else:
-                team_bowler_list.append(player)
-                if player not in team_batsman_list:
-                    temp_team_bowler_list.append(player)
-
-        # if len(team_batsman_list+temp_team_bowler_list) == 11:
-        #     team_batsman_list = team_batsman_list+temp_team_bowler_list
-        #team_batsman_list =fe.complete_batting_order(team,team_batsman_list,team_bowler_list,ref_date=ref_date)
-
-        opponent_batsman_list = list()
-        for i in range(11):
-            player = opponent_team['batsman_' + str(i + 1)].values[0]
-            if player == 'not_batted':
-                break
-            else:
-                opponent_batsman_list.append(player)
-
-        opponent_bowler_list = list()
-        temp_opponent_bowler_list = list()
-        for i in range(11):
-            player = opponent_team['bowler_' + str(i + 1)].values[0]
-            if player == 'not_bowled':
-                break
-            else:
-                opponent_bowler_list.append(player)
-                if player not in opponent_batsman_list:
-                    temp_opponent_bowler_list.append(player)
-
-        # if len(opponent_batsman_list+temp_opponent_bowler_list)==11:
-        #     opponent_batsman_list = opponent_batsman_list+temp_opponent_bowler_list
-
-        #opponent_batsman_list = fe.complete_batting_order(opponent, opponent_batsman_list, opponent_bowler_list, ref_date=ref_date)
-
-
-        # print("team ",team)
-        # print("opponent ", opponent)
-        #
-        # print("team_batsman ", team_batsman_list)
-        # print("team_bowlers ", team_bowler_list)
-        #
-        # print("opponent_batsman ", opponent_batsman_list)
-        # print("opponent_bowlers ", opponent_bowler_list)
+        team_a_bowler_list_df = team_a_bowler_list_df[['team', 'name']]
 
         try :
-            pred.set_first_innings_emb(first_innings_emb)
-            pred.set_second_innings_emb(second_innings_emb)
-
-            # current_base, current_trend, current_trend_predict, current_mean = fe.get_trend_recent(team, ref_date=ref_date)
-            # if current_base is None:
-            #     raise Exception('Team history unavailable')
-            #
-            # location_base, location_trend, location_trend_predict, location_mean = fe.get_trend_at_location(team, location, ref_date=ref_date)
-            #
-            # if location_mean is None:
-            #     location_mean = current_mean
-            #
-            # current_base_b, current_trend_b, current_trend_predict_b, current_mean_b = fe.get_trend_recent(opponent,ref_date=ref_date)
-            # if current_base_b is None:
-            #     raise Exception('Oppoent history unavailable')
-            #
-            # location_base_b, location_trend_b, location_trend_predict_b, location_mean_b = fe.get_trend_at_location(opponent,location,ref_date=ref_date)
-            #
-            # if location_mean_b is None:
-            #     location_mean_b = current_mean_b
+            predc.set_first_innings_emb(first_innings_emb)
+            predc.set_second_innings_emb(second_innings_emb)
 
             outil.use_model_from("dev")
-            target_by_a = pred.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
+            target_by_a = predc.predict_first_innings_run(team,opponent,location,team_batsman_list,opponent_bowler_list,ref_date=ref_date,no_of_years=None,mode="train")
             #target_by_a = current_mean
 
             success_by_b, probability_by_b = pred.predict_second_innings_success(target_by_a, opponent, team, location,opponent_batsman_list, team_bowler_list,ref_date=ref_date, no_of_years=None,mode="train")
