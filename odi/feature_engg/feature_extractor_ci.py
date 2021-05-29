@@ -699,10 +699,13 @@ def set_quantile(q1,q2,q3,val):
 
     return target_q
 
-def get_win_probability_based_on_target(team,target,ref_date=None, condition=None,conditio_value=None):
+def get_win_probability_based_on_target(team,target,ref_date=None, condition=None,condition_value=None):
     second_innings_run_list = None
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date']<ref_date) & (match_list_df['second_innings']==team)]
+    if condition is not None:
+        match_list_df = match_list_df[match_list_df[condition]==condition_value]
+
     second_innings_run_list  = list(match_list_df['second_innings_run'])
     q1 = np.quantile(second_innings_run_list,0.25)
     q2 = np.quantile(second_innings_run_list,0.50)
@@ -726,7 +729,15 @@ def get_win_probability_based_on_target(team,target,ref_date=None, condition=Non
 
     match_list_df['target_q']=match_list_df['second_innings_run'].apply(lambda x:set_quantile(q1,q2,q3,x))
 
-def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None):
+    no_of_cases = match_list_df[match_list_df['target_q']==target_q].shape[0]
+    no_of_wins = match_list_df[(match_list_df['target_q']==target_q) & (match_list_df['winner']==team)]
+
+    if no_of_cases == 0:
+        return 0.5
+    else:
+        return no_of_wins/no_of_cases
+
+def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None,target=None):
 
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
     opponent_score,opponent_quantile = get_country_score(opponent, ref_date=ref_date)
@@ -770,6 +781,7 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     #overall_location_mean, overall_team_location_mean, overall_opponent_mean, overall_team_opponent_mean = get_overall_means(team,location,ref_date,opponent)
     #standard_mean = 250
 
+
     feature_dict = {
         'team': team,
         'opponent': opponent,
@@ -792,6 +804,16 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     }
     feature_dict.update(batting_score_dict)
     feature_dict.update(bowling_score_dict)
+
+    if innings_type == 'second':
+        feature_dict['target_win_probability'] = get_win_probability_based_on_target(team,target,ref_date=ref_date, condition=None,condition_value=None)
+        feature_dict['target_opponent_win_probability'] = get_win_probability_based_on_target(team, target, ref_date=ref_date,
+                                                                                     condition='first_innings',
+                                                                                     condition_value=opponent)
+        feature_dict['target_location_win_probability'] = get_win_probability_based_on_target(team, target,
+                                                                                              ref_date=ref_date,
+                                                                                              condition='location',
+                                                                                              condition_value=location)
 
     # batting_score_list = list(batting_score_list)
     # for idx,score in enumerate(batting_score_list):

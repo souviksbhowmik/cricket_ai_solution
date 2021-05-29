@@ -573,7 +573,7 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
         try:
 
             feature_dict = fec.get_instance_feature_dict(team, opponent, location,team_player_list_df,
-                                                                opponent_bowler_list_df,ref_date=ref_date,innings_type='second')
+                                                                opponent_bowler_list_df,ref_date=ref_date,innings_type='second',target=target)
 
             feature_dict['target_score'] = target
 
