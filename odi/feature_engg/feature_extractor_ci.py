@@ -707,6 +707,10 @@ def get_win_probability_based_on_target(team,target,ref_date=None, condition=Non
         match_list_df = match_list_df[match_list_df[condition]==condition_value]
 
     second_innings_run_list  = list(match_list_df['second_innings_run'])
+
+    if len(second_innings_run_list)==0:
+        return 0.5
+
     q1 = np.quantile(second_innings_run_list,0.25)
     q2 = np.quantile(second_innings_run_list,0.50)
     q3 = np.quantile(second_innings_run_list,0.75)
@@ -730,7 +734,7 @@ def get_win_probability_based_on_target(team,target,ref_date=None, condition=Non
     match_list_df['target_q']=match_list_df['second_innings_run'].apply(lambda x:set_quantile(q1,q2,q3,x))
 
     no_of_cases = match_list_df[match_list_df['target_q']==target_q].shape[0]
-    no_of_wins = match_list_df[(match_list_df['target_q']==target_q) & (match_list_df['winner']==team)]
+    no_of_wins = match_list_df[(match_list_df['target_q']==target_q) & (match_list_df['winner']==team)].shape[0]
 
     if no_of_cases == 0:
         return 0.5
