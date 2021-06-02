@@ -111,6 +111,21 @@ python odi/retrain/retrain_ci.py select-score-cols --start_date 2011-01-01 --end
 ### Step 2 - Create train test for first innings base model
 python odi/retrain/create_train_test_ci.py first-innings-base --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
+### Step 3 - Create train test for second innings base model
+python odi/retrain/create_train_test_ci.py second-innings-base --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+
+### Step 4 - Create first innings base model with non embedding features (as well as non-embedding feature selection)
+python odi/retrain/retrain.py select-first-innings-feature-columns
+
+- alternatively can select all columns using
+
+python odi/retrain/retrain.py select-first-innings-feature-columns --select_all True
+
+- optional neural network training
+python odi/retrain/retrain.py train-first-innings-base-neural
+
+
 ## Retraining (Necessary data loading and Ranking has been done)
 ### Step 1 - Create one hot encoding for batsman, location and country
 python odi/retrain/create_encoding.py batsman --start_date '2014-01-01' --end_date '2018-12-31'

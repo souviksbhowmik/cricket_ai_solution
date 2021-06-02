@@ -125,18 +125,14 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      20.451725434394586,
-      44.81663067265214,
-      3348.187166866267,
-      0.12335535837204503
+      0.1885279962294184,
+      42.97436195664053
     ],
     "test_metrics": [
-      19.220650560468087,
-      49.31484217227363,
-      3720.9420233989963,
-      0.12335535837204503
+      0.22635754649833745,
+      51.22272288827971
     ],
-    "info": "metrics is mape,mae,mse,adjusted r quared - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum']",
+    "info": "metrics is mape,mae - selected :['location_base', 'current_trend_predict', 'current_mean', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'player_1', 'player_3', 'bowler_score_sum', 'bowler_score_mean']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",
@@ -274,14 +270,14 @@
   },
   "first_innings_regression_neural": {
     "train_metrics": [
-      2677.9814453125,
-      19.594226837158203,
-      39.872764587402344
+      1924.4644775390625,
+      14.472038269042969,
+      34.07179641723633
     ],
     "test_metrics": [
-      3155.80419921875,
-      18.609582901000977,
-      44.69584655761719
+      5303.111328125,
+      25.129331588745117,
+      56.179386138916016
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [

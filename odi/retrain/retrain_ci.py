@@ -221,6 +221,8 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
     else:
         print("Metrics not better than Pre-tune")
 
+from sklearn.feature_selection import SequentialFeatureSelector
+from sklearn.metrics import mean_absolute_percentage_error
 
 def retrain_first_innings_base(create_output=True):
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_x), 'rb'))
@@ -229,96 +231,66 @@ def retrain_first_innings_base(create_output=True):
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_y), 'rb'))
 
-    statsmodel_scaler = StandardScaler()
-    train_x_scaled=statsmodel_scaler.fit_transform((train_x))
-    model = sm.OLS(train_y, sm.add_constant(train_x_scaled)).fit()
+    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
 
-    train_y_predict = model.predict(sm.add_constant(train_x_scaled))
-    test_y_predict = model.predict(sm.add_constant(statsmodel_scaler.transform(test_x)))
+    train_df = pd.DataFrame(train_x)
+    train_df.columns = column_list
+    train_df['runs'] = train_y
 
-    mape_train = cric_eval.mape(train_y,train_y_predict)
-    mape_test = cric_eval.mape(test_y, test_y_predict)
+    test_df = pd.DataFrame(test_x)
+    test_df.columns = column_list
+    test_df['runs'] = test_y
 
-    mae_train = mean_absolute_error(train_y,train_y_predict)
-    mae_test = mean_absolute_error(test_y,test_y_predict)
+    train_df.dropna(inplace=True)
+    test_df.dropna(inplace=True)
 
-    mse_train = mean_squared_error(train_y,train_y_predict)
-    mse_test = mean_squared_error(train_y,train_y_predict)
+    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+    sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+    sfs.fit(train_df.drop(columns='runs'), train_df['runs'])
 
-    print(model.summary())
+    selected_cols = []
+    print("selected columns")
+    for idx in np.where(sfs.get_support())[0]:
+        print(column_list[idx])
+        selected_cols.append(column_list[idx])
+
+    train_x_selected = np.array(train_df[selected_cols])
+    test_x_selected = np.array(test_df[selected_cols])
+
+    train_y_selected = np.array(train_df['runs'])
+    test_y_selected = np.array(test_df['runs'])
+
+    train_pipe = Pipeline(
+        [('scaler', StandardScaler()), ('regression', LinearRegression())])
+
+    train_pipe.fit(train_x_selected, train_y_selected)
+
+    train_predict = train_pipe.predict(train_x_selected)
+    test_predict = train_pipe.predict(test_x_selected)
+
+
+
+    mape_train = mean_absolute_percentage_error(train_y_selected,train_predict)
+    mape_test = mean_absolute_percentage_error(test_y_selected,test_predict)
+
+    mae_train = mean_absolute_error(train_y_selected,train_predict)
+    mae_test = mean_absolute_error(test_y_selected,test_predict)
+
+    print("from scikit learn")
     print('metrics train ', mape_train, mae_train)
     print('metrics test ', mape_test, mae_test)
 
-    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
-    pipe.fit(train_x,train_y)
-
-    train_y_predict_lr = pipe.predict(train_x)
-    test_y_predict_lr = pipe.predict(test_x)
-
-    mape_train_lr = cric_eval.mape(train_y, train_y_predict_lr)
-    mape_test_lr = cric_eval.mape(test_y, test_y_predict_lr)
-
-    mae_train_lr = mean_absolute_error(train_y, train_y_predict_lr)
-    mae_test_lr = mean_absolute_error(test_y, test_y_predict_lr)
-
-    print("from scikit learn")
-    print('metrics train ', mape_train_lr, mae_train_lr)
-    print('metrics test ', mape_test_lr, mae_test_lr)
-
-    #print(np.where(np.array(model.pvalues) < 0.05))
-    selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
-    #selected_feature_index = list(range(train_x.shape[1] + 1))
-    print("selected indices including bias by p value ",selected_feature_index)
-    selected_feature_index = list(range(train_x.shape[1] + 1))
-    # need to substract 1 to exclude bias index consideration:
-    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
-
-    selected_column = list()
-    selected_index = list()
-    for index in selected_feature_index:
-        if index == 0:
-            continue
-        selection_index = index-1
-        selected_column.append(column_list[selection_index])
-        selected_index.append(index-1)
-
-    print('Selected columns ',selected_column)
-
-    new_train_x = train_x[:,np.array(selected_index)]
-    new_test_x = test_x[:,np.array(selected_index)]
-    print("selected_index ",selected_index)
-    print("new train_x ",new_train_x.shape)
-    print("new test x ", new_test_x.shape)
-    pipe_new = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
-    pipe_new.fit(new_train_x,train_y)
-
-    new_train_y_predict = pipe_new.predict(new_train_x)
-    new_test_y_predict = pipe_new.predict(new_test_x)
-
-    mape_train_new = cric_eval.mape(train_y, new_train_y_predict)
-    mape_test_new = cric_eval.mape(test_y, new_test_y_predict)
-
-    mae_train_new = mean_absolute_error(train_y, new_train_y_predict)
-    mae_test_new = mean_absolute_error(test_y, new_test_y_predict)
-
-    mse_train_new = mean_squared_error(train_y, new_train_y_predict)
-    mse_test_new = mean_squared_error(test_y, new_test_y_predict)
-
-    print("After selecting columns by p-value")
-    print("metrics train ",mape_train_new,mae_train_new)
-    print("metrics test ", mape_test_new, mae_test_new)
-
 
     if create_output:
-        pickle.dump(selected_column,open(os.path.join(outil.DEV_DIR,outil.FIRST_INNINGS_FEATURE_PICKLE),'wb'))
-        pickle.dump(pipe_new, open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'wb'))
-        pickle.dump(selected_index,
+        pickle.dump(selected_cols,open(os.path.join(outil.DEV_DIR,outil.FIRST_INNINGS_FEATURE_PICKLE),'wb'))
+        pickle.dump(train_pipe, open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'wb'))
+        pickle.dump(list(np.where(sfs.get_support())),
                     open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
         outil.create_model_meta_info_entry('selected_first_innings_features',
-                                           (mape_train_new, mae_train_new,mse_train_new,model.rsquared_adj),
-                                           (mape_test_new, mae_test_new,mse_test_new,model.rsquared_adj),
-                                           info="metrics is mape,mae,mse,adjusted r quared - selected :"+str(selected_column),
+                                           (mape_train, mae_train),
+                                           (mape_test, mae_test),
+                                           info="metrics is mape,mae - selected :"+str(selected_cols),
                                            file_list=[
                                                outil.FIRST_INNINGS_FEATURE_PICKLE,
                                                outil.FIRST_INNINGS_MODEL_BASE,
@@ -799,6 +771,24 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
 
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_y), 'rb'))
+    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
+
+    train_df = pd.DataFrame(train_x)
+    train_df.columns = column_list
+    train_df['runs'] = train_y
+
+    test_df = pd.DataFrame(test_x)
+    test_df.columns = column_list
+    test_df['runs'] = test_y
+
+    train_df.dropna(inplace=True)
+    test_df.dropna(inplace=True)
+
+    train_x = np.array(train_df[column_list])
+    train_y = np.array(train_df['runs'])
+
+    test_x = np.array(test_df[column_list])
+    test_y = np.array(test_df['runs'])
 
     neural_sclaer = StandardScaler()
     train_x_scaled=neural_sclaer.fit_transform((train_x))
