@@ -234,7 +234,7 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
         "player_4": player_4,
         "player_5": player_5,
         "player_6": player_6,
-        "player_7": player_7,
+        "player_7": player_7
 
     }
 
@@ -741,6 +741,80 @@ def get_win_probability_based_on_target(team,target,ref_date=None, condition=Non
     else:
         return no_of_wins/no_of_cases
 
+def update_dict_with_prefix(dict_1,dict_2,pref=''):
+    for key in dict_2.keys():
+        dict_1[pref+key]=dict_2[key]
+
+    return dict_1
+
+def get_location_mean_by_date(location,ref_date=None):
+
+    if ref_date == None:
+        ref_date = cricutil.today_as_date_time()
+
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+
+    matches = match_list_df[(match_list_df['location']==location) & (match_list_df['date']<ref_date)]
+    if matches.shape[0]>1:
+        location_mean = matches['first_innings_run'].mean()
+    else:
+        location_mean = first_innings_default_mean
+
+    return location_mean
+
+
+def get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df, team_a_bowler_list_df,team_b_bowler_list_df, ref_date=None,no_of_years=None):
+
+    team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
+    team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)
+
+    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,ref_date=ref_date)
+    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,ref_date=ref_date)
+
+    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df, ref_date=ref_date)
+    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df, ref_date=ref_date)
+
+    location_mean = get_location_mean_by_date(location,ref_date=ref_date)
+
+
+
+
+
+    feature_dict = {
+        'team_a': team_a,
+        'team_b': team_b,
+        'location': location,
+        'team_a_score': team_a_score,
+        'team_a_quantile':team_a_quantile,
+        'team_b_score': team_b_score,
+        'team_b_quantile': team_b_quantile,
+        'location_mean':location_mean
+
+
+    }
+    feature_dict = update_dict_with_prefix(feature_dict,team_a_batting_score_dict,pref='team_a_')
+    feature_dict = update_dict_with_prefix(feature_dict, team_a_bowling_score_dict, pref='team_a_')
+
+    feature_dict = update_dict_with_prefix(feature_dict, team_b_batting_score_dict, pref='team_b_')
+    feature_dict = update_dict_with_prefix(feature_dict, team_b_bowling_score_dict, pref='team_b_')
+
+    # if innings_type == 'second':
+    #     feature_dict['target_win_probability'] = get_win_probability_based_on_target(team,target,ref_date=ref_date, condition=None,condition_value=None)
+    #     feature_dict['target_opponent_win_probability'] = get_win_probability_based_on_target(team, target, ref_date=ref_date,
+    #                                                                                  condition='first_innings',
+    #                                                                                  condition_value=opponent)
+    #     feature_dict['target_location_win_probability'] = get_win_probability_based_on_target(team, target,
+    #                                                                                           ref_date=ref_date,
+    #                                                                                           condition='location',
+    #                                                                                           condition_value=location)
+
+    # batting_score_list = list(batting_score_list)
+    # for idx,score in enumerate(batting_score_list):
+    #     feature_dict['batsman_'+str(idx)]=score
+
+    #print(feature_dict)
+    return feature_dict
+
 def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None,target=None):
 
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
@@ -809,15 +883,15 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     feature_dict.update(batting_score_dict)
     feature_dict.update(bowling_score_dict)
 
-    if innings_type == 'second':
-        feature_dict['target_win_probability'] = get_win_probability_based_on_target(team,target,ref_date=ref_date, condition=None,condition_value=None)
-        feature_dict['target_opponent_win_probability'] = get_win_probability_based_on_target(team, target, ref_date=ref_date,
-                                                                                     condition='first_innings',
-                                                                                     condition_value=opponent)
-        feature_dict['target_location_win_probability'] = get_win_probability_based_on_target(team, target,
-                                                                                              ref_date=ref_date,
-                                                                                              condition='location',
-                                                                                              condition_value=location)
+    # if innings_type == 'second':
+    #     feature_dict['target_win_probability'] = get_win_probability_based_on_target(team,target,ref_date=ref_date, condition=None,condition_value=None)
+    #     feature_dict['target_opponent_win_probability'] = get_win_probability_based_on_target(team, target, ref_date=ref_date,
+    #                                                                                  condition='first_innings',
+    #                                                                                  condition_value=opponent)
+    #     feature_dict['target_location_win_probability'] = get_win_probability_based_on_target(team, target,
+    #                                                                                           ref_date=ref_date,
+    #                                                                                           condition='location',
+    #                                                                                           condition_value=location)
 
     # batting_score_list = list(batting_score_list)
     # for idx,score in enumerate(batting_score_list):
@@ -831,7 +905,7 @@ def get_first_innings_feature_vector(team, opponent, location, team_player_list,
     """ this is not scaled"""
     global SELECTED_FIRST_INNINGS_FEATURE_LIST_CACHE
     feature_dict = get_instance_feature_dict(team, opponent, location,
-                                             team_player_list, opponent_player_list, ref_date=ref_date, no_of_years=no_of_years)
+                                             team_player_list, opponent_player_list, ref_date=ref_date, no_of_years=no_of_years,innings_type='first')
 
     if SELECTED_FIRST_INNINGS_FEATURE_LIST_CACHE is None:
         SELECTED_FIRST_INNINGS_FEATURE_LIST_CACHE = pickle.load(open(outil.MODEL_DIR + os.sep + outil.FIRST_INNINGS_FEATURE_PICKLE, 'rb'))

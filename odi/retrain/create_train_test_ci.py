@@ -54,6 +54,13 @@ second_innings_base_test_y = 'second_innings_base_test_y.pkl'
 # second_innings_base_scaler = 'second_innings_base_scaler.pkl'
 second_innings_base_columns = 'second_innings_base_columns.pkl'
 
+one_shot_train_x = 'one_shot_train_x.pkl'
+one_shot_train_y = 'one_shot_train_y.pkl'
+one_shot_test_x = 'one_shot_test_x.pkl'
+one_shot_test_y = 'one_shot_test_y.pkl'
+# first_innings_base_scaler = 'first_innings_base_scaler.pkl'
+one_shot_columns = 'one_shot_columns.pkl'
+
 first_innings_train_x = 'first_innings_train_x.pkl'
 first_innings_train_y = 'first_innings_train_y.pkl'
 first_innings_test_x = 'first_innings_test_x.pkl'
@@ -346,6 +353,118 @@ def create_batsman_embedding_train_test(train_start,test_start,test_end=None,enc
                                             batsman_emb_feature_runs_scored_test_y])
 
 
+def create_one_shot_prediction_train_test(train_start,test_start,test_end=None):
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+                                  (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+                                      (bowling_list_df['date'] <= overall_end)]
+
+    match_id_list = list(match_list_df['match_id'].unique())
+    feature_list_train = []
+    target_list_train = []
+
+    feature_list_test =[]
+    target_list_test = []
+    #no_of_basman = 0
+    for index,match_id in tqdm(enumerate(match_id_list)):
+
+
+        team_a = match_list_df[match_list_df['match_id']==match_id].iloc[0]["first_innings"]
+        team_b = match_list_df[match_list_df['match_id']==match_id].iloc[0]["second_innings"]
+        location = match_list_df[match_list_df['match_id']==match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id']==match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        runs_scored = match_list_df[match_list_df['match_id']==match_id].iloc[0]['first_innings_run']
+        winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
+        team_a_win = (team_a==winner)*1
+
+        team_a_player_list_df = batting_list_df[(batting_list_df['match_id']==match_id) & (batting_list_df['team']==team_a)]
+
+        team_a_player_list_df = team_a_player_list_df[['team', 'name', 'position']]
+
+        team_b_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team_b)]
+
+        team_b_player_list_df = team_b_player_list_df[['team', 'name', 'position']]
+
+        team_a_bowler_list = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_a)]
+
+        team_a_bowler_list = team_a_bowler_list[['team', 'name']]
+
+
+        team_b_bowler_list = bowling_list_df[(bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_b)]
+
+        team_b_bowler_list = team_b_bowler_list[['team', 'name']]
+
+        try:
+
+            feature_dict = fec.get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df, team_a_bowler_list,team_b_bowler_list, ref_date=ref_date,no_of_years=None)
+            #print(feature_dict)
+            #no_of_basman = no_of_basman+len(team_player_list)
+
+            if ref_date<test_start_dt:
+                feature_list_train.append(feature_dict)
+                target_list_train.append(team_a_win)
+            else:
+                feature_list_test.append(feature_dict)
+                target_list_test.append(team_a_win)
+        except Exception as ex:
+            print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
+            #raise ex
+
+    train_y = np.stack(target_list_train)
+    test_y = np.stack(target_list_test)
+
+    #print(pd.DataFrame(feature_list_train))
+    train_x = np.array(pd.DataFrame(feature_list_train).drop(columns=['team_a','team_b','location']))
+    #print(train_x)
+    test_x  = np.array(pd.DataFrame(feature_list_test).drop(columns=['team_a','team_b','location']))
+    cols = list(pd.DataFrame(feature_list_train).drop(columns=['team_a','team_b','location']).columns)
+
+    pickle.dump(train_x,open(os.path.join(TRAIN_TEST_DIR,one_shot_train_x),'wb'))
+    pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR,one_shot_train_y), 'wb'))
+    pickle.dump(cols, open(os.path.join(outil.DEV_DIR, one_shot_columns), 'wb'))
+
+    outil.create_meta_info_entry('one_shot_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[first_innings_base_train_x,
+                                            first_innings_base_train_y,
+                                            first_innings_base_columns])
+
+    pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, one_shot_test_x), 'wb'))
+    pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, one_shot_test_y), 'wb'))
+
+    outil.create_meta_info_entry('one_shot_test_xy', str(test_start_dt.date()),
+                                 str(test_end_dt.date()),
+                                 file_list=[first_innings_base_test_x,
+                                            first_innings_base_test_y])
+
+    print("train size ",train_x.shape)
+    print("test size ", test_x.shape)
+
+
+
+
+
 def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
@@ -564,6 +683,16 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
         team_player_list_df = team_player_list_df[['team', 'name', 'position']]
 
+        opponent_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == opponent)]
+
+        opponent_player_list_df = opponent_player_list_df[['team', 'name', 'position']]
+
+        team_bowler_list_df = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team)]
+
+        team_bowler_list_df = team_bowler_list_df[['team', 'name']]
+
         opponent_bowler_list_df = bowling_list_df[
             (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == opponent)]
 
@@ -572,10 +701,17 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
         try:
 
+            # get predicted first innings score
+
+            feature_dict_first = fec.get_first_innings_feature_vector(opponent, team, location, opponent_player_list_df, team_bowler_list_df, ref_date=ref_date)
+            first_innings_model = pickle.load(open(os.path.join(outil.MODEL_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
+
+            predicted_target = first_innings_model.predict(feature_dict_first.reshape(1, -1))[0]
+
             feature_dict = fec.get_instance_feature_dict(team, opponent, location,team_player_list_df,
                                                                 opponent_bowler_list_df,ref_date=ref_date,innings_type='second',target=target)
 
-            feature_dict['target_score'] = target
+            feature_dict['target_score'] = predicted_target
 
             if ref_date<test_start_dt:
                 feature_list_train.append(feature_dict)
@@ -1518,6 +1654,13 @@ def first_innings_base(train_start, test_start, test_end):
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
 def second_innings_base(train_start, test_start, test_end):
     create_second_innings_base_train_test(train_start, test_start, test_end=test_end)
+
+@traintest.command()
+@click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+def one_shot(train_start, test_start, test_end):
+    create_one_shot_prediction_train_test(train_start, test_start, test_end=test_end)
 
 
 @traintest.command()

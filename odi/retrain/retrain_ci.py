@@ -1,6 +1,6 @@
 
 from odi.retrain import base_model_architecture as bma
-from odi.retrain import create_train_test as ctt
+from odi.retrain import create_train_test_ci as ctt
 from odi.model_util import odi_util as outil
 from odi.evaluation import evaluate as cric_eval
 from odi.feature_engg import util as cricutil
@@ -858,6 +858,108 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
         print("Metrics not better than Pre-tune")
 
 
+def retrain_one_shot_neural(learning_rate=0.001,epoch = 150,batch_size=10,monitor="accuracy",mode="train"):
+    metrics_map = {
+        "accuracy": "val_accuracy:",
+    }
+
+    if not os.path.isdir(outil.CHECKPOINT_DIR):
+        os.makedirs(outil.CHECKPOINT_DIR)
+
+    checkpoint_file_name = os.path.join(outil.CHECKPOINT_DIR,
+                                        outil.FIRST_INNINGS_REGRESSION_NEURAL + '_chk.h5')
+    train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_x), 'rb'))
+    train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_y), 'rb'))
+
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_test_y), 'rb'))
+    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_columns), 'rb'))
+
+    train_df = pd.DataFrame(train_x)
+    train_df.columns = column_list
+    train_df['team_a_win'] = train_y
+
+    test_df = pd.DataFrame(test_x)
+    test_df.columns = column_list
+    test_df['team_a_win'] = test_y
+
+    train_df.dropna(inplace=True)
+    test_df.dropna(inplace=True)
+
+    train_x = np.array(train_df[column_list])
+    train_y = np.array(train_df['team_a_win'])
+
+    test_x = np.array(test_df[column_list])
+    test_y = np.array(test_df['team_a_win'])
+
+    neural_sclaer = StandardScaler()
+    train_x_scaled=neural_sclaer.fit_transform((train_x))
+    test_x_scaled = neural_sclaer.transform(test_x)
+
+    win_model = bma.create_dense_classification_model(train_x_scaled.shape[1])
+
+    win_model.compile(loss="binary_crossentropy", metrics=['accuracy'],
+                       optimizer=Adam(learning_rate))
+
+    # load exisitng wiights for tuning
+    pretune_train_metrics = None
+    pretune_test_metrics = None
+    if mode == "tune":
+        win_model = outil.load_keras_model_weights(win_model,
+                                                    os.path.join(outil.DEV_DIR,
+                                                                 outil.FIRST_INNINGS_REGRESSION_NEURAL)
+                                                    )
+        pretune_train_metrics = win_model.evaluate([train_x_scaled],train_y)
+        pretune_test_metrics = win_model.evaluate([test_x_scaled],test_y)
+
+    checkpoint = ModelCheckpoint(checkpoint_file_name, monitor=metrics_map[monitor],
+                                 verbose=1, save_best_only=True, mode='max')
+    callbacks_list = [checkpoint]
+
+    win_model.fit([train_x_scaled], train_y,
+                   validation_data=([test_x_scaled], test_y),
+                   epochs=epoch, batch_size=batch_size,
+                   callbacks=callbacks_list)
+
+    train_metrics = win_model.evaluate([train_x_scaled],train_y)
+    test_metrics = win_model.evaluate([test_x_scaled],test_y)
+
+    print('\n\nFINAL METRICS:')
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nCHECKPOINT METRICS:')
+    win_model = outil.load_keras_model_weights(win_model, checkpoint_file_name)
+    train_metrics = win_model.evaluate([train_x_scaled],train_y)
+    test_metrics = win_model.evaluate([test_x_scaled],test_y)
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nPRETUNED METRICS:')
+    print(pretune_train_metrics)
+    print(pretune_test_metrics)
+
+    metrics_index = list(metrics_map.keys()).index(monitor) + 1
+    if (mode == "train") or \
+            (mode == "tune" and test_metrics[metrics_index] > pretune_test_metrics[metrics_index]):
+
+        print("Saving models - (in case of tuning - metrics improved) ")
+        outil.store_keras_model(win_model,
+                                os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_REGRESSION_NEURAL))
+        outil.create_model_meta_info_entry('first_innings_regression_neural',
+                                           train_metrics,
+                                           test_metrics,
+                                           info="metrics is mse, mape, mae(best mape)",
+                                           file_list=[
+                                               outil.FIRST_INNINGS_REGRESSION_NEURAL + '.json',
+                                               outil.FIRST_INNINGS_REGRESSION_NEURAL + '.h5'
+                                           ])
+
+
+    else:
+        print("Metrics not better than Pre-tune")
+
+
 def retrain_combined_innings(first_innings_emb=True,second_innings_emb=True):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, "fi_" + str(first_innings_emb) + "_si_" + str(
         second_innings_emb) + "_" + ctt.combined_train_x), 'rb'))
@@ -1084,6 +1186,15 @@ def train_adversarial(learning_rate,epoch,batch_size,monitor,mode):
 def train_first_innings_base_neural(learning_rate,epoch,batch_size,monitor,mode):
     retrain_first_innings_base_neural(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
 
+
+@retrain.command()
+@click.option('--learning_rate', help='learning rate',default=0.001,type=float)
+@click.option('--epoch', help='no of epochs',default=150,type=int)
+@click.option('--batch_size', help='batch_size',default=10,type=int)
+@click.option('--monitor', help='acuracy',default='accuracy')
+@click.option('--mode', help='train or tune',default='train')
+def train_one_shot_neural(learning_rate,epoch,batch_size,monitor,mode):
+    retrain_one_shot_neural(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
 
 
 @retrain.command()

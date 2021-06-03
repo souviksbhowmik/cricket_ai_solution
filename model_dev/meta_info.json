@@ -469,5 +469,22 @@
     "files": [
       "combined_model.pkl"
     ]
+  },
+  "one_shot_train_xy": {
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "first_innings_base_train_x.pkl",
+      "first_innings_base_train_y.pkl",
+      "first_innings_base_columns.pkl"
+    ]
+  },
+  "one_shot_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "first_innings_base_test_x.pkl",
+      "first_innings_base_test_y.pkl"
+    ]
   }
 }
