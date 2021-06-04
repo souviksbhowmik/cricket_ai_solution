@@ -588,20 +588,24 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     target_list_test = list(concatenated_test_df['target'])
     win_list_test = list(concatenated_test_df['win'])
 
-    train_x_1 = np.array(first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location']))
-    train_x_2 = np.array(second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location']))
+    train_x_1 = np.array(first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']))
+    train_x_2 = np.array(second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']))
 
     train_y_1 =  np.array(concatenated_train_df['target'])
     train_y_2 = np.array(concatenated_train_df['win'])
 
-    test_x_1 = np.array(first_innings_test_df.drop(columns=['first_team_a', 'first_team_b', 'first_location']))
-    test_x_2 = np.array(second_innings_test_df.drop(columns=['second_team_a', 'second_team_b', 'second_location']))
+    test_x_1 = np.array(first_innings_test_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']))
+    test_x_2 = np.array(second_innings_test_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']))
 
     test_y_1 = np.array(concatenated_test_df['target'])
     test_y_2 = np.array(concatenated_test_df['win'])
 
-    cols_1 = first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location']).columns
-    cols_2 = second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location']).columns
+    cols_1 = first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']).columns
+    cols_2 = second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']).columns
+
+    print("first innings columns-",len(cols_1) ,"\n",cols_1)
+    print("second innings columns",len(cols_2) ,"\n",cols_2)
+
 
     pickle.dump(train_x_1,open(os.path.join(TRAIN_TEST_DIR,one_shot_multi_train_x_1),'wb'))
     pickle.dump(train_y_1, open(os.path.join(TRAIN_TEST_DIR,one_shot_multi_train_y_1), 'wb'))
@@ -637,8 +641,8 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
                                             one_shot_multi_columns_1,
                                             one_shot_multi_columns_2])
 
-    print("train size ",train_x_1.shape)
-    print("test size ", test_x_1.shape)
+    print("train size ",train_x_1.shape,train_x_2.shape)
+    print("test size ", test_x_1.shape,test_x_2.shape)
 
 
 
