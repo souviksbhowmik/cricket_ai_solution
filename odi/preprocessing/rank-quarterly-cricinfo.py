@@ -374,7 +374,7 @@ def create_batsman_rank(year_list,no_of_years=1):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31','-06-30','-06-30','-12-31']:
+            for quarters in ['-03-31','-06-30','-09-30','-12-31']:
                 print(" Batsman ranking for ",year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
