@@ -33,6 +33,8 @@ BATSMAN_EMBEDDING_RUN_MODEL = 'batsman_group_encode_run_model'
 BATSMAN_ONLY_EMBEDDING_MODEL = 'batsman_embedding_model'
 
 FIRST_INNINGS_REGRESSION_NEURAL = 'first_innings_regression_neural'
+ONE_SHOT_NEURAL = 'one_shot_neural'
+ONE_SHOT_MULTI_NEURAL = 'one_shot_multi_neural'
 
 ADVERSARIAL_RUN_MODEL = 'adversarial_run_model'
 ADVERSARIAL_MODEL = 'adversarial_model'

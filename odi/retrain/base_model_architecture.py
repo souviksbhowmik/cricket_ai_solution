@@ -92,6 +92,40 @@ def create_batsman_embedding_model(batsman_len, position_len, location_len, oppo
 
 # Following models are used for reference #
 
+def one_shot_multi_output_neural(first_innings_vector_length, second_innings_vector_length):
+    first_innings_input = Input((first_innings_vector_length,), name="first_in")
+    second_innings_input = Input((second_innings_vector_length,), name="second_in")
+
+
+
+    first_innings_hidden = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal', bias_regularizer=l2(0.01),
+                        kernel_regularizer=l2(0.1), name="first_inn_hidden")(first_innings_input)
+    first_innings_hidden_dropout = Dropout(0.2)(first_innings_hidden)
+    first_innings_output = Dense(1, name="final_score", use_bias=True, kernel_regularizer=l2(0.01), bias_regularizer=l2(0.01),
+                        kernel_initializer='normal')(first_innings_hidden_dropout)
+
+    second_innings_hidden = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+                                  bias_regularizer=l2(0.01),
+                                  kernel_regularizer=l2(0.1), name="second_inn_hidden")(second_innings_input)
+    second_innings_hidden_dropout = Dropout(0.2)(second_innings_hidden)
+
+    second_innings_hidden_2 = Concatenate()([first_innings_hidden_dropout, second_innings_hidden_dropout])
+
+    second_innings_output = Dense(1, activation="sigmoid",name="is_win", use_bias=True, kernel_regularizer=l2(0.01),
+                                 bias_regularizer=l2(0.01),
+                                 kernel_initializer='normal')(second_innings_hidden_2)
+
+
+
+
+
+    combined_model = Model(inputs=[first_innings_input, second_innings_input],
+                       outputs=[first_innings_output,second_innings_output])
+
+    return combined_model
+
+
+
 def create_sequential_model_with_inital_state(timesteps, embedding_lenght, inital_state_vector):
     """
     # team embedding can be used as inital state

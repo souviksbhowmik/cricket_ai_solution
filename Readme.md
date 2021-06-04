@@ -129,6 +129,14 @@ python odi/retrain/retrain.py train-first-innings-base-neural
 ### step 5 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
+### step 6 create one shot neural network with multi output train test
+python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+
+### step 7 train multi output neural in one shot
+python odi/retrain/retrain_ci.py train-multi-output-neural
+
+
 ## Retraining (Necessary data loading and Ranking has been done)
 ### Step 1 - Create one hot encoding for batsman, location and country
 python odi/retrain/create_encoding.py batsman --start_date '2014-01-01' --end_date '2018-12-31'

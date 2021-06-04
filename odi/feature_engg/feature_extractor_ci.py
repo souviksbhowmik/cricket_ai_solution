@@ -815,6 +815,53 @@ def get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,te
     #print(feature_dict)
     return feature_dict
 
+def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df, team_a_bowler_list_df,team_b_bowler_list_df, ref_date=None,no_of_years=None):
+
+    team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
+    team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)
+
+    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,ref_date=ref_date)
+    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,ref_date=ref_date)
+
+    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df, ref_date=ref_date)
+    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df, ref_date=ref_date)
+
+    location_mean = get_location_mean_by_date(location,ref_date=ref_date)
+
+    feature_dict_team_a = {
+        'first_team_a': team_a,
+        'first_team_b': team_b,
+        'first_location': location,
+        'first_team_a_score': team_a_score,
+        'first_team_a_quantile':team_a_quantile,
+        'first_team_b_score': team_b_score,
+        'first_team_b_quantile': team_b_quantile,
+        'first_location_mean':location_mean
+
+
+    }
+
+    feature_dict_team_b = {
+        'second_team_a': team_a,
+        'second_team_b': team_b,
+        'second_location': location,
+        'second_team_a_score': team_a_score,
+        'second_team_a_quantile': team_a_quantile,
+        'second_team_b_score': team_b_score,
+        'second_team_b_quantile': team_b_quantile,
+        'second_location_mean': location_mean
+
+    }
+
+    feature_dict_team_a = update_dict_with_prefix(feature_dict_team_a,team_a_batting_score_dict,pref='team_a_')
+    feature_dict_team_a = update_dict_with_prefix(feature_dict_team_a, team_a_bowling_score_dict, pref='team_a_')
+
+    feature_dict_team_b = update_dict_with_prefix(feature_dict_team_b, team_b_batting_score_dict, pref='team_b_')
+    feature_dict_team_b = update_dict_with_prefix(feature_dict_team_b, team_b_bowling_score_dict, pref='team_b_')
+
+
+    return feature_dict_team_a,feature_dict_team_b
+
 def get_instance_feature_dict(team, opponent, location, team_player_list_df, opponent_bowler_list_df, ref_date=None,no_of_years=None,innings_type=None,target=None):
 
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)

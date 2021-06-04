@@ -486,5 +486,52 @@
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
     ]
+  },
+  "one_shot_multi_train_xy": {
+    "start_date": "2011-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "one_shot_multi_train_x_1.pkl",
+      "one_shot_multi_train_x_2.pkl",
+      "one_shot_multi_train_y_1.pkl",
+      "one_shot_multi_train_y_2.pkl",
+      "one_shot_multi_columns_1.pkl",
+      "one_shot_multi_columns_2.pkl"
+    ]
+  },
+  "one_shot_Multi test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "one_shot_multi_test_x_1.pkl",
+      "one_shot_multi_test_x_2.pkl",
+      "one_shot_multi_test_y_1.pkl",
+      "one_shot_multi_test_y_2.pkl",
+      "one_shot_multi_columns_1.pkl",
+      "one_shot_multi_columns_2.pkl"
+    ]
+  },
+  "combined_multi_output": {
+    "train_metrics": [
+      27.901853561401367,
+      90.78446960449219,
+      0.43361783027648926,
+      3.037860631942749,
+      8.453362464904785,
+      0.8448275923728943
+    ],
+    "test_metrics": [
+      39.989646911621094,
+      138.93666076660156,
+      0.43859222531318665,
+      3.529569149017334,
+      10.21532917022705,
+      0.8199999928474426
+    ],
+    "info": "metrics is mape, mae, accuracy(best accuracy)",
+    "files": [
+      "one_shot_multi_neural.json",
+      "one_shot_multi_neural.h5"
+    ]
   }
 }

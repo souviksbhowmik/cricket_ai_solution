@@ -13,13 +13,14 @@ from scipy.stats import pearsonr
 
 from keras.optimizers import Adam
 from keras.callbacks import ModelCheckpoint
-from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,precision_recall_fscore_support
+from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,precision_recall_fscore_support,mean_absolute_percentage_error
 
 from sklearn.linear_model import LinearRegression,LogisticRegression
 from sklearn.svm import SVC
 from sklearn.feature_selection import SequentialFeatureSelector
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
+
 
 import statsmodels.api as sm
 
@@ -116,6 +117,115 @@ def retrain_country_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
                                                outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL + '.h5',
                                                outil.TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL + '.json',
                                                outil.TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL + '.h5'
+
+                                           ])
+
+
+    else:
+        print("Metrics not better than Pre-tune")
+
+
+def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor="accuracy",mode="train"):
+    metrics_map={
+        "mape":"val_final_score_mean_absolute_percentage_error",
+        "mae":"val_final_score_mean_absolute_error",
+        "accuracy":"val_is_win_accuracy:"
+    }
+
+    if not os.path.isdir(outil.CHECKPOINT_DIR):
+        os.makedirs(outil.CHECKPOINT_DIR)
+
+    checkpoint_file_name = os.path.join(outil.CHECKPOINT_DIR,outil.ONE_SHOT_MULTI_NEURAL+'_chk.h5')
+
+
+    train_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_1), 'rb'))
+    train_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_2), 'rb'))
+
+    train_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_1), 'rb'))
+    train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_2), 'rb'))
+
+    test_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_1), 'rb'))
+    test_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_2), 'rb'))
+
+    test_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_1), 'rb'))
+    test_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_2), 'rb'))
+
+    cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
+    cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
+    combined_model = bma.one_shot_multi_output_neural(train_x_1.shape[1],train_x_2.shape[1])
+
+    loss = {
+               'final_score': 'mean_squared_error',
+               'is_win': 'binary_crossentropy',
+
+            }
+    metrics = {
+        'final_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'is_win': 'accuracy',
+
+    }
+    loss_weights = {
+                       'final_score': 0.25,
+                       'is_win': 10
+                    }
+
+
+
+    combined_model.compile(loss=loss, metrics=metrics,loss_weights=loss_weights,optimizer=Adam(learning_rate))
+
+
+    # load exisitng wiights for tuning
+    pretune_train_metrics = None
+    pretune_test_metrics = None
+    if mode=="tune":
+        combined_model = outil.load_keras_model_weights(combined_model,
+                                                    os.path.join(outil.DEV_DIR,
+                                                                 outil.ONE_SHOT_MULTI_NEURAL)
+                                                    )
+        pretune_train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
+        pretune_test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+
+    checkpoint = ModelCheckpoint(checkpoint_file_name, monitor=metrics_map[monitor],
+                                 verbose=1, save_best_only=True, mode='min')
+    callbacks_list = [checkpoint]
+
+    combined_model.fit([train_x_1, train_x_2], [train_y_1,train_y_2],
+                   validation_data=([test_x_1, test_x_2], [test_y_1,test_y_2]),
+                   epochs=epoch, batch_size=batch_size,
+                   callbacks=callbacks_list)
+
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+
+    print('\n\nFINAL METRICS:')
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nCHECKPOINT METRICS:')
+    combined_model = outil.load_keras_model_weights(combined_model,checkpoint_file_name)
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nPRETUNED METRICS:')
+    print(pretune_train_metrics)
+    print(pretune_test_metrics)
+
+    metrics_index = list(metrics_map.keys()).index(monitor) + 1
+    if (mode == "train") or \
+            (mode == "tune" and test_metrics[metrics_index] > pretune_test_metrics[metrics_index]):
+
+        print("Saving models - (in case of tuning - metrics improved) ")
+        outil.store_keras_model(combined_model,os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_NEURAL))
+
+        outil.create_model_meta_info_entry('combined_multi_output',
+                                           train_metrics,
+                                           test_metrics,
+                                           info="metrics is mape, mae, accuracy(best accuracy)",
+                                           file_list=[
+                                               outil.ONE_SHOT_MULTI_NEURAL+'.json',
+                                               outil.ONE_SHOT_MULTI_NEURAL + '.h5',
 
                                            ])
 
@@ -221,8 +331,7 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
     else:
         print("Metrics not better than Pre-tune")
 
-from sklearn.feature_selection import SequentialFeatureSelector
-from sklearn.metrics import mean_absolute_percentage_error
+
 
 def retrain_first_innings_base(create_output=True):
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_x), 'rb'))
@@ -867,7 +976,7 @@ def retrain_one_shot_neural(learning_rate=0.001,epoch = 150,batch_size=10,monito
         os.makedirs(outil.CHECKPOINT_DIR)
 
     checkpoint_file_name = os.path.join(outil.CHECKPOINT_DIR,
-                                        outil.FIRST_INNINGS_REGRESSION_NEURAL + '_chk.h5')
+                                        outil.ONE_SHOT_NEURAL + '_chk.h5')
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_x), 'rb'))
     train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_y), 'rb'))
 
@@ -907,7 +1016,7 @@ def retrain_one_shot_neural(learning_rate=0.001,epoch = 150,batch_size=10,monito
     if mode == "tune":
         win_model = outil.load_keras_model_weights(win_model,
                                                     os.path.join(outil.DEV_DIR,
-                                                                 outil.FIRST_INNINGS_REGRESSION_NEURAL)
+                                                                 outil.ONE_SHOT_NEURAL)
                                                     )
         pretune_train_metrics = win_model.evaluate([train_x_scaled],train_y)
         pretune_test_metrics = win_model.evaluate([test_x_scaled],test_y)
@@ -945,14 +1054,14 @@ def retrain_one_shot_neural(learning_rate=0.001,epoch = 150,batch_size=10,monito
 
         print("Saving models - (in case of tuning - metrics improved) ")
         outil.store_keras_model(win_model,
-                                os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_REGRESSION_NEURAL))
-        outil.create_model_meta_info_entry('first_innings_regression_neural',
+                                os.path.join(outil.DEV_DIR, outil.ONE_SHOT_NEURAL))
+        outil.create_model_meta_info_entry('first_innings_one_shot_neural',
                                            train_metrics,
                                            test_metrics,
                                            info="metrics is mse, mape, mae(best mape)",
                                            file_list=[
-                                               outil.FIRST_INNINGS_REGRESSION_NEURAL + '.json',
-                                               outil.FIRST_INNINGS_REGRESSION_NEURAL + '.h5'
+                                               outil.ONE_SHOT_NEURAL + '.json',
+                                               outil.ONE_SHOT_NEURAL + '.h5'
                                            ])
 
 
@@ -1166,6 +1275,16 @@ def train_country_embedding(learning_rate,epoch,batch_size,monitor,mode):
 @click.option('--mode', help='train or tune',default='train')
 def train_batsman_embedding(learning_rate,epoch,batch_size,monitor,mode):
     retrain_batsman_embedding(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
+
+
+@retrain.command()
+@click.option('--learning_rate', help='learning rate',default=0.001,type=float)
+@click.option('--epoch', help='no of epochs',default=150,type=int)
+@click.option('--batch_size', help='batch_size',default=10,type=int)
+@click.option('--monitor', help='mae or mape',default='mape')
+@click.option('--mode', help='train or tune',default='train')
+def train_multi_output_neural(learning_rate,epoch,batch_size,monitor,mode):
+    retrain_one_shot_multi(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
 
 
 @retrain.command()
