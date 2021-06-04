@@ -185,8 +185,12 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
         pretune_train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
         pretune_test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
 
-    checkpoint = ModelCheckpoint(checkpoint_file_name, monitor=metrics_map[monitor],
-                                 verbose=1, save_best_only=True, mode='min')
+    checkpoint = ModelCheckpoint(filepath=checkpoint_file_name,
+                                 monitor='val_is_win_accuracy',
+                                 verbose=1,
+                                 save_freq="epoch",
+                                 save_best_only=True,
+                                 mode='max')
     callbacks_list = [checkpoint]
 
     combined_model.fit([train_x_1, train_x_2], [train_y_1,train_y_2],
@@ -212,7 +216,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
     print(pretune_train_metrics)
     print(pretune_test_metrics)
 
-    metrics_index = list(metrics_map.keys()).index(monitor) + 1
+    metrics_index = 5
     if (mode == "train") or \
             (mode == "tune" and test_metrics[metrics_index] > pretune_test_metrics[metrics_index]):
 
@@ -1281,7 +1285,7 @@ def train_batsman_embedding(learning_rate,epoch,batch_size,monitor,mode):
 @click.option('--learning_rate', help='learning rate',default=0.001,type=float)
 @click.option('--epoch', help='no of epochs',default=150,type=int)
 @click.option('--batch_size', help='batch_size',default=10,type=int)
-@click.option('--monitor', help='mae or mape',default='mape')
+@click.option('--monitor', help='mae or mape',default='accuracy')
 @click.option('--mode', help='train or tune',default='train')
 def train_multi_output_neural(learning_rate,epoch,batch_size,monitor,mode):
     retrain_one_shot_multi(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)

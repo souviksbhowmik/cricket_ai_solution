@@ -98,22 +98,31 @@ def one_shot_multi_output_neural(first_innings_vector_length, second_innings_vec
 
 
 
-    first_innings_hidden = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal', bias_regularizer=l2(0.01),
+    first_innings_hidden = Dense(100, activation="relu", use_bias=True, kernel_initializer='normal', bias_regularizer=l2(0.01),
                         kernel_regularizer=l2(0.1), name="first_inn_hidden")(first_innings_input)
     first_innings_hidden_dropout = Dropout(0.2)(first_innings_hidden)
+    first_innings_hidden_2 = Dense(10, name="first_inn_hidden_2", activation="relu",use_bias=True, kernel_regularizer=l2(0.01),
+                                 bias_regularizer=l2(0.01),
+                                 kernel_initializer='normal')(first_innings_hidden_dropout)
     first_innings_output = Dense(1, name="final_score", use_bias=True, kernel_regularizer=l2(0.01), bias_regularizer=l2(0.01),
-                        kernel_initializer='normal')(first_innings_hidden_dropout)
+                        kernel_initializer='normal')(first_innings_hidden_2)
 
-    second_innings_hidden = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+    second_innings_hidden = Dense(100, activation="relu", use_bias=True, kernel_initializer='normal',
                                   bias_regularizer=l2(0.01),
                                   kernel_regularizer=l2(0.1), name="second_inn_hidden")(second_innings_input)
     second_innings_hidden_dropout = Dropout(0.2)(second_innings_hidden)
+    second_innings_hidden_2 = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+                                  bias_regularizer=l2(0.01),
+                                  kernel_regularizer=l2(0.1), name="second_inn_hidden_2")(second_innings_hidden_dropout)
 
-    second_innings_hidden_2 = Concatenate()([first_innings_hidden_dropout, second_innings_hidden_dropout])
+    second_innings_hidden_3 = Concatenate()([first_innings_output, second_innings_hidden_2])
+    # second_innings_hidden_4 = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+    #                                 bias_regularizer=l2(0.01),
+    #                                 kernel_regularizer=l2(0.1), name="second_inn_hidden_4")(second_innings_hidden_3)
 
     second_innings_output = Dense(1, activation="sigmoid",name="is_win", use_bias=True, kernel_regularizer=l2(0.01),
                                  bias_regularizer=l2(0.01),
-                                 kernel_initializer='normal')(second_innings_hidden_2)
+                                 kernel_initializer='normal')(second_innings_hidden_3)
 
 
 
