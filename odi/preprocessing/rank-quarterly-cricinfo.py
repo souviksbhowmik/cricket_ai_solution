@@ -86,7 +86,7 @@ def create_country_rank(year_list,no_of_years=1):
     else:
         for year in tqdm(year_list):
             # performance_cutoff_date_start = datetime.strptime(year + '-01-01', '%Y-%m-%d')
-            for quarters in ['-03-31','-06-30','-06-30','-12-31']:
+            for quarters in ['-03-31','-06-30','-09-30','-12-31']:
                 print(" country ranking for ",year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
@@ -439,6 +439,8 @@ def create_bowler_rank_for_date(performance_cutoff_date_start, performance_cutof
             # no_of_wickets,wicket_rate,wicket_per_runs
             no_of_wickets = selected_bowler_df['wickets'].sum()
             wickets_per_match = no_of_wickets / selected_bowler_df['match_id'].nunique()
+            if total_runs ==0:
+                total_runs=1
             wickets_per_run = no_of_wickets / total_runs
 
             team_score = country_rank[country_rank['country'] == selected_country]['score'].values[0]
@@ -513,7 +515,7 @@ def create_bowler_rank(year_list,no_of_years=1):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31', '-06-30', '-06-30', '-12-31']:
+            for quarters in ['-03-31', '-06-30', '-09-30', '-12-31']:
                 print(" Bowler ranking for ", year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
@@ -569,7 +571,7 @@ def create_location_rank(year_list,no_of_years=5):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31', '-06-30', '-06-30', '-12-31']:
+            for quarters in ['-03-31', '-06-30', '-09-30', '-12-31']:
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
                                                                              (performance_cutoff_date_end, no_of_years),
