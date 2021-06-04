@@ -854,10 +854,10 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
     }
 
     feature_dict_team_a = update_dict_with_prefix(feature_dict_team_a,team_a_batting_score_dict,pref='team_a_')
-    feature_dict_team_a = update_dict_with_prefix(feature_dict_team_a, team_a_bowling_score_dict, pref='team_a_')
+    feature_dict_team_a = update_dict_with_prefix(feature_dict_team_a, team_b_bowling_score_dict, pref='team_a_')
 
     feature_dict_team_b = update_dict_with_prefix(feature_dict_team_b, team_b_batting_score_dict, pref='team_b_')
-    feature_dict_team_b = update_dict_with_prefix(feature_dict_team_b, team_b_bowling_score_dict, pref='team_b_')
+    feature_dict_team_b = update_dict_with_prefix(feature_dict_team_b, team_a_bowling_score_dict, pref='team_b_')
 
 
     return feature_dict_team_a,feature_dict_team_b
