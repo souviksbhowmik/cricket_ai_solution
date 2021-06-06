@@ -39,6 +39,42 @@ def create_country_embedding_model(team_vector_len, opponent_vector_len, locatio
 
     return team_model, opponent_model, location_model, group_encode_model, runs_model
 
+def create_country_embedding_model_2nd(team_vector_len, opponent_vector_len, location_vector_len):
+    team_input = Input((team_vector_len,), name="team_input")
+    opponent_input = Input((opponent_vector_len,), name="opponent_input")
+    location_input = Input((location_vector_len,), name="location_input")
+
+    # team_output = Dropout(0.2)(team_input)
+    team_output = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal', bias_regularizer=l2(0.01),
+                        kernel_regularizer=l2(0.1), name="team_1")(team_input)
+    team_output = Dropout(0.2)(team_output)
+
+    # opponent_output = Dropout(0.2)(opponent_input)
+    opponent_output = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+                            bias_regularizer=l2(0.01), kernel_regularizer=l2(0.1), name="opp_1")(opponent_input)
+    opponent_output = Dropout(0.2)(opponent_output)
+
+    # location_output = Dropout(0.2)(location_input)
+    location_output = Dense(10, activation="relu", use_bias=True, kernel_initializer='normal',
+                            bias_regularizer=l2(0.01), kernel_regularizer=l2(0.1), name="loc_1")(location_input)
+    location_output = Dropout(0.2)(location_output)
+
+    concat_out = Concatenate()([team_output, opponent_output, location_output])
+    #runs_output = Dropout(0.2)(concat_out)
+    runs_output = Dense(1, name="final_score", use_bias=True, kernel_regularizer=l2(0.01), bias_regularizer=l2(0.01),
+                        kernel_initializer='normal',activation="sigmoid")(concat_out)
+
+    team_model = Model(inputs=team_input, outputs=team_output)
+    opponent_model = Model(inputs=opponent_input, outputs=opponent_output)
+    location_model = Model(inputs=location_input, outputs=location_output)
+    group_encode_model = Model(inputs=[team_input, opponent_input, location_input],
+                               outputs=concat_out)
+
+    runs_model = Model(inputs=[team_input, opponent_input, location_input],
+                       outputs=runs_output)
+
+    return team_model, opponent_model, location_model, group_encode_model, runs_model
+
 
 def create_batsman_embedding_model(batsman_len, position_len, location_len, opposition_len):
     batsman_input = Input((batsman_len,), name="batsman_input")

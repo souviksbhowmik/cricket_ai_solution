@@ -28,6 +28,11 @@ SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_mod
 TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL = 'group_encode_model'# V2 renamed
 TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL = 'group_encode_run_model'
 TEAM_EMBEDDING_MODEL = 'team_embedding_model'
+
+TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_2ND = 'group_encode_model_2nd'# V2 renamed
+TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL_2ND = 'group_encode_run_model_2nd'
+TEAM_EMBEDDING_MODEL_2ND = 'team_embedding_model_2nd'
+
 BATSMAN_EMBEDDING_MODEL = 'batsman_group_encode_model'
 BATSMAN_EMBEDDING_RUN_MODEL = 'batsman_group_encode_run_model'
 BATSMAN_ONLY_EMBEDDING_MODEL = 'batsman_embedding_model'
