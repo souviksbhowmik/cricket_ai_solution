@@ -14,7 +14,7 @@
     ]
   },
   "location_encoding": {
-    "start_date": "2011-01-01",
+    "start_date": "2004-01-01",
     "end_date": "2018-12-31",
     "files": [
       "loc_enc_map.pkl",
@@ -22,14 +22,14 @@
     ]
   },
   "country_encoding": {
-    "start_date": "2011-01-01",
+    "start_date": "2004-01-01",
     "end_date": "2018-12-31",
     "files": [
       "country_enc_map.pkl"
     ]
   },
   "country_embedding_train_xy": {
-    "start_date": "2011-01-01",
+    "start_date": "2004-01-01",
     "end_date": "2018-12-31",
     "files": [
       "country_emb_team_oh_train_x.pkl",
@@ -50,14 +50,14 @@
   },
   "team_opponent_location_embedding": {
     "train_metrics": [
-      3740.081787109375,
-      21.173429489135742,
-      46.301265716552734
+      3705.138916015625,
+      22.721189498901367,
+      47.30113220214844
     ],
     "test_metrics": [
-      4625.21435546875,
-      20.275922775268555,
-      54.096126556396484
+      5147.28369140625,
+      22.758983612060547,
+      56.670658111572266
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -489,7 +489,7 @@
   },
   "one_shot_multi_train_xy": {
     "start_date": "2004-01-01",
-    "end_date": "2018-12-31",
+    "end_date": "2017-12-31",
     "files": [
       "one_shot_multi_train_x_1.pkl",
       "one_shot_multi_train_x_2.pkl",
@@ -500,8 +500,8 @@
     ]
   },
   "one_shot_Multi test_xy": {
-    "start_date": "2019-01-01",
-    "end_date": "2021-06-04",
+    "start_date": "2018-01-01",
+    "end_date": "2019-12-31",
     "files": [
       "one_shot_multi_test_x_1.pkl",
       "one_shot_multi_test_x_2.pkl",
@@ -513,25 +513,45 @@
   },
   "combined_multi_output": {
     "train_metrics": [
-      16187.8916015625,
-      3438.681640625,
-      0.6368539929389954,
-      20.74583625793457,
-      46.96613693237305,
-      0.625
+      15260.5732421875,
+      3163.443603515625,
+      0.6036633253097534,
+      20.359086990356445,
+      45.35828399658203,
+      0.6538987755775452
     ],
     "test_metrics": [
-      21708.412109375,
-      8095.14599609375,
-      0.680056631565094,
-      26.847742080688477,
-      71.18978118896484,
-      0.7272727489471436
+      21226.3125,
+      5783.44580078125,
+      0.770950198173523,
+      22.64813804626465,
+      56.547874450683594,
+      0.726190447807312
     ],
     "info": "metrics is mape, mae, accuracy(best accuracy)",
     "files": [
       "one_shot_multi_neural.json",
       "one_shot_multi_neural.h5"
+    ]
+  },
+  "country_embedding_2nd_train_xy": {
+    "start_date": "2004-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "country_emb_feature_2nd_team_oh_train_x.pkl",
+      "country_emb_feature_2nd_opponent_oh_train_x.pkl",
+      "country_emb_feature_2nd_location_oh_train_x.pkl",
+      "country_emb_feature_2nd_win_train_y"
+    ]
+  },
+  "country_embedding_2nd_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "country_emb_feature_2nd_team_oh_test_x.pkl",
+      "country_emb_feature_2nd_opponent_oh_test_x.pkl",
+      "country_emb_feature_2nd_location_oh_test_x.pkl",
+      "country_emb_feature_2nd_win_test_y.pkl"
     ]
   }
 }

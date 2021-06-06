@@ -27,6 +27,16 @@ country_emb_feature_opponent_oh_test_x = 'country_emb_opponent_oh_test_x.pkl'
 country_emb_feature_location_oh_test_x = 'country_emb_location_oh_test_x.pkl'
 country_emb_feature_runs_scored_test_y = 'country_emb_runs_scored_test_y'
 
+country_emb_feature_2nd_team_oh_train_x = 'country_emb_feature_2nd_team_oh_train_x.pkl'
+country_emb_feature_2nd_opponent_oh_train_x = 'country_emb_feature_2nd_opponent_oh_train_x.pkl'
+country_emb_feature_2nd_location_oh_train_x = 'country_emb_feature_2nd_location_oh_train_x.pkl'
+country_emb_feature_2nd_win_train_y = 'country_emb_feature_2nd_win_train_y'
+
+country_emb_feature_2nd_team_oh_test_x = 'country_emb_feature_2nd_team_oh_test_x.pkl'
+country_emb_feature_2nd_opponent_oh_test_x = 'country_emb_feature_2nd_opponent_oh_test_x.pkl'
+country_emb_feature_2nd_location_oh_test_x = 'country_emb_feature_2nd_location_oh_test_x.pkl'
+country_emb_feature_2nd_win_test_y = 'country_emb_feature_2nd_win_test_y.pkl'
+
 
 batsman_emb_feature_batsman_oh_train_x = 'batsman_emb_batsman_oh_train_x.pkl'
 batsman_emb_feature_position_oh_train_x = 'batsman_emb_position_oh_train_x.pkl'
@@ -132,11 +142,11 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
 
     overall_start = train_start_dt
     overall_end = test_end_dt
-    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
-    match_list_df = match_list_df.merge(match_stats_df,how='inner',on='match_id')
+    # match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    # match_list_df = match_list_df.merge(match_stats_df,how='inner',on='match_id')
 
 
     no_of_matches = match_list_df.shape[0]
@@ -155,28 +165,24 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
 
     for index in tqdm(range(no_of_matches)):
 
-        if match_list_df.iloc[index]['first_innings'].strip() == match_list_df.iloc[index]['team_statistics'].strip():
-            batting_innings = 'first_innings'
-            bowling_innings = 'second_innings'
-        else:
-            batting_innings = 'second_innings'
-            bowling_innings = 'first_innings'
-            continue
+        # if match_list_df.iloc[index]['first_innings'].strip() == match_list_df.iloc[index]['team_statistics'].strip():
+        #     batting_innings = 'first_innings'
+        #     bowling_innings = 'second_innings'
+        # else:
+        #     batting_innings = 'second_innings'
+        #     bowling_innings = 'first_innings'
+        #     continue
 
 
-        team = match_list_df.iloc[index][batting_innings].strip()
-        opponent = match_list_df.iloc[index][bowling_innings].strip()
+        team = match_list_df.iloc[index]['first_innings'].strip()
+        opponent = match_list_df.iloc[index]['second_innings'].strip()
         location = match_list_df.iloc[index]['location'].strip()
-        runs_scored = match_list_df.iloc[index]['total_run']
+        runs_scored = match_list_df.iloc[index]['first_innings_run']
         date = match_list_df.iloc[index]['date']
         try:
             team_oh = np.array(country_enc_map[team])
             opponent_oh = np.array(country_enc_map[opponent])
-            try:
-                location_oh = np.array(location_enc_map[location])
-            except:
-                location=fe.get_similar_location(location).strip()
-                location_oh = np.array(location_enc_map[location.strip()])
+            location_oh = np.array(location_enc_map[location])
 
             if date<test_start_dt:
                 team_oh_list_train.append(team_oh)
@@ -226,6 +232,117 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
                                             country_emb_feature_opponent_oh_test_x,
                                             country_emb_feature_location_oh_test_x,
                                             country_emb_feature_runs_scored_test_y])
+
+def create_country_embedding_second_innings_train_test(train_start,test_start,test_end=None,encoding_source='dev'):
+
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    if encoding_source == 'production':
+        encoding_dir = outil.PROD_DIR
+    else:
+        encoding_dir = outil.DEV_DIR
+
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    # match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
+    # match_list_df = match_list_df.merge(match_stats_df,how='inner',on='match_id')
+
+
+    no_of_matches = match_list_df.shape[0]
+    country_enc_map = pickle.load(open(os.path.join(encoding_dir,outil.COUNTRY_ENCODING_MAP),'rb'))
+    location_enc_map = pickle.load(open(os.path.join(encoding_dir, outil.LOC_ENCODING_MAP), 'rb'))
+
+    team_oh_list_train = []
+    opponent_oh_list_train = []
+    location_oh_list_train =[]
+    runs_scored_list_train =[]
+
+    team_oh_list_test = []
+    opponent_oh_list_test = []
+    location_oh_list_test = []
+    runs_scored_list_test = []
+
+    for index in tqdm(range(no_of_matches)):
+
+        # if match_list_df.iloc[index]['first_innings'].strip() == match_list_df.iloc[index]['team_statistics'].strip():
+        #     batting_innings = 'first_innings'
+        #     bowling_innings = 'second_innings'
+        # else:
+        #     batting_innings = 'second_innings'
+        #     bowling_innings = 'first_innings'
+        #     continue
+
+
+        team = match_list_df.iloc[index]['second_innings'].strip()
+        opponent = match_list_df.iloc[index]['first_innings'].strip()
+        location = match_list_df.iloc[index]['location'].strip()
+        winner =  match_list_df.iloc[index]['winner'].strip()
+        win = 1*(team == winner)
+        date = match_list_df.iloc[index]['date']
+        try:
+            team_oh = np.array(country_enc_map[team])
+            opponent_oh = np.array(country_enc_map[opponent])
+            location_oh = np.array(location_enc_map[location])
+
+            if date<test_start_dt:
+                team_oh_list_train.append(team_oh)
+                opponent_oh_list_train.append(opponent_oh)
+                location_oh_list_train.append(location_oh)
+                runs_scored_list_train.append(win)
+            else:
+                team_oh_list_test.append(team_oh)
+                opponent_oh_list_test.append(opponent_oh)
+                location_oh_list_test.append(location_oh)
+                runs_scored_list_test.append(win)
+
+
+        except Exception as ex:
+            print(ex,' for ',team,opponent,location,' on ',date)
+            #raise ex
+
+    team_oh_train_x = np.stack(team_oh_list_train)
+    opponent_oh_train_x = np.stack(opponent_oh_list_train)
+    location_oh_train_x = np.stack(location_oh_list_train)
+    runs_scored_train_y = np.stack(runs_scored_list_train)
+
+    team_oh_test_x = np.stack(team_oh_list_test)
+    opponent_oh_test_x = np.stack(opponent_oh_list_test)
+    location_oh_test_x = np.stack(location_oh_list_test)
+    runs_scored_test_y = np.stack(runs_scored_list_test)
+
+    pickle.dump(team_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_team_oh_train_x), 'wb'))
+    pickle.dump(opponent_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_opponent_oh_train_x), 'wb'))
+    pickle.dump(location_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_location_oh_train_x), 'wb'))
+    pickle.dump(runs_scored_train_y, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_win_train_y), 'wb'))
+
+    outil.create_meta_info_entry('country_embedding_2nd_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt,1).date()),
+                                 file_list=[country_emb_feature_2nd_team_oh_train_x,
+                                            country_emb_feature_2nd_opponent_oh_train_x,
+                                            country_emb_feature_2nd_location_oh_train_x,
+                                            country_emb_feature_2nd_win_train_y])
+
+    pickle.dump(team_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_team_oh_test_x), 'wb'))
+    pickle.dump(opponent_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_opponent_oh_test_x), 'wb'))
+    pickle.dump(location_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_location_oh_test_x), 'wb'))
+    pickle.dump(runs_scored_test_y, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_win_test_y), 'wb'))
+
+    outil.create_meta_info_entry('country_embedding_2nd_test_xy', test_start, str(test_end_dt.date()),
+                                 file_list=[country_emb_feature_2nd_team_oh_test_x,
+                                            country_emb_feature_2nd_opponent_oh_test_x,
+                                            country_emb_feature_2nd_location_oh_test_x,
+                                            country_emb_feature_2nd_win_test_y])
 
 
 def create_batsman_embedding_train_test(train_start,test_start,test_end=None,encoding_source='dev',include_not_batted=False):
@@ -1788,6 +1905,18 @@ def traintest():
               default='dev')
 def country_embedding(train_start,test_start,test_end=None,encoding_source='dev'):
     create_country_embedding_train_test(train_start,
+                                        test_start,
+                                        test_end=test_end,
+                                        encoding_source=encoding_source)
+
+@traintest.command()
+@click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+@click.option('--encoding_source', help='which enviornment to read from for one hot encoding(dev/production)',
+              default='dev')
+def country_embedding_2nd(train_start,test_start,test_end=None,encoding_source='dev'):
+    create_country_embedding_second_innings_train_test(train_start,
                                         test_start,
                                         test_end=test_end,
                                         encoding_source=encoding_source)

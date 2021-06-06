@@ -136,6 +136,25 @@ python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2011-01-
 ### step 7 train multi output neural in one shot
 python odi/retrain/retrain_ci.py train-multi-output-neural
 
+## Retraining (Necessary data loading and Ranking has been done)
+### Step 8 - Create one hot encoding for batsman, location and country
+python odi/retrain/create_encoding_ci.py location --start_date '2004-01-01' --end_date '2018-12-31'
+
+python odi/retrain/create_encoding_ci.py country --start_date '2004-01-01' --end_date '2018-12-31'
+
+### Step 9 - Create train-test files for learning country embedding
+python odi/retrain/create_train_test_ci.py country-embedding --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+### Step 10 - Learn country embedding
+python odi/retrain/retrain.py train-country-embedding
+#### tune country embedding
+python odi/retrain/retrain.py train-country-embedding --mode tune --epoch 10 --learning_rate 0.0001
+#### check country embedding
+python odi/retrain/retrain.py check-country-embedding
+
+### Step 9 - Create train-test files for learning country embedding
+python odi/retrain/create_train_test_ci.py country-embedding-2nd --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
 
 ## Retraining (Necessary data loading and Ranking has been done)
 ### Step 1 - Create one hot encoding for batsman, location and country
