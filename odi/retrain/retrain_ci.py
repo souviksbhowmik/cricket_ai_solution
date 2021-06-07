@@ -243,6 +243,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
 
     train_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_1), 'rb'))
     train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_2), 'rb'))
+    train_y_3 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_3), 'rb'))
 
     test_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_1), 'rb'))
     test_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_2), 'rb'))
@@ -251,6 +252,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
 
     test_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_1), 'rb'))
     test_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_2), 'rb'))
+    test_y_3 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_3), 'rb'))
 
     cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
     cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
@@ -258,17 +260,22 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
 
     loss = {
                'final_score': 'mean_squared_error',
-               'is_win': 'binary_crossentropy',
+               'achieved_score': 'mean_squared_error',
+               'is_win': 'binary_crossentropy'
 
             }
     metrics = {
         'final_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
-        'is_win': 'accuracy',
+        'achieved_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'is_win': 'accuracy'
 
     }
     loss_weights = {
-                       'final_score': 1,
-                       'is_win': 20
+                       'final_score':4,
+                        'achieved_score':4,
+                       'is_win': 100
+
+
                         #is_win:2000
                     }
 
@@ -285,8 +292,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
                                                     os.path.join(outil.DEV_DIR,
                                                                  outil.ONE_SHOT_MULTI_NEURAL)
                                                     )
-        pretune_train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
-        pretune_test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+        pretune_train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+        pretune_test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
 
     checkpoint = ModelCheckpoint(filepath=checkpoint_file_name,
                                  monitor='val_is_win_accuracy',
@@ -296,13 +303,13 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
                                  mode='max')
     callbacks_list = [checkpoint]
 
-    combined_model.fit([train_x_1, train_x_2], [train_y_1,train_y_2],
-                   validation_data=([test_x_1, test_x_2], [test_y_1,test_y_2]),
+    combined_model.fit([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2],
+                   validation_data=([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2]),
                    epochs=epoch, batch_size=batch_size,
                    callbacks=callbacks_list)
 
-    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
-    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
 
     print('\n\nFINAL METRICS:')
     print(train_metrics)
@@ -310,8 +317,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
 
     print('\n\nCHECKPOINT METRICS:')
     combined_model = outil.load_keras_model_weights(combined_model,checkpoint_file_name)
-    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_2])
-    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_2])
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
     print(train_metrics)
     print(test_metrics)
 

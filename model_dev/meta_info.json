@@ -493,6 +493,7 @@
       "one_shot_multi_train_x_2.pkl",
       "one_shot_multi_train_y_1.pkl",
       "one_shot_multi_train_y_2.pkl",
+      "one_shot_multi_train_y_3.pkl",
       "one_shot_multi_columns_1.pkl",
       "one_shot_multi_columns_2.pkl"
     ]
@@ -505,26 +506,33 @@
       "one_shot_multi_test_x_2.pkl",
       "one_shot_multi_test_y_1.pkl",
       "one_shot_multi_test_y_2.pkl",
+      "one_shot_multi_test_y_3.pkl",
       "one_shot_multi_columns_1.pkl",
       "one_shot_multi_columns_2.pkl"
     ]
   },
   "combined_multi_output": {
     "train_metrics": [
-      2458.43310546875,
-      2428.930908203125,
-      0.47737035155296326,
-      17.637998580932617,
-      39.188140869140625,
-      0.7908847332000732
+      17548.552734375,
+      2528.992919921875,
+      1830.8421630859375,
+      0.6290876865386963,
+      18.295495986938477,
+      40.01872634887695,
+      17.710193634033203,
+      33.968753814697266,
+      0.6367292404174805
     ],
     "test_metrics": [
-      4557.9453125,
-      4525.376953125,
-      0.6306567788124084,
-      22.583833694458008,
-      53.7640266418457,
-      0.7234042286872864
+      35222.6640625,
+      4168.2705078125,
+      4611.015625,
+      0.5921585559844971,
+      21.960493087768555,
+      51.61369705200195,
+      22.46061897277832,
+      57.13161849975586,
+      0.7659574747085571
     ],
     "info": "metrics is mape, mae, accuracy(best accuracy)",
     "files": [
