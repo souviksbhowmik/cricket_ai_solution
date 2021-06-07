@@ -82,8 +82,10 @@ one_shot_multi_columns_1 = 'one_shot_multi_columns_1.pkl'
 
 one_shot_multi_train_x_2 = 'one_shot_multi_train_x_2.pkl'
 one_shot_multi_train_y_2 = 'one_shot_multi_train_y_2.pkl'
+one_shot_multi_train_y_3 = 'one_shot_multi_train_y_3.pkl'
 one_shot_multi_test_x_2 = 'one_shot_multi_test_x_2.pkl'
 one_shot_multi_test_y_2 = 'one_shot_multi_test_y_2.pkl'
+one_shot_multi_test_y_3 = 'one_shot_multi_test_y_3.pkl'
 one_shot_multi_columns_2 = 'one_shot_multi_columns_2.pkl'
 
 first_innings_train_x = 'first_innings_train_x.pkl'
@@ -657,11 +659,13 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     feature_list_team_a_train = []
     feature_list_team_b_train = []
     target_list_train = []
+    achieved_list_train = []
     win_list_train = []
 
     feature_list_team_a_test =[]
     feature_list_team_b_test = []
     target_list_test = []
+    achieved_list_test = []
     win_list_test = []
     #no_of_basman = 0
     for index,match_id in tqdm(enumerate(match_id_list)):
@@ -673,7 +677,12 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
         ref_dt_np = match_list_df[match_list_df['match_id']==match_id].iloc[0]["date"]
         ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
         runs_scored = match_list_df[match_list_df['match_id']==match_id].iloc[0]['first_innings_run']
+
         winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
+        runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
+        if winner == team_b:
+            runs_achieved = runs_achieved+15
+
         team_a_win = (team_a==winner)*1
 
         team_a_player_list_df = batting_list_df[(batting_list_df['match_id']==match_id) & (batting_list_df['team']==team_a)]
@@ -708,12 +717,14 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
                 feature_list_team_a_train.append(feature_dict_team_a)
                 feature_list_team_b_train.append(feature_dict_team_b)
                 target_list_train.append(runs_scored)
+                achieved_list_train.append(runs_achieved)
                 win_list_train.append(team_a_win)
 
             else:
                 feature_list_team_a_test.append(feature_dict_team_a)
                 feature_list_team_b_test.append(feature_dict_team_b)
                 target_list_test.append(runs_scored)
+                achieved_list_test.append(runs_achieved)
                 win_list_test.append(team_a_win)
         except Exception as ex:
             print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
@@ -724,11 +735,13 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     second_innings_train_df =  pd.DataFrame(feature_list_team_b_train)
     first_innings_train_df['target'] = target_list_train
     second_innings_train_df['win'] = win_list_train
+    second_innings_train_df['achieved'] = achieved_list_train
 
     first_innings_test_df = pd.DataFrame(feature_list_team_a_test)
     second_innings_test_df = pd.DataFrame(feature_list_team_b_test)
     first_innings_test_df['target'] = target_list_test
     second_innings_test_df['win'] = win_list_test
+    second_innings_test_df['achieved'] = achieved_list_test
 
     concatenated_train_df = pd.concat([first_innings_train_df,second_innings_train_df],axis=1)
     concatenated_test_df = pd.concat([first_innings_test_df, second_innings_test_df], axis=1)
@@ -740,26 +753,30 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     second_innings_train_df = concatenated_train_df[list(second_innings_train_df.columns)]
     target_list_train = list(concatenated_train_df['target'])
     win_list_train = list(concatenated_train_df['win'])
+    achieved_list_train = list(concatenated_train_df['achieved'])
 
     first_innings_test_df = concatenated_test_df[list(first_innings_test_df.columns)]
     second_innings_test_df = concatenated_test_df[list(second_innings_test_df.columns)]
     target_list_test = list(concatenated_test_df['target'])
     win_list_test = list(concatenated_test_df['win'])
+    achieved_list_est = list(concatenated_test_df['achieved'])
 
     train_x_1 = np.array(first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']))
-    train_x_2 = np.array(second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']))
+    train_x_2 = np.array(second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win','achieved']))
 
     train_y_1 =  np.array(concatenated_train_df['target'])
     train_y_2 = np.array(concatenated_train_df['win'])
+    train_y_3 = np.array(concatenated_train_df['achieved'])
 
     test_x_1 = np.array(first_innings_test_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']))
-    test_x_2 = np.array(second_innings_test_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']))
+    test_x_2 = np.array(second_innings_test_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win','achieved']))
 
     test_y_1 = np.array(concatenated_test_df['target'])
     test_y_2 = np.array(concatenated_test_df['win'])
+    test_y_3 = np.array(concatenated_test_df['achieved'])
 
     cols_1 = first_innings_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location','target']).columns
-    cols_2 = second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win']).columns
+    cols_2 = second_innings_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location','win','achieved']).columns
 
     print("first innings columns-",len(cols_1) ,"\n",cols_1)
     print("second innings columns",len(cols_2) ,"\n",cols_2)
@@ -769,6 +786,7 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     pickle.dump(train_y_1, open(os.path.join(TRAIN_TEST_DIR,one_shot_multi_train_y_1), 'wb'))
     pickle.dump(train_x_2, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_train_x_2), 'wb'))
     pickle.dump(train_y_2, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_train_y_2), 'wb'))
+    pickle.dump(train_y_3, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_train_y_3), 'wb'))
     pickle.dump(cols_1, open(os.path.join(outil.DEV_DIR, one_shot_multi_columns_1), 'wb'))
     pickle.dump(cols_2, open(os.path.join(outil.DEV_DIR, one_shot_multi_columns_2), 'wb'))
 
@@ -776,6 +794,7 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
     pickle.dump(test_y_1, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_test_y_1), 'wb'))
     pickle.dump(test_x_2, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_test_x_2), 'wb'))
     pickle.dump(test_y_2, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_test_y_2), 'wb'))
+    pickle.dump(test_y_3, open(os.path.join(TRAIN_TEST_DIR, one_shot_multi_test_y_3), 'wb'))
 
 
 
@@ -785,6 +804,7 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
                                             one_shot_multi_train_x_2,
                                             one_shot_multi_train_y_1,
                                             one_shot_multi_train_y_2,
+                                            one_shot_multi_train_y_3,
                                             one_shot_multi_columns_1,
                                             one_shot_multi_columns_2])
 
@@ -796,6 +816,7 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
                                             one_shot_multi_test_x_2,
                                             one_shot_multi_test_y_1,
                                             one_shot_multi_test_y_2,
+                                            one_shot_multi_test_y_3,
                                             one_shot_multi_columns_1,
                                             one_shot_multi_columns_2])
 
