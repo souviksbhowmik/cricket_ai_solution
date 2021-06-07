@@ -233,16 +233,21 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
         os.makedirs(outil.CHECKPOINT_DIR)
 
     checkpoint_file_name = os.path.join(outil.CHECKPOINT_DIR,outil.ONE_SHOT_MULTI_NEURAL+'_chk.h5')
-
+    x1_scaler = StandardScaler()
+    x2_scaler = StandardScaler()
 
     train_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_1), 'rb'))
     train_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_2), 'rb'))
+    train_x_1 = x1_scaler.fit_transform(train_x_1)
+    train_x_2 = x2_scaler.fit_transform(train_x_2)
 
     train_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_1), 'rb'))
     train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_2), 'rb'))
 
     test_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_1), 'rb'))
     test_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_2), 'rb'))
+    test_x_1 = x1_scaler.transform(test_x_1)
+    test_x_2 = x2_scaler.transform(test_x_2)
 
     test_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_1), 'rb'))
     test_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_2), 'rb'))
@@ -319,7 +324,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
 
         print("Saving models - (in case of tuning - metrics improved) ")
         outil.store_keras_model(combined_model,os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_NEURAL))
-
+        pickle.dump(x1_scaler,open(os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_SCALER_X1),"wb"))
+        pickle.dump(x2_scaler, open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "wb"))
         outil.create_model_meta_info_entry('combined_multi_output',
                                            train_metrics,
                                            test_metrics,
@@ -327,6 +333,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
                                            file_list=[
                                                outil.ONE_SHOT_MULTI_NEURAL+'.json',
                                                outil.ONE_SHOT_MULTI_NEURAL + '.h5',
+                                               outil.ONE_SHOT_MULTI_SCALER_X1,
+                                               outil.ONE_SHOT_MULTI_SCALER_X2
 
                                            ])
 

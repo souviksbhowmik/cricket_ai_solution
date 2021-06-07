@@ -41,6 +41,9 @@ FIRST_INNINGS_REGRESSION_NEURAL = 'first_innings_regression_neural'
 ONE_SHOT_NEURAL = 'one_shot_neural'
 ONE_SHOT_MULTI_NEURAL = 'one_shot_multi_neural'
 
+ONE_SHOT_MULTI_SCALER_X1 = "ONE_SHOT_MULTI_SCALER_X1.pkl"
+ONE_SHOT_MULTI_SCALER_X2 = "ONE_SHOT_MULTI_SCALER_X2.pkl"
+
 ADVERSARIAL_RUN_MODEL = 'adversarial_run_model'
 ADVERSARIAL_MODEL = 'adversarial_model'
 ADVERSARIAL_BATSMAN_MODEL = 'adversarial_batsman_model'
