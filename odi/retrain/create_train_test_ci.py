@@ -30,11 +30,13 @@ country_emb_feature_runs_scored_test_y = 'country_emb_runs_scored_test_y'
 country_emb_feature_2nd_team_oh_train_x = 'country_emb_feature_2nd_team_oh_train_x.pkl'
 country_emb_feature_2nd_opponent_oh_train_x = 'country_emb_feature_2nd_opponent_oh_train_x.pkl'
 country_emb_feature_2nd_location_oh_train_x = 'country_emb_feature_2nd_location_oh_train_x.pkl'
+country_emb_feature_2nd_target_oh_train_x = 'country_emb_feature_2nd_target_oh_train_x.pkl'
 country_emb_feature_2nd_win_train_y = 'country_emb_feature_2nd_win_train_y'
 
 country_emb_feature_2nd_team_oh_test_x = 'country_emb_feature_2nd_team_oh_test_x.pkl'
 country_emb_feature_2nd_opponent_oh_test_x = 'country_emb_feature_2nd_opponent_oh_test_x.pkl'
 country_emb_feature_2nd_location_oh_test_x = 'country_emb_feature_2nd_location_oh_test_x.pkl'
+country_emb_feature_2nd_target_oh_test_x = 'country_emb_feature_2nd_target_oh_test_x.pkl'
 country_emb_feature_2nd_win_test_y = 'country_emb_feature_2nd_win_test_y.pkl'
 
 
@@ -233,6 +235,21 @@ def create_country_embedding_train_test(train_start,test_start,test_end=None,enc
                                             country_emb_feature_location_oh_test_x,
                                             country_emb_feature_runs_scored_test_y])
 
+def set_target_quantile(q1,q2,q3,val):
+    if val < q3:
+        return 4
+    elif val > q2:
+        return 3
+    elif val > q1:
+        return 2
+    else:
+        return 1
+
+def get_quantile_vector(q):
+    vec = np.array([0,0,0,0])
+    vec[q-1]=1
+    return vec
+
 def create_country_embedding_second_innings_train_test(train_start,test_start,test_end=None,encoding_source='dev'):
 
     if not os.path.isdir(TRAIN_TEST_DIR):
@@ -257,6 +274,13 @@ def create_country_embedding_second_innings_train_test(train_start,test_start,te
                                   (match_list_df['date'] <= overall_end)]
     # match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
     # match_list_df = match_list_df.merge(match_stats_df,how='inner',on='match_id')
+    target_run_list = list(match_list_df['first_innings_run'])
+    q1 = np.quantile(target_run_list, 0.25)
+    q2 = np.quantile(target_run_list, 0.50)
+    q3 = np.quantile(target_run_list, 0.75)
+    match_list_df['target_q'] = match_list_df['first_innings_run'].apply(lambda x:set_target_quantile(q1,q2,q3,x))
+
+
 
 
     no_of_matches = match_list_df.shape[0]
@@ -266,11 +290,13 @@ def create_country_embedding_second_innings_train_test(train_start,test_start,te
     team_oh_list_train = []
     opponent_oh_list_train = []
     location_oh_list_train =[]
+    target_oh_list_train = []
     runs_scored_list_train =[]
 
     team_oh_list_test = []
     opponent_oh_list_test = []
     location_oh_list_test = []
+    target_oh_list_test = []
     runs_scored_list_test = []
 
     for index in tqdm(range(no_of_matches)):
@@ -289,21 +315,25 @@ def create_country_embedding_second_innings_train_test(train_start,test_start,te
         location = match_list_df.iloc[index]['location'].strip()
         winner =  match_list_df.iloc[index]['winner'].strip()
         win = 1*(team == winner)
+        target_q = match_list_df.iloc[index]['target_q']
         date = match_list_df.iloc[index]['date']
         try:
             team_oh = np.array(country_enc_map[team])
             opponent_oh = np.array(country_enc_map[opponent])
             location_oh = np.array(location_enc_map[location])
+            target_oh = get_quantile_vector(target_q)
 
             if date<test_start_dt:
                 team_oh_list_train.append(team_oh)
                 opponent_oh_list_train.append(opponent_oh)
                 location_oh_list_train.append(location_oh)
+                target_oh_list_train.append(target_oh)
                 runs_scored_list_train.append(win)
             else:
                 team_oh_list_test.append(team_oh)
                 opponent_oh_list_test.append(opponent_oh)
                 location_oh_list_test.append(location_oh)
+                target_oh_list_test.append(target_oh)
                 runs_scored_list_test.append(win)
 
 
@@ -314,16 +344,20 @@ def create_country_embedding_second_innings_train_test(train_start,test_start,te
     team_oh_train_x = np.stack(team_oh_list_train)
     opponent_oh_train_x = np.stack(opponent_oh_list_train)
     location_oh_train_x = np.stack(location_oh_list_train)
+    target_oh_train_x = np.stack(target_oh_list_train)
     runs_scored_train_y = np.stack(runs_scored_list_train)
 
     team_oh_test_x = np.stack(team_oh_list_test)
     opponent_oh_test_x = np.stack(opponent_oh_list_test)
     location_oh_test_x = np.stack(location_oh_list_test)
+    target_oh_test_x = np.stack(target_oh_list_test)
     runs_scored_test_y = np.stack(runs_scored_list_test)
 
     pickle.dump(team_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_team_oh_train_x), 'wb'))
     pickle.dump(opponent_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_opponent_oh_train_x), 'wb'))
     pickle.dump(location_oh_train_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_location_oh_train_x), 'wb'))
+    pickle.dump(location_oh_train_x,
+                open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_target_oh_train_x), 'wb'))
     pickle.dump(runs_scored_train_y, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_win_train_y), 'wb'))
 
     outil.create_meta_info_entry('country_embedding_2nd_train_xy', train_start,
@@ -331,17 +365,21 @@ def create_country_embedding_second_innings_train_test(train_start,test_start,te
                                  file_list=[country_emb_feature_2nd_team_oh_train_x,
                                             country_emb_feature_2nd_opponent_oh_train_x,
                                             country_emb_feature_2nd_location_oh_train_x,
+                                            country_emb_feature_2nd_target_oh_train_x,
                                             country_emb_feature_2nd_win_train_y])
 
-    pickle.dump(team_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_team_oh_test_x), 'wb'))
+    pickle.dump(team_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_team_oh_test_x), 'wb'))
     pickle.dump(opponent_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_opponent_oh_test_x), 'wb'))
     pickle.dump(location_oh_test_x, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_location_oh_test_x), 'wb'))
+    pickle.dump(location_oh_train_x,
+                open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_target_oh_test_x), 'wb'))
     pickle.dump(runs_scored_test_y, open(os.path.join(TRAIN_TEST_DIR, country_emb_feature_2nd_win_test_y), 'wb'))
 
     outil.create_meta_info_entry('country_embedding_2nd_test_xy', test_start, str(test_end_dt.date()),
                                  file_list=[country_emb_feature_2nd_team_oh_test_x,
                                             country_emb_feature_2nd_opponent_oh_test_x,
                                             country_emb_feature_2nd_location_oh_test_x,
+                                            country_emb_feature_2nd_target_oh_test_x,
                                             country_emb_feature_2nd_win_test_y])
 
 

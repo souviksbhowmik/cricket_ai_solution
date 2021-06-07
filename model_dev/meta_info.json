@@ -50,21 +50,19 @@
   },
   "team_opponent_location_embedding": {
     "train_metrics": [
-      3705.138916015625,
-      22.721189498901367,
-      47.30113220214844
+      0.6939740180969238,
+      0.6217948794364929
     ],
     "test_metrics": [
-      5147.28369140625,
-      22.758983612060547,
-      56.670658111572266
+      0.6816853880882263,
+      0.6941176652908325
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
-      "group_encode_run_model.json",
-      "group_encode_run_model.h5",
-      "group_encode_model.json",
-      "group_encode_model.h5"
+      "group_encode_run_model_2nd.json",
+      "group_encode_run_model_2nd.h5",
+      "group_encode_model_2nd.json",
+      "group_encode_model_2nd.h5"
     ]
   },
   "batsman_embedding_train_xy": {
@@ -541,6 +539,7 @@
       "country_emb_feature_2nd_team_oh_train_x.pkl",
       "country_emb_feature_2nd_opponent_oh_train_x.pkl",
       "country_emb_feature_2nd_location_oh_train_x.pkl",
+      "country_emb_feature_2nd_target_oh_train_x.pkl",
       "country_emb_feature_2nd_win_train_y"
     ]
   },
@@ -551,6 +550,7 @@
       "country_emb_feature_2nd_team_oh_test_x.pkl",
       "country_emb_feature_2nd_opponent_oh_test_x.pkl",
       "country_emb_feature_2nd_location_oh_test_x.pkl",
+      "country_emb_feature_2nd_target_oh_test_x.pkl",
       "country_emb_feature_2nd_win_test_y.pkl"
     ]
   }

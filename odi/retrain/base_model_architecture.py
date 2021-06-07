@@ -59,10 +59,11 @@ def create_country_embedding_model_2nd(team_vector_len, opponent_vector_len, loc
                             bias_regularizer=l2(0.01), kernel_regularizer=l2(0.1), name="loc_1")(location_input)
     location_output = Dropout(0.2)(location_output)
 
+
     concat_out = Concatenate()([team_output, opponent_output, location_output])
     #runs_output = Dropout(0.2)(concat_out)
-    runs_output = Dense(1, name="final_score", use_bias=True, kernel_regularizer=l2(0.01), bias_regularizer=l2(0.01),
-                        kernel_initializer='normal',activation="sigmoid")(concat_out)
+    runs_output = Dense(1, activation='tanh', name="final_score", use_bias=True, kernel_regularizer=l2(0.01), bias_regularizer=l2(0.01),
+                        kernel_initializer='normal')(concat_out)
 
     team_model = Model(inputs=team_input, outputs=team_output)
     opponent_model = Model(inputs=opponent_input, outputs=opponent_output)
@@ -156,7 +157,7 @@ def one_shot_multi_output_neural(first_innings_vector_length, second_innings_vec
     #                                 bias_regularizer=l2(0.01),
     #                                 kernel_regularizer=l2(0.1), name="second_inn_hidden_4")(second_innings_hidden_3)
 
-    second_innings_output = Dense(1, activation="sigmoid",name="is_win", use_bias=True, kernel_regularizer=l2(0.01),
+    second_innings_output = Dense(1, name="is_win", use_bias=True, kernel_regularizer=l2(0.01),
                                  bias_regularizer=l2(0.01),
                                  kernel_initializer='normal')(second_innings_hidden_3)
 

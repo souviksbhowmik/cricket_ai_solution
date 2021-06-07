@@ -137,15 +137,19 @@ def retrain_country_embedding_second(learning_rate=0.001,epoch = 150,batch_size=
     team_oh_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_team_oh_train_x), 'rb'))
     opponent_oh_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_opponent_oh_train_x), 'rb'))
     location_oh_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_location_oh_train_x), 'rb'))
-    runs_scored_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_win_train_y), 'rb'))
+    # target_oh_train_x = pickle.load(
+    #     open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_target_oh_train_x), 'rb'))
+    win_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_win_train_y), 'rb'))
 
     team_oh_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_team_oh_test_x), 'rb'))
     opponent_oh_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_opponent_oh_test_x), 'rb'))
     location_oh_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_location_oh_test_x), 'rb'))
-    runs_scored_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_win_test_y), 'rb'))
+    # target_oh_test_x = pickle.load(
+    #     open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_target_oh_test_x), 'rb'))
+    win_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.country_emb_feature_2nd_win_test_y), 'rb'))
 
     team_model, opponent_model, location_model, group_encode_model, runs_model = \
-        bma.create_country_embedding_model(team_oh_train_x.shape[1],\
+        bma.create_country_embedding_model_2nd(team_oh_train_x.shape[1],\
                                            opponent_oh_train_x.shape[1],\
                                            location_oh_train_x.shape[1])
 
@@ -160,20 +164,20 @@ def retrain_country_embedding_second(learning_rate=0.001,epoch = 150,batch_size=
                                                     os.path.join(outil.DEV_DIR,
                                                                  outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL)
                                                     )
-        pretune_train_metrics = runs_model.evaluate([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], runs_scored_train_y)
-        pretune_test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], runs_scored_test_y)
+        pretune_train_metrics = runs_model.evaluate([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], win_train_y)
+        pretune_test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], win_test_y)
 
     checkpoint = ModelCheckpoint(checkpoint_file_name, monitor=metrics_map[monitor],
                                  verbose=1, save_best_only=True, mode='max')
     callbacks_list = [checkpoint]
 
-    runs_model.fit([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], runs_scored_train_y,
-                   validation_data=([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], runs_scored_test_y),
+    runs_model.fit([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], win_train_y,
+                   validation_data=([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], win_test_y),
                    epochs=epoch, batch_size=batch_size,
                    callbacks=callbacks_list)
 
-    train_metrics = runs_model.evaluate([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], runs_scored_train_y)
-    test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], runs_scored_test_y)
+    train_metrics = runs_model.evaluate([team_oh_train_x, opponent_oh_train_x, location_oh_train_x], win_train_y)
+    test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], win_test_y)
 
     print('\n\nFINAL METRICS:')
     print(train_metrics)
@@ -182,8 +186,8 @@ def retrain_country_embedding_second(learning_rate=0.001,epoch = 150,batch_size=
     print('\n\nCHECKPOINT METRICS:')
     runs_model = outil.load_keras_model_weights(runs_model,checkpoint_file_name)
     train_metrics = runs_model.evaluate([team_oh_train_x, opponent_oh_train_x, location_oh_train_x],
-                                        runs_scored_train_y)
-    test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], runs_scored_test_y)
+                                        win_train_y)
+    test_metrics = runs_model.evaluate([team_oh_test_x, opponent_oh_test_x, location_oh_test_x], win_test_y)
     print(train_metrics)
     print(test_metrics)
 
@@ -1368,7 +1372,7 @@ def train_country_embedding(learning_rate,epoch,batch_size,monitor,mode):
 @click.option('--learning_rate', help='learning rate',default=0.001,type=float)
 @click.option('--epoch', help='no of epochs',default=150,type=int)
 @click.option('--batch_size', help='batch_size',default=10,type=int)
-@click.option('--monitor', help='mae or mape',default='mape')
+@click.option('--monitor', help='mae or mape',default='accuracy')
 @click.option('--mode', help='train or tune',default='train')
 def train_country_embedding_2nd(learning_rate,epoch,batch_size,monitor,mode):
     retrain_country_embedding_second(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
