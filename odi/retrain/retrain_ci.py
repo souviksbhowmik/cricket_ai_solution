@@ -268,7 +268,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
     }
     loss_weights = {
                        'final_score': 1,
-                       'is_win': 2000
+                       'is_win': 20
+                        #is_win:2000
                     }
 
 
