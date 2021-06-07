@@ -951,7 +951,7 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
         'second_team_a_quantile': team_a_quantile,
         'second_team_b_score': team_b_score,
         'second_team_b_quantile': team_b_quantile,
-        'second_location_mean': location_mean_till_date_first
+        'second_location_mean': location_mean_till_date_second
         # 'current_base_second': current_base_second,
         # 'current_trend_second': current_trend_second,
         # 'current_trend_predict_second': current_trend_predict_second,
