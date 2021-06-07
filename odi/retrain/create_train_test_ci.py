@@ -629,7 +629,7 @@ def create_one_shot_prediction_train_test(train_start,test_start,test_end=None):
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
 
-def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None):
+def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None,embedding=False):
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
 
@@ -697,7 +697,10 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
 
         try:
 
-            feature_dict_team_a,feature_dict_team_b = fec.get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df, team_a_bowler_list,team_b_bowler_list, ref_date=ref_date,no_of_years=None)
+            feature_dict_team_a,feature_dict_team_b = fec.get_one_shot_multi_output_feature_dict(team_a, team_b, location,
+                                                                                                 team_a_player_list_df,team_b_player_list_df,
+                                                                                                 team_a_bowler_list,team_b_bowler_list,
+                                                                                                 ref_date=ref_date,no_of_years=None,embedding=embedding)
             #print(feature_dict)
             #no_of_basman = no_of_basman+len(team_player_list)
 
@@ -2016,8 +2019,9 @@ def one_shot(train_start, test_start, test_end):
 @click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
 @click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
-def one_shot_multi(train_start, test_start, test_end):
-    create_one_shot_multi_output_train_test(train_start, test_start, test_end=test_end)
+@click.option('--embedding', help='whether to use embedding',type=bool, default=False)
+def one_shot_multi(train_start, test_start, test_end ,embedding):
+    create_one_shot_multi_output_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
 
 
 @traintest.command()

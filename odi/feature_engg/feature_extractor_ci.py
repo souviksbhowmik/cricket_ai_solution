@@ -19,7 +19,7 @@ from sklearn.linear_model import LinearRegression
 SELECTED_FIRST_INNINGS_FEATURE_LIST_CACHE = None
 SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE = None
 TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_CACHE = None
-TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_CACHE = None
+#TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_CACHE = None
 TEAM_EMBEDDING_MODEL_CACHE = None
 COUNTRY_ENC_MAP_CACHE = None
 LOC_ENC_MAP_CACHE = None
@@ -72,10 +72,16 @@ def get_bowler_score_features(player_list_df,ref_date=None):
     else:
         pass
 
+
     score_sum = player_list_df['bowler_score'].sum()
     score_mean = player_list_df['bowler_score'].mean()
     score_max = player_list_df['bowler_score'].max()
 
+    if player_list_df['winning_contribution'].sum() == 0:
+        player_list_df['winning_contribution'] = 1
+
+    if player_list_df['winning_wicket_rate_contribution'].sum() ==0:
+        player_list_df['winning_wicket_rate_contribution'] = 1
     player_list_df['score_weighted_contribution'] = player_list_df['bowler_score']*player_list_df['winning_contribution']
     player_list_df['score_weighted_wr_contribution'] = player_list_df['bowler_score']*player_list_df['winning_wicket_rate_contribution']
 
@@ -154,6 +160,13 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
     score_max = player_list_df.head(7)['batsman_score'].max()
 
     # weighted_by_correlation
+    if player_list_df['correlation'].sum()==0:
+        player_list_df['correlation']=1
+    if player_list_df['winning_contribution'].sum()==0:
+        player_list_df['winning_contribution'] =1
+    if player_list_df['run_rate_effectiveness'].sum() ==0:
+        player_list_df['run_rate_effectiveness'] = 1
+
     player_list_df['score_weighted_corr'] = player_list_df['batsman_score'] * player_list_df['correlation']
     player_list_df['score_weighted_contr'] = player_list_df['batsman_score'] * player_list_df[
         'winning_contribution']
@@ -182,6 +195,13 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
     score_sum_weighted_by_contribution_4 = player_list_df.head(4)['score_weighted_contr'].sum()
     score_sum_weighted_by_effectiveness_4 = player_list_df.head(4)['score_weighted_effectiveness'].sum()
     score_sum_weighted_by_log_4 = player_list_df.head(4)['score_weighted_log'].sum()
+
+    if player_list_df.head(4)['correlation'].sum()==0:
+        player_list_df['correlation']=1
+    if player_list_df.head(4)['winning_contribution'].sum()==0:
+        player_list_df['winning_contribution'] =1
+    if player_list_df.head(4)['run_rate_effectiveness'].sum() ==0:
+        player_list_df['run_rate_effectiveness'] = 1
 
     score_mean_weighted_by_correlation_4 = player_list_df.head(4)['score_weighted_corr'].sum() / \
                                            player_list_df.head(4)['correlation'].sum()
@@ -747,7 +767,7 @@ def update_dict_with_prefix(dict_1,dict_2,pref=''):
 
     return dict_1
 
-def get_location_mean_by_date(location,ref_date=None):
+def get_location_mean_by_date(location,ref_date=None,innings_type='first'):
 
     if ref_date == None:
         ref_date = cricutil.today_as_date_time()
@@ -755,10 +775,13 @@ def get_location_mean_by_date(location,ref_date=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
 
     matches = match_list_df[(match_list_df['location']==location) & (match_list_df['date']<ref_date)]
-    if matches.shape[0]>1:
-        location_mean = matches['first_innings_run'].mean()
+    if matches.shape[0]>=3:
+        location_mean = matches[innings_type+'_innings_run'].mean()
     else:
-        location_mean = first_innings_default_mean
+        if innings_type == "first":
+            location_mean = first_innings_default_mean
+        else:
+            location_mean = second_innings_default_mean
 
     return location_mean
 
@@ -815,7 +838,9 @@ def get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,te
     #print(feature_dict)
     return feature_dict
 
-def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df, team_a_bowler_list_df,team_b_bowler_list_df, ref_date=None,no_of_years=None):
+def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df,
+                                           team_a_bowler_list_df,team_b_bowler_list_df,
+                                           ref_date=None,no_of_years=None,embedding = False):
 
     team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
     team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)
@@ -826,7 +851,74 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
     team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df, ref_date=ref_date)
     team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df, ref_date=ref_date)
 
-    location_mean = get_location_mean_by_date(location,ref_date=ref_date)
+    location_mean_till_date_first = get_location_mean_by_date(location,ref_date=ref_date,innings_type="first")
+    location_mean_till_date_second = get_location_mean_by_date(location, ref_date=ref_date, innings_type="second")
+
+    ### get first innings trends #####
+
+    # current_base_first, current_trend_first, current_trend_predict_first, current_mean_first = \
+    #     get_trend_recent(team_a, ref_date=ref_date, no_of_years=no_of_years, innings_type="first")
+    #
+    # if current_base_first is None:
+    #     raise Exception('Team history unavailable')
+    #
+    # innings_mean_first = get_conditional_mean(ref_date=ref_date, innings_type="first")
+    # run_factor_first = current_mean_first / innings_mean_first
+    #
+    # location_base_first, location_trend_first, location_trend_predict_first, location_mean_first = \
+    #     get_trend_at_location(team_a, location, ref_date=ref_date, no_of_years=no_of_years, innings_type="first")
+    #
+    # if location_base_first is None:
+    #     innings_location_mean_first = get_conditional_mean(condition='location', condition_value=location,
+    #                                                  ref_date=ref_date, innings_type="first")
+    #     adjusted_location_mean_first = innings_location_mean_first * run_factor_first
+    #
+    #     location_base_first, location_trend_first, location_trend_predict_first, location_mean_first= \
+    #         (adjusted_location_mean_first, 0, adjusted_location_mean_first, adjusted_location_mean_first)
+    #
+    # opponent_base_first, opponent_trend_first, opponent_trend_predict_first, opponent_mean_first = \
+    #     get_trend_with_opponent(team_a, team_b, ref_date=ref_date, no_of_years=no_of_years, innings_type="first")
+    #
+    # if opponent_base_first is None:
+    #     innings_opponent_mean_first = get_conditional_mean(condition='second_innings', condition_value=team_b,
+    #                                                  ref_date=ref_date, innings_type="first")
+    #     adjusted_opponent_mean_first = innings_opponent_mean_first * run_factor_first
+    #     opponent_base_first, opponent_trend_first, opponent_trend_predict_first, opponent_mean_first = \
+    #         (adjusted_opponent_mean_first, 0, adjusted_opponent_mean_first, adjusted_opponent_mean_first)
+    #
+    #
+    # ### get second innings trends #####
+    #
+    # current_base_second, current_trend_second, current_trend_predict_second, current_mean_second = \
+    #     get_trend_recent(team_b, ref_date=ref_date, no_of_years=no_of_years, innings_type="second")
+    #
+    # if current_base_second is None:
+    #     raise Exception('Team_b history unavailable')
+    #
+    # innings_mean_second = get_conditional_mean(ref_date=ref_date, innings_type="second")
+    # run_factor_second = current_mean_second / innings_mean_second
+    #
+    # location_base_second, location_trend_second, location_trend_predict_second, location_mean_second = \
+    #     get_trend_at_location(team_b, location, ref_date=ref_date, no_of_years=no_of_years, innings_type="second")
+    #
+    # if location_base_second is None:
+    #     innings_location_mean_second = get_conditional_mean(condition='location', condition_value=location,
+    #                                                        ref_date=ref_date, innings_type="second")
+    #     adjusted_location_mean_second = innings_location_mean_second * run_factor_second
+    #
+    #     location_base_second, location_trend_second, location_trend_predict_second, location_mean_second = \
+    #         (adjusted_location_mean_second, 0, adjusted_location_mean_second, adjusted_location_mean_second)
+    #
+    # opponent_base_second, opponent_trend_second, opponent_trend_predict_second, opponent_mean_second = \
+    #     get_trend_with_opponent(team_b, team_a, ref_date=ref_date, no_of_years=no_of_years, innings_type="second")
+    #
+    # if opponent_base_first is None:
+    #     innings_opponent_mean_second = get_conditional_mean(condition='first_innings', condition_value=team_a,
+    #                                                        ref_date=ref_date, innings_type="second")
+    #     adjusted_opponent_mean_second = innings_opponent_mean_second * run_factor_second
+    #     opponent_base_second, opponent_trend_second, opponent_trend_predict_second, opponent_mean_second = \
+    #         (adjusted_opponent_mean_second, 0, adjusted_opponent_mean_second, adjusted_opponent_mean_second)
+
 
     feature_dict_team_a = {
         'first_team_a': team_a,
@@ -836,9 +928,19 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
         'first_team_a_quantile':team_a_quantile,
         'first_team_b_score': team_b_score,
         'first_team_b_quantile': team_b_quantile,
-        'first_location_mean':location_mean
-
-
+        'first_location_mean':location_mean_till_date_first
+        # 'current_base_first' : current_base_first,
+        # 'current_trend_first': current_trend_first,
+        # 'current_trend_predict_first': current_trend_predict_first,
+        # 'current_mean_first':current_mean_first,
+        # 'location_base_first': location_base_first,
+        # 'location_trend_first':location_trend_first,
+        # 'location_trend_predict_first': location_trend_predict_first,
+        # 'location_mean_first':location_mean_first,
+        # 'opponent_base_first': opponent_base_first,
+        # 'opponent_trend_first':opponent_trend_first,
+        # 'opponent_trend_predict_first':opponent_trend_predict_first,
+        # 'opponent_mean_first':opponent_mean_first
     }
 
     feature_dict_team_b = {
@@ -849,7 +951,19 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
         'second_team_a_quantile': team_a_quantile,
         'second_team_b_score': team_b_score,
         'second_team_b_quantile': team_b_quantile,
-        'second_location_mean': location_mean
+        'second_location_mean': location_mean_till_date_first
+        # 'current_base_second': current_base_second,
+        # 'current_trend_second': current_trend_second,
+        # 'current_trend_predict_second': current_trend_predict_second,
+        # 'current_mean_second': current_mean_second,
+        # 'location_base_second': location_base_second,
+        # 'location_trend_second': location_trend_second,
+        # 'location_trend_predict_second': location_trend_predict_second,
+        # 'location_mean_second': location_mean_second,
+        # 'opponent_base_second': opponent_base_second,
+        # 'opponent_trend_second': opponent_trend_second,
+        # 'opponent_trend_predict_second': opponent_trend_predict_second,
+        # 'opponent_mean_second': opponent_mean_second
 
     }
 
@@ -897,8 +1011,12 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
 
     if opponent_base is None:
 
-        innings_opponent_mean = get_conditional_mean(condition='first_innings', condition_value=opponent,
-                                                           ref_date=ref_date, innings_type=innings_type)
+        if innings_type == 'first':
+            innings_opponent_mean = get_conditional_mean(condition='seond_innings', condition_value=opponent,
+                                                               ref_date=ref_date, innings_type=innings_type)
+        else:
+            innings_opponent_mean = get_conditional_mean(condition='first_innings', condition_value=opponent,
+                                                         ref_date=ref_date, innings_type=innings_type)
         adjusted_opponent_mean = innings_opponent_mean * run_factor
         opponent_base, opponent_trend, opponent_trend_predict, opponent_mean = \
             (adjusted_opponent_mean, 0, adjusted_opponent_mean, adjusted_opponent_mean)

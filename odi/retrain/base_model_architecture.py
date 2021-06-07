@@ -159,7 +159,7 @@ def one_shot_multi_output_neural(first_innings_vector_length, second_innings_vec
 
     second_innings_output = Dense(1, name="is_win", use_bias=True, kernel_regularizer=l2(0.01),
                                  bias_regularizer=l2(0.01),
-                                 kernel_initializer='normal')(second_innings_hidden_3)
+                                 kernel_initializer='normal',activation="tanh")(second_innings_hidden_3)
 
 
 
