@@ -350,6 +350,160 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
     else:
         print("Metrics not better than Pre-tune")
 
+def retrain_one_shot_multi_with_fs(learning_rate=0.001,epoch = 150,batch_size=10,monitor="accuracy",mode="train"):
+    metrics_map={
+        "mape":"val_final_score_mean_absolute_percentage_error",
+        "mae":"val_final_score_mean_absolute_error",
+        "accuracy":"val_is_win_accuracy:"
+    }
+
+    if not os.path.isdir(outil.CHECKPOINT_DIR):
+        os.makedirs(outil.CHECKPOINT_DIR)
+
+    checkpoint_file_name = os.path.join(outil.CHECKPOINT_DIR,outil.ONE_SHOT_MULTI_NEURAL+'_chk.h5')
+    x1_scaler = StandardScaler()
+    x2_scaler = StandardScaler()
+
+    train_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_1), 'rb'))
+    train_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_x_2), 'rb'))
+    train_x_1 = x1_scaler.fit_transform(train_x_1)
+    train_x_2 = x2_scaler.fit_transform(train_x_2)
+
+    train_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_1), 'rb'))
+    train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_2), 'rb'))
+    train_y_3 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_train_y_3), 'rb'))
+
+    test_x_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_1), 'rb'))
+    test_x_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_x_2), 'rb'))
+    test_x_1 = x1_scaler.transform(test_x_1)
+    test_x_2 = x2_scaler.transform(test_x_2)
+
+    test_y_1 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_1), 'rb'))
+    test_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_2), 'rb'))
+    test_y_3 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_multi_test_y_3), 'rb'))
+
+    cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
+    cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
+
+
+    #***** perform feature selection************#
+    pipe_first_sfs = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+    sfs_1 = SequentialFeatureSelector(pipe_first_sfs, n_features_to_select=10)
+    sfs_1.fit(train_x_1, train_y_1)
+
+    selected_index_1 = np.where(sfs_1.get_support())[0]
+
+    pipe_second_sfs = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+    sfs_2 = SequentialFeatureSelector(pipe_second_sfs, n_features_to_select=10)
+    sfs_2.fit(train_x_2, train_y_3)
+
+    selected_index_2 = np.where(sfs_2.get_support())[0]
+
+    #print('========',train_x_1.shape,test_x_1.shape)
+    train_x_1 = train_x_1[:,selected_index_1]
+    test_x_1 = test_x_1[:,selected_index_1]
+
+    train_x_2 = train_x_2[:,selected_index_2]
+    test_x_2 = test_x_2[:,selected_index_2]
+
+
+    #******** end ************#
+
+
+    combined_model = bma.one_shot_multi_output_neural_fs(train_x_1.shape[1],train_x_2.shape[1])
+
+    loss = {
+               'final_score': 'mean_squared_error',
+               'achieved_score': 'mean_squared_error',
+               'is_win': 'binary_crossentropy'
+
+            }
+    metrics = {
+        'final_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'achieved_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'is_win': 'accuracy'
+
+    }
+    loss_weights = {
+                       'final_score':4,
+                        'achieved_score':4,
+                       'is_win': 50
+
+
+                        #is_win:2000
+                    }
+
+
+
+    combined_model.compile(loss=loss, metrics=metrics,loss_weights=loss_weights,optimizer=Adam(learning_rate))
+
+
+    # load exisitng wiights for tuning
+    pretune_train_metrics = None
+    pretune_test_metrics = None
+    if mode=="tune":
+        combined_model = outil.load_keras_model_weights(combined_model,
+                                                    os.path.join(outil.DEV_DIR,
+                                                                 outil.ONE_SHOT_MULTI_NEURAL)
+                                                    )
+        pretune_train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+        pretune_test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
+
+    checkpoint = ModelCheckpoint(filepath=checkpoint_file_name,
+                                 monitor='val_is_win_accuracy',
+                                 verbose=1,
+                                 save_freq="epoch",
+                                 save_best_only=True,
+                                 mode='max')
+    callbacks_list = [checkpoint]
+
+    combined_model.fit([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2],
+                   validation_data=([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2]),
+                   epochs=epoch, batch_size=batch_size,
+                   callbacks=callbacks_list)
+
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
+
+    print('\n\nFINAL METRICS:')
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nCHECKPOINT METRICS:')
+    combined_model = outil.load_keras_model_weights(combined_model,checkpoint_file_name)
+    train_metrics = combined_model.evaluate([train_x_1, train_x_2], [train_y_1,train_y_3,train_y_2])
+    test_metrics = combined_model.evaluate([test_x_1, test_x_2], [test_y_1,test_y_3,test_y_2])
+    print(train_metrics)
+    print(test_metrics)
+
+    print('\n\nPRETUNED METRICS:')
+    print(pretune_train_metrics)
+    print(pretune_test_metrics)
+
+    metrics_index = 5
+    if (mode == "train") or \
+            (mode == "tune" and test_metrics[metrics_index] > pretune_test_metrics[metrics_index]):
+
+        print("Saving models - (in case of tuning - metrics improved) ")
+        # outil.store_keras_model(combined_model,os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_NEURAL))
+        # pickle.dump(x1_scaler,open(os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_SCALER_X1),"wb"))
+        # pickle.dump(x2_scaler, open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "wb"))
+        # outil.create_model_meta_info_entry('combined_multi_output',
+        #                                    train_metrics,
+        #                                    test_metrics,
+        #                                    info="metrics is mape, mae, accuracy(best accuracy)",
+        #                                    file_list=[
+        #                                        outil.ONE_SHOT_MULTI_NEURAL+'.json',
+        #                                        outil.ONE_SHOT_MULTI_NEURAL + '.h5',
+        #                                        outil.ONE_SHOT_MULTI_SCALER_X1,
+        #                                        outil.ONE_SHOT_MULTI_SCALER_X2
+        #
+        #                                    ])
+
+
+    else:
+        print("Metrics not better than Pre-tune")
+
 
 def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,monitor="mape",mode="train"):
     metrics_map={
@@ -1410,9 +1564,13 @@ def train_batsman_embedding(learning_rate,epoch,batch_size,monitor,mode):
 @click.option('--batch_size', help='batch_size',default=10,type=int)
 @click.option('--monitor', help='mae or mape',default='accuracy')
 @click.option('--mode', help='train or tune',default='train')
-def train_multi_output_neural(learning_rate,epoch,batch_size,monitor,mode):
-    retrain_one_shot_multi(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
-
+@click.option('--fs', help='to use feature selection',default=False, type=bool)
+def train_multi_output_neural(learning_rate,epoch,batch_size,monitor,mode,fs):
+    if not fs:
+        retrain_one_shot_multi(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
+    else:
+        print("=========using feature selection==========")
+        retrain_one_shot_multi_with_fs(learning_rate=learning_rate, epoch=epoch, batch_size=batch_size,monitor=monitor,mode=mode)
 
 @retrain.command()
 @click.option('--learning_rate', help='learning rate',default=0.001,type=float)
