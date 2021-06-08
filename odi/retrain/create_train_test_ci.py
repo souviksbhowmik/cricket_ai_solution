@@ -983,8 +983,8 @@ def create_second_level_any_innings_train_test(train_start,test_start,test_end=N
     #pickle.dump(concatenated_test_df, open('concatenated_test_df.pkl', 'wb'))
     #******************#
 
-    cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
-    cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
+    cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, one_shot_multi_columns_1), 'rb'))
+    cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, one_shot_multi_columns_2), 'rb'))
 
     alt_cols_1 = []
     for col in cols_1:
