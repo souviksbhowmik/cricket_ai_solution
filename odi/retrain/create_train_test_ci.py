@@ -979,53 +979,73 @@ def create_second_level_any_innings_train_test(train_start,test_start,test_end=N
     concatenated_test_df.dropna(inplace=True)
 
     #******* to be removed*******#
-    pickle.dump(concatenated_train_df,open('concatenated_train_df.pkl','wb'))
-    pickle.dump(concatenated_test_df, open('concatenated_test_df.pkl', 'wb'))
+    #pickle.dump(concatenated_train_df,open('concatenated_train_df.pkl','wb'))
+    #pickle.dump(concatenated_test_df, open('concatenated_test_df.pkl', 'wb'))
     #******************#
 
-    first_innings_team_a_train_df = concatenated_train_df[list(first_innings_team_a_train_df.columns)]
-    second_innings_team_b_train_df = concatenated_train_df[list(second_innings_team_b_train_df.columns)]
-    first_innings_team_b_train_df = concatenated_train_df[list(first_innings_team_b_train_df.columns)]
-    second_innings_team_a_train_df = concatenated_train_df[list(second_innings_team_a_train_df.columns)]
+    cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
+    cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
+
+    alt_cols_1 = []
+    for col in cols_1:
+        alt_cols_1.append('alt_' + col)
+
+    alt_cols_2 = []
+    for col in cols_2:
+        alt_cols_2.append('alt_' + col)
+
+    first_innings_team_a_train_df = concatenated_train_df[list(cols_1)]
+    second_innings_team_b_train_df = concatenated_train_df[list(cols_2)]
+    first_innings_team_b_train_df = concatenated_train_df[alt_cols_1]
+    second_innings_team_a_train_df = concatenated_train_df[alt_cols_2]
 
     win_list_train = list(concatenated_train_df['win'])
 
-
-    first_innings_team_a_test_df = concatenated_test_df[list(first_innings_team_a_test_df.columns)]
-    second_innings_team_b_test_df = concatenated_test_df[list(second_innings_team_b_test_df.columns)]
-    first_innings_team_b_test_df = concatenated_test_df[list(first_innings_team_b_test_df.columns)]
-    second_innings_team_a_test_df = concatenated_test_df[list(second_innings_team_a_test_df.columns)]
+    first_innings_team_a_test_df = concatenated_test_df[list(cols_1)]
+    second_innings_team_b_test_df = concatenated_test_df[list(cols_2)]
+    first_innings_team_b_test_df = concatenated_test_df[alt_cols_1]
+    second_innings_team_a_test_df = concatenated_test_df[alt_cols_2]
 
     win_list_test = list(concatenated_test_df['win'])
 
+    train_x_1 = np.array(first_innings_team_a_train_df)
+    train_x_2 = np.array(second_innings_team_b_train_df)
 
+    train_x_1_alt = np.array(first_innings_team_b_train_df)
+    train_x_2_alt = np.array(second_innings_team_a_train_df)
 
-    train_x_1 = np.array(first_innings_team_a_train_df.drop(columns=['first_team_a', 'first_team_b', 'first_location']))
-    train_x_2 = np.array(second_innings_team_b_train_df.drop(columns=['second_team_a', 'second_team_b', 'second_location']))
+    train_y = np.array(concatenated_train_df['win'])
 
-    train_x_1_alt = np.array(first_innings_team_b_train_df.drop(columns=['alt_first_team_a', 'alt_first_team_b', 'alt_first_location']))
-    train_x_2_alt = np.array(second_innings_team_a_train_df.drop(columns=['alt_second_team_a', 'alt_second_team_b', 'alt_second_location']))
-
-    train_y =  np.array(concatenated_train_df['win'])
-
-    test_x_1 = np.array(first_innings_team_a_test_df.drop(columns=['first_team_a', 'first_team_b', 'first_location']))
-    test_x_2 = np.array(second_innings_team_b_test_df.drop(columns=['second_team_a', 'second_team_b', 'second_location']))
-    test_x_1_alt = np.array(first_innings_team_b_test_df.drop(columns=['alt_first_team_a', 'alt_first_team_b', 'alt_first_location']))
-    test_x_2_alt = np.array(second_innings_team_a_test_df.drop(columns=['alt_second_team_a', 'alt_second_team_b', 'alt_second_location']))
+    test_x_1 = np.array(first_innings_team_a_test_df)
+    test_x_2 = np.array(second_innings_team_b_test_df)
+    test_x_1_alt = np.array(first_innings_team_b_test_df)
+    test_x_2_alt = np.array(second_innings_team_a_test_df)
 
     test_y = np.array(concatenated_test_df['win'])
 
+    x1_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X1), "rb"))
+    x2_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "rb"))
 
-    combined_model = outil.load_keras_model(os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_NEURAL))
+    train_x_1 = x1_scaler.transform(train_x_1)
+    train_x_2 = x2_scaler.transform(train_x_2)
+    train_x_1_alt = x1_scaler.transform(train_x_1_alt)
+    train_x_2_alt = x2_scaler.transform(train_x_2_alt)
 
-    actual_train_prediction = combined_model.predict([train_x_1,train_x_2])
-    alternate_train_prediction = combined_model.predict([train_x_1_alt,train_x_2_alt])
+    test_x_1 = x1_scaler.transform(test_x_1)
+    test_x_2 = x2_scaler.transform(test_x_2)
+    test_x_1_alt = x1_scaler.transform(test_x_1_alt)
+    test_x_2_alt = x2_scaler.transform(test_x_2_alt)
 
-    train_x = np.concatenate([actual_train_prediction,alternate_train_prediction],axis=1)
+    combined_model = outil.load_keras_model(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_NEURAL))
 
-    actual_test_prediction = combined_model.predict([test_x_1, test_x_2])
-    alternate_test_prediction = combined_model.predict([test_x_1_alt, test_x_2_alt])
-    test_x = np.concatenate([actual_test_prediction, alternate_test_prediction], axis=1)
+    predict_train_1, predict_train_2, predict_train_3 = combined_model.predict([train_x_1, train_x_2])
+    predict_train_alt_1, predict_train_alt_2, predict_train_alt_3 = combined_model.predict([train_x_1_alt, train_x_2_alt])
+
+    predict_test_1, predict_test_2, predict_test_3 = combined_model.predict([test_x_1, test_x_2])
+    predict_test_alt_1, predict_test_alt_2, predict_test_alt_3 = combined_model.predict([test_x_1_alt, test_x_2_alt])
+
+    train_x = np.concatenate([predict_train_1, predict_train_2, predict_train_3, predict_train_alt_1, predict_train_alt_2, predict_train_alt_3], axis=1)
+    test_x = np.concatenate([predict_test_1, predict_test_2, predict_test_3,predict_test_alt_1, predict_test_alt_2, predict_test_alt_3], axis=1)
 
 
 

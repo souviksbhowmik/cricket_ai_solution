@@ -563,5 +563,21 @@
       "country_emb_feature_2nd_target_oh_test_x.pkl",
       "country_emb_feature_2nd_win_test_y.pkl"
     ]
+  },
+  "second_level_any_inst_train_xy": {
+    "start_date": "2004-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "second_level_any_inst_train_x.pkl",
+      "second_level_any_inst_train_y.pkl"
+    ]
+  },
+  "second_level_any_inst_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "second_level_any_inst_test_x.pkl",
+      "second_level_any_inst_test_y.pkl"
+    ]
   }
 }
