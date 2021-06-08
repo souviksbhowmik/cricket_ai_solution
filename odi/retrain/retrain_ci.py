@@ -205,7 +205,7 @@ def retrain_country_embedding_second(learning_rate=0.001,epoch = 150,batch_size=
                                 os.path.join(outil.DEV_DIR, outil.TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL_2ND))
         outil.store_keras_model(team_model,
                                 os.path.join(outil.DEV_DIR, outil.TEAM_EMBEDDING_MODEL_2ND))
-        outil.create_model_meta_info_entry('team_opponent_location_embedding',
+        outil.create_model_meta_info_entry('team_opponent_location_embedding_2nd',
                                            train_metrics,
                                            test_metrics,
                                            info="metrics is mse, mape, mae(best mape)",
