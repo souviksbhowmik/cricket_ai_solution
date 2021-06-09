@@ -130,6 +130,8 @@ combined_train_y = 'combined_train_y.pkl'
 combined_test_x = 'combined_test_x.pkl'
 combined_test_y = 'combined_test_y.pkl'
 
+default_location = 'The Oval'
+
 
 
 def create_country_embedding_train_test(train_start,test_start,test_end=None,encoding_source='dev'):
@@ -735,15 +737,25 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
             print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
             #raise ex
 
+    if embedding:
+        print("updating with location score")
 
     first_innings_train_df = pd.DataFrame(feature_list_team_a_train)
+    if embedding :
+        first_innings_train_df = update_first_innings_location_score(first_innings_train_df)
     second_innings_train_df =  pd.DataFrame(feature_list_team_b_train)
+    if embedding:
+        second_innings_train_df =  update_second_innings_location_score(second_innings_train_df)
     first_innings_train_df['target'] = target_list_train
     second_innings_train_df['win'] = win_list_train
     second_innings_train_df['achieved'] = achieved_list_train
 
     first_innings_test_df = pd.DataFrame(feature_list_team_a_test)
+    if embedding:
+        first_innings_test_df = update_first_innings_location_score(first_innings_test_df)
     second_innings_test_df = pd.DataFrame(feature_list_team_b_test)
+    if embedding:
+        second_innings_test_df = update_second_innings_location_score(second_innings_test_df)
     first_innings_test_df['target'] = target_list_test
     second_innings_test_df['win'] = win_list_test
     second_innings_test_df['achieved'] = achieved_list_test
@@ -827,6 +839,81 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
 
     print("train size ",train_x_1.shape,train_x_2.shape)
     print("test size ", test_x_1.shape,test_x_2.shape)
+
+
+
+def update_first_innings_location_score(first_innings_df):
+
+    country_map = pickle.load(open(outil.DEV_DIR + os.sep + outil.COUNTRY_ENCODING_MAP, 'rb'))
+    loc_map = pickle.load(open(outil.DEV_DIR + os.sep + outil.LOC_ENCODING_MAP, 'rb'))
+
+    runs_model = outil.load_keras_model(os.path.join(outil.DEV_DIR, outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL))
+
+    team_oh_list = []
+    opponent_oh_list = []
+    location_oh_list = []
+    default_loc_oh = loc_map[default_location]
+    for index in range(first_innings_df.shape[0]):
+        team = first_innings_df.iloc[index]['first_team_a']
+        opponent = first_innings_df.iloc[index]['first_team_b']
+        location = first_innings_df.iloc[index]['first_location']
+
+        team_oh = country_map[team]
+        opponent_oh = country_map[opponent]
+        if location in loc_map:
+            location_oh = loc_map[location]
+        else:
+            location_oh = default_loc_oh
+
+        team_oh_list.append(team_oh)
+        opponent_oh_list.append(opponent_oh)
+        location_oh_list.append(location_oh)
+
+    team_oh_mat = np.stack(team_oh_list)
+    opponent_oh_mat = np.stack(opponent_oh_list)
+    location_oh_mat = np.stack(location_oh_list)
+
+    prediction = runs_model.predict([team_oh_mat,opponent_oh_mat,location_oh_mat])
+    first_innings_df["location_embedding_prediction"]=prediction
+
+    return first_innings_df
+
+def update_second_innings_location_score(second_innings_df):
+
+    country_map = pickle.load(open(outil.DEV_DIR + os.sep + outil.COUNTRY_ENCODING_MAP, 'rb'))
+    loc_map = pickle.load(open(outil.DEV_DIR + os.sep + outil.LOC_ENCODING_MAP, 'rb'))
+
+    runs_model = outil.load_keras_model(os.path.join(outil.DEV_DIR, outil.TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL_2ND))
+
+    team_oh_list = []
+    opponent_oh_list = []
+    location_oh_list = []
+    default_loc_oh = loc_map[default_location]
+    for index in range(second_innings_df.shape[0]):
+        team = second_innings_df.iloc[index]['second_team_b']
+        opponent = second_innings_df.iloc[index]['second_team_a']
+        location = second_innings_df.iloc[index]['second_location']
+
+        team_oh = country_map[team]
+        opponent_oh = country_map[opponent]
+        if location in loc_map:
+            location_oh = loc_map[location]
+        else:
+            location_oh = default_loc_oh
+
+        team_oh_list.append(team_oh)
+        opponent_oh_list.append(opponent_oh)
+        location_oh_list.append(location_oh)
+
+    team_oh_mat = np.stack(team_oh_list)
+    opponent_oh_mat = np.stack(opponent_oh_list)
+    location_oh_mat = np.stack(location_oh_list)
+
+    prediction = runs_model.predict([team_oh_mat, opponent_oh_mat, location_oh_mat])
+    second_innings_df["location_embedding_prediction"] = prediction
+
+    return second_innings_df
+
 
 def add_prefix_to_dict(source,prefix):
     modified_source = {}
