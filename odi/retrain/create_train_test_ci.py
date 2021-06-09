@@ -989,15 +989,13 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
 
     outil.create_meta_info_entry('mg_classification_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
-                                 file_list=[mg_train_x,
-                                            mg_train_y])
+                                 file_list=[mg_train_x,mg_train_y])
 
 
 
     outil.create_meta_info_entry('mg_classification test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
-                                 file_list=[mg_test_x,
-                                            mg_test_x])
+                                 file_list=[mg_test_x,mg_test_y])
 
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)

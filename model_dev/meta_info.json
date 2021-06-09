@@ -581,7 +581,19 @@
     ]
   },
   "mg_classification_train_xy": {
-    "start_date": "2018-01-01",
+    "start_date": "2015-01-01",
     "end_date": "2018-12-31",
     "files": [
-      
+      "mg_train_x.pkl",
+      "mg_train_y.pkl"
+    ]
+  },
+  "mg_classification test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-12-31",
+    "files": [
+      "mg_test_x.pkl",
+      "mg_test_y.pkl"
+    ]
+  }
+}
