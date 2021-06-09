@@ -1920,6 +1920,8 @@ def get_bowler_score_mg(bowler,team,bowler_master_df=None,batsman_master_df=None
                                        & (bowler_master_df['team'] == team)]['match_id'].nunique()
 
     u = math.sqrt(matches_bowled/matches_played)
+    if u == 0:
+        return None
 
     fwkts_hauls = bowler_master_df[(bowler_master_df['name'] == bowler)
                                    & (bowler_master_df['team'] == team)
