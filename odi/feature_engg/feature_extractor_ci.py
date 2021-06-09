@@ -1795,3 +1795,223 @@ def get_similar_location(current_location):
         raise Exception(" No similar location could be found")
 
 
+def get_batsman_score_mg(batsman,team,batsman_master_df=None,ref_date=None):
+    if batsman_master_df is None:
+        batsman_master_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+
+    if ref_date is None:
+        ref_date = cricutil.today_as_date_time()
+
+    batsman_master_df = batsman_master_df[batsman_master_df['date']<ref_date]
+    matches_played = batsman_master_df[(batsman_master_df['name']==batsman) & (batsman_master_df['team']==team)]['match_id'].nunique()
+    if matches_played == 0:
+        return None, None
+    matches_batted = batsman_master_df[(batsman_master_df['name']==batsman)
+                                       & (batsman_master_df['team']==team)
+                                       & (batsman_master_df['did_bat']==1)]['match_id'].nunique()
+
+    u = math.sqrt(matches_batted/matches_played)
+    num_centuries = batsman_master_df[(batsman_master_df['name']==batsman)
+                                       & (batsman_master_df['team']==team)
+                                       & (batsman_master_df['runs']>=100)]['match_id'].nunique()
+
+    num_fifties = batsman_master_df[(batsman_master_df['name'] == batsman)
+                                      & (batsman_master_df['team'] == team)
+                                      & (batsman_master_df['runs'] >= 50)
+                                    & (batsman_master_df['runs'] < 100)]['match_id'].nunique()
+
+    v = 20*num_centuries+5*num_fifties
+
+    batting_sum = batsman_master_df[(batsman_master_df['name'] == batsman)& (batsman_master_df['team'] == team)]['runs'].sum()
+    no_of_outs = batsman_master_df[(batsman_master_df['name'] == batsman)& (batsman_master_df['team'] == team)]['is_out'].sum()
+    if no_of_outs == 0:
+        no_of_outs =1
+    batting_average = batting_sum/no_of_outs
+
+    w = 0.3*v + 0.7*batting_average
+
+    career_score = u*w
+
+    recent_score = batsman_master_df[(batsman_master_df['name'] == batsman) & (batsman_master_df['team'] == team)].sort_values('date',ascending=False).head(4)['runs'].mean()
+
+
+
+    return career_score,recent_score
+
+
+def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,batsman_master_df=None,ref_date=None):
+
+    team_a_dict_list = []
+    for team_a_idx in range(team_a_batsman_list_df.shape[0]):
+
+        batsman = team_a_batsman_list_df.iloc[team_a_idx]['name']
+        team = team_a_batsman_list_df.iloc[team_a_idx]['team']
+        career_score,recent_score = get_batsman_score_mg(batsman, team, batsman_master_df=batsman_master_df, ref_date=ref_date)
+        if career_score is not None:
+            row_dict = {
+                'batsman':batsman,
+                'career_score':career_score,
+                'recent_score':recent_score
+
+            }
+            team_a_dict_list.append(row_dict)
+
+    team_b_dict_list = []
+    for team_b_idx in range(team_b_batsman_list_df.shape[0]):
+        batsman = team_b_batsman_list_df.iloc[team_b_idx]['name']
+        team = team_b_batsman_list_df.iloc[team_b_idx]['team']
+        career_score, recent_score = get_batsman_score_mg(batsman, team, batsman_master_df=batsman_master_df,
+                                                          ref_date=ref_date)
+        if career_score is not None:
+            row_dict = {
+                'batsman': batsman,
+                'career_score': career_score,
+                'recent_score': recent_score
+
+            }
+            team_b_dict_list.append(row_dict)
+
+    team_a_batsman_df = pd.DataFrame(team_a_dict_list)
+    team_b_batsman_df = pd.DataFrame(team_b_dict_list)
+
+    combined_batsman_df = pd.concat([team_a_batsman_df,team_b_batsman_df])
+    max_career_score = combined_batsman_df['career_score'].max()
+    max_recent_score = combined_batsman_df['recent_score'].max()
+
+    team_a_batsman_df['normalized_career_score'] = team_a_batsman_df['career_score']/max_career_score
+    team_a_batsman_df['normalized_recent_score'] = team_a_batsman_df['recent_score']/max_recent_score
+    team_a_batsman_df['batsman_score'] = 0.35*team_a_batsman_df['normalized_career_score'] + \
+                                         0.65*team_a_batsman_df['normalized_recent_score']
+
+    team_b_batsman_df['normalized_career_score'] = team_b_batsman_df['career_score'] / max_career_score
+    team_b_batsman_df['normalized_recent_score'] = team_b_batsman_df['recent_score'] / max_recent_score
+    team_b_batsman_df['batsman_score'] = 0.35 * team_b_batsman_df['normalized_career_score'] + \
+                                         0.65 * team_b_batsman_df['normalized_recent_score']
+
+    combined_batsman_df = pd.concat([team_a_batsman_df, team_b_batsman_df])
+    max_batsman_score = combined_batsman_df['batsman_score'].max()
+
+    team_a_batsman_df['adjusted_batsman_score'] = team_a_batsman_df['batsman_score']/max_batsman_score
+    team_b_batsman_df['adjusted_batsman_score'] = team_b_batsman_df['batsman_score'] / max_batsman_score
+
+    team_a_batting_score = team_a_batsman_df['adjusted_batsman_score'].sum()
+    team_b_batting_score = team_b_batsman_df['adjusted_batsman_score'].sum()
+
+
+    return team_a_batting_score,team_b_batting_score
+
+
+def get_bowler_score_mg(bowler,team,bowler_master_df=None,batsman_master_df=None,ref_date=None):
+
+    if batsman_master_df is None:
+        batsman_master_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    if bowler_master_df is None:
+        bowler_master_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+
+    if ref_date is None:
+        ref_date = cricutil.today_as_date_time()
+
+    batsman_master_df = batsman_master_df[batsman_master_df['date'] < ref_date]
+    bowler_master_df = bowler_master_df[bowler_master_df['date'] < ref_date]
+    matches_played = batsman_master_df[(batsman_master_df['name'] == bowler) & (batsman_master_df['team'] == team)]['match_id'].nunique()
+    if matches_played == 0:
+        return None
+    matches_bowled = bowler_master_df[(bowler_master_df['name'] == bowler)
+                                       & (bowler_master_df['team'] == team)]['match_id'].nunique()
+
+    u = math.sqrt(matches_bowled/matches_played)
+
+    fwkts_hauls = bowler_master_df[(bowler_master_df['name'] == bowler)
+                                   & (bowler_master_df['team'] == team)
+                                   & (bowler_master_df['wickets'] >= 5)]['match_id'].nunique()
+
+    wkts_taken = bowler_master_df[(bowler_master_df['name'] == bowler)
+                                   & (bowler_master_df['team'] == team)]['wickets'].sum()
+
+
+    v = 10*fwkts_hauls + wkts_taken
+
+    runs_conceeded = bowler_master_df[(bowler_master_df['name'] == bowler)
+                                   & (bowler_master_df['team'] == team)]['runs'].sum()
+    if runs_conceeded != 0:
+        adjusted_runs_conceeded = runs_conceeded
+    else:
+        adjusted_runs_conceeded = 1
+    if wkts_taken != 0:
+        bowling_avg = adjusted_runs_conceeded/wkts_taken
+    else:
+        bowling_avg = adjusted_runs_conceeded/1
+
+    overs_bowled = bowler_master_df[(bowler_master_df['name'] == bowler)
+                                   & (bowler_master_df['team'] == team)]['overs'].sum()
+
+    if overs_bowled == 0:
+        overs_bowled = 1
+    bowling_economy = adjusted_runs_conceeded/overs_bowled
+
+    w = bowling_avg*bowling_economy
+
+    bowling_score = (u*v)/w
+
+    return bowling_score
+
+
+def get_final_bowler_score_mg(team_a_bowler_list_df,team_b_bowler_list_df,batsman_master_df=None,bowler_master_df=None,ref_date=None):
+
+    team_a_dict_list = []
+    for team_a_idx in range(team_a_bowler_list_df.shape[0]):
+
+        bowler = team_a_bowler_list_df.iloc[team_a_idx]['name']
+        team = team_a_bowler_list_df.iloc[team_a_idx]['team']
+        bowler_score = get_bowler_score_mg(bowler,team,bowler_master_df=bowler_master_df,batsman_master_df=batsman_master_df,ref_date=ref_date)
+        if bowler_score is not None:
+            row_dict = {
+                'bowler':bowler,
+                'bowler_score':bowler_score
+
+            }
+            team_a_dict_list.append(row_dict)
+
+    team_b_dict_list = []
+    for team_b_idx in range(team_b_bowler_list_df.shape[0]):
+        bowler = team_b_bowler_list_df.iloc[team_b_idx]['name']
+        team = team_b_bowler_list_df.iloc[team_b_idx]['team']
+        bowler_score = get_bowler_score_mg(bowler, team, bowler_master_df=bowler_master_df,
+                                           batsman_master_df=batsman_master_df, ref_date=ref_date)
+        if bowler_score is not None:
+            row_dict = {
+                'bowler':bowler,
+                'bowler_score':bowler_score
+
+            }
+            team_b_dict_list.append(row_dict)
+
+    team_a_bowler_df = pd.DataFrame(team_a_dict_list)
+    team_b_bowler_df = pd.DataFrame(team_b_dict_list)
+
+
+
+    combined_batsman_df = pd.concat([team_a_bowler_df, team_b_bowler_df])
+    max_bowler_score = combined_batsman_df['bowler_score'].max()
+
+
+    team_a_bowler_df['adjusted_score'] = team_a_bowler_df['bowler_score']/max_bowler_score
+    team_b_bowler_df['adjusted_score'] = team_b_bowler_df['bowler_score'] / max_bowler_score
+
+    team_a_bowler_score = team_a_bowler_df['adjusted_score'].sum()
+    team_b_bowler_score = team_b_bowler_df['adjusted_score'].sum()
+
+
+    return team_a_bowler_score,team_b_bowler_score
+
+
+def get_strength_ab_mg(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df,
+                      batsman_master_df=None, bowler_master_df=None,ref_date=None):
+    team_a_batting_score, team_b_batting_score = get_final_batsman_score_mg(team_a_player_list_df, team_b_player_list_df, batsman_master_df=batsman_master_df, ref_date=ref_date)
+    team_a_bowler_score, team_b_bowler_score = get_final_bowler_score_mg(team_a_player_list_df,team_b_player_list_df,batsman_master_df=batsman_master_df,bowler_master_df=bowler_master_df,ref_date=ref_date)
+
+    strength_a_b = team_a_batting_score/team_b_bowler_score - team_b_batting_score/team_a_bowler_score
+
+    return strenth_a_b
+
+
