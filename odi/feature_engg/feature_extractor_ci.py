@@ -2005,7 +2005,7 @@ def get_final_bowler_score_mg(team_a_bowler_list_df,team_b_bowler_list_df,batsma
     return team_a_bowler_score,team_b_bowler_score
 
 
-def get_strength_ab_mg(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df,
+def get_strength_ab_mg(team_a_player_list_df,team_b_player_list_df,
                       batsman_master_df=None, bowler_master_df=None,ref_date=None):
     team_a_batting_score, team_b_batting_score = get_final_batsman_score_mg(team_a_player_list_df, team_b_player_list_df, batsman_master_df=batsman_master_df, ref_date=ref_date)
     team_a_bowler_score, team_b_bowler_score = get_final_bowler_score_mg(team_a_player_list_df,team_b_player_list_df,batsman_master_df=batsman_master_df,bowler_master_df=bowler_master_df,ref_date=ref_date)
