@@ -966,7 +966,7 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
                 win_list_test.append(team_a_win)
         except Exception as ex:
             print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
-            raise ex
+            #raise ex
 
 
     train_df = pd.DataFrame(feature_list_train)

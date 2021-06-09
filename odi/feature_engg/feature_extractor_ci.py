@@ -1803,13 +1803,12 @@ def get_batsman_score_mg(batsman,team,batsman_master_df=None,ref_date=None):
     if ref_date is None:
         ref_date = cricutil.today_as_date_time()
 
-    #print(batsman_master_df['date'].max(),batsman_master_df['date'].min())
-    #print(batsman_master_df.columns)
+
     batsman_master_df = batsman_master_df[batsman_master_df['date']<ref_date]
-    #print(" new df size ",batsman_master_df.shape,' for ',ref_date)
+
     matches_played = batsman_master_df[(batsman_master_df['name']==batsman) & (batsman_master_df['team']==team)]['match_id'].nunique()
-    #print("matches played ",matches_played)
-    if matches_played == 0:
+
+    if matches_played < 4:
         return None, None
     matches_batted = batsman_master_df[(batsman_master_df['name']==batsman)
                                        & (batsman_master_df['team']==team)
@@ -1847,15 +1846,14 @@ def get_batsman_score_mg(batsman,team,batsman_master_df=None,ref_date=None):
 def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,batsman_master_df=None,ref_date=None):
 
     team_a_dict_list = []
-    #print("===========recceived team a============ ",ref_date)
-    #print(team_a_batsman_list_df)
+
+    skipped = 0
     for team_a_idx in range(team_a_batsman_list_df.shape[0]):
 
         batsman = team_a_batsman_list_df.iloc[team_a_idx]['name']
         team = team_a_batsman_list_df.iloc[team_a_idx]['team']
         career_score,recent_score = get_batsman_score_mg(batsman, team, batsman_master_df=batsman_master_df, ref_date=ref_date)
-        #print("=============scores=====================")
-        #print(batsman,team,career_score,recent_score)
+
         if career_score is not None:
             row_dict = {
                 'batsman':batsman,
@@ -1864,17 +1862,19 @@ def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,bat
 
             }
             team_a_dict_list.append(row_dict)
+        else:
+            skipped = skipped+1
+            if skipped >2 & team_a_idx<7:
+                raise Exception("t")
 
     team_b_dict_list = []
-    #print("===========recceived team b============ ",ref_date)
-    #print(team_b_batsman_list_df)
+
     for team_b_idx in range(team_b_batsman_list_df.shape[0]):
         batsman = team_b_batsman_list_df.iloc[team_b_idx]['name']
         team = team_b_batsman_list_df.iloc[team_b_idx]['team']
         career_score, recent_score = get_batsman_score_mg(batsman, team, batsman_master_df=batsman_master_df,
                                                           ref_date=ref_date)
-        #print("=============scores=====================")
-        #print(batsman, team, career_score, recent_score)
+
         if career_score is not None:
             row_dict = {
                 'batsman': batsman,
