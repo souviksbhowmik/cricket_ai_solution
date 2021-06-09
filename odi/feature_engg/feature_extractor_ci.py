@@ -2012,6 +2012,6 @@ def get_strength_ab_mg(team_a, team_b, location, team_a_player_list_df,team_b_pl
 
     strength_a_b = team_a_batting_score/team_b_bowler_score - team_b_batting_score/team_a_bowler_score
 
-    return strenth_a_b
+    return strength_a_b
 
 
