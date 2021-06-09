@@ -579,5 +579,9 @@
       "second_level_any_inst_test_x.pkl",
       "second_level_any_inst_test_y.pkl"
     ]
-  }
-}
+  },
+  "mg_classification_train_xy": {
+    "start_date": "2018-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      

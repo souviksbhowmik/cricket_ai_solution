@@ -867,11 +867,11 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
-    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
-                                  (batting_list_df['date'] <= overall_end)]
+    # batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+    #                               (batting_list_df['date'] <= overall_end)]
     bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
-    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
-                                      (bowling_list_df['date'] <= overall_end)]
+    # bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+    #                                   (bowling_list_df['date'] <= overall_end)]
 
     loc_df = pd.read_excel(dl.CSV_LOAD_LOCATION + os.sep + 'location.xlsx')
 
@@ -884,6 +884,7 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
     feature_list_test =[]
     win_list_test = []
     #no_of_basman = 0
+    print("no of iters - ",len(match_id_list))
     for index,match_id in tqdm(enumerate(match_id_list)):
 
 
@@ -892,6 +893,7 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
         location = match_list_df[match_list_df['match_id']==match_id].iloc[0]["location"]
         ref_dt_np = match_list_df[match_list_df['match_id']==match_id].iloc[0]["date"]
         ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        #ref_date = cricutil.npdate_to_datetime(ref_dt_np)
         #runs_scored = match_list_df[match_list_df['match_id']==match_id].iloc[0]['first_innings_run']
         loc_country = loc_df[loc_df['locations'] == location]['Country'].values[0].strip()
         toss_winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]['toss_winner']
@@ -964,10 +966,8 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
                 win_list_test.append(team_a_win)
         except Exception as ex:
             print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
-            #raise ex
+            raise ex
 
-    if embedding:
-        print("updating with location score")
 
     train_df = pd.DataFrame(feature_list_train)
     test_df = pd.DataFrame(feature_list_test)
@@ -989,15 +989,15 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
 
     outil.create_meta_info_entry('mg_classification_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
-                                 file_list=[train_x,
-                                            train_y])
+                                 file_list=[mg_train_x,
+                                            mg_train_y])
 
 
 
-    outil.create_meta_info_entry('one_shot_Multi test_xy', str(test_start_dt.date()),
+    outil.create_meta_info_entry('mg_classification test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
-                                 file_list=[test_x,
-                                            test_y])
+                                 file_list=[mg_test_x,
+                                            mg_test_x])
 
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
