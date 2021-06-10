@@ -126,6 +126,9 @@ python odi/retrain/retrain_ci.py second-innings-classification
 ### step 5 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
+### Step 6 - Create second innings base model 
+python odi/retrain/retrain_ci.py one-shot-classification
+
 ### step 6 create one shot neural network with multi output train test
 python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 

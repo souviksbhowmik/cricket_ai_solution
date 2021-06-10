@@ -155,9 +155,9 @@
     ]
   },
   "selected_second_innings_features": {
-    "train_metrics": 0.8,
-    "test_metrics": 0.8333333333333334,
-    "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'batsman_mean', 'batsman_max', 'batsman_sum', 'bowler_mean', 'bowler_max', 'bowler_sum', 'target_score']",
+    "train_metrics": 0.7068965517241379,
+    "test_metrics": 0.66,
+    "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution', 'target_score']",
     "files": [
       "second_innings_selected_features.pkl",
       "second_innings_model_base.pkl",
@@ -594,6 +594,41 @@
     "files": [
       "mg_test_x.pkl",
       "mg_test_y.pkl"
+    ]
+  },
+  "first_innings_regression": {
+    "train_metrics": [
+      0.18332192433858666,
+      42.1916260489623
+    ],
+    "test_metrics": [
+      0.22390662757650026,
+      51.556133449736926
+    ],
+    "info": "metrics is mape,mae - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution']",
+    "files": [
+      "first_innings_selected_features.pkl",
+      "first_innings_model_base.pkl",
+      "first_innings_selected_colindex.pkl"
+    ]
+  },
+  "second_innings_classification": {
+    "train_metrics": 0.7068965517241379,
+    "test_metrics": 0.66,
+    "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution', 'target_score']",
+    "files": [
+      "second_innings_selected_features.pkl",
+      "second_innings_model_base.pkl",
+      "second_innings_selected_colindex.pkl"
+    ]
+  },
+  "one_shot_classification": {
+    "train_metrics": 0.7097701149425287,
+    "test_metrics": 0.7,
+    "info": "metrics is accuracy - selected :['team_a_score', 'team_a_quantile', 'team_b_score', 'team_b_quantile', 'location_mean', 'team_a_score_sum_7', 'team_a_score_sum_6', 'team_a_score_sum_5', 'team_a_score_sum_4', 'team_a_score_sum_3', 'team_a_score_max', 'team_a_score_sum_weighted_by_correlation', 'team_a_score_sum_weighted_by_contribution', 'team_a_score_sum_weighted_by_effectiveness', 'team_a_score_sum_weighted_by_log', 'team_a_score_mean_weighted_by_correlation', 'team_a_score_mean_weighted_by_contribution', 'team_a_score_mean_weighted_by_effectiveness', 'team_a_score_mean_weighted_by_log', 'team_a_score_sum_weighted_by_correlation_4', 'team_a_score_sum_weighted_by_contribution_4', 'team_a_score_sum_weighted_by_effectiveness_4', 'team_a_score_sum_weighted_by_log_4', 'team_a_score_mean_weighted_by_correlation_4', 'team_a_score_mean_weighted_by_contribution_4', 'team_a_score_mean_weighted_by_effectiveness_4', 'team_a_score_mean_weighted_by_log_4', 'team_a_score_mean_7', 'team_a_score_mean_6', 'team_a_score_mean_5', 'team_a_score_mean_4', 'team_a_score_mean_3', 'team_a_player_1', 'team_a_player_2', 'team_a_player_3', 'team_a_player_4', 'team_a_player_5', 'team_a_player_6', 'team_a_player_7', 'team_a_bowler_score_sum', 'team_a_bowler_score_mean', 'team_a_bowler_score_max', 'team_a_bowler_score_sum_weighted_by_contribution', 'team_a_bowler_score_mean_weighted_by_contribution', 'team_a_bowler_score_sum_weighted_by_wr_contribution', 'team_a_bowler_score_mean_weighted_by_wr_contribution', 'team_b_score_sum_7', 'team_b_score_sum_6', 'team_b_score_sum_5', 'team_b_score_sum_4', 'team_b_score_sum_3', 'team_b_score_max', 'team_b_score_sum_weighted_by_correlation', 'team_b_score_sum_weighted_by_contribution', 'team_b_score_sum_weighted_by_effectiveness', 'team_b_score_sum_weighted_by_log', 'team_b_score_mean_weighted_by_correlation', 'team_b_score_mean_weighted_by_contribution', 'team_b_score_mean_weighted_by_effectiveness', 'team_b_score_mean_weighted_by_log', 'team_b_score_sum_weighted_by_correlation_4', 'team_b_score_sum_weighted_by_contribution_4', 'team_b_score_sum_weighted_by_effectiveness_4', 'team_b_score_sum_weighted_by_log_4', 'team_b_score_mean_weighted_by_correlation_4', 'team_b_score_mean_weighted_by_contribution_4', 'team_b_score_mean_weighted_by_effectiveness_4', 'team_b_score_mean_weighted_by_log_4', 'team_b_score_mean_7', 'team_b_score_mean_6', 'team_b_score_mean_5', 'team_b_score_mean_4', 'team_b_score_mean_3', 'team_b_player_1', 'team_b_player_2', 'team_b_player_3', 'team_b_player_4', 'team_b_player_5', 'team_b_player_6', 'team_b_player_7', 'team_b_bowler_score_sum', 'team_b_bowler_score_mean', 'team_b_bowler_score_max', 'team_b_bowler_score_sum_weighted_by_contribution', 'team_b_bowler_score_mean_weighted_by_contribution', 'team_b_bowler_score_sum_weighted_by_wr_contribution', 'team_b_bowler_score_mean_weighted_by_wr_contribution']",
+    "files": [
+      "one_shot_classification_feature.pkl",
+      "one_shot_classification_model.pkl"
     ]
   }
 }

@@ -672,7 +672,7 @@ def retrain_first_innings_base(create_output=True, feature_selection=False,poly_
         pickle.dump(selected_index,
                     open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
-        outil.create_model_meta_info_entry('selected_first_innings_features',
+        outil.create_model_meta_info_entry('first_innings_regression',
                                            (mape_train, mae_train),
                                            (mape_test, mae_test),
                                            info="metrics is mape,mae - selected :" + str(
@@ -771,7 +771,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
     train_y = np.array(train_df['win'])
     test_y = np.array(test_df['win'])
     train_pipe = Pipeline(
-        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression())])
+        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=500))])
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
         sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
@@ -808,7 +808,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
         pickle.dump(selected_index,
                     open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
-        outil.create_model_meta_info_entry('selected_second_innings_features',
+        outil.create_model_meta_info_entry('second_innings_classification',
                                            train_accuracy,
                                            test_accuracy,
                                            info="metrics is accuracy - selected :"+str(selected_column),
@@ -1226,6 +1226,77 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
     else:
         print("Metrics not better than Pre-tune")
 
+def retrain_one_shot_classification(feature_selection=False,poly_nom=1):
+
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_y), 'rb'))
+
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_test_y), 'rb'))
+
+    cols = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_columns), 'rb'))
+
+    train_df = pd.DataFrame(train_x)
+    train_df.columns = cols
+    train_df['team_a_win'] = train_y
+
+    test_df = pd.DataFrame(test_x)
+    test_df.columns = cols
+    test_df['team_a_win'] = test_y
+
+    train_df.dropna(inplace=True)
+    test_df.dropna(inplace=True)
+
+    if feature_selection:
+        pipe = Pipeline([('scaler', StandardScaler()), ('regression', LogisticRegression())])
+        sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+        sfs.fit(train_df.drop(columns='team_a_win'), train_df['team_a_win'])
+
+        print("=======overall improtance=========")
+        selected_cols = []
+        for idx in np.where(sfs.get_support())[0]:
+            print(cols[idx])
+            selected_cols.append(cols[idx])
+
+    else:
+        selected_cols = cols
+
+    train_x = np.array(train_df[selected_cols])
+    test_x = np.array(test_df[selected_cols])
+
+    train_y = np.array(train_df['team_a_win'])
+    test_y = np.array(test_df['team_a_win'])
+
+    train_pipe = Pipeline(
+        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('regression', LogisticRegression(max_iter=500))])
+
+    train_pipe.fit(train_x, train_y)
+
+    train_predict = train_pipe.predict(train_x)
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
+
+    train_accuracy = accuracy_score(train_y, train_predict)
+    test_accuracy = accuracy_score(test_y, test_predict)
+
+    pickle.dump(selected_cols, open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_CLASSIFICATION_FEATURE_PICKLE), 'wb'))
+    pickle.dump(train_pipe, open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_CLASSIFICATION_MODEL), 'wb'))
+
+
+    outil.create_model_meta_info_entry('one_shot_classification',
+                                       train_accuracy,
+                                       test_accuracy,
+                                       info="metrics is accuracy - selected :" + str(selected_cols),
+                                       file_list=[
+                                           outil.ONE_SHOT_CLASSIFICATION_FEATURE_PICKLE,
+                                           outil.ONE_SHOT_CLASSIFICATION_MODEL
+                                       ])
+
+
+    print("train metrics (accuracy) ", train_accuracy)
+    print("test metrics (accuracy) ", test_accuracy)
+    print("train size ", train_x.shape)
+    print("test size ", test_x.shape)
 
 def retrain_one_shot_neural(learning_rate=0.001,epoch = 150,batch_size=10,monitor="accuracy",mode="train"):
     metrics_map = {
@@ -1681,6 +1752,12 @@ def second_innings_classification(create_output,feature_selection,poly_nom):
     #     retrain_second_innings_base(create_output=create_output)
     # else:
     #     select_all_columns('second')
+
+@retrain.command()
+@click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
+@click.option('--poly_nom', help='to raise to polynomial',default=1)
+def one_shot_classification(feature_selection,poly_nom):
+    retrain_one_shot_classification(feature_selection=feature_selection,poly_nom=poly_nom)
 
 @retrain.command()
 def first_innings():

@@ -10,6 +10,7 @@ FIRST_INNINGS_FEATURE_PICKLE = 'first_innings_selected_features.pkl'
 SECOND_INNINGS_FEATURE_PICKLE = 'second_innings_selected_features.pkl'
 FIRST_INNINGS_SELECTED_COLUMN_INDEX = 'first_innings_selected_colindex.pkl'
 SECOND_INNINGS_SELECTED_COLUMN_INDEX = 'second_innings_selected_colindex.pkl'
+ONE_SHOT_CLASSIFICATION_FEATURE_PICKLE = 'one_shot_classification_feature.pkl'
 COUNTRY_ENCODING_MAP = 'country_enc_map.pkl'
 LOC_ENCODING_MAP = 'loc_enc_map.pkl'
 LOC_ENCODING_MAP_FOR_BATSMAN = 'location_enc_map_for_batsman.pkl'
@@ -27,6 +28,7 @@ MG_MODEL = 'mg_model.pkl'
 
 FIRST_INNINGS_MODEL_BASE = 'first_innings_model_base.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_model_with_embedding_lrg.pkl
+ONE_SHOT_CLASSIFICATION_MODEL = 'one_shot_classification_model.pkl'
 
 TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL = 'group_encode_model'# V2 renamed
 TEAM_OPPONENT_LOCATION_EMBEDDING_RUN_MODEL = 'group_encode_run_model'
