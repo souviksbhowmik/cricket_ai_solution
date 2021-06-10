@@ -632,8 +632,8 @@
     ]
   },
   "combined_any_innings_model": {
-    "train_metrics": 0.7150684931506849,
-    "test_metrics": 0.7446808510638298,
+    "train_metrics": 0.684931506849315,
+    "test_metrics": 0.723404255319149,
     "info": "metrics is accuracy",
     "files": [
       "combined_model_any_innings.pkl"

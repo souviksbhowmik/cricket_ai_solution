@@ -1590,7 +1590,7 @@ def retrain_combined_any_innings_classification(poly_nom=4):
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
 
-    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=500))])
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=1000))])
     train_pipe.fit(train_x, train_y)
 
     train_predict = train_pipe.predict(train_x)
@@ -1836,7 +1836,7 @@ def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
 @retrain.command()
-@click.option('--poly_nom', help='whethter to raise to polynomial',default=4)
+@click.option('--poly_nom', help='whethter to raise to polynomial',default=3)
 def combined_any_innings(poly_nom):
     retrain_combined_any_innings_classification(poly_nom=poly_nom)
 
