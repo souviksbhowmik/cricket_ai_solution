@@ -604,79 +604,86 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
 
 
 
-def retrain_first_innings_base(create_output=True):
-    train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_x), 'rb'))
-    train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_y), 'rb'))
+def retrain_first_innings_base(create_output=True, feature_selection=False,poly_nom=1):
+
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_y), 'rb'))
 
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_test_y), 'rb'))
 
-    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
+    cols = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.first_innings_base_columns), 'rb'))
 
     train_df = pd.DataFrame(train_x)
-    train_df.columns = column_list
+    train_df.columns = cols
     train_df['runs'] = train_y
 
     test_df = pd.DataFrame(test_x)
-    test_df.columns = column_list
+    test_df.columns = cols
     test_df['runs'] = test_y
 
     train_df.dropna(inplace=True)
     test_df.dropna(inplace=True)
 
-    pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
-    sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
-    sfs.fit(train_df.drop(columns='runs'), train_df['runs'])
+    train_y = np.array(train_df['runs'])
+    test_y = np.array(test_df['runs'])
 
-    selected_cols = []
-    print("selected columns")
-    for idx in np.where(sfs.get_support())[0]:
-        print(column_list[idx])
-        selected_cols.append(column_list[idx])
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('regression', LinearRegression())])
 
-    train_x_selected = np.array(train_df[selected_cols])
-    test_x_selected = np.array(test_df[selected_cols])
+    if feature_selection:
+        pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+        sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+        sfs.fit(train_df.drop(columns='runs'), train_df['runs'])
 
-    train_y_selected = np.array(train_df['runs'])
-    test_y_selected = np.array(test_df['runs'])
+        print("=======overall improtance=========")
+        selected_cols = []
+        for idx in np.where(sfs.get_support())[0]:
+            print(cols[idx])
+            selected_cols.append(cols[idx])
 
-    train_pipe = Pipeline(
-        [('scaler', StandardScaler()), ('regression', LinearRegression())])
+        train_x = np.array(train_df[selected_cols])
+        test_x = np.array(test_df[selected_cols])
 
-    train_pipe.fit(train_x_selected, train_y_selected)
+        selected_column = selected_cols
+        selected_index = list(np.where(sfs.get_support())[0])
+    else:
+        train_x = np.array(train_df[cols])
+        test_x = np.array(test_df[cols])
 
-    train_predict = train_pipe.predict(train_x_selected)
-    test_predict = train_pipe.predict(test_x_selected)
+        selected_column = cols
+        selected_index = list(range(len(cols)))
 
+    train_pipe.fit(train_x, train_y)
 
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
 
-    mape_train = mean_absolute_percentage_error(train_y_selected,train_predict)
-    mape_test = mean_absolute_percentage_error(test_y_selected,test_predict)
+    mae_train = mean_absolute_error(train_y, train_predict)
+    mape_train = mean_absolute_percentage_error(train_y,train_predict)
 
-    mae_train = mean_absolute_error(train_y_selected,train_predict)
-    mae_test = mean_absolute_error(test_y_selected,test_predict)
-
-    print("from scikit learn")
-    print('metrics train ', mape_train, mae_train)
-    print('metrics test ', mape_test, mae_test)
+    mae_test = mean_absolute_error(test_y, test_predict)
+    mape_test = mean_absolute_percentage_error(test_y, test_predict)
 
 
     if create_output:
-        pickle.dump(selected_cols,open(os.path.join(outil.DEV_DIR,outil.FIRST_INNINGS_FEATURE_PICKLE),'wb'))
+
         pickle.dump(train_pipe, open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'wb'))
-        pickle.dump(list(np.where(sfs.get_support())),
+        pickle.dump(selected_column, open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_FEATURE_PICKLE), 'wb'))
+        pickle.dump(selected_index,
                     open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
         outil.create_model_meta_info_entry('selected_first_innings_features',
                                            (mape_train, mae_train),
                                            (mape_test, mae_test),
-                                           info="metrics is mape,mae - selected :"+str(selected_cols),
+                                           info="metrics is mape,mae - selected :" + str(
+                                               selected_column),
                                            file_list=[
                                                outil.FIRST_INNINGS_FEATURE_PICKLE,
                                                outil.FIRST_INNINGS_MODEL_BASE,
                                                outil.FIRST_INNINGS_SELECTED_COLUMN_INDEX
-                                               ])
-
+                                           ])
+    print("train size ",train_x.shape)
+    print("test size ", test_x.shape)
 
 def retrain_first_innings():
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_train_x), 'rb'))
@@ -739,99 +746,77 @@ def retrain_first_innings():
                                            ])
 
 
-def retrain_second_innings_base(create_output=True):
-    train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_x), 'rb'))
-    train_y =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y), 'rb'))
+def retrain_second_innings_base(create_output=True,feature_selection=False,poly_nom=1):
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y), 'rb'))
 
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_y), 'rb'))
 
-    try:
-        statsmodel_scaler = StandardScaler()
-        train_x_scaled = statsmodel_scaler.fit_transform((train_x))
-        model = sm.Logit(train_y, sm.add_constant(train_x_scaled)).fit()
+    cols = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
 
-        train_y_predict = np.round(model.predict(sm.add_constant(train_x_scaled)))
-        test_y_predict = np.round(model.predict(sm.add_constant(statsmodel_scaler.transform(test_x))))
+    train_df = pd.DataFrame(train_x)
+    train_df.columns = cols
+    train_df['win'] = train_y
 
-        accuracy_train = accuracy_score(train_y,train_y_predict)
-        accuracy_test = accuracy_score(test_y, test_y_predict)
+    test_df = pd.DataFrame(test_x)
+    test_df.columns = cols
+    test_df['win'] = test_y
 
+    train_df.dropna(inplace=True)
+    test_df.dropna(inplace=True)
 
-        print(model.summary())
-        print('metrics train ', accuracy_train)
-        print('metrics test ', accuracy_test)
-    except:
-        print("could nt do statsmodel")
+    train_y = np.array(train_df['win'])
+    test_y = np.array(test_df['win'])
+    train_pipe = Pipeline(
+        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression())])
+    if feature_selection:
+        pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
+        sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+        sfs.fit(train_df.drop(columns='win'), train_df['win'])
 
-    pipe = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
-    #pipe = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto',probability=True))])
+        print("=======overall improtance=========")
+        selected_cols = []
+        for idx in np.where(sfs.get_support())[0]:
+            print(cols[idx])
+            selected_cols.append(cols[idx])
 
-    pipe.fit(train_x,train_y)
+        train_x = np.array(train_df[selected_cols])
+        test_x = np.array(test_df[selected_cols])
 
-    train_y_predict_lr = pipe.predict(train_x)
-    test_y_predict_lr = pipe.predict(test_x)
+        selected_column = selected_cols
+        selected_index = list(np.where(sfs.get_support())[0])
+    else:
+        train_x = np.array(train_df[cols])
+        test_x = np.array(test_df[cols])
 
-    accuracy_train_lr = accuracy_score(train_y, train_y_predict_lr)
-    accuracy_test_lr = accuracy_score(test_y, test_y_predict_lr)
+        selected_column = cols
+        selected_index = list(range(len(cols)))
 
+    train_pipe.fit(train_x, train_y)
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
 
-    print("from scikit learn")
-    print('metrics train ', accuracy_train_lr)
-    print('metrics test ', accuracy_test_lr)
-
-    #print(np.where(np.array(model.pvalues) < 0.05))
-    #selected_feature_index = list(np.where(np.array(model.pvalues) < 0.05)[0])
-    selected_feature_index=list(range(train_x.shape[1]+1))
-    print("selected indices including bias ",selected_feature_index)
-    # need to substract 1 to exclude bias index consideration:
-    column_list = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
-
-    selected_column = list()
-    selected_index = list()
-    for index in selected_feature_index:
-        if index == 0:
-            continue
-        selection_index = index-1
-        selected_column.append(column_list[selection_index])
-        selected_index.append(selection_index)
-
-    print('Selected columns ',selected_column)
-
-    new_train_x = train_x[:,np.array(selected_index)]
-    new_test_x = test_x[:,np.array(selected_index)]
-    print("selected_index ",selected_index)
-    print("new train_x ",new_train_x.shape)
-    print("new test x ", new_test_x.shape)
-    pipe_new = Pipeline([('scaler', StandardScaler()), ('logistic_regression', LogisticRegression())])
-    #pipe_new = Pipeline([('scaler', StandardScaler()), ('svm', SVC(gamma='auto', probability=True,kernel='poly'))])
-    pipe_new.fit(new_train_x,train_y)
-
-    new_train_y_predict = pipe_new.predict(new_train_x)
-    new_test_y_predict = pipe_new.predict(new_test_x)
-
-    accuracy_train_new = accuracy_score(train_y, new_train_y_predict)
-    accuracy_test_new = accuracy_score(test_y, new_test_y_predict)
-
-    print("After selecting columns by p-value")
-    print("metrics train ",accuracy_train_new)
-    print("metrics test ", accuracy_test_new)
+    train_accuracy = accuracy_score(train_y, train_predict)
+    test_accuracy = accuracy_score(test_y, test_predict)
 
     if create_output:
         pickle.dump(selected_column,open(os.path.join(outil.DEV_DIR,outil.SECOND_INNINGS_FEATURE_PICKLE),'wb'))
-        pickle.dump(pipe_new, open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'wb'))
+        pickle.dump(train_pipe, open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'wb'))
         pickle.dump(selected_index,
                     open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
         outil.create_model_meta_info_entry('selected_second_innings_features',
-                                           accuracy_train_new,
-                                           accuracy_test_new,
+                                           train_accuracy,
+                                           test_accuracy,
                                            info="metrics is accuracy - selected :"+str(selected_column),
                                            file_list=[
                                                outil.SECOND_INNINGS_FEATURE_PICKLE,
                                                outil.SECOND_INNINGS_MODEL_BASE,
                                                outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX
                                                ])
+    print("train size ", train_x.shape)
+    print("test size ", test_x.shape)
 
 def retrain_second_innings():
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_train_x), 'rb'))
@@ -1672,22 +1657,26 @@ def train_one_shot_neural(learning_rate,epoch,batch_size,monitor,mode):
 
 @retrain.command()
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
-@click.option('--select_all', help='Select all features if true/otherwise use p-value',default=False,type=bool)
-def select_first_innings_feature_columns(create_output,select_all):
-    if not select_all:
-        retrain_first_innings_base(create_output=create_output)
-    else:
-        select_all_columns('first')
+@click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
+@click.option('--poly_nom', help='to raise to polynomial',default=1)
+def select_first_innings_feature_columns(create_output,feature_selection,poly_nom):
+    retrain_first_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
+    # if not select_all:
+    #     retrain_first_innings_base(create_output=create_output)
+    # else:
+    #     select_all_columns('first')
 
 
 @retrain.command()
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
-@click.option('--select_all', help='Select all features if true/otherwise use p-value',default=False,type=bool)
-def select_second_innings_feature_columns(create_output,select_all):
-    if not select_all:
-        retrain_second_innings_base(create_output=create_output)
-    else:
-        select_all_columns('second')
+@click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
+@click.option('--poly_nom', help='to raise to polynomial',default=1)
+def select_second_innings_feature_columns(create_output,feature_selection,poly_nom):
+    retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
+    # if not select_all:
+    #     retrain_second_innings_base(create_output=create_output)
+    # else:
+    #     select_all_columns('second')
 
 @retrain.command()
 def first_innings():
