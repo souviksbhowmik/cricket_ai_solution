@@ -1864,11 +1864,11 @@ def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,bat
             team_a_dict_list.append(row_dict)
         else:
             skipped = skipped+1
-            if skipped >2 & team_a_idx<7:
-                raise Exception("t")
+            if skipped >1 & team_a_idx<7:
+                raise Exception("Toot many new batsman")
 
     team_b_dict_list = []
-
+    skipped_b = 0
     for team_b_idx in range(team_b_batsman_list_df.shape[0]):
         batsman = team_b_batsman_list_df.iloc[team_b_idx]['name']
         team = team_b_batsman_list_df.iloc[team_b_idx]['team']
@@ -1883,6 +1883,10 @@ def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,bat
 
             }
             team_b_dict_list.append(row_dict)
+        else:
+            skipped_b = skipped_b+1
+            if skipped_b >1 & team_b_idx<7:
+                raise Exception("Toot many new batsman")
 
     team_a_batsman_df = pd.DataFrame(team_a_dict_list)
     team_b_batsman_df = pd.DataFrame(team_b_dict_list)
@@ -2005,6 +2009,9 @@ def get_final_bowler_score_mg(team_a_bowler_list_df,team_b_bowler_list_df,batsma
 
     team_a_bowler_df = pd.DataFrame(team_a_dict_list)
     team_b_bowler_df = pd.DataFrame(team_b_dict_list)
+
+    if team_a_bowler_df.shape[0]<5 or team_b_bowler_df.shape[0]<5:
+        raise Exception("Not enough bowlers")
 
 
 

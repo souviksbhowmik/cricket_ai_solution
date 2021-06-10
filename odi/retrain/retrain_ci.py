@@ -18,7 +18,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_scor
 from sklearn.linear_model import LinearRegression,LogisticRegression
 from sklearn.svm import SVC
 from sklearn.feature_selection import SequentialFeatureSelector
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler,PolynomialFeatures
 from sklearn.pipeline import Pipeline
 
 
@@ -1522,8 +1522,32 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     #
 
 
+def retrain_combined_any_innings_classification(poly_nom=4):
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_y), 'rb'))
 
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
+    from sklearn.ensemble import GradientBoostingClassifier
+
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression())])
+    train_pipe.fit(train_x, train_y)
+
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
+
+    train_accuracy = accuracy_score(train_y,train_predict)
+    test_accurcy = accuracy_score(test_y,test_predict)
+
+    pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_ANY_INNINGS),'wb'))
+
+    outil.create_model_meta_info_entry('combined_any_innings_model',
+                                       train_accuracy,
+                                       test_accurcy,
+                                       info="metrics is accuracy",
+                                       file_list=[outil.COMBINED_MODEL_ANY_INNINGS]
+                                       )
 
 @click.group()
 def retrain():
