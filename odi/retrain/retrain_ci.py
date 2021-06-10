@@ -1529,7 +1529,6 @@ def retrain_combined_any_innings_classification(poly_nom=4):
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
-    from sklearn.ensemble import GradientBoostingClassifier
 
     train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression())])
     train_pipe.fit(train_x, train_y)
@@ -1713,6 +1712,11 @@ def adversarial_first_innings():
 @click.option('--second_innings_emb', help='whether to use embedding in first innnings',required=True,type=bool)
 def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
+
+@retrain.command()
+@click.option('--poly_nom', help='whethter to raise to polynomial',default=4)
+def combined_any_innings(poly_nom):
+    retrain_combined_any_innings_classification(poly_nom=poly_nom)
 
 @retrain.command()
 @click.option('--start_date', help='start date for train data (YYYY-mm-dd)',required=True)
