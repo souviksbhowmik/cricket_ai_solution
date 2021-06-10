@@ -13,6 +13,8 @@ from scipy.stats import pearsonr
 
 from keras.optimizers import Adam
 from keras.callbacks import ModelCheckpoint
+import keras.backend as K
+from keras.metrics import binary_accuracy
 from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,precision_recall_fscore_support,mean_absolute_percentage_error
 
 from sklearn.linear_model import LinearRegression,LogisticRegression
@@ -222,6 +224,13 @@ def retrain_country_embedding_second(learning_rate=0.001,epoch = 150,batch_size=
         print("Metrics not better than Pre-tune")
 
 
+def accuracyt(y_true, y_pred):
+
+    y_pred_mod = K.cast((y_pred>0),'float32')
+
+    return binary_accuracy(y_true,y_pred_mod)
+
+
 def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor="accuracy",mode="train"):
     metrics_map={
         "mape":"val_final_score_mean_absolute_percentage_error",
@@ -267,7 +276,8 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
     metrics = {
         'final_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
         'achieved_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
-        'is_win': 'accuracy'
+        'is_win':'accuracy'
+        #'is_win': 'accuracyt'
 
     }
     loss_weights = {
@@ -276,7 +286,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
                        'is_win': 50
 
 
-                        #is_win:2000
+
                     }
 
 
