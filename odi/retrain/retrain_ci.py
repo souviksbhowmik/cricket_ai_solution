@@ -1478,7 +1478,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     sfs_first = SequentialFeatureSelector(pipe, n_features_to_select=5)
     sfs_first.fit(score_df_first.drop(columns=['innings_type', 'runs', 'is_win']), score_df_first['runs'])
 
-    print("=======first innnings improtance=========")
+    print("=======first innnings importance=========")
     for idx in np.where(sfs_first.get_support())[0]:
         print(all_cols[idx])
 
@@ -1486,7 +1486,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     sfs_second = SequentialFeatureSelector(pipe, n_features_to_select=5)
     sfs_second.fit(score_df_second.drop(columns=['innings_type', 'runs', 'is_win']), score_df_second['runs'])
 
-    print("=======second innnings improtance for runs=========")
+    print("=======second innnings importance for runs=========")
     for idx in np.where(sfs_second.get_support())[0]:
         print(all_cols[idx])
 
@@ -1659,7 +1659,7 @@ def train_one_shot_neural(learning_rate,epoch,batch_size,monitor,mode):
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
-def select_first_innings_feature_columns(create_output,feature_selection,poly_nom):
+def first_innings_regression(create_output,feature_selection,poly_nom):
     retrain_first_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
     # if not select_all:
     #     retrain_first_innings_base(create_output=create_output)
@@ -1671,7 +1671,7 @@ def select_first_innings_feature_columns(create_output,feature_selection,poly_no
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
-def select_second_innings_feature_columns(create_output,feature_selection,poly_nom):
+def second_innings_classification(create_output,feature_selection,poly_nom):
     retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
     # if not select_all:
     #     retrain_second_innings_base(create_output=create_output)
