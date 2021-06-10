@@ -1547,6 +1547,52 @@ def retrain_combined_any_innings_classification(poly_nom=4):
                                        info="metrics is accuracy",
                                        file_list=[outil.COMBINED_MODEL_ANY_INNINGS]
                                        )
+def set_loc(row):
+    if row['team_a_loc']==1:
+        return 0
+    elif row['team_b_loc']==1:
+        return 1
+    else:
+        return 2
+
+def retrain_mg_classification(categorical_loc=False):
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_y), 'rb'))
+
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_test_y), 'rb'))
+
+
+    if categorical_loc:
+        train_x_df = pd.DataFrame(train_x)
+        train_x_df.columns =['strngth','toss','team_a_loc','team_b_loc','other_loc']
+
+        test_x_df = pd.DataFrame(test_x)
+        test_x_df.columns =['strngth','toss','team_a_loc','team_b_loc','other_loc']
+
+        train_x_df['loc'] = train_x_df.apply(set_loc,axis=1)
+        test_x_df['loc'] = test_x_df.apply(set_loc,axis=1)
+
+        train_x = np.array(train_x_df[['strngth','toss','loc']])
+        test_x = np.array(test_x_df[['strngth','toss','loc']])
+
+    train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('svc', SVC(probability=True))])
+    train_pipe.fit(train_x, train_y)
+
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
+
+    train_accuracy = accuracy_score(train_y,train_predict)
+    test_accurcy = accuracy_score(test_y,test_predict)
+
+    pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.MG_MODEL),'wb'))
+
+    outil.create_model_meta_info_entry('mg_model',
+                                       train_accuracy,
+                                       test_accurcy,
+                                       info="metrics is accuracy",
+                                       file_list=[outil.MG_MODEL]
+                                       )
 
 @click.group()
 def retrain():

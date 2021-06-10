@@ -23,6 +23,7 @@ SECOND_INNINGS_MODEL = 'second_innings_model.pkl' # second_innings_model_with_em
 COMBINED_MODEL = 'combined_model.pkl'
 
 COMBINED_MODEL_ANY_INNINGS = 'combined_model_any_innings.pkl'
+MG_MODEL = 'mg_model.pkl'
 
 FIRST_INNINGS_MODEL_BASE = 'first_innings_model_base.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_model_with_embedding_lrg.pkl
