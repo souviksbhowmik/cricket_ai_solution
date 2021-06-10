@@ -758,7 +758,7 @@ def retrain_first_innings():
                                            ])
 
 
-def retrain_second_innings_base(create_output=True,feature_selection=False,poly_nom=1):
+def retrain_second_innings_base(create_output=True,feature_selection=False,poly_nom=1,max_iter=500):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y), 'rb'))
 
@@ -781,7 +781,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
     train_y = np.array(train_df['win'])
     test_y = np.array(test_df['win'])
     train_pipe = Pipeline(
-        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=500))])
+        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=max_iter))])
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
         sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
@@ -1236,7 +1236,7 @@ def retrain_first_innings_base_neural(learning_rate=0.001,epoch = 150,batch_size
     else:
         print("Metrics not better than Pre-tune")
 
-def retrain_one_shot_classification(feature_selection=False,poly_nom=1):
+def retrain_one_shot_classification(feature_selection=False,poly_nom=1,max_iter=500):
 
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.one_shot_train_y), 'rb'))
@@ -1278,7 +1278,7 @@ def retrain_one_shot_classification(feature_selection=False,poly_nom=1):
     test_y = np.array(test_df['team_a_win'])
 
     train_pipe = Pipeline(
-        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('regression', LogisticRegression(max_iter=500))])
+        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('regression', LogisticRegression(max_iter=max_iter))])
 
     train_pipe.fit(train_x, train_y)
 
@@ -1592,7 +1592,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     #
 
 
-def retrain_combined_any_innings_classification(poly_nom=4):
+def retrain_combined_any_innings_classification(poly_nom=4,max_iter=1000):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_y), 'rb'))
 
@@ -1600,7 +1600,7 @@ def retrain_combined_any_innings_classification(poly_nom=4):
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
 
-    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=1000))])
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=max_iter))])
     train_pipe.fit(train_x, train_y)
 
     train_predict = train_pipe.predict(train_x)
@@ -1768,8 +1768,9 @@ def first_innings_regression(create_output,feature_selection,poly_nom):
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
-def second_innings_classification(create_output,feature_selection,poly_nom):
-    retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
+@click.option('--max_iter', help='maximum training iteration',default=500)
+def second_innings_classification(create_output,feature_selection,poly_nom,max_iter):
+    retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom,max_iter=max_iter)
     # if not select_all:
     #     retrain_second_innings_base(create_output=create_output)
     # else:
@@ -1778,8 +1779,9 @@ def second_innings_classification(create_output,feature_selection,poly_nom):
 @retrain.command()
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
-def one_shot_classification(feature_selection,poly_nom):
-    retrain_one_shot_classification(feature_selection=feature_selection,poly_nom=poly_nom)
+@click.option('--max_iter', help='Maximum training iteration',default=500)
+def one_shot_classification(feature_selection,poly_nom,max_iter):
+    retrain_one_shot_classification(feature_selection=feature_selection,poly_nom=poly_nom,max_iter=max_iter)
 
 @retrain.command()
 def first_innings():
@@ -1853,8 +1855,9 @@ def combined(first_innings_emb,second_innings_emb):
 
 @retrain.command()
 @click.option('--poly_nom', help='whethter to raise to polynomial',default=3)
-def combined_any_innings(poly_nom):
-    retrain_combined_any_innings_classification(poly_nom=poly_nom)
+@click.option('--max_iter', help='maxumum training iterations',default=1000)
+def combined_any_innings(poly_nom,max_iter):
+    retrain_combined_any_innings_classification(poly_nom=poly_nom,max_iter=max_iter)
 
 @retrain.command()
 @click.option('--categorical_loc', help='whethter to raise to polynomial',default=False,type=bool)

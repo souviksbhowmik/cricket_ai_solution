@@ -565,7 +565,7 @@
     ]
   },
   "second_level_any_inst_train_xy": {
-    "start_date": "2012-01-01",
+    "start_date": "2004-01-01",
     "end_date": "2018-12-31",
     "files": [
       "second_level_any_inst_train_x.pkl",
@@ -632,7 +632,7 @@
     ]
   },
   "combined_any_innings_model": {
-    "train_metrics": 0.8322981366459627,
+    "train_metrics": 0.7205479452054795,
     "test_metrics": 0.7021276595744681,
     "info": "metrics is accuracy",
     "files": [
