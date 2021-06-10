@@ -112,18 +112,16 @@ python odi/retrain/retrain_ci.py select-score-cols --start_date 2011-01-01 --end
 python odi/retrain/create_train_test_ci.py first-innings-base --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
 ### Step 3 - Create first innings base model 
-python odi/retrain/retrain.py first-innings-regression
+python odi/retrain/retrain_ci.py first-innings-regression
 
 - optional neural network training
-python odi/retrain/retrain.py train-first-innings-base-neural
+python odi/retrain/retrain_ci.py train-first-innings-base-neural
 
 ### Step  - Create train test for second innings base model
 python odi/retrain/create_train_test_ci.py second-innings-base --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
 ### Step 4 - Create second innings base model 
-python odi/retrain/retrain.py secodn-innings-classification
-
-
+python odi/retrain/retrain_ci.py second-innings-classification
 
 ### step 5 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
@@ -131,9 +129,19 @@ python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --t
 ### step 6 create one shot neural network with multi output train test
 python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-
 ### step 7 train multi output neural in one shot
 python odi/retrain/retrain_ci.py train-multi-output-neural
+
+### Step 8 - create train test for second level training by making both teams as both innings
+python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+### Step 9 - retrain classification to predict outcome with bot teams as both innings
+python odi/retrain/retrain_ci.py combined-any-innings
+
+
+
+
+
 
 ## Retraining (Necessary data loading and Ranking has been done)
 ### Step 8 - Create one hot encoding for batsman, location and country
@@ -162,8 +170,6 @@ python odi/retrain/retrain_ci.py train-country-embedding-2nd --mode tune --epoch
 python odi/retrain/retrain_ci.py check-country-embedding-2nd
 
 
-### Step 13 - create train test for second level training by making both teams as both innings
-python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
 
 

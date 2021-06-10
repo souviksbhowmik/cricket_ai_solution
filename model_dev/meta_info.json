@@ -123,14 +123,14 @@
   },
   "selected_first_innings_features": {
     "train_metrics": [
-      0.1885279962294184,
-      42.97436195664053
+      0.18332192433858666,
+      42.1916260489623
     ],
     "test_metrics": [
-      0.22635754649833745,
-      51.22272288827971
+      0.22390662757650026,
+      51.556133449736926
     ],
-    "info": "metrics is mape,mae - selected :['location_base', 'current_trend_predict', 'current_mean', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'player_1', 'player_3', 'bowler_score_sum', 'bowler_score_mean']",
+    "info": "metrics is mape,mae - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution']",
     "files": [
       "first_innings_selected_features.pkl",
       "first_innings_model_base.pkl",

@@ -682,6 +682,8 @@ def retrain_first_innings_base(create_output=True, feature_selection=False,poly_
                                                outil.FIRST_INNINGS_MODEL_BASE,
                                                outil.FIRST_INNINGS_SELECTED_COLUMN_INDEX
                                            ])
+    print("train metrics (mape , mae) ",mape_train, mae_train)
+    print("test metrics (mape , mae) ", mape_test, mae_test)
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
 
@@ -815,6 +817,8 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
                                                outil.SECOND_INNINGS_MODEL_BASE,
                                                outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX
                                                ])
+    print("train metrics (accuracy) ", train_accuracy)
+    print("test metrics (accuracy) ", test_accuracy)
     print("train size ", train_x.shape)
     print("test size ", test_x.shape)
 
