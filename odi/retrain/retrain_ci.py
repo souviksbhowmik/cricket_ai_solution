@@ -1649,16 +1649,22 @@ def retrain_mg_classification(categorical_loc=False):
     test_predict = train_pipe.predict(test_x)
 
     train_accuracy = accuracy_score(train_y,train_predict)
-    test_accurcy = accuracy_score(test_y,test_predict)
+    test_accuracy = accuracy_score(test_y,test_predict)
 
     pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.MG_MODEL),'wb'))
 
     outil.create_model_meta_info_entry('mg_model',
                                        train_accuracy,
-                                       test_accurcy,
+                                       test_accuracy,
                                        info="metrics is accuracy",
                                        file_list=[outil.MG_MODEL]
                                        )
+
+    print("train accuracy ",train_accuracy)
+    print("test accuracy ", test_accuracy)
+
+    print('train size ',train_x.shape)
+    print('test size ', test_x.shape)
 
 @click.group()
 def retrain():
@@ -1839,6 +1845,11 @@ def combined(first_innings_emb,second_innings_emb):
 @click.option('--poly_nom', help='whethter to raise to polynomial',default=3)
 def combined_any_innings(poly_nom):
     retrain_combined_any_innings_classification(poly_nom=poly_nom)
+
+@retrain.command()
+@click.option('--categorical_loc', help='whethter to raise to polynomial',default=False,type=bool)
+def mg_classification(categorical_loc):
+    retrain_mg_classification(categorical_loc=categorical_loc)
 
 @retrain.command()
 @click.option('--start_date', help='start date for train data (YYYY-mm-dd)',required=True)

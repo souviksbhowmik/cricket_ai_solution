@@ -138,9 +138,15 @@ python odi/retrain/retrain_ci.py train-multi-output-neural
 ### Step 8 - create train test for second level training by making both teams as both innings
 python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-### Step 9 - retrain classification to predict outcome with bot teams as both innings
+### Step 9 - retrain classification to predict outcome with both teams as both innings
 python odi/retrain/retrain_ci.py combined-any-innings
 
+
+### Step 10 compare with previous paper - create traine test for mg
+python odi/retrain/create_train_test_ci.py mg --train_start 2012-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+### Step 11 - retrain mg(prior paper) classification to predict outcome
+python odi/retrain/retrain_ci.py mg-classification
 
 
 

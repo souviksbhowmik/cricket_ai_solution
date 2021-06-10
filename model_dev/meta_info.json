@@ -638,5 +638,13 @@
     "files": [
       "combined_model_any_innings.pkl"
     ]
+  },
+  "mg_model": {
+    "train_metrics": 0.6616161616161617,
+    "test_metrics": 0.6666666666666666,
+    "info": "metrics is accuracy",
+    "files": [
+      "mg_model.pkl"
+    ]
   }
 }
