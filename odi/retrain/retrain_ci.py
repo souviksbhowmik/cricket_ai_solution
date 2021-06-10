@@ -1590,23 +1590,29 @@ def retrain_combined_any_innings_classification(poly_nom=4):
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
 
-    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression())])
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=500))])
     train_pipe.fit(train_x, train_y)
 
     train_predict = train_pipe.predict(train_x)
     test_predict = train_pipe.predict(test_x)
 
     train_accuracy = accuracy_score(train_y,train_predict)
-    test_accurcy = accuracy_score(test_y,test_predict)
+    test_accuracy = accuracy_score(test_y,test_predict)
 
     pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_ANY_INNINGS),'wb'))
 
     outil.create_model_meta_info_entry('combined_any_innings_model',
                                        train_accuracy,
-                                       test_accurcy,
+                                       test_accuracy,
                                        info="metrics is accuracy",
-                                       file_list=[outil.COMBINED_MODEL_ANY_INNINGS]
-                                       )
+                                       file_list=[outil.COMBINED_MODEL_ANY_INNINGS])
+
+    print("train metrics (accuracy)",train_accuracy)
+    print("test metrics (accuracy)", test_accuracy)
+
+    print("train size", train_x.shape)
+    print("test size", test_x.shape)
+
 def set_loc(row):
     if row['team_a_loc']==1:
         return 0

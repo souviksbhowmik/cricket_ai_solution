@@ -630,5 +630,13 @@
       "one_shot_classification_feature.pkl",
       "one_shot_classification_model.pkl"
     ]
+  },
+  "combined_any_innings_model": {
+    "train_metrics": 0.7150684931506849,
+    "test_metrics": 0.7446808510638298,
+    "info": "metrics is accuracy",
+    "files": [
+      "combined_model_any_innings.pkl"
+    ]
   }
 }
