@@ -130,7 +130,7 @@ python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --t
 python odi/retrain/retrain_ci.py one-shot-classification
 
 ### step 6 create one shot neural network with multi output train test
-python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
 ### step 7 train multi output neural in one shot
 python odi/retrain/retrain_ci.py train-multi-output-neural
