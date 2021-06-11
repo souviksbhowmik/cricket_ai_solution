@@ -686,7 +686,7 @@ def retrain_first_innings_base(create_output=True, feature_selection=False,poly_
                                            (mape_train, mae_train),
                                            (mape_test, mae_test),
                                            info="metrics is mape,mae - selected :" + str(
-                                               selected_column),
+                                               selected_column)+" \n with polynomial "+str(poly_nom),
                                            file_list=[
                                                outil.FIRST_INNINGS_FEATURE_PICKLE,
                                                outil.FIRST_INNINGS_MODEL_BASE,
@@ -821,7 +821,8 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
         outil.create_model_meta_info_entry('second_innings_classification',
                                            train_accuracy,
                                            test_accuracy,
-                                           info="metrics is accuracy - selected :"+str(selected_column),
+                                           info="metrics is accuracy - selected :"+str(selected_column)+
+                                                "\n with polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
                                            file_list=[
                                                outil.SECOND_INNINGS_FEATURE_PICKLE,
                                                outil.SECOND_INNINGS_MODEL_BASE,
@@ -1296,7 +1297,8 @@ def retrain_one_shot_classification(feature_selection=False,poly_nom=1,max_iter=
     outil.create_model_meta_info_entry('one_shot_classification',
                                        train_accuracy,
                                        test_accuracy,
-                                       info="metrics is accuracy - selected :" + str(selected_cols),
+                                       info="metrics is accuracy - selected :" + str(selected_cols)+
+                                            "\n with polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
                                        file_list=[
                                            outil.ONE_SHOT_CLASSIFICATION_FEATURE_PICKLE,
                                            outil.ONE_SHOT_CLASSIFICATION_MODEL
@@ -1614,7 +1616,7 @@ def retrain_combined_any_innings_classification(poly_nom=4,max_iter=1000):
     outil.create_model_meta_info_entry('combined_any_innings_model',
                                        train_accuracy,
                                        test_accuracy,
-                                       info="metrics is accuracy",
+                                       info="metrics is accuracy and at polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
                                        file_list=[outil.COMBINED_MODEL_ANY_INNINGS])
 
     print("train metrics (accuracy)",train_accuracy)
@@ -1854,13 +1856,13 @@ def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
 @retrain.command()
-@click.option('--poly_nom', help='whethter to raise to polynomial',default=3)
+@click.option('--poly_nom', help='whethter to raise to polynomial',default=4)
 @click.option('--max_iter', help='maxumum training iterations',default=1000)
 def combined_any_innings(poly_nom,max_iter):
     retrain_combined_any_innings_classification(poly_nom=poly_nom,max_iter=max_iter)
 
 @retrain.command()
-@click.option('--categorical_loc', help='whethter to raise to polynomial',default=False,type=bool)
+@click.option('--categorical_loc', help='whethter to use one hot vector or categorical values',default=False,type=bool)
 def mg_classification(categorical_loc):
     retrain_mg_classification(categorical_loc=categorical_loc)
 

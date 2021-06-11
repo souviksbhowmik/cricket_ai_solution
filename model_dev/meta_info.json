@@ -513,26 +513,26 @@
   },
   "combined_multi_output": {
     "train_metrics": [
-      15846.064453125,
-      2341.902099609375,
-      1597.0650634765625,
-      0.6204548478126526,
-      17.383380889892578,
-      38.59000778198242,
-      15.985450744628906,
-      31.46849822998047,
-      0.6662198305130005
+      16631.81640625,
+      2496.488037109375,
+      1637.626708984375,
+      0.6202383041381836,
+      18.564302444458008,
+      40.13722229003906,
+      16.43049430847168,
+      31.968599319458008,
+      0.6673684120178223
     ],
     "test_metrics": [
-      36775.1015625,
-      4070.58935546875,
-      5100.34765625,
-      0.643700122833252,
-      21.70117950439453,
-      51.59356689453125,
-      23.21088981628418,
-      59.512969970703125,
-      0.7234042286872864
+      32587.92578125,
+      4072.903076171875,
+      4049.466552734375,
+      0.6821163296699524,
+      22.85018539428711,
+      50.05318832397461,
+      21.0716552734375,
+      51.70476150512695,
+      0.7037037014961243
     ],
     "info": "metrics is mape, mae, accuracy(best accuracy)",
     "files": [
@@ -623,8 +623,8 @@
     ]
   },
   "one_shot_classification": {
-    "train_metrics": 1.0,
-    "test_metrics": 0.5925925925925926,
+    "train_metrics": 0.7130434782608696,
+    "test_metrics": 0.6296296296296297,
     "info": "metrics is accuracy - selected :['team_a_score', 'team_a_quantile', 'team_b_score', 'team_b_quantile', 'location_mean', 'team_a_score_sum_7', 'team_a_score_sum_6', 'team_a_score_sum_5', 'team_a_score_sum_4', 'team_a_score_sum_3', 'team_a_score_max', 'team_a_score_sum_weighted_by_correlation', 'team_a_score_sum_weighted_by_contribution', 'team_a_score_sum_weighted_by_effectiveness', 'team_a_score_sum_weighted_by_log', 'team_a_score_mean_weighted_by_correlation', 'team_a_score_mean_weighted_by_contribution', 'team_a_score_mean_weighted_by_effectiveness', 'team_a_score_mean_weighted_by_log', 'team_a_score_sum_weighted_by_correlation_4', 'team_a_score_sum_weighted_by_contribution_4', 'team_a_score_sum_weighted_by_effectiveness_4', 'team_a_score_sum_weighted_by_log_4', 'team_a_score_mean_weighted_by_correlation_4', 'team_a_score_mean_weighted_by_contribution_4', 'team_a_score_mean_weighted_by_effectiveness_4', 'team_a_score_mean_weighted_by_log_4', 'team_a_score_mean_7', 'team_a_score_mean_6', 'team_a_score_mean_5', 'team_a_score_mean_4', 'team_a_score_mean_3', 'team_a_player_1', 'team_a_player_2', 'team_a_player_3', 'team_a_player_4', 'team_a_player_5', 'team_a_player_6', 'team_a_player_7', 'team_a_bowler_score_sum', 'team_a_bowler_score_mean', 'team_a_bowler_score_max', 'team_a_bowler_score_sum_weighted_by_contribution', 'team_a_bowler_score_mean_weighted_by_contribution', 'team_a_bowler_score_sum_weighted_by_wr_contribution', 'team_a_bowler_score_mean_weighted_by_wr_contribution', 'team_b_score_sum_7', 'team_b_score_sum_6', 'team_b_score_sum_5', 'team_b_score_sum_4', 'team_b_score_sum_3', 'team_b_score_max', 'team_b_score_sum_weighted_by_correlation', 'team_b_score_sum_weighted_by_contribution', 'team_b_score_sum_weighted_by_effectiveness', 'team_b_score_sum_weighted_by_log', 'team_b_score_mean_weighted_by_correlation', 'team_b_score_mean_weighted_by_contribution', 'team_b_score_mean_weighted_by_effectiveness', 'team_b_score_mean_weighted_by_log', 'team_b_score_sum_weighted_by_correlation_4', 'team_b_score_sum_weighted_by_contribution_4', 'team_b_score_sum_weighted_by_effectiveness_4', 'team_b_score_sum_weighted_by_log_4', 'team_b_score_mean_weighted_by_correlation_4', 'team_b_score_mean_weighted_by_contribution_4', 'team_b_score_mean_weighted_by_effectiveness_4', 'team_b_score_mean_weighted_by_log_4', 'team_b_score_mean_7', 'team_b_score_mean_6', 'team_b_score_mean_5', 'team_b_score_mean_4', 'team_b_score_mean_3', 'team_b_player_1', 'team_b_player_2', 'team_b_player_3', 'team_b_player_4', 'team_b_player_5', 'team_b_player_6', 'team_b_player_7', 'team_b_bowler_score_sum', 'team_b_bowler_score_mean', 'team_b_bowler_score_max', 'team_b_bowler_score_sum_weighted_by_contribution', 'team_b_bowler_score_mean_weighted_by_contribution', 'team_b_bowler_score_sum_weighted_by_wr_contribution', 'team_b_bowler_score_mean_weighted_by_wr_contribution']",
     "files": [
       "one_shot_classification_feature.pkl",
@@ -632,9 +632,9 @@
     ]
   },
   "combined_any_innings_model": {
-    "train_metrics": 0.7205479452054795,
-    "test_metrics": 0.7021276595744681,
-    "info": "metrics is accuracy",
+    "train_metrics": 0.7357293868921776,
+    "test_metrics": 0.7037037037037037,
+    "info": "metrics is accuracy and at polynomial 4 with iteration 1000",
     "files": [
       "combined_model_any_innings.pkl"
     ]
