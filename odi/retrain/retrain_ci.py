@@ -336,7 +336,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
     print(pretune_train_metrics)
     print(pretune_test_metrics)
 
-    metrics_index = 5
+    metrics_index = 8
     if (mode == "train") or \
             (mode == "tune" and test_metrics[metrics_index] > pretune_test_metrics[metrics_index]):
 
