@@ -14,6 +14,7 @@ from odi.data_loader import data_loader as dl
 
 PREPROCESS_DATA_LOACATION = 'data'+os.sep+'preprocess'
 mean_inverse_econ = 0.17
+ranking_dates = ['-01-31','-02-28','-03-31','-04-30','-05-31','-06-30','-07-31','-08-31','-09-30','-10-31','-11-30','-12-31']
 
 def get_quantile(quantile_df, value):
     q1 = quantile_df.iloc[0][1]
@@ -86,7 +87,7 @@ def create_country_rank(year_list,no_of_years=1):
     else:
         for year in tqdm(year_list):
             # performance_cutoff_date_start = datetime.strptime(year + '-01-01', '%Y-%m-%d')
-            for quarters in ['-03-31','-06-30','-09-30','-12-31']:
+            for quarters in ranking_dates:
                 print(" country ranking for ",year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
@@ -374,7 +375,7 @@ def create_batsman_rank(year_list,no_of_years=1):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31','-06-30','-09-30','-12-31']:
+            for quarters in ranking_dates:
                 print(" Batsman ranking for ",year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
@@ -515,7 +516,7 @@ def create_bowler_rank(year_list,no_of_years=1):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31', '-06-30', '-09-30', '-12-31']:
+            for quarters in ranking_dates:
                 print(" Bowler ranking for ", year + quarters)
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
@@ -571,7 +572,7 @@ def create_location_rank(year_list,no_of_years=5):
 
     else:
         for year in tqdm(year_list):
-            for quarters in ['-03-31', '-06-30', '-09-30', '-12-31']:
+            for quarters in ranking_dates:
                 performance_cutoff_date_end = datetime.strptime(year + quarters, '%Y-%m-%d')
                 performance_cutoff_date_start = cricutil.add_day_as_datetime(cricutil.substract_year_as_datetime
                                                                              (performance_cutoff_date_end, no_of_years),

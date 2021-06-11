@@ -581,7 +581,7 @@
     ]
   },
   "mg_classification_train_xy": {
-    "start_date": "2012-01-01",
+    "start_date": "2004-01-01",
     "end_date": "2018-12-31",
     "files": [
       "mg_train_x.pkl",
@@ -640,8 +640,8 @@
     ]
   },
   "mg_model": {
-    "train_metrics": 0.6616161616161617,
-    "test_metrics": 0.6666666666666666,
+    "train_metrics": 0.6221294363256785,
+    "test_metrics": 0.6851851851851852,
     "info": "metrics is accuracy",
     "files": [
       "mg_model.pkl"
