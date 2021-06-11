@@ -1654,7 +1654,8 @@ def retrain_mg_classification(categorical_loc=False):
         train_x = np.array(train_x_df[['strngth','toss','loc']])
         test_x = np.array(test_x_df[['strngth','toss','loc']])
 
-    train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('svc', SVC(probability=True))])
+    #train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('svc', SVC(probability=True))])
+    train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('cls', LogisticRegression(max_iter=1000))])
     train_pipe.fit(train_x, train_y)
 
     train_predict = train_pipe.predict(train_x)
