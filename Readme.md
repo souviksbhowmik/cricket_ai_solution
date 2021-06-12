@@ -123,33 +123,43 @@ python odi/retrain/create_train_test_ci.py second-innings-base --train_start 201
 ### Step 4 - Create second innings base model 
 python odi/retrain/retrain_ci.py second-innings-classification
 
-### step 5 create one shot train test
+### Step 5 - create train test for second level training by making both teams as both innings
+python odi/retrain/create_train_test_ci.py second-level-non-neural --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+
+
+### step 6 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2011-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-### Step 6 - Create second innings base model 
+### Step 7 - Create second innings base model 
 python odi/retrain/retrain_ci.py one-shot-classification
 
-### step 6 create one shot neural network with multi output train test
+### step 8 create one shot neural network with multi output train test
 python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-### step 7 train multi output neural in one shot
+### step 9 train multi output neural in one shot
 python odi/retrain/retrain_ci.py train-multi-output-neural --epoch 500
 
 -- if it does not come to accruracy 70 restart the training or try --mode tune
 -- both train and test can be around 70 with a couple of trials
 
-### Step 8 - create train test for second level training by making both teams as both innings
+### Step 10 - create train test for second level training by making both teams as both innings
 python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-### Step 9 - retrain classification to predict outcome with both teams as both innings
+### Step 11 - retrain classification to predict outcome with both teams as both innings
 python odi/retrain/retrain_ci.py combined-any-innings
 
 
-### Step 10 compare with previous paper - create traine test for mg
+### Step 12 compare with previous paper - create traine test for mg
 python odi/retrain/create_train_test_ci.py mg --train_start 2012-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
-### Step 11 - retrain mg(prior paper) classification to predict outcome
+### Step 13 - retrain mg(prior paper) classification to predict outcome
 python odi/retrain/retrain_ci.py mg-classification
+
+
+
+
+
+
 
 
 

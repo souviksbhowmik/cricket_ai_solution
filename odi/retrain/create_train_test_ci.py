@@ -100,6 +100,11 @@ second_level_any_inst_train_y = 'second_level_any_inst_train_y.pkl'
 second_level_any_inst_test_x = 'second_level_any_inst_test_x.pkl'
 second_level_any_inst_test_y = 'second_level_any_inst_test_y.pkl'
 
+second_level_non_neural_train_x = 'second_level_non_neural_train_x.pkl'
+second_level_non_neural_train_y = 'second_level_non_neural_train_y.pkl'
+second_level_non_neural_test_x = 'second_level_non_neural_test_x.pkl'
+second_level_non_neural_test_y = 'second_level_non_neural_test_y.pkl'
+
 first_innings_train_x = 'first_innings_train_x.pkl'
 first_innings_train_y = 'first_innings_train_y.pkl'
 first_innings_test_x = 'first_innings_test_x.pkl'
@@ -630,20 +635,21 @@ def create_one_shot_prediction_train_test(train_start,test_start,test_end=None):
 
     outil.create_meta_info_entry('one_shot_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
-                                 file_list=[first_innings_base_train_x,
-                                            first_innings_base_train_y,
-                                            first_innings_base_columns])
+                                 file_list=[one_shot_train_x,
+                                            one_shot_train_y,
+                                            one_shot_columns])
 
     pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, one_shot_test_x), 'wb'))
     pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, one_shot_test_y), 'wb'))
 
     outil.create_meta_info_entry('one_shot_test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
-                                 file_list=[first_innings_base_test_x,
-                                            first_innings_base_test_y])
+                                 file_list=[one_shot_test_x,
+                                            one_shot_test_y])
 
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
+
 
 def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None,embedding=False):
     if not os.path.isdir(TRAIN_TEST_DIR):
@@ -1082,6 +1088,142 @@ def add_prefix_to_dict(source,prefix):
         modified_source[prefix+key]=source[key]
 
     return modified_source
+
+def create_second_level_any_innings_non_neural_train_test(train_start,test_start,test_end=None,embedding=False):
+
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+                                  (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+                                      (bowling_list_df['date'] <= overall_end)]
+
+
+
+    first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
+    second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
+
+    match_id_list = list(match_list_df['match_id'].unique())
+    feature_list_train = []
+    win_list_train = []
+
+    feature_list_test =[]
+    win_list_test = []
+    #no_of_basman = 0
+    for index,match_id in tqdm(enumerate(match_id_list)):
+
+
+        team_a = match_list_df[match_list_df['match_id']==match_id].iloc[0]["first_innings"]
+        team_b = match_list_df[match_list_df['match_id']==match_id].iloc[0]["second_innings"]
+        location = match_list_df[match_list_df['match_id']==match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id']==match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+
+        winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
+
+        team_a_win = (team_a==winner)*1
+
+        team_a_player_list_df = batting_list_df[(batting_list_df['match_id']==match_id) & (batting_list_df['team']==team_a)]
+
+        team_a_player_list_df = team_a_player_list_df[['team', 'name', 'position']]
+
+        team_b_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team_b)]
+
+        team_b_player_list_df = team_b_player_list_df[['team', 'name', 'position']]
+
+        team_a_bowler_list = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_a)]
+
+        team_a_bowler_list = team_a_bowler_list[['team', 'name']]
+
+
+        team_b_bowler_list = bowling_list_df[(bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_b)]
+
+        team_b_bowler_list = team_b_bowler_list[['team', 'name']]
+
+        try:
+
+            feature_dict_team_a_batting = fec.get_instance_feature_dict(team_a, team_b, location, team_a_player_list_df,
+                                                                      team_b_bowler_list, ref_date=ref_date,
+                                                                      innings_type='first')
+
+            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting]).drop(columns=['team','opponent','location']))
+            team_a_first_target = first_innings_model.predict(feature_vec_team_a_first_batting)[0]
+            feature_dict_team_b_batting = fec.get_instance_feature_dict(team_b, team_a, location, team_b_player_list_df,
+                                                                       team_a_bowler_list, ref_date=ref_date,
+                                                                       innings_type='second')
+            feature_vec_team_b_first_batting = np.array(pd.DataFrame([feature_dict_team_b_batting]).drop(columns=['team','opponent','location']))
+            team_b_first_target = first_innings_model.predict(feature_vec_team_b_first_batting)[0]
+
+            #print("=====",team_a_first_target,team_b_first_target)
+            feature_dict_team_b_batting['target_score'] = team_a_first_target
+            feature_dict_team_a_batting['target_score'] = team_b_first_target
+
+            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting]).drop(columns=['team','opponent','location']))
+            feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting]).drop(columns=['team', 'opponent', 'location']))
+
+            team_a_chasing_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0]
+            team_b_chasing_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0]
+
+            #print("=====", team_a_chasing_success, team_b_chasing_success)
+            combined_feature_vector = np.array([team_a_first_target,team_b_chasing_success,team_b_first_target,team_a_chasing_success])
+
+            if ref_date<test_start_dt:
+                feature_list_train.append(combined_feature_vector)
+                win_list_train.append(team_a_win)
+            else:
+                feature_list_test.append(combined_feature_vector)
+                win_list_test.append(team_a_win)
+
+        except Exception as ex:
+            print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
+
+            #raise ex
+
+    train_x = np.array(feature_list_train)
+    train_y = np.array(win_list_train)
+
+    test_x = np.array(feature_list_test)
+    test_y = np.array(win_list_test)
+
+
+    pickle.dump(train_x,open(os.path.join(TRAIN_TEST_DIR,second_level_non_neural_train_x),'wb'))
+    pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR, second_level_non_neural_train_y), 'wb'))
+    pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, second_level_non_neural_test_x), 'wb'))
+    pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, second_level_non_neural_test_y), 'wb'))
+
+
+    outil.create_meta_info_entry('second_level_non_neural_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[second_level_non_neural_train_x,
+                                            second_level_non_neural_train_y])
+
+
+
+    outil.create_meta_info_entry('second_level_non_neural_test_xy', str(test_start_dt.date()),
+                                 str(test_end_dt.date()),
+                                 file_list=[second_level_non_neural_test_x,
+                                            second_level_non_neural_test_y])
+
+    print("train size ",train_x.shape)
+    print("test size ", test_x.shape)
 
 def create_second_level_any_innings_train_test(train_start,test_start,test_end=None,embedding=False):
 
@@ -2560,6 +2702,14 @@ def mg(train_start, test_start, test_end):
 @click.option('--embedding', help='whether to use embedding',type=bool, default=False)
 def second_level_any(train_start, test_start, test_end ,embedding):
     create_second_level_any_innings_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
+
+@traintest.command()
+@click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+@click.option('--embedding', help='whether to use embedding',type=bool, default=False)
+def second_level_non_neural(train_start, test_start, test_end ,embedding):
+    create_second_level_any_innings_non_neural_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
 
 
 @traintest.command()
