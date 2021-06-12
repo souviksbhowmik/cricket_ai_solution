@@ -662,5 +662,13 @@
       "second_level_non_neural_test_x.pkl",
       "second_level_non_neural_test_y.pkl"
     ]
+  },
+  "combined_non_neural_model": {
+    "train_metrics": 0.6505263157894737,
+    "test_metrics": 0.7222222222222222,
+    "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
+    "files": [
+      "combined_model_non_neural.pkl"
+    ]
   }
 }

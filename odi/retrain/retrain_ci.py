@@ -1625,6 +1625,37 @@ def retrain_combined_any_innings_classification(poly_nom=4,max_iter=1000):
     print("train size", train_x.shape)
     print("test size", test_x.shape)
 
+def retrain_combined_non_neural_classification(poly_nom=1,max_iter=1000):
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_non_neural_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_non_neural_train_y), 'rb'))
+
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_non_neural_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_non_neural_test_y), 'rb'))
+
+
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('classification', LogisticRegression(max_iter=max_iter))])
+    train_pipe.fit(train_x, train_y)
+
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
+
+    train_accuracy = accuracy_score(train_y,train_predict)
+    test_accuracy = accuracy_score(test_y,test_predict)
+
+    pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_NON_NEURAL),'wb'))
+
+    outil.create_model_meta_info_entry('combined_non_neural_model',
+                                       train_accuracy,
+                                       test_accuracy,
+                                       info="metrics is accuracy and at polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
+                                       file_list=[outil.COMBINED_MODEL_NON_NEURAL])
+
+    print("train metrics (accuracy)",train_accuracy)
+    print("test metrics (accuracy)", test_accuracy)
+
+    print("train size", train_x.shape)
+    print("test size", test_x.shape)
+
 def set_loc(row):
     if row['team_a_loc']==1:
         return 0
@@ -1858,9 +1889,16 @@ def combined(first_innings_emb,second_innings_emb):
 
 @retrain.command()
 @click.option('--poly_nom', help='whethter to raise to polynomial',default=4)
-@click.option('--max_iter', help='maxumum training iterations',default=1000)
+@click.option('--max_iter', help='maximum training iterations',default=1000)
 def combined_any_innings(poly_nom,max_iter):
     retrain_combined_any_innings_classification(poly_nom=poly_nom,max_iter=max_iter)
+
+@retrain.command()
+@click.option('--poly_nom', help='whethter to raise to polynomial',default=1)
+@click.option('--max_iter', help='maximum training iterations',default=1000)
+def combined_non_neural(poly_nom,max_iter):
+    retrain_combined_non_neural_classification(poly_nom=poly_nom,max_iter=max_iter)
+
 
 @retrain.command()
 @click.option('--categorical_loc', help='whethter to use one hot vector or categorical values',default=False,type=bool)
