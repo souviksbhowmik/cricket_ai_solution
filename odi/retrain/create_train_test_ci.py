@@ -1519,6 +1519,8 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
     bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
                                       (bowling_list_df['date'] <= overall_end)]
 
+    first_innings_model = pickle.load(open(os.path.join(outil.MODEL_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
+
     match_id_list = list(match_list_df['match_id'].unique())
     feature_list_train = []
     result_list_train = []
@@ -1560,20 +1562,24 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
             # get predicted first innings score
 
-            feature_dict_first = fec.get_first_innings_feature_vector(opponent, team, location, opponent_player_list_df, team_bowler_list_df, ref_date=ref_date)
-            first_innings_model = pickle.load(open(os.path.join(outil.MODEL_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
 
-            predicted_target = first_innings_model.predict(feature_dict_first.reshape(1, -1))[0]
 
             feature_dict = fec.get_instance_feature_dict(team, opponent, location,team_player_list_df,
                                                                 opponent_bowler_list_df,ref_date=ref_date,innings_type='second',target=target)
 
-            feature_dict['target_score'] = predicted_target
+            feature_dict['target_score'] = target
 
             if ref_date<test_start_dt:
                 feature_list_train.append(feature_dict)
                 result_list_train.append(win)
             else:
+                feature_dict_first = fec.get_first_innings_feature_vector(opponent, team, location,
+                                                                          opponent_player_list_df, team_bowler_list_df,
+                                                                          ref_date=ref_date)
+
+                predicted_target = first_innings_model.predict(feature_dict_first.reshape(1, -1))[0]
+
+                feature_dict['target_score'] = predicted_target
                 feature_list_test.append(feature_dict)
                 result_list_test.append(win)
         except Exception as ex:
