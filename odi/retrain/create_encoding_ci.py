@@ -69,19 +69,19 @@ def create_location_encoding(start_date,end_date):
 #     start_dt = cricutil.str_to_date_time(start_date)
 #     end_dt = cricutil.str_to_date_time(end_date)
 #
-#     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'match_list.csv')
-#     match_list_df = match_list_df[(match_list_df['date'] >= start_dt) & \
-#                                   (match_list_df['date'] <= end_dt)]
+#     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
 #
-#     match_stats_df = pd.read_csv(dl.CSV_LOAD_LOCATION + os.sep + 'match_stats.csv')
-#     match_list_df = match_list_df.merge(match_stats_df,on='match_id',how='inner')
-#     no_of_rows = match_list_df.shape[0]
+#     batting_list_df = batting_list_df[(batting_list_df['date'] >= start_dt) & \
+#                                   (batting_list_df['date'] <= end_dt)]
+#
+#
+#     no_of_rows = batting_list_df.shape[0]
 #     batsman_set = set()
 #
 #     for index in tqdm(range(no_of_rows)):
-#         country = match_list_df.iloc[index]['team_statistics'].strip()
+#         country = batting_list_df.iloc[index]['team_statistics'].strip()
 #         for bi in range(11):
-#             batsman = match_list_df.iloc[index]['batsman_'+str(bi+1)].strip()
+#             batsman = batting_list_df.iloc[index]['batsman_'+str(bi+1)].strip()
 #             if batsman != 'not_batted':
 #                 batsman_set.add(country+' '+batsman)
 #             else:
@@ -100,7 +100,7 @@ def create_location_encoding(start_date,end_date):
 #     pickle.dump(batsman_map, open(outil.DEV_DIR + os.sep + outil.BATSMAN_ENCODING_MAP, 'wb'))
 #     outil.create_meta_info_entry('batsman_encoding', start_date, end_date,
 #                                  file_list=[outil.BATSMAN_ENCODING_MAP])
-#
+
 # def create_bowler_encoding(start_date,end_date):
 #     if not os.path.isdir(outil.DEV_DIR):
 #         os.makedirs(outil.DEV_DIR)

@@ -695,8 +695,10 @@ def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None
         winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
         runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
         if winner == team_b:
-            runs_achieved = runs_achieved+15
-
+            #runs_achieved = runs_achieved+15
+            runs_achieved = runs_achieved + 15
+        # else:
+        #     runs_achieved = runs_achieved - 10
         team_a_win = (team_a==winner)*1
 
         team_a_player_list_df = batting_list_df[(batting_list_df['match_id']==match_id) & (batting_list_df['team']==team_a)]

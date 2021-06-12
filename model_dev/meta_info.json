@@ -115,7 +115,7 @@
   },
   "first_innings_base_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -148,7 +148,7 @@
   },
   "second_innings_base_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "second_innings_base_test_x.pkl",
       "second_innings_base_test_y.pkl"
@@ -238,12 +238,12 @@
       22.4364602661592
     ],
     "test_metrics": [
-      32.92532780880593,
-      37.29299319625277,
-      25.498596129368522,
-      26.273223688816735,
-      27.16116756941188,
-      25.263319436974896
+      30.451119362336158,
+      35.37481116036971,
+      23.692313183654008,
+      24.87017946548919,
+      25.952986026763064,
+      23.735351792511103
     ],
     "info": "metrics is mape_opponent_trend, mape_location_trend, mape_current_trend,mape_opponent_mean, mape_location_mean, mape_current_mean ",
     "files": [
@@ -268,14 +268,14 @@
   },
   "first_innings_regression_neural": {
     "train_metrics": [
-      2166.654541015625,
-      16.74854278564453,
-      36.337928771972656
+      2384.880615234375,
+      18.210655212402344,
+      38.62458801269531
     ],
     "test_metrics": [
-      3580.978759765625,
-      20.264875411987305,
-      44.247615814208984
+      4034.1181640625,
+      20.371368408203125,
+      48.05475997924805
     ],
     "info": "metrics is mse, mape, mae(best mape)",
     "files": [
@@ -479,7 +479,7 @@
   },
   "one_shot_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "first_innings_base_test_x.pkl",
       "first_innings_base_test_y.pkl"
@@ -500,7 +500,7 @@
   },
   "one_shot_Multi test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "one_shot_multi_test_x_1.pkl",
       "one_shot_multi_test_x_2.pkl",
@@ -513,26 +513,26 @@
   },
   "combined_multi_output": {
     "train_metrics": [
-      16510.0546875,
-      2486.012939453125,
-      1617.6300048828125,
-      0.6179793477058411,
-      18.548622131347656,
-      40.016902923583984,
-      16.51960563659668,
-      31.816543579101562,
-      0.6673684120178223
+      16247.21875,
+      2431.803466796875,
+      1602.3497314453125,
+      0.584793210029602,
+      17.944135665893555,
+      39.57009506225586,
+      16.493947982788086,
+      31.430145263671875,
+      0.6926316022872925
     ],
     "test_metrics": [
-      31869.5546875,
-      4049.426025390625,
-      3893.349853515625,
-      0.6773543357849121,
-      22.80699348449707,
-      49.79041290283203,
-      20.760684967041016,
-      50.51433181762695,
-      0.7222222089767456
+      35065.16796875,
+      4560.66259765625,
+      4177.05419921875,
+      0.6586337685585022,
+      23.603328704833984,
+      54.55537033081055,
+      20.91025733947754,
+      51.9635009765625,
+      0.699999988079071
     ],
     "info": "metrics is mape, mae, accuracy(best accuracy)",
     "files": [
@@ -574,7 +574,7 @@
   },
   "second_level_any_inst_test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "second_level_any_inst_test_x.pkl",
       "second_level_any_inst_test_y.pkl"
@@ -590,7 +590,7 @@
   },
   "mg_classification test_xy": {
     "start_date": "2019-01-01",
-    "end_date": "2019-12-31",
+    "end_date": "2020-12-31",
     "files": [
       "mg_test_x.pkl",
       "mg_test_y.pkl"
@@ -602,8 +602,8 @@
       43.523993142285576
     ],
     "test_metrics": [
-      0.2105448062623864,
-      46.232640293322845
+      0.20337021815089673,
+      47.08980680550152
     ],
     "info": "metrics is mape,mae - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution'] \n with polynomial 1",
     "files": [
@@ -614,7 +614,7 @@
   },
   "second_innings_classification": {
     "train_metrics": 0.651578947368421,
-    "test_metrics": 0.6666666666666666,
+    "test_metrics": 0.65,
     "info": "metrics is accuracy - selected :['team_score', 'opponent_score', 'opponent_base', 'opponent_trend', 'opponent_trend_predict', 'opponent_mean', 'location_base', 'location_trend', 'location_trend_predict', 'location_mean', 'current_base', 'current_trend', 'current_trend_predict', 'current_mean', 'run_factor', 'score_sum_7', 'score_sum_6', 'score_sum_5', 'score_sum_4', 'score_sum_3', 'score_max', 'score_sum_weighted_by_correlation', 'score_sum_weighted_by_contribution', 'score_sum_weighted_by_effectiveness', 'score_sum_weighted_by_log', 'score_mean_weighted_by_correlation', 'score_mean_weighted_by_contribution', 'score_mean_weighted_by_effectiveness', 'score_mean_weighted_by_log', 'score_sum_weighted_by_correlation_4', 'score_sum_weighted_by_contribution_4', 'score_sum_weighted_by_effectiveness_4', 'score_sum_weighted_by_log_4', 'score_mean_weighted_by_correlation_4', 'score_mean_weighted_by_contribution_4', 'score_mean_weighted_by_effectiveness_4', 'score_mean_weighted_by_log_4', 'score_mean_7', 'score_mean_6', 'score_mean_5', 'score_mean_4', 'score_mean_3', 'player_1', 'player_2', 'player_3', 'player_4', 'player_5', 'player_6', 'player_7', 'bowler_score_sum', 'bowler_score_mean', 'bowler_score_max', 'bowler_score_sum_weighted_by_contribution', 'bowler_score_mean_weighted_by_contribution', 'bowler_score_sum_weighted_by_wr_contribution', 'bowler_score_mean_weighted_by_wr_contribution', 'target_score']\n with polynomial 1 with iteration 500",
     "files": [
       "second_innings_selected_features.pkl",
@@ -624,7 +624,7 @@
   },
   "one_shot_classification": {
     "train_metrics": 0.6694648478488983,
-    "test_metrics": 0.6851851851851852,
+    "test_metrics": 0.6666666666666666,
     "info": "metrics is accuracy - selected :['team_a_score', 'team_a_quantile', 'team_b_score', 'team_b_quantile', 'location_mean', 'team_a_score_sum_7', 'team_a_score_sum_6', 'team_a_score_sum_5', 'team_a_score_sum_4', 'team_a_score_sum_3', 'team_a_score_max', 'team_a_score_sum_weighted_by_correlation', 'team_a_score_sum_weighted_by_contribution', 'team_a_score_sum_weighted_by_effectiveness', 'team_a_score_sum_weighted_by_log', 'team_a_score_mean_weighted_by_correlation', 'team_a_score_mean_weighted_by_contribution', 'team_a_score_mean_weighted_by_effectiveness', 'team_a_score_mean_weighted_by_log', 'team_a_score_sum_weighted_by_correlation_4', 'team_a_score_sum_weighted_by_contribution_4', 'team_a_score_sum_weighted_by_effectiveness_4', 'team_a_score_sum_weighted_by_log_4', 'team_a_score_mean_weighted_by_correlation_4', 'team_a_score_mean_weighted_by_contribution_4', 'team_a_score_mean_weighted_by_effectiveness_4', 'team_a_score_mean_weighted_by_log_4', 'team_a_score_mean_7', 'team_a_score_mean_6', 'team_a_score_mean_5', 'team_a_score_mean_4', 'team_a_score_mean_3', 'team_a_player_1', 'team_a_player_2', 'team_a_player_3', 'team_a_player_4', 'team_a_player_5', 'team_a_player_6', 'team_a_player_7', 'team_a_bowler_score_sum', 'team_a_bowler_score_mean', 'team_a_bowler_score_max', 'team_a_bowler_score_sum_weighted_by_contribution', 'team_a_bowler_score_mean_weighted_by_contribution', 'team_a_bowler_score_sum_weighted_by_wr_contribution', 'team_a_bowler_score_mean_weighted_by_wr_contribution', 'team_b_score_sum_7', 'team_b_score_sum_6', 'team_b_score_sum_5', 'team_b_score_sum_4', 'team_b_score_sum_3', 'team_b_score_max', 'team_b_score_sum_weighted_by_correlation', 'team_b_score_sum_weighted_by_contribution', 'team_b_score_sum_weighted_by_effectiveness', 'team_b_score_sum_weighted_by_log', 'team_b_score_mean_weighted_by_correlation', 'team_b_score_mean_weighted_by_contribution', 'team_b_score_mean_weighted_by_effectiveness', 'team_b_score_mean_weighted_by_log', 'team_b_score_sum_weighted_by_correlation_4', 'team_b_score_sum_weighted_by_contribution_4', 'team_b_score_sum_weighted_by_effectiveness_4', 'team_b_score_sum_weighted_by_log_4', 'team_b_score_mean_weighted_by_correlation_4', 'team_b_score_mean_weighted_by_contribution_4', 'team_b_score_mean_weighted_by_effectiveness_4', 'team_b_score_mean_weighted_by_log_4', 'team_b_score_mean_7', 'team_b_score_mean_6', 'team_b_score_mean_5', 'team_b_score_mean_4', 'team_b_score_mean_3', 'team_b_player_1', 'team_b_player_2', 'team_b_player_3', 'team_b_player_4', 'team_b_player_5', 'team_b_player_6', 'team_b_player_7', 'team_b_bowler_score_sum', 'team_b_bowler_score_mean', 'team_b_bowler_score_max', 'team_b_bowler_score_sum_weighted_by_contribution', 'team_b_bowler_score_mean_weighted_by_contribution', 'team_b_bowler_score_sum_weighted_by_wr_contribution', 'team_b_bowler_score_mean_weighted_by_wr_contribution']\n with polynomial 1 with iteration 500",
     "files": [
       "one_shot_classification_feature.pkl",
@@ -632,16 +632,16 @@
     ]
   },
   "combined_any_innings_model": {
-    "train_metrics": 0.6754756871035941,
+    "train_metrics": 0.6659619450317125,
     "test_metrics": 0.6666666666666666,
-    "info": "metrics is accuracy and at polynomial 2 with iteration 1000",
+    "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
     "files": [
       "combined_model_any_innings.pkl"
     ]
   },
   "mg_model": {
     "train_metrics": 0.615866388308977,
-    "test_metrics": 0.7222222222222222,
+    "test_metrics": 0.7301587301587301,
     "info": "metrics is accuracy",
     "files": [
       "mg_model.pkl"
