@@ -632,9 +632,9 @@
     ]
   },
   "combined_any_innings_model": {
-    "train_metrics": 0.6659619450317125,
-    "test_metrics": 0.6666666666666666,
-    "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
+    "train_metrics": 0.741014799154334,
+    "test_metrics": 0.6833333333333333,
+    "info": "metrics is accuracy and at polynomial 4 with iteration 1000",
     "files": [
       "combined_model_any_innings.pkl"
     ]
