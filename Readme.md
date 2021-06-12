@@ -133,7 +133,10 @@ python odi/retrain/retrain_ci.py one-shot-classification
 python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
 
 ### step 7 train multi output neural in one shot
-python odi/retrain/retrain_ci.py train-multi-output-neural
+python odi/retrain/retrain_ci.py train-multi-output-neural --epoch 500
+
+-- if it does not come to accruracy 70 restart the training or try --mode tune
+-- both train and test can be around 70 with a couple of trials
 
 ### Step 8 - create train test for second level training by making both teams as both innings
 python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
