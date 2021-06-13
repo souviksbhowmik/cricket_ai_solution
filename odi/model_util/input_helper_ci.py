@@ -51,7 +51,7 @@ def find_location(location):
 
 
     print("other possible matches ")
-    sorted_args = np.argsort(np.array(-similarity_list))
+    sorted_args = np.argsort(-np.array(similarity_list))
 
     for idx in range(5):
         arg = sorted_args[idx]
@@ -90,9 +90,16 @@ def find_location(location):
 @click.option('--team_b', help='name of team B.',required=True)
 @click.option('--location', help='location of match.',required=True)
 @click.option('--out_dir', help='Directory of template.')
-def create_input_template(team_a,team_b,location,out_dir):
+@click.option('--ref_date', help='Match date in yyyy-mm-dd')
+def create_input_template(team_a,team_b,location,out_dir,ref_date= None):
+
+    if ref_date is None:
+        ref_date = cricutil.today_as_date_time()
+    start_date = cricutil.substract_year_as_datetime(ref_date,1)
+
 
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date']>=start_date) & (match_list_df['date']<ref_date)]
     batting_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     bowler_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
 
@@ -111,66 +118,44 @@ def create_input_template(team_a,team_b,location,out_dir):
         match_id = match_list_team.iloc[0]['match_id']
 
         last_team_composition = batting_df[(batting_df['match_id']==match_id) & (batting_df['team']==team)][['team','name']]
+
         #last_team_composition['location'] = location
-        last_team_bowlers = bowler_df[(bowler_df['match_id']==match_id) & (bowler_df['team']==team)]['name']
-        last_team_bowlers['bowler'] = "Y"
+        last_team_bowlers = bowler_df[(bowler_df['match_id']==match_id) & (bowler_df['team']==team)]['name'].reset_index()
+        last_team_bowlers["bowler"] = 'Y'
 
         last_team_composition = last_team_composition.merge(last_team_bowlers,on='name',how='left')
         last_team_composition['playing'] = 'Y'
         last_team_composition['location'] = location
 
+        player_name_list = list(last_team_composition['name'].unique())
+        other_players = list(batting_df[(batting_df['date']>=start_date) & (batting_df['team']==team) & ~(batting_df['name']).isin(player_name_list)]['name'].unique())
+        other_bowlers = list(bowler_df[(bowler_df['date']>=start_date) & (batting_df['team']==team) & ~(bowler_df['name']).isin(player_name_list)]['name'].unique())
+
+        reserved_df = pd.DataFrame()
+        reserved_df['name']=other_players
+        reserved_df['team']=team
+        reserved_df['playing'] = 'N'
+        reserved_df['location'] = location
+
+        reserved_bowler_df = pd.DataFrame()
+        reserved_bowler_df['name']=other_bowlers
+        reserved_bowler_df['bowler']='Y'
+        reserved_df = reserved_df.merge(reserved_bowler_df,on="name",how='left')
 
 
-
-
-
-
-
-        match_details_df = pd.read_csv(dl.CSV_LOAD_LOCATION+os.sep+str(match_id)+'.csv')
-
-        data_list = list()
-        data_list.append({'type': 'location', 'name': location})
-        data_list.append({'type': 'team', 'name': team})
-
-        batting_order_list = list(match_details_df[match_details_df['team']==team]['batsman'].unique())
-        for player in batting_order_list:
-            data_list.append({'type': 'player', 'name': player})
-
-        bowler_list = match_details_df[match_details_df['team']!=team]['bowler'].unique()
-        for bowler in bowler_list:
-            if bowler not in batting_order_list:
-                batting_order_list.append(bowler)
-                data_list.append({'type': 'player', 'name': bowler})
-
-        batsman_rank_file = rank.get_latest_rank_file('batsman')
-        bowler_rank_file = rank.get_latest_rank_file('bowler')
-
-        batsman_rank_df = pd.read_csv(batsman_rank_file)
-        bowler_rank_df = pd.read_csv(bowler_rank_file)
-
-        additional_batsman_list = list(batsman_rank_df[batsman_rank_df['country']==team]['batsman'].unique())
-        additional_bowler_list = list(bowler_rank_df[bowler_rank_df['country']==team]['bowler'].unique())
-
-        for add_batsman in additional_batsman_list:
-            if add_batsman not in batting_order_list:
-                batting_order_list.append(add_batsman)
-                data_list.append({'type': 'reserved', 'name': add_batsman})
-
-        for add_bowler in additional_bowler_list:
-            if add_bowler not in batting_order_list:
-                batting_order_list.append(add_bowler)
-                data_list.append({'type': 'reserved', 'name': add_bowler})
-
-
-        player_df = pd.DataFrame(data_list)
-
-        if out_dir is not None and out_dir.strip() != '':
-            if not os.path.isdir(out_dir):
-                os.makedirs(out_dir)
-
-            player_df.to_excel(out_dir+os.sep+xlsx_name,index=False)
+        final_df = pd.concat([last_team_composition,reserved_df])
+        if out_dir is not None:
+            file_name = out_dir + os.sep + xlsx_name
         else:
-            player_df.to_excel(xlsx_name, index=False)
+            file_name = xlsx_name
+        final_df.to_excel(file_name,index=False)
+
+        print("Check team_a.xlsx and team_b.xlsx in specified out_dir(if specified)")
+        print("the first 11 are the playing 11 \n Y in playing indicates playing and N indicates reserved")
+        print("Y in bowler indicates bowler")
+        print("Can copy any player from reserved to playing, but need to maintain batting order "+
+              "\n Also marke him as bowler if he is a bowler")
+
 
 
 if __name__=='__main__':
