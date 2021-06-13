@@ -388,6 +388,26 @@ def download_matches(year_list,mode='a'):
                 row_dict['second_innings_run'] = total_runs_second
                 row_dict['second_innings_fow'] = loss_of_wickets_second
                 row_dict['second_innings_extras'] = extras_second
+
+                try:
+                    is_dl, chasing_overs, chasing_target_overs, adjusted_chasing_target = get_chasing_info(match_soup)
+
+                    row_dict['is_dl']=is_dl
+                    row_dict['chasing_overs'] = chasing_overs
+                    row_dict['chasing_target_overs'] = chasing_target_overs
+                    row_dict['adjusted_chasing_target'] = adjusted_chasing_target
+                except Exception as ex:
+                    row_dict['is_dl'] = 0
+                    row_dict['chasing_overs'] = 0
+                    row_dict['chasing_target_overs'] = 50
+                    row_dict['adjusted_chasing_target'] = total_runs_first
+                    # print("===========error for ",href)
+                    # print("===========match Id ", match_id)
+                    # print("===========team a ", team_a)
+                    # print("===========team b ", team_b)
+                    # print("========date ",date)
+                    # raise ex
+
                 match_list.append(row_dict)
 
                 batting_list = batting_list + first_innings_batting + second_innings_batting
@@ -524,6 +544,28 @@ def get_match_statistics(match_soup,match_id,first_innings,second_innings,date):
     return first_innings_batting,first_innings_bowling,second_innings_batting,second_innings_bowling,toss_winner,\
            total_runs_first,loss_of_wickets_first,extras_first,total_runs_second,loss_of_wickets_second,extras_second
 
+
+def get_chasing_info(match_soup):
+    match_info = match_soup.find('div', {'class': 'match-info match-info-MATCH'})
+    status_text = match_info.find('div', {'class': 'status-text'}).text
+    if 'D/L' in status_text:
+        is_dl = 1
+    else:
+        is_dl = 0
+
+
+    chasing_score_info = match_info.find('div', {'class': 'teams'}).find_all('div', 'team')[1].find('span',
+                                                                                                    'score-info').text
+    #print("======chasing score info======",chasing_score_info)
+    chasing_overs = float(chasing_score_info.split('(')[1].split('/')[0])
+    try:
+        chasing_target_overs = float(chasing_score_info.split('(')[1].split('/')[1].split(' ')[0])
+        adjusted_chasing_target = float(chasing_score_info.split('target ')[1].split(')')[0])
+    except Exception as ex:
+        chasing_target_overs = 50
+        adjusted_chasing_target = 0
+
+    return is_dl,chasing_overs,chasing_target_overs,adjusted_chasing_target
 
 def get_batting(table,match_id,team,opponent,innings_type,date):
     innings_batting = []
