@@ -117,44 +117,44 @@ python odi/retrain/retrain_ci.py first-innings-regression
 - optional neural network training
 python odi/retrain/retrain_ci.py train-first-innings-base-neural
 
-### Step  - Create train test for second innings base model
+### Step 4 - Create train test for second innings base model
 python odi/retrain/create_train_test_ci.py second-innings-base --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### Step 4 - Create second innings base model 
+### Step 5 - Create second innings base model 
 python odi/retrain/retrain_ci.py second-innings-classification
 
-### Step 5 - create train test for second level training by making both teams as both innings without neural network
+### Step 6 - create train test for second level training by making both teams as both innings without neural network
 python odi/retrain/create_train_test_ci.py second-level-non-neural --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### Step 6 - retrain classification to predict outcome with both teams as both innings without neural network
+### Step 7 - retrain classification to predict outcome with both teams as both innings without neural network
 python odi/retrain/retrain_ci.py combined-non-neural
 
-### step 7 create one shot train test
+### step 8 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### Step 8 - Create second innings base model 
+### Step 9 - Create second innings base model 
 python odi/retrain/retrain_ci.py one-shot-classification
 
-### step 9 create one shot neural network with multi output train test
-python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+### step 10 create one shot neural network with multi output train test
+python odi/retrain/create_train_test_ci.py one-shot-multi --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### step 10 train multi output neural in one shot
+### step 11 train multi output neural in one shot
 python odi/retrain/retrain_ci.py train-multi-output-neural --epoch 500
 
 -- if it does not come to accruracy 70 restart the training or try --mode tune
 -- both train and test can be around 70 with a couple of trials
 
-### Step 11 - create train test for second level training by making both teams as both innings
-python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+### Step 12 - create train test for second level training by making both teams as both innings
+python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### Step 12 - retrain classification to predict outcome with both teams as both innings
+### Step 13 - retrain classification to predict outcome with both teams as both innings
 python odi/retrain/retrain_ci.py combined-any-innings
 
 
-### Step 13 compare with previous paper - create traine test for mg
-python odi/retrain/create_train_test_ci.py mg --train_start 2012-01-01 --test_start 2019-01-01 --test_end 2019-12-31
+### Step 14 compare with previous paper - create traine test for mg
+python odi/retrain/create_train_test_ci.py mg --train_start 2012-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-### Step 14 - retrain mg(prior paper) classification to predict outcome
+### Step 15 - retrain mg(prior paper) classification to predict outcome
 python odi/retrain/retrain_ci.py mg-classification
 
 

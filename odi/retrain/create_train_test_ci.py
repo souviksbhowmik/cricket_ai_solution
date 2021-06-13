@@ -559,7 +559,7 @@ def create_one_shot_prediction_train_test(train_start,test_start,test_end=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                   (batting_list_df['date'] <= overall_end)]
@@ -885,7 +885,7 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     # batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
     #                               (batting_list_df['date'] <= overall_end)]
@@ -1119,7 +1119,7 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                   (batting_list_df['date'] <= overall_end)]
@@ -1256,7 +1256,7 @@ def create_second_level_any_innings_train_test(train_start,test_start,test_end=N
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                   (batting_list_df['date'] <= overall_end)]
@@ -1495,7 +1495,7 @@ def create_first_innings_base_train_test(train_start,test_start,test_end=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                   (batting_list_df['date'] <= overall_end)]
@@ -1669,7 +1669,7 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
     match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
     match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
                                   (match_list_df['date'] <= overall_end)]
-    match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
     batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
     batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
                                       (batting_list_df['date'] <= overall_end)]
