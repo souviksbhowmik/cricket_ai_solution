@@ -150,11 +150,13 @@ def create_input_template(team_a,team_b,location,out_dir,ref_date= None):
             file_name = xlsx_name
         final_df.to_excel(file_name,index=False)
 
-        print("Check team_a.xlsx and team_b.xlsx in specified out_dir(if specified)")
-        print("the first 11 are the playing 11 \n Y in playing indicates playing and N indicates reserved")
-        print("Y in bowler indicates bowler")
-        print("Can copy any player from reserved to playing, but need to maintain batting order "+
-              "\n Also marke him as bowler if he is a bowler")
+    print("***************************************************************")
+    print("Check team_a.xlsx and team_b.xlsx in specified out_dir(if specified)")
+    print("The first 11 are the playing 11 \nY in playing indicates playing and N indicates reserved")
+    print("Y in bowler indicates bowler")
+    print("Can copy any player from reserved to playing, but need to maintain batting order "+
+          "\nAlso mark him as bowler if he is a bowler")
+    print("***************************************************************")
 
 
 
