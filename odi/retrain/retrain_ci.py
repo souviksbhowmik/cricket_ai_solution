@@ -1664,7 +1664,7 @@ def set_loc(row):
     else:
         return 2
 
-def retrain_mg_classification(categorical_loc=False):
+def retrain_mg_classification(categorical_loc=False,poly_nom=1):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_y), 'rb'))
 
@@ -1686,7 +1686,7 @@ def retrain_mg_classification(categorical_loc=False):
         test_x = np.array(test_x_df[['strngth','toss','loc']])
 
     #train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('svc', SVC(probability=True))])
-    train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('cls', LogisticRegression(max_iter=1000))])
+    train_pipe = Pipeline([('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=1000))])
     train_pipe.fit(train_x, train_y)
 
     train_predict = train_pipe.predict(train_x)
@@ -1888,7 +1888,7 @@ def combined(first_innings_emb,second_innings_emb):
     retrain_combined_innings(first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
 @retrain.command()
-@click.option('--poly_nom', help='whethter to raise to polynomial',default=4)
+@click.option('--poly_nom', help='whethter to raise to polynomial',default=1)
 @click.option('--max_iter', help='maximum training iterations',default=1000)
 def combined_any_innings(poly_nom,max_iter):
     retrain_combined_any_innings_classification(poly_nom=poly_nom,max_iter=max_iter)
@@ -1902,8 +1902,9 @@ def combined_non_neural(poly_nom,max_iter):
 
 @retrain.command()
 @click.option('--categorical_loc', help='whethter to use one hot vector or categorical values',default=False,type=bool)
-def mg_classification(categorical_loc):
-    retrain_mg_classification(categorical_loc=categorical_loc)
+@click.option('--poly_nom', help='polynomila degree',default=1)
+def mg_classification(categorical_loc,poly_nom):
+    retrain_mg_classification(categorical_loc=categorical_loc,poly_nom=poly_nom)
 
 @retrain.command()
 @click.option('--start_date', help='start date for train data (YYYY-mm-dd)',required=True)
