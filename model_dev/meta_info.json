@@ -674,9 +674,9 @@
     ]
   },
   "combined_non_neural_model": {
-    "train_metrics": 0.6399155227032735,
-    "test_metrics": 0.7,
-    "info": "metrics is accuracy and at polynomial 2 with iteration 1000",
+    "train_metrics": 0.6473072861668426,
+    "test_metrics": 0.75,
+    "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
     "files": [
       "combined_model_non_neural.pkl"
     ]

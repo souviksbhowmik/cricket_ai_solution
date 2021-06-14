@@ -155,12 +155,12 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
                                                                            innings_type='second')
         feature_dict_team_b_batting_second['target_score'] = target
         feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second]).drop(columns=['team', 'opponent', 'location']))
-        team_b_chasing_success_probability = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
-        team_b_chasing_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0]
+        team_a_defend_success_probability = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
+        team_b_chasing_success = second_innings_model.predict(feature_vector_team_b_chasing)[0]
 
 
         print(team_b, " will be able to chase ? ",np.array([int(team_b_chasing_success)]).astype(bool)[0])
-        print(team_b, " win probability ", team_b_chasing_success_probability)
+        print(team_a, " win probability ", team_a_defend_success_probability)
         if any_sequence:
             feature_dict_team_b_batting_first = fec.get_instance_feature_dict(team_b, team_a, location,
                                                                                team_b_player_df,
@@ -179,22 +179,22 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
             feature_dict_team_a_batting_second['target_score'] = team_b_first_target
             feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second]).drop(columns=['team', 'opponent', 'location']))
 
-            team_a_chasing_success_probability = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
-            team_a_chasing_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0]
+            team_b_defend_success_probability = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
+            team_a_chasing_success = second_innings_model.predict(feature_vector_team_a_chasing)[0]
 
-            combined_feature_vector = np.array([team_a_first_target, team_b_chasing_success_probability, team_b_first_target,
-                                       team_a_chasing_success_probability]).reshape(1,-1)
+            combined_feature_vector = np.array([target, team_a_defend_success_probability, team_b_first_target,
+                                       team_b_defend_success_probability]).reshape(1,-1)
 
             predict_final_outcome_team_a = combined_model.predict(combined_feature_vector)
-            pridict_final_outcome_probability_team_a = combined_model.predict_proba(combined_feature_vector)[0][0]
-            pridict_final_outcome_probability_team_b = combined_model.predict_proba(combined_feature_vector)[0][1]
+            pridict_final_outcome_probability_team_a = combined_model.predict_proba(combined_feature_vector)[0][1]
+            pridict_final_outcome_probability_team_b = combined_model.predict_proba(combined_feature_vector)[0][0]
 
             print("==============================================================")
 
             print(" For ", team_b, " batting first ")
             print(team_b, " scores ", team_b_first_target)
             print(team_a, " will be able to chase ? ",np.array([int(team_a_chasing_success)]).astype(bool)[0])
-            print(team_a, " win probability ", team_a_chasing_success_probability)
+            print(team_b, " win probability ", team_b_defend_success_probability)
 
             print("==============================================================")
             print(" Overall result ")

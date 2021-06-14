@@ -1210,11 +1210,11 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
             feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second]).drop(columns=['team','opponent','location']))
             feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second]).drop(columns=['team', 'opponent', 'location']))
 
-            team_a_chasing_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
-            team_b_chasing_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
+            team_b_defend_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
+            team_a_defend_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
 
             #print("=====", team_a_chasing_success, team_b_chasing_success)
-            combined_feature_vector = [team_a_first_target,team_b_chasing_success,team_b_first_target,team_a_chasing_success]
+            combined_feature_vector = [team_a_first_target,team_a_defend_success,team_b_first_target,team_b_defend_success]
 
             if ref_date<test_start_dt:
                 feature_list_train.append(combined_feature_vector)
