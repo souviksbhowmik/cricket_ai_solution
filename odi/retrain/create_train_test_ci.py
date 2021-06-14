@@ -61,8 +61,10 @@ first_innings_base_columns = 'first_innings_base_columns.pkl'
 
 second_innings_base_train_x = 'second_innings_base_train_x.pkl'
 second_innings_base_train_y = 'second_innings_base_train_y.pkl'
+second_innings_base_train_y_2 = 'second_innings_base_train_y_2.pkl'
 second_innings_base_test_x = 'second_innings_base_test_x.pkl'
 second_innings_base_test_y = 'second_innings_base_test_y.pkl'
+second_innings_base_test_y_2 = 'second_innings_base_test_y_2.pkl'
 # second_innings_base_scaler = 'second_innings_base_scaler.pkl'
 second_innings_base_columns = 'second_innings_base_columns.pkl'
 
@@ -1682,9 +1684,11 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
     match_id_list = list(match_list_df['match_id'].unique())
     feature_list_train = []
     result_list_train = []
+    runs_achieved_list_train = []
 
     feature_list_test = []
     result_list_test = []
+    runs_achieved_list_test = []
     for index,match_id in tqdm(enumerate(match_id_list)):
         team = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["second_innings"]
         opponent = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["first_innings"]
@@ -1693,6 +1697,18 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
         ref_dt_np = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["date"]
         ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
         target = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['first_innings_run']
+        runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
+        if winner == team:
+            #runs_achieved = runs_achieved+15
+            #adjust runcs achieved
+            chasing_overs = round(match_list_df[match_list_df['match_id']==match_id].iloc[0]['chasing_overs'])
+            if chasing_overs == 0:
+                runs_achieved = runs_achieved + 40
+            elif chasing_overs >= 49:
+                runs_achieved = runs_achieved + 15
+            else:
+                runs_achieved=(runs_achieved/chasing_overs)*50
+
         win = 1*(team==winner)
 
         team_player_list_df = batting_list_df[
@@ -1730,6 +1746,7 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
             if ref_date<test_start_dt:
                 feature_list_train.append(feature_dict)
                 result_list_train.append(win)
+                runs_achieved_list_train.append(runs_achieved)
             else:
                 feature_dict_first = fec.get_first_innings_feature_vector(opponent, team, location,
                                                                           opponent_player_list_df, team_bowler_list_df,
@@ -1740,12 +1757,15 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
                 feature_dict['target_score'] = predicted_target
                 feature_list_test.append(feature_dict)
                 result_list_test.append(win)
+                runs_achieved_list_test.append(runs_achieved)
         except Exception as ex:
             print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
             #raise ex
 
     train_y = np.stack(result_list_train)
+    train_y_2 = np.stack(runs_achieved_list_train)
     test_y = np.stack(result_list_test)
+    test_y_2 = np.stack(runs_achieved_list_test)
 
     train_x = np.array(pd.DataFrame(feature_list_train).drop(columns=['team','opponent','location']))
     test_x  = np.array(pd.DataFrame(feature_list_test).drop(columns=['team','opponent','location']))
@@ -1753,21 +1773,25 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
     pickle.dump(train_x,open(os.path.join(TRAIN_TEST_DIR,second_innings_base_train_x),'wb'))
     pickle.dump(train_y, open(os.path.join(TRAIN_TEST_DIR,second_innings_base_train_y), 'wb'))
+    pickle.dump(train_y_2, open(os.path.join(TRAIN_TEST_DIR, second_innings_base_train_y_2), 'wb'))
     pickle.dump(cols, open(os.path.join(outil.DEV_DIR, second_innings_base_columns), 'wb'))
 
     outil.create_meta_info_entry('second_innings_base_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
                                  file_list=[second_innings_base_train_x,
                                             second_innings_base_train_y,
+                                            second_innings_base_train_y_2,
                                             second_innings_base_columns])
 
     pickle.dump(test_x, open(os.path.join(TRAIN_TEST_DIR, second_innings_base_test_x), 'wb'))
     pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, second_innings_base_test_y), 'wb'))
+    pickle.dump(test_y_2, open(os.path.join(TRAIN_TEST_DIR, second_innings_base_test_y_2), 'wb'))
 
     outil.create_meta_info_entry('second_innings_base_test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
                                  file_list=[second_innings_base_test_x,
-                                            second_innings_base_test_y])
+                                            second_innings_base_test_y,
+                                            second_innings_base_test_y_2])
 
     # print(pd.DataFrame(feature_list_train))
 

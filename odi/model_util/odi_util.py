@@ -29,6 +29,7 @@ MG_MODEL = 'mg_model.pkl'
 
 FIRST_INNINGS_MODEL_BASE = 'first_innings_model_base.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_model_with_embedding_lrg.pkl
+SECOND_INNINGS_MODEL_BASE_REGRESSION = 'second_innings_model_base_regression.pkl'
 ONE_SHOT_CLASSIFICATION_MODEL = 'one_shot_classification_model.pkl'
 
 TEAM_OPPONENT_LOCATION_EMBEDDING_MODEL = 'group_encode_model'# V2 renamed

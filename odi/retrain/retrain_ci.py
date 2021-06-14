@@ -761,31 +761,38 @@ def retrain_first_innings():
 def retrain_second_innings_base(create_output=True,feature_selection=False,poly_nom=1,max_iter=500):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y), 'rb'))
+    train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y_2), 'rb'))
 
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_y), 'rb'))
+    test_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_test_y_2), 'rb'))
 
     cols = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.second_innings_base_columns), 'rb'))
 
     train_df = pd.DataFrame(train_x)
     train_df.columns = cols
     train_df['win'] = train_y
+    train_df['runs_achieved'] = train_y_2
 
     test_df = pd.DataFrame(test_x)
     test_df.columns = cols
     test_df['win'] = test_y
+    test_df['runs_achieved'] = test_y_2
 
     train_df.dropna(inplace=True)
     test_df.dropna(inplace=True)
 
     train_y = np.array(train_df['win'])
+    train_y_2 = np.array(train_df['runs_achieved'])
     test_y = np.array(test_df['win'])
-    train_pipe = Pipeline(
-        [('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=max_iter))])
+    test_y_2 = np.array(test_df['runs_achieved'])
+    train_pipe = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)), ('cls', LogisticRegression(max_iter=max_iter))])
+    train_pipe_regression = Pipeline([('scaler', StandardScaler()), ('polynom', PolynomialFeatures(poly_nom)),('reg', LinearRegression())])
+
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
         sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
-        sfs.fit(train_df.drop(columns='win'), train_df['win'])
+        sfs.fit(train_df.drop(columns=['win','runs_achieved']), train_df['runs_achieved'])
 
         print("=======overall improtance=========")
         selected_cols = []
@@ -809,29 +816,53 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
     train_predict = train_pipe.predict(train_x)
     test_predict = train_pipe.predict(test_x)
 
-    train_accuracy = accuracy_score(train_y, train_predict)
+    train_accuracy = accuracy_score(train_y,train_predict)
     test_accuracy = accuracy_score(test_y, test_predict)
+
+    train_pipe_regression.fit(train_x, train_y_2)
+    train_predict_achieved_runs = train_pipe_regression.predict(train_x)
+    test_predict_achieved_runs = train_pipe_regression.predict(test_x)
+
+    train_mape = mean_absolute_percentage_error(train_y_2, train_predict_achieved_runs)
+    test_mape = mean_absolute_percentage_error(test_y_2, test_predict_achieved_runs)
+
+    train_predict_regression = 1*(train_predict_achieved_runs > np.array(train_df['target_score']))
+    test_predict_regression = 1*(test_predict_achieved_runs > np.array(test_df['target_score']))
+
+
+    train_accuracy_regression = accuracy_score(train_y, train_predict_regression)
+    test_accuracy_regression = accuracy_score(test_y, test_predict_regression)
 
     if create_output:
         pickle.dump(selected_column,open(os.path.join(outil.DEV_DIR,outil.SECOND_INNINGS_FEATURE_PICKLE),'wb'))
         pickle.dump(train_pipe, open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'wb'))
+        pickle.dump(train_pipe_regression, open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE_REGRESSION), 'wb'))
         pickle.dump(selected_index,
                     open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX), 'wb'))
 
         outil.create_model_meta_info_entry('second_innings_classification',
-                                           train_accuracy,
-                                           test_accuracy,
-                                           info="metrics is accuracy - selected :"+str(selected_column)+
+                                           (train_accuracy,train_mape,train_accuracy_regression),
+                                           (test_accuracy, test_mape, test_accuracy_regression),
+                                           info="metrics is accuracy,regression mape, regression accuracy -\n selected :"+str(selected_column)+
                                                 "\n with polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
                                            file_list=[
                                                outil.SECOND_INNINGS_FEATURE_PICKLE,
                                                outil.SECOND_INNINGS_MODEL_BASE,
                                                outil.SECOND_INNINGS_SELECTED_COLUMN_INDEX
                                                ])
+
     print("train metrics (accuracy) ", train_accuracy)
     print("test metrics (accuracy) ", test_accuracy)
+
+    print("train metrics regression(mape) ", train_mape)
+    print("test metrics regression(mape) ", test_mape)
+
+    print("train metrics regression(mape) ", train_accuracy_regression)
+    print("test metrics regression(mape) ", test_accuracy_regression)
+
     print("train size ", train_x.shape)
     print("test size ", test_x.shape)
+
 
 def retrain_second_innings():
     train_x =pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_train_x), 'rb'))
