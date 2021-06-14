@@ -1798,6 +1798,95 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
     # print(pd.DataFrame(feature_list_train))
 
+from odi.inference import prediction_ci as predci
+from sklearn.metrics import accuracy_score
+def verify_threshod(test_start,test_end=None):
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = test_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+                                      (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+                                      (bowling_list_df['date'] <= overall_end)]
+
+
+    match_id_list = list(match_list_df['match_id'].unique())
+    prediction_list = []
+    win_list = []
+    for index,match_id in tqdm(enumerate(match_id_list)):
+        team = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["second_innings"]
+        opponent = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["first_innings"]
+        winner = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["winner"]
+        location = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id'] == match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        target = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['first_innings_run']
+        runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
+
+        win = 1*(team==winner)
+
+        team_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team)]
+
+        team_player_list_df = team_player_list_df[['team', 'name', 'position']]
+
+
+        opponent_bowler_list_df = bowling_list_df[
+            (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == opponent)]
+
+        opponent_bowler_list_df = opponent_bowler_list_df[['team', 'name']]
+
+
+        try:
+
+            # get predicted first innings score
+
+
+
+            threshold = predci.get_optimum_run(team,opponent,location,team_player_list_df,opponent_bowler_list_df,ref_date=ref_date)
+            #print(threshold)
+            if threshold is None:
+                raise Exception ("cannot determine threshold")
+            if target > threshold:
+                predicted_win = 0
+            else:
+                predicted_win = 1
+
+            prediction_list.append(predicted_win)
+            win_list.append(win)
+        except Exception as ex:
+            print(ex, ' for ',team, opponent, location, ' on ',ref_date.date() )
+            #raise ex
+
+
+
+    actual = np.stack(win_list)
+    predicted = np.stack(prediction_list)
+    accuracy = accuracy_score(actual,predicted)
+    print("Threshold accuracy is ",accuracy)
+    print("No of matches ", len(prediction_list))
+
+    outil.create_model_meta_info_entry('threshold_validation',
+                                       (accuracy),
+                                       (),
+                                       info=" measured from "+str(test_start_dt)+" to "+str(test_end_dt),
+                                       file_list=[ ])
+
 
 def create_first_innings_train_test(train_start,test_start,test_end=None):
     if not os.path.isdir(TRAIN_TEST_DIR):
@@ -2793,6 +2882,11 @@ def adversarial_first_innings(train_start, test_start, test_end):
 def combined_prediction(train_start, test_start, test_end, first_innings_emb,second_innings_emb):
     create_combined_prediction_train_test(train_start, test_start, test_end=test_end,first_innings_emb=first_innings_emb,second_innings_emb=second_innings_emb)
 
+@traintest.command()
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+def test_threshold(test_start, test_end):
+    verify_threshod(test_start,test_end=test_end)
 
 if __name__=="__main__":
     traintest()

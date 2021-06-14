@@ -46,6 +46,47 @@ def set_second_innings_emb(flag=True):
 
 
 
+def get_optimum_run(team_b,team_a,location,team_b_batsman_df,team_a_bowler_df,ref_date=None):
+    feature_dict = fec.get_instance_feature_dict(team_b, team_a, location, team_b_batsman_df, team_a_bowler_df, ref_date=ref_date,innings_type="second")
+    starting_run = 260
+    feature_dict['target_score'] = starting_run
+
+    second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
+
+    x = np.array(pd.DataFrame([feature_dict]).drop(columns=['team', 'opponent', 'location']))
+
+    win =  second_innings_model.predict(x)[0]
+    initial_val = win
+
+    thresh = None
+    if win==1:
+        while win==1 and starting_run <350:
+            starting_run=starting_run+5
+            x_new = np.array(x)
+            x_new[0,-1]=starting_run
+            win = second_innings_model.predict(x_new)[0]
+            if win ==0:
+
+                thresh = starting_run
+    else:
+        while win==0 and starting_run >150:
+            starting_run=starting_run-5
+            x_new = np.array(x)
+            x_new[0,-1]=starting_run
+            win = second_innings_model.predict(x_new)[0]
+            if win ==1:
+
+                thresh = starting_run
+
+
+    if thresh is None and initial_val==1:
+        thresh = 500
+    elif thresh is None and initial_val==0:
+        thresh  =0
+    else:
+        pass
+    return thresh
+
 def predict_first_innings_run(team,opponent,location,
                               team_player_list,opponent_player_list,
                               ref_date=None,no_of_years=None,mode="inference"):
@@ -196,58 +237,58 @@ def predict_match_outcome(team_a,team_b,location,
     return target_by_a, target_by_b, probability_by_b, probability_by_a,combined_model.predict_proba(feature_combined)[0,1]
 
 
-def get_optimum_run(team,opponent,location,
-                    team_player_list,opponent_player_list,
-                    ref_date=None, no_of_years=None):
-
-    predicted_run = predict_first_innings_run(team, opponent, location,
-                                              team_player_list, opponent_player_list,
-                                              ref_date=ref_date, no_of_years=no_of_years)
-
-    successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
-                                                                     team_player_list, opponent_player_list,
-                                                                     ref_date=ref_date, no_of_years=no_of_years)
-
-    if not successfully_chase:
-        print(team, 'will be able to score ',predicted_run)
-        print(opponent, 'will not be able to chase ')
-
-        print('finding lowest defendable score')
-
-        loop = True
-        predicted_run = predicted_run - 5
-        while(loop):
-            successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
-                                                                             team_player_list, opponent_player_list,
-                                                                             ref_date=ref_date, no_of_years=no_of_years)
-            if successfully_chase:
-                print('scoring ',predicted_run, ' or below will be chaseable by opponent ')
-                break
-            elif predicted_run<150:
-                print(' Score as low as 150 will also be defendable')
-                break
-            else:
-                predicted_run = predicted_run-5
-    else:
-        print(team, 'will be able to score ', predicted_run)
-        print(opponent, 'will be able to chase ')
-
-        print('finding defendable score')
-
-        loop = True
-        predicted_run = predicted_run + 5
-        while (loop):
-            successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
-                                                                             team_player_list, opponent_player_list,
-                                                                             ref_date=ref_date, no_of_years=no_of_years)
-            if not successfully_chase:
-                print('scoring ', predicted_run, ' or above will be not be chaseable by opponent ')
-                break
-            elif predicted_run > 350:
-                print(' Score as high as 350 will also be chaseable')
-                break
-            else:
-                predicted_run = predicted_run + 5
+# def get_optimum_run(team,opponent,location,
+#                     team_player_list,opponent_player_list,
+#                     ref_date=None, no_of_years=None):
+#
+#     predicted_run = predict_first_innings_run(team, opponent, location,
+#                                               team_player_list, opponent_player_list,
+#                                               ref_date=ref_date, no_of_years=no_of_years)
+#
+#     successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
+#                                                                      team_player_list, opponent_player_list,
+#                                                                      ref_date=ref_date, no_of_years=no_of_years)
+#
+#     if not successfully_chase:
+#         print(team, 'will be able to score ',predicted_run)
+#         print(opponent, 'will not be able to chase ')
+#
+#         print('finding lowest defendable score')
+#
+#         loop = True
+#         predicted_run = predicted_run - 5
+#         while(loop):
+#             successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
+#                                                                              team_player_list, opponent_player_list,
+#                                                                              ref_date=ref_date, no_of_years=no_of_years)
+#             if successfully_chase:
+#                 print('scoring ',predicted_run, ' or below will be chaseable by opponent ')
+#                 break
+#             elif predicted_run<150:
+#                 print(' Score as low as 150 will also be defendable')
+#                 break
+#             else:
+#                 predicted_run = predicted_run-5
+#     else:
+#         print(team, 'will be able to score ', predicted_run)
+#         print(opponent, 'will be able to chase ')
+#
+#         print('finding defendable score')
+#
+#         loop = True
+#         predicted_run = predicted_run + 5
+#         while (loop):
+#             successfully_chase, probability = predict_second_innings_success(predicted_run, team, opponent, location,
+#                                                                              team_player_list, opponent_player_list,
+#                                                                              ref_date=ref_date, no_of_years=no_of_years)
+#             if not successfully_chase:
+#                 print('scoring ', predicted_run, ' or above will be not be chaseable by opponent ')
+#                 break
+#             elif predicted_run > 350:
+#                 print(' Score as high as 350 will also be chaseable')
+#                 break
+#             else:
+#                 predicted_run = predicted_run + 5
 
 
 def predict_individual_runs(team,opponent,location,
