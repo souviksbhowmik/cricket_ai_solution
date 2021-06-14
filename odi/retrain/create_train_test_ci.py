@@ -6,6 +6,8 @@ from odi.feature_engg import feature_extractor_ci as fec
 from odi.evaluation import evaluate as cric_eval
 from odi.inference import prediction_ci as predc
 from datetime import datetime
+from odi.inference import prediction_ci as predci
+from sklearn.metrics import accuracy_score
 
 import os
 import numpy as np
@@ -1798,8 +1800,6 @@ def create_second_innings_base_train_test(train_start,test_start,test_end=None):
 
     # print(pd.DataFrame(feature_list_train))
 
-from odi.inference import prediction_ci as predci
-from sklearn.metrics import accuracy_score
 def verify_threshod(test_start,test_end=None):
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
@@ -1853,9 +1853,6 @@ def verify_threshod(test_start,test_end=None):
 
 
         try:
-
-            # get predicted first innings score
-
 
 
             threshold = predci.get_optimum_run(team,opponent,location,team_player_list_df,opponent_bowler_list_df,ref_date=ref_date)
