@@ -792,7 +792,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
         sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
-        sfs.fit(train_df.drop(columns=['win','runs_achieved']), train_df['runs_achieved'])
+        sfs.fit(train_df.drop(columns=['win','runs_achieved']), train_df['win'])
 
         print("=======overall improtance=========")
         selected_cols = []
