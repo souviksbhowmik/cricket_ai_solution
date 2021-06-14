@@ -1731,7 +1731,7 @@ def retrain_mg_classification(categorical_loc=False,poly_nom=1):
     outil.create_model_meta_info_entry('mg_model',
                                        train_accuracy,
                                        test_accuracy,
-                                       info="metrics is accuracy",
+                                       info="metrics is accuracy with polynomial degree "+str(poly_nom),
                                        file_list=[outil.MG_MODEL]
                                        )
 
