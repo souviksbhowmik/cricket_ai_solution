@@ -144,6 +144,7 @@ def create_input_template(team_a,team_b,location,out_dir,ref_date= None):
 
 
         final_df = pd.concat([last_team_composition,reserved_df])
+        final_df['position'] = final_df.index+1
         if out_dir is not None:
             file_name = out_dir + os.sep + xlsx_name
         else:

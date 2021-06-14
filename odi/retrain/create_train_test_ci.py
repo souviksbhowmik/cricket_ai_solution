@@ -1180,24 +1180,35 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
 
         try:
 
-            feature_dict_team_a_batting = fec.get_instance_feature_dict(team_a, team_b, location, team_a_player_list_df,
+            feature_dict_team_a_batting_first = fec.get_instance_feature_dict(team_a, team_b, location, team_a_player_list_df,
                                                                       team_b_bowler_list, ref_date=ref_date,
                                                                       innings_type='first')
+            feature_dict_team_a_batting_second = fec.get_instance_feature_dict(team_a, team_b, location,
+                                                                              team_a_player_list_df,
+                                                                              team_b_bowler_list, ref_date=ref_date,
+                                                                              innings_type='second')
 
-            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting]).drop(columns=['team','opponent','location']))
+            feature_dict_team_b_batting_second = fec.get_instance_feature_dict(team_b, team_a, location,
+                                                                               team_b_player_list_df,
+                                                                               team_a_bowler_list, ref_date=ref_date,
+                                                                               innings_type='second')
+            feature_dict_team_b_batting_first = fec.get_instance_feature_dict(team_b, team_a, location,
+                                                                              team_b_player_list_df,
+                                                                              team_a_bowler_list, ref_date=ref_date,
+                                                                              innings_type='first')
+
+            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first]).drop(columns=['team','opponent','location']))
             team_a_first_target = first_innings_model.predict(feature_vec_team_a_first_batting)[0]
-            feature_dict_team_b_batting = fec.get_instance_feature_dict(team_b, team_a, location, team_b_player_list_df,
-                                                                       team_a_bowler_list, ref_date=ref_date,
-                                                                       innings_type='second')
-            feature_vec_team_b_first_batting = np.array(pd.DataFrame([feature_dict_team_b_batting]).drop(columns=['team','opponent','location']))
+
+            feature_vec_team_b_first_batting = np.array(pd.DataFrame([feature_dict_team_b_batting_first]).drop(columns=['team','opponent','location']))
             team_b_first_target = first_innings_model.predict(feature_vec_team_b_first_batting)[0]
 
             #print("=====",team_a_first_target,team_b_first_target)
-            feature_dict_team_b_batting['target_score'] = team_a_first_target
-            feature_dict_team_a_batting['target_score'] = team_b_first_target
+            feature_dict_team_b_batting_second['target_score'] = team_a_first_target
+            feature_dict_team_a_batting_second['target_score'] = team_b_first_target
 
-            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting]).drop(columns=['team','opponent','location']))
-            feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting]).drop(columns=['team', 'opponent', 'location']))
+            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second]).drop(columns=['team','opponent','location']))
+            feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second]).drop(columns=['team', 'opponent', 'location']))
 
             team_a_chasing_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
             team_b_chasing_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
