@@ -1893,7 +1893,7 @@ def get_batsman_score_mg(batsman,team,batsman_master_df=None,ref_date=None):
 
     matches_played = batsman_master_df[(batsman_master_df['name']==batsman) & (batsman_master_df['team']==team)]['match_id'].nunique()
 
-    if matches_played < 4:
+    if matches_played <2:
         return None, None
     matches_batted = batsman_master_df[(batsman_master_df['name']==batsman)
                                        & (batsman_master_df['team']==team)
@@ -1971,7 +1971,7 @@ def get_final_batsman_score_mg(team_a_batsman_list_df,team_b_batsman_list_df,bat
         else:
             skipped_b = skipped_b+1
             if skipped_b >1 & team_b_idx<7:
-                raise Exception("Toot many new batsman")
+                raise Exception("Too many new batsman")
 
     team_a_batsman_df = pd.DataFrame(team_a_dict_list)
     team_b_batsman_df = pd.DataFrame(team_b_dict_list)

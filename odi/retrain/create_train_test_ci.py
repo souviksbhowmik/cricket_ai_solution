@@ -906,6 +906,7 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
     feature_list_test =[]
     win_list_test = []
     #no_of_basman = 0
+    matches_skipped = 0
     print("no of iters - ",len(match_id_list))
     for index,match_id in tqdm(enumerate(match_id_list)):
 
@@ -987,7 +988,9 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
                 feature_list_test.append(feature_dict)
                 win_list_test.append(team_a_win)
         except Exception as ex:
-            print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date() )
+            matches_skipped = matches_skipped + 1
+            print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date(),' skipped so far ',matches_skipped)
+
             #raise ex
 
 
