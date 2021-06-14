@@ -152,7 +152,7 @@ python odi/retrain/retrain_ci.py combined-any-innings
 
 
 ### Step 14 compare with previous paper - create traine test for mg
-python odi/retrain/create_train_test_ci.py mg --train_start 2012-01-01 --test_start 2019-01-01 --test_end 2020-12-31
+python odi/retrain/create_train_test_ci.py mg --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
 ### Step 15 - retrain mg(prior paper) classification to predict outcome
 python odi/retrain/retrain_ci.py mg-classification
