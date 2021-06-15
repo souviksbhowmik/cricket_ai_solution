@@ -40,8 +40,10 @@ ADVERSARIAL_LOCATION_MODEL_CACHE = None
 first_innings_default_mean =260
 second_innings_default_mean =224
 
+location_info_df = pd.read_excel(dl.CSV_LOAD_LOCATION + os.sep + 'location.xlsx')
 
-def get_bowler_score_features(player_list_df,ref_date=None):
+
+def get_bowler_score_features(player_list_df,bowler_loc=None,ref_date=None):
 
     no_of_bowlers = player_list_df.shape[0]
     latest_bowler_rank_file = rank.get_latest_rank_file("bowler", ref_date=ref_date)
@@ -102,10 +104,24 @@ def get_bowler_score_features(player_list_df,ref_date=None):
 
     }
 
+    if bowler_loc is not None:
+        team = player_list_df.iloc[0]['team']
+
+        if location_info_df[location_info_df['locations']==bowler_loc].shape[0]>0:
+            loc_country = location_info_df[location_info_df['locations']==bowler_loc].iloc[0]['Country'].strip()
+        else:
+            loc_country = ''
+
+        if team == loc_country:
+            entry['bowler_loc']=1
+        else:
+            entry['bowler_loc'] = 0
+
+
     return entry
 
 
-def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
+def get_batsman_score_features(player_list_df,batsman_loc=None,ref_date=None,batsman_count=7):
 
 
     latest_batsman_rank_file = rank.get_latest_rank_file("batsman", ref_date=ref_date)
@@ -257,6 +273,19 @@ def get_batsman_score_features(player_list_df,ref_date=None,batsman_count=7):
         "player_7": player_7
 
     }
+
+    if batsman_loc is not None:
+        team = player_list_df.iloc[0]['team']
+
+        if location_info_df[location_info_df['locations']==batsman_loc].shape[0]>0:
+            loc_country = location_info_df[location_info_df['locations']==batsman_loc].iloc[0]['Country'].strip()
+        else:
+            loc_country = ''
+
+        if team == loc_country:
+            entry['batsman_loc']=1
+        else:
+            entry['batsman_loc'] = 0
 
     return entry
 
@@ -791,11 +820,11 @@ def get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,te
     team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
     team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)
 
-    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,ref_date=ref_date)
-    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,ref_date=ref_date)
+    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,batsman_loc=location,ref_date=ref_date)
+    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,bowler_loc=location,ref_date=ref_date)
 
-    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df, ref_date=ref_date)
-    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df, ref_date=ref_date)
+    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df,batsman_loc=location,ref_date=ref_date)
+    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df,bowler_loc=location, ref_date=ref_date)
 
     location_mean = get_location_mean_by_date(location,ref_date=ref_date)
 
@@ -930,11 +959,11 @@ def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_play
     team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
     team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)
 
-    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,ref_date=ref_date)
-    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,ref_date=ref_date)
+    team_a_batting_score_dict = get_batsman_score_features(team_a_player_list_df,batsman_loc=location,ref_date=ref_date)
+    team_a_bowling_score_dict = get_bowler_score_features(team_a_bowler_list_df,bowler_loc=location,ref_date=ref_date)
 
-    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df, ref_date=ref_date)
-    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df, ref_date=ref_date)
+    team_b_batting_score_dict = get_batsman_score_features(team_b_player_list_df,batsman_loc=location, ref_date=ref_date)
+    team_b_bowling_score_dict = get_bowler_score_features(team_b_bowler_list_df,bowler_loc=location, ref_date=ref_date)
 
     location_mean_till_date_first = get_location_mean_by_date(location,ref_date=ref_date,innings_type="first")
     location_mean_till_date_second = get_location_mean_by_date(location, ref_date=ref_date, innings_type="second")
@@ -1066,8 +1095,8 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
     opponent_score,opponent_quantile = get_country_score(opponent, ref_date=ref_date)
 
-    batting_score_dict = get_batsman_score_features(team_player_list_df,ref_date=ref_date)
-    bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,ref_date=ref_date)
+    batting_score_dict = get_batsman_score_features(team_player_list_df,batsman_loc=location,ref_date=ref_date)
+    bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,bowler_loc=location,ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years,innings_type=innings_type)

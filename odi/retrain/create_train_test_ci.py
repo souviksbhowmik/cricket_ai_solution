@@ -1139,6 +1139,9 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
     first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
     second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
 
+    first_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_FEATURE_PICKLE), 'rb'))
+    second_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_FEATURE_PICKLE), 'rb'))
+
     match_id_list = list(match_list_df['match_id'].unique())
     feature_list_train = []
     win_list_train = []
@@ -1197,18 +1200,18 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
                                                                               team_a_bowler_list, ref_date=ref_date,
                                                                               innings_type='first')
 
-            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first]).drop(columns=['team','opponent','location']))
+            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first])[first_innings_selected_column])
             team_a_first_target = first_innings_model.predict(feature_vec_team_a_first_batting)[0]
 
-            feature_vec_team_b_first_batting = np.array(pd.DataFrame([feature_dict_team_b_batting_first]).drop(columns=['team','opponent','location']))
+            feature_vec_team_b_first_batting = np.array(pd.DataFrame([feature_dict_team_b_batting_first])[first_innings_selected_column])
             team_b_first_target = first_innings_model.predict(feature_vec_team_b_first_batting)[0]
 
             #print("=====",team_a_first_target,team_b_first_target)
             feature_dict_team_b_batting_second['target_score'] = team_a_first_target
             feature_dict_team_a_batting_second['target_score'] = team_b_first_target
 
-            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second]).drop(columns=['team','opponent','location']))
-            feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second]).drop(columns=['team', 'opponent', 'location']))
+            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second])[second_innings_selected_column])
+            feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second])[second_innings_selected_column])
 
             team_b_defend_success = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
             team_a_defend_success = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
@@ -1310,9 +1313,9 @@ def create_second_level_any_innings_train_test(train_start,test_start,test_end=N
         runs_scored = match_list_df[match_list_df['match_id']==match_id].iloc[0]['first_innings_run']
 
         winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
-        runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
-        if winner == team_b:
-            runs_achieved = runs_achieved+15
+        # runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
+        # if winner == team_b:
+        #     runs_achieved = runs_achieved+15
 
         team_a_win = (team_a==winner)*1
 

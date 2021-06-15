@@ -24,8 +24,9 @@ def get_optimum_run(team_b,team_a,location,team_b_batsman_df,team_a_bowler_df,re
     feature_dict['target_score'] = starting_run
 
     second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
+    second_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_FEATURE_PICKLE), 'rb'))
 
-    x = np.array(pd.DataFrame([feature_dict]).drop(columns=['team', 'opponent', 'location']))
+    x = np.array(pd.DataFrame([feature_dict])[second_innings_selected_column])
 
     win =  second_innings_model.predict(x)[0]
     initial_val = win
@@ -76,9 +77,10 @@ def predict():
 @click.option('--any_sequence', help='whether to use any sequence of innings, by default team_a is first innings',default=True,type=bool)
 @click.option('--second_only', help='whether to use any sequence',default=False,type=bool)
 @click.option('--target', help='target for second innings(applicable for second_only)')
-@click.option('--mg', help='no of years for considering trend',default=False,type=bool)
+@click.option('--simple_one_shot', help='using one shot classification (no first innings prediciton)',default=False,type=bool)
+@click.option('--mg', help='using prior thesis',default=False,type=bool)
 @click.option('--env', help='which models to use for prediction',default='production')
-def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,second_only,target,mg,env):
+def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,second_only,target,simple_one_shot,mg,env):
 
     outil.use_model_from(env)
 
@@ -133,13 +135,16 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
     elif not use_neural:
         first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
         second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
+        first_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_FEATURE_PICKLE), 'rb'))
+        second_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_FEATURE_PICKLE), 'rb'))
+
         combined_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.COMBINED_MODEL_NON_NEURAL), 'rb'))
         if not second_only:
             feature_dict_team_a_batting_first = fec.get_instance_feature_dict(team_a, team_b, location,
                                                                               team_a_player_df,
                                                                               team_b_bowler_df, ref_date=ref_date,
                                                                               innings_type="first")
-            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first]).drop(columns=['team', 'opponent', 'location']))
+            feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first])[first_innings_selected_column])
 
             team_a_first_target = first_innings_model.predict(feature_vec_team_a_first_batting)[0]
             target = team_a_first_target
@@ -154,7 +159,7 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
                                                                            team_a_bowler_df, ref_date=ref_date,
                                                                            innings_type='second')
         feature_dict_team_b_batting_second['target_score'] = target
-        feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second]).drop(columns=['team', 'opponent', 'location']))
+        feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second])[second_innings_selected_column])
         team_a_defend_success_probability = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
         team_b_chasing_success = second_innings_model.predict(feature_vector_team_b_chasing)[0]
 
@@ -172,12 +177,12 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
                                                                               innings_type="second")
 
             feature_vec_team_b_first_batting = np.array(
-                pd.DataFrame([feature_dict_team_b_batting_first]).drop(columns=['team', 'opponent', 'location']))
+                pd.DataFrame([feature_dict_team_b_batting_first])[first_innings_selected_column])
 
             team_b_first_target = first_innings_model.predict(feature_vec_team_b_first_batting)[0]
 
             feature_dict_team_a_batting_second['target_score'] = team_b_first_target
-            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second]).drop(columns=['team', 'opponent', 'location']))
+            feature_vector_team_a_chasing = np.array(pd.DataFrame([feature_dict_team_a_batting_second])[second_innings_selected_column])
 
             team_b_defend_success_probability = second_innings_model.predict_proba(feature_vector_team_a_chasing)[0][0]
             team_a_chasing_success = second_innings_model.predict(feature_vector_team_a_chasing)[0]

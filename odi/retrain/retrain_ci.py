@@ -1314,7 +1314,7 @@ def retrain_one_shot_classification(feature_selection=False,poly_nom=1,max_iter=
 
     train_pipe.fit(train_x, train_y)
 
-    train_predict = train_pipe.predict(train_x)
+    #train_predict = train_pipe.predict(train_x)
     train_predict = train_pipe.predict(train_x)
     test_predict = train_pipe.predict(test_x)
 
@@ -1529,7 +1529,9 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     for match_id in tqdm(match_id_list):
         for innings_type in ['first', 'second']:
             runs = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings_run"]
+
             team = match_list_df[match_list_df["match_id"] == match_id].iloc[0][innings_type + "_innings"]
+            location = match_list_df[match_list_df["match_id"] == match_id].iloc[0]['location']
             winner = match_list_df[match_list_df["match_id"] == match_id].iloc[0]['winner']
             is_win = (team == winner) * 1
             date = match_list_df['date'].iloc[0]
@@ -1537,9 +1539,17 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
             player_list_df = batting_df[
                 (batting_df['match_id'] == match_id) & (batting_df['batting_innings'] == innings_type)]
 
+            if innings_type == 'second' and team==winner:
+                chasing_overs = round(match_list_df[match_list_df['match_id'] == match_id].iloc[0]['chasing_overs'])
+                if chasing_overs == 0:
+                    runs = runs + 40
+                elif chasing_overs >= 49:
+                    runs = runs + 15
+                else:
+                    runs = (runs / chasing_overs) * 50
             player_list_df = player_list_df[['team', 'name', 'position']]
             try:
-                entry = fec.get_batsman_score_features(player_list_df,ref_date=ref_date)
+                entry = fec.get_batsman_score_features(player_list_df,batsman_loc=location,ref_date=ref_date)
                 entry["innings_type"] = innings_type
                 entry["runs"] = runs
                 entry["is_win"] = is_win
