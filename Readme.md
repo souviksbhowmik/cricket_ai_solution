@@ -103,7 +103,7 @@ python odi/retrain/retrain_ci.py second-innings-classification
 python odi/retrain/create_train_test_ci.py second-level-non-neural --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
 ### Step 7 - retrain classification to predict outcome with both teams as both innings without neural network
-python odi/retrain/retrain_ci.py combined-non-neural
+python odi/retrain/retrain_ci.py combined-non-neural 
 
 ### step 8 create one shot train test
 python odi/retrain/create_train_test_ci.py one-shot --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
