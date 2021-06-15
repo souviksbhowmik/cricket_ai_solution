@@ -129,15 +129,28 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
         any_sequence = False
         mg = False
 
+    if mg:
+        print("Inference option with MG currently not available")
+        exit()
+
     if simple_one_shot:
         feature_dict_one_shot = fec.get_one_shot_feature_dict(team_a, team_b, location, team_a_player_df,
                                                      team_b_player_df, team_a_bowler_df, team_b_bowler_df,
                                                      ref_date=ref_date, no_of_years=no_of_years)
 
+        one_shot_columns = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_CLASSIFICATION_FEATURE_PICKLE), 'rb'))
+        simple_one_shot_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_CLASSIFICATION_MODEL), 'rb'))
 
-    if mg:
-        print("Inference option with MG currently not available")
-        exit()
+        feature_vector_one_shot = np.array(pd.DataFrame([feature_dict_one_shot])[one_shot_columns])
+
+        one_shot_team_a_win = simple_one_shot_model.predict(feature_vector_one_shot)[0]
+        one_shot_team_a_win_probability = simple_one_shot_model.predict_proba(feature_vector_one_shot)[0][1]
+
+        print(" Through simple one shot classification ")
+        print(team_a," will win ? ",np.array([int(one_shot_team_a_win)]).astype(bool)[0])
+        print(" with probability ",one_shot_team_a_win_probability)
+        print("===================Break up prediction=========================")
+
 
     if not use_neural:
         first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
