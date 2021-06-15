@@ -2,7 +2,7 @@ from odi.model_util import odi_util as outil
 from odi.feature_engg import feature_extractor_ci as fec
 from odi.feature_engg import util as cricutil
 from odi.preprocessing import rank
-from odi.retrain import  create_train_test as ctt
+from odi.retrain import  create_train_test_ci as ctt
 import pickle
 import os
 import click
@@ -229,8 +229,69 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,non_neural,neural,any_seq
 
 
     if neural and not second_only:
-        print("======Neural prediction=============")
+        print("#################======Neural prediction=============##################")
         print("Neural option currently not available")
+
+        x1_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X1), "rb"))
+        x2_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "rb"))
+
+        neural_model = outil.load_keras_model(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_NEURAL))
+
+        cols_1 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_1), 'rb'))
+        cols_2 = pickle.load(open(os.path.join(outil.DEV_DIR, ctt.one_shot_multi_columns_2), 'rb'))
+
+        feature_dict_first_innings_team_a, feature_dict_second_innings_team_b = fec.get_multi_output_neural_feature_dict(
+            team_a, team_b, location,team_a_player_df,
+            team_b_player_df,team_a_bowler_df, team_b_bowler_df,
+            ref_date=ref_date, no_of_years=None)
+
+        x_1 = np.array(pd.DataFrame([feature_dict_first_innings_team_a])[cols_1])
+        x_2 = np.array(pd.DataFrame([feature_dict_second_innings_team_b])[cols_2])
+
+        x_1=x1_scaler.transform(x_1)
+        x_2 = x2_scaler.transform(x_2)
+
+        target_by_team_a, achieved_by_team_b, win_probability_of_team_a = neural_model.predict([x_1, x_2])
+
+        print("For ",team_a," batting first")
+        print(team_a," will score ",target_by_team_a[0][0])
+        print(team_b, " will chase and score around ", achieved_by_team_b[0][0])
+        print("probability of ",team_a," winning ",win_probability_of_team_a[0][0])
+        print(" Will ",team_a," win ? ",np.array([int(round(win_probability_of_team_a[0][0]))]).astype(bool)[0])
+
+        if any_sequence:
+            feature_dict_first_innings_team_b, feature_dict_second_innings_team_a = fec.get_multi_output_neural_feature_dict(
+                team_b, team_a, location,
+                team_b_player_df, team_a_player_df,
+                team_b_bowler_df, team_a_bowler_df,
+                ref_date=ref_date, no_of_years=None,)
+
+            x_1_alt = np.array(pd.DataFrame([feature_dict_first_innings_team_b])[cols_1])
+            x_2_alt = np.array(pd.DataFrame([feature_dict_second_innings_team_a])[cols_2])
+
+            x_1_alt = x1_scaler.transform(x_1_alt)
+            x_2_alt = x2_scaler.transform(x_2_alt)
+
+            target_by_team_b, achieved_by_team_a, win_probability_of_team_b = neural_model.predict([x_1_alt, x_2_alt])
+
+            print("===============================")
+            print("For ", team_b, " batting first")
+            print(team_b, " will score ", target_by_team_b[0][0])
+            print(team_a, " will chase and score around ", achieved_by_team_a[0][0])
+            print("probability of ", team_b, " winning ", win_probability_of_team_b[0][0])
+            print("Will ", team_b, " win ? ", np.array([int(round(win_probability_of_team_b[0][0]))]).astype(bool)[0])
+
+            combined_neural_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.COMBINED_MODEL_ANY_INNINGS), 'rb'))
+
+            combined_x = np.array([target_by_team_a[0][0], achieved_by_team_b[0][0], win_probability_of_team_a[0][0],target_by_team_b[0][0], achieved_by_team_a[0][0], win_probability_of_team_b[0][0]]).reshape(1,-1)
+
+            team_a_win = combined_neural_model.predict(combined_x)[0]
+            team_a_win_probability = combined_neural_model.predict_proba(combined_x)[0][1]
+
+            print("====================================================")
+            print("Overall result from Neural network")
+            print(team_a," will win ",np.array([team_a_win]).astype(bool)[0])
+            print(team_a," win probability ",team_a_win_probability)
 
 
 @predict.command()
