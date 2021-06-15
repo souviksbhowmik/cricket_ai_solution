@@ -129,10 +129,17 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
         any_sequence = False
         mg = False
 
+    if simple_one_shot:
+        feature_dict_one_shot = fec.get_one_shot_feature_dict(team_a, team_b, location, team_a_player_df,
+                                                     team_b_player_df, team_a_bowler_df, team_b_bowler_df,
+                                                     ref_date=ref_date, no_of_years=no_of_years)
+
+
     if mg:
         print("Inference option with MG currently not available")
+        exit()
 
-    elif not use_neural:
+    if not use_neural:
         first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
         second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
         first_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_FEATURE_PICKLE), 'rb'))
@@ -143,7 +150,7 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
             feature_dict_team_a_batting_first = fec.get_instance_feature_dict(team_a, team_b, location,
                                                                               team_a_player_df,
                                                                               team_b_bowler_df, ref_date=ref_date,
-                                                                              innings_type="first")
+                                                                              innings_type="first",no_of_years=no_of_years)
             feature_vec_team_a_first_batting = np.array(pd.DataFrame([feature_dict_team_a_batting_first])[first_innings_selected_column])
 
             team_a_first_target = first_innings_model.predict(feature_vec_team_a_first_batting)[0]
@@ -157,7 +164,7 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
             raise Exception("Provide target for chase prediction")
         feature_dict_team_b_batting_second = fec.get_instance_feature_dict(team_b, team_a, location, team_b_player_df,
                                                                            team_a_bowler_df, ref_date=ref_date,
-                                                                           innings_type='second')
+                                                                           innings_type='second',no_of_years=no_of_years)
         feature_dict_team_b_batting_second['target_score'] = target
         feature_vector_team_b_chasing = np.array(pd.DataFrame([feature_dict_team_b_batting_second])[second_innings_selected_column])
         team_a_defend_success_probability = second_innings_model.predict_proba(feature_vector_team_b_chasing)[0][0]
@@ -170,11 +177,11 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
             feature_dict_team_b_batting_first = fec.get_instance_feature_dict(team_b, team_a, location,
                                                                                team_b_player_df,
                                                                                team_a_bowler_df, ref_date=ref_date,
-                                                                               innings_type='first')
+                                                                               innings_type='first',no_of_years=no_of_years)
             feature_dict_team_a_batting_second = fec.get_instance_feature_dict(team_a, team_b, location,
                                                                               team_a_player_df,
                                                                               team_b_bowler_df, ref_date=ref_date,
-                                                                              innings_type="second")
+                                                                              innings_type="second",no_of_years=no_of_years)
 
             feature_vec_team_b_first_batting = np.array(
                 pd.DataFrame([feature_dict_team_b_batting_first])[first_innings_selected_column])
