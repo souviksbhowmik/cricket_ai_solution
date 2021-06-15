@@ -73,14 +73,15 @@ def predict():
 @click.option('--team_b_xlsx', help='team_b template excel',default='team_b.xlsx')
 @click.option('--ref_date', help='date of the match (by default current)')
 @click.option('--no_of_years', help='no of years for considering trend')
-@click.option('--use_neural', help='whether to use neural network',default=False,type=bool)
+@click.option('--non_neural', help='whether to use non neural approach',default=True,type=bool)
+@click.option('--neural', help='whether to use neural network',default=True,type=bool)
 @click.option('--any_sequence', help='whether to use any sequence of innings, by default team_a is first innings',default=True,type=bool)
 @click.option('--second_only', help='whether to use any sequence',default=False,type=bool)
 @click.option('--target', help='target for second innings(applicable for second_only)')
-@click.option('--simple_one_shot', help='using one shot classification (no first innings prediciton)',default=False,type=bool)
+@click.option('--simple_one_shot', help='using one shot classification (no first innings prediciton)',default=True,type=bool)
 @click.option('--mg', help='using prior thesis',default=False,type=bool)
 @click.option('--env', help='which models to use for prediction',default='production')
-def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,second_only,target,simple_one_shot,mg,env):
+def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,non_neural,neural,any_sequence,second_only,target,simple_one_shot,mg,env):
 
     outil.use_model_from(env)
 
@@ -125,9 +126,7 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
 
     print('==============RESULTS==============')
     if second_only:
-        use_neural = False
         any_sequence = False
-        mg = False
 
     if mg:
         print("Inference option with MG currently not available")
@@ -152,7 +151,7 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
         print("===================Break up prediction=========================")
 
 
-    if not use_neural:
+    if non_neural:
         first_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_MODEL_BASE), 'rb'))
         second_innings_model = pickle.load(open(os.path.join(outil.DEV_DIR, outil.SECOND_INNINGS_MODEL_BASE), 'rb'))
         first_innings_selected_column = pickle.load(open(os.path.join(outil.DEV_DIR, outil.FIRST_INNINGS_FEATURE_PICKLE), 'rb'))
@@ -229,8 +228,9 @@ def match(team_a_xlsx,team_b_xlsx,ref_date,no_of_years,use_neural,any_sequence,s
 
 
 
-        else:
-            print("Neural option currently not available")
+    if neural and not second_only:
+        print("======Neural prediction=============")
+        print("Neural option currently not available")
 
 
 @predict.command()
@@ -268,4 +268,3 @@ def optimize(team_a_xlsx,team_b_xlsx,ref_date,env):
 
 if __name__=='__main__':
     predict()
-
