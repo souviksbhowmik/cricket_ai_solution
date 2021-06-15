@@ -11,73 +11,62 @@ export PYTHONPATH=.:$PYTHONPATH
 
 # Process wise steps
 
+-- for all commands use --help to know more
+
 ## Data Preparation
 
 ### download from cricinfo
 python odi/data_loader/cricinfo_scraper.py load-match-cricinfo --year_list 2009 --year_list 2010 --append n
 
-### clean cricinfo data
+### clean data downloaded fromcricinfo data
 python odi/data_loader/cricinfo_scraper.py clean-cricinfo
 
 ## Preprocessing - Creating Ranks (Depends on loaded data)
 Create ranks of participating batsman, bowler and countries
-### Crete all ranking files from current date to 1 year back
-python odi/preprocessing/rank.py all
+
 ### create all ranking for list of years
-python odi/preprocessing/rank.py all --year_list 2014 --year_list 2015
---for quarterly anking (more frequent)
-python odi/preprocessing/rank-quarterly.py all --year_list 2014 --year_list 2015
+python odi/preprocessing/rank-cricinfo.py all --year_list 2014 --year_list 2015
+
+python odi/preprocessing/rank-cricinfo.py all
+(for current year only)
+
+ranking is created for all mentioned years once every month for 1 yea r ending on the month end data
+
 ### create all ranking from current to 2 years previous
-python odi/preprocessing/rank.py all --no_of_years 2
+python odi/preprocessing/rank-cricinfo.py all --no_of_years 2
 ### create batsman ranking (will also create country)
-python odi/preprocessing/rank.py batsman
+python odi/preprocessing/rank-cricinfo.py.py batsman
 
-python odi/preprocessing/rank.py bowler
+python odi/preprocessing/rank-cricinfo.py.py bowler
 
-python odi/preprocessing/rank.py location
+python odi/preprocessing/rank-cricinfo.py.py location
 ### create only bowler ranking (without country)
-python odi/preprocessing/rank.py bowler-only
+python odi/preprocessing/rank-cricinfo.py.py bowler-only
 
-python odi/preprocessing/rank.py bowler-only
-
-### create player score mean reduction factor by position
-python odi/preprocessing/rank.py reduction-analysis --start_date 2016-01-01 --end_date 2019-01-01
-
-### update match stats for not batted
-python odi/data_loader/cricinfo_scraper.py update-stats
-### remove incorrect mathces
-python odi/data_loader/cricinfo_scraper.py remove-incorrect --start_date 2009-01-01
+python odi/preprocessing/rank-cricinfo.py.py bowler-only
 
 
 ## Inferencing
 ### verify team and location names
-python odi/model_util/input_helper.py find-location --location kolkata
+python odi/model_util/input_helper_ci.py find-location --location kolkata
 
-python odi/model_util/input_helper.py find-team --team India
 ### Create input template
-python odi/model_util/input_helper.py create-input-template --team_a India --team_b Australia --location Kolkata
+python odi/model_util/input_helper_ci.py create-input-template --team_a India --team_b Australia --location Kolkata
 
 (optionally might want to modify inference_config.json before inferencing and choose combination of mdoels with or without embedding)
 
 ### predict outcome
-python odi/inference/prediction.py match
+python odi/inference/prediction_ci.py match
 
 -by default team_a.xlsx and team_b.xlsx will be used, type help the check options with --hel[]
 
 -no_of_years is only applicable while considering trend calculation
 
--- to mix and match embedding
-python odi/inference/prediction.py match --first_innings_emb False
-### only first innnings prediction
-python odi/inference/prediction.py team --innings first
+- check the --help
 
--can be used for only first or second innings prediction
 
-- by default team_a.xlsx is considered as team and team_b.xlsx is considered as opponent
-
-- check options with --help
 ### get optimum first innings run
-python odi/inference/prediction.py team --innings optimize
+python odi/inference/prediction_ci.py optimize
 
 - by default team_a.xlsx is considered as team and team_b.xlsx is considered as opponent
 
@@ -85,8 +74,7 @@ python odi/inference/prediction.py team --innings optimize
 
 - check options with --help
 
-### individual run prediction
-python odi/inference/prediction.py individual-runs
+
 
 ## Retraining with cricinfo (Necessary data loading and Ranking has been done)
 ### Step 1 - Select highly correlated score features (optional - only for viewing)
@@ -94,6 +82,8 @@ python odi/retrain/retrain_ci.py select-score-cols --start_date 2011-01-01 --end
 
 ### Step 2 - Create train test for first innings base model
 python odi/retrain/create_train_test_ci.py first-innings-base --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
+
+--can optionally use sequential feature selection
 
 ### Step 3 - Create first innings base model 
 python odi/retrain/retrain_ci.py first-innings-regression
@@ -103,6 +93,8 @@ python odi/retrain/retrain_ci.py train-first-innings-base-neural
 
 ### Step 4 - Create train test for second innings base model
 python odi/retrain/create_train_test_ci.py second-innings-base --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
+
+--can optionally use sequenctial feature selection
 
 ### Step 5 - Create second innings base model 
 python odi/retrain/retrain_ci.py second-innings-classification
@@ -170,6 +162,17 @@ python odi/data_loader/cricinfo_scraper.py update-stats
 python odi/data_loader/cricinfo_scraper.py remove-incorrect
 
 
+### create player score mean reduction factor by position
+python odi/preprocessing/rank.py reduction-analysis --start_date 2016-01-01 --end_date 2019-01-01
+
+
+### update match stats for not batted
+python odi/data_loader/cricinfo_scraper.py update-stats
+### remove incorrect mathces
+python odi/data_loader/cricinfo_scraper.py remove-incorrect --start_date 2009-01-01
+
+### individual run prediction
+python odi/inference/prediction.py individual-runs
 
 
 
