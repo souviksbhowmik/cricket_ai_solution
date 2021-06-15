@@ -686,5 +686,29 @@
     "test_metrics": [],
     "info": " measured from 2019-01-01 00:00:00 to 2020-12-31 00:00:00",
     "files": []
+  },
+  "combined_neural_train_xy": {
+    "start_date": "2004-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "second_level_any_inst_train_x.pkl",
+      "second_level_any_inst_train_y.pkl"
+    ]
+  },
+  "combined_neural_test_xy": {
+    "start_date": "2019-01-01",
+    "end_date": "2020-12-31",
+    "files": [
+      "second_level_any_inst_test_x.pkl",
+      "second_level_any_inst_test_y.pkl"
+    ]
+  },
+  "combined_neural_model": {
+    "train_metrics": 0.7877507919746568,
+    "test_metrics": 0.7166666666666667,
+    "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
+    "files": [
+      "combined_model_any_innings.pkl"
+    ]
   }
 }
