@@ -743,10 +743,10 @@ def create_multi_output_neural_train_test(train_start,test_start,test_end=None,e
 
         try:
 
-            feature_dict_team_a,feature_dict_team_b = fec.get_one_shot_multi_output_feature_dict(team_a, team_b, location,
-                                                                                                 team_a_player_list_df,team_b_player_list_df,
-                                                                                                 team_a_bowler_list,team_b_bowler_list,
-                                                                                                 ref_date=ref_date,no_of_years=None,embedding=embedding)
+            feature_dict_team_a,feature_dict_team_b = fec.get_multi_output_neural_feature_dict(team_a, team_b, location,
+                                                                                               team_a_player_list_df, team_b_player_list_df,
+                                                                                               team_a_bowler_list, team_b_bowler_list,
+                                                                                               ref_date=ref_date, no_of_years=None, embedding=embedding)
             #print(feature_dict)
             #no_of_basman = no_of_basman+len(team_player_list)
 
@@ -1259,7 +1259,7 @@ def create_second_level_any_innings_non_neural_train_test(train_start,test_start
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
 
-def create_second_level_any_innings_train_test(train_start,test_start,test_end=None,embedding=False):
+def create_second_level_neural_train_test(train_start, test_start, test_end=None, embedding=False):
 
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
@@ -1340,15 +1340,15 @@ def create_second_level_any_innings_train_test(train_start,test_start,test_end=N
 
         try:
 
-            feature_dict_first_innings_team_a,feature_dict_second_innings_team_b = fec.get_one_shot_multi_output_feature_dict(team_a, team_b, location,
-                                                                                                 team_a_player_list_df,team_b_player_list_df,
-                                                                                                 team_a_bowler_list,team_b_bowler_list,
-                                                                                                 ref_date=ref_date,no_of_years=None,embedding=embedding)
+            feature_dict_first_innings_team_a,feature_dict_second_innings_team_b = fec.get_multi_output_neural_feature_dict(team_a, team_b, location,
+                                                                                                                            team_a_player_list_df, team_b_player_list_df,
+                                                                                                                            team_a_bowler_list, team_b_bowler_list,
+                                                                                                                            ref_date=ref_date, no_of_years=None, embedding=embedding)
 
-            feature_dict_first_innings_team_b, feature_dict_second_innings_team_a = fec.get_one_shot_multi_output_feature_dict(team_b, team_a, location,
-                                                                                                team_b_player_list_df, team_a_player_list_df,
-                                                                                                team_b_bowler_list, team_a_bowler_list,
-                                                                                                ref_date=ref_date, no_of_years=None, embedding=embedding)
+            feature_dict_first_innings_team_b, feature_dict_second_innings_team_a = fec.get_multi_output_neural_feature_dict(team_b, team_a, location,
+                                                                                                                             team_b_player_list_df, team_a_player_list_df,
+                                                                                                                             team_b_bowler_list, team_a_bowler_list,
+                                                                                                                             ref_date=ref_date, no_of_years=None, embedding=embedding)
 
             feature_dict_first_innings_team_b= add_prefix_to_dict(feature_dict_first_innings_team_b,'alt_')
             feature_dict_second_innings_team_a = add_prefix_to_dict(feature_dict_second_innings_team_a,'alt_')
@@ -2843,8 +2843,8 @@ def mg(train_start, test_start, test_end):
 @click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
 @click.option('--embedding', help='whether to use embedding',type=bool, default=False)
-def second_level_any(train_start, test_start, test_end ,embedding):
-    create_second_level_any_innings_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
+def second_level_neural(train_start, test_start, test_end ,embedding):
+    create_second_level_neural_train_test(train_start, test_start, test_end=test_end, embedding=embedding)
 
 @traintest.command()
 @click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)

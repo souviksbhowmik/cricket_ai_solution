@@ -952,9 +952,9 @@ def get_one_shot_feature_dict(team_a, team_b, location, team_a_player_list_df,te
 
 
 
-def get_one_shot_multi_output_feature_dict(team_a, team_b, location, team_a_player_list_df,team_b_player_list_df,
-                                           team_a_bowler_list_df,team_b_bowler_list_df,
-                                           ref_date=None,no_of_years=None,embedding = False):
+def get_multi_output_neural_feature_dict(team_a, team_b, location, team_a_player_list_df, team_b_player_list_df,
+                                         team_a_bowler_list_df, team_b_bowler_list_df,
+                                         ref_date=None, no_of_years=None, embedding = False):
 
     team_a_score,team_a_quantile = get_country_score(team_a, ref_date=ref_date)
     team_b_score,team_b_quantile = get_country_score(team_b, ref_date=ref_date)

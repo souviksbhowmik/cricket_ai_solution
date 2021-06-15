@@ -125,7 +125,7 @@ python odi/retrain/retrain_ci.py train-multi-output-neural --epoch 500
 -- both train and test can be around 70 with a couple of trials
 
 ### Step 12 - create train test for second level training by making both teams as both innings
-python odi/retrain/create_train_test_ci.py second-level-any --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
+python odi/retrain/create_train_test_ci.py second-level-neural --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
 ### Step 13 - retrain classification to predict outcome with both teams as both innings
 python odi/retrain/retrain_ci.py combined-any-innings
