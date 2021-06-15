@@ -656,7 +656,7 @@ def create_one_shot_prediction_train_test(train_start,test_start,test_end=None):
     print("test size ", test_x.shape)
 
 
-def create_one_shot_multi_output_train_test(train_start,test_start,test_end=None,embedding=False):
+def create_multi_output_neural_train_test(train_start,test_start,test_end=None,embedding=False):
     if not os.path.isdir(TRAIN_TEST_DIR):
         os.makedirs(TRAIN_TEST_DIR)
 
@@ -2827,8 +2827,8 @@ def one_shot(train_start, test_start, test_end):
 @click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
 @click.option('--embedding', help='whether to use embedding',type=bool, default=False)
-def one_shot_multi(train_start, test_start, test_end ,embedding):
-    create_one_shot_multi_output_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
+def multi_output_neural(train_start, test_start, test_end ,embedding):
+    create_multi_output_neural_train_test(train_start, test_start, test_end=test_end,embedding=embedding)
 
 @traintest.command()
 @click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)

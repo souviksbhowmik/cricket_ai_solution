@@ -682,7 +682,7 @@
     ]
   },
   "threshold_validation": {
-    "train_metrics": 0.7586206896551724,
+    "train_metrics": 0.7126436781609196,
     "test_metrics": [],
     "info": " measured from 2019-01-01 00:00:00 to 2020-12-31 00:00:00",
     "files": []
