@@ -11,23 +11,7 @@ export PYTHONPATH=.:$PYTHONPATH
 
 # Process wise steps
 
-## Loading matches
-Load match details in local file system
-### Current data (incremental)
-python odi/data_loader/data_loader.py load-current
-### For refreshing entire data
-python odi/data_loader/data_loader.py load-current --append n
-### For provinding inclusive date range
-python odi/data_loader/data_loader.py load-current --from_date 2014-01-01 --to_date 2020-12-31
-### for loading previous data
-python odi/data_loader/data_loader.py load-old --from_date 2011-01-01 --to_date 2013-12-31
-### load list of not batted
-python odi/data_loader/cricinfo_scraper.py load-not-batted --year_list 2009 --year_list 2010 --append n
-
-### update match stats for not batted-should be done after ranking
-python odi/data_loader/cricinfo_scraper.py update-stats
-### remove incorrect matches 
-python odi/data_loader/cricinfo_scraper.py remove-incorrect
+## Data Preparation
 
 ### download from cricinfo
 python odi/data_loader/cricinfo_scraper.py load-match-cricinfo --year_list 2009 --year_list 2010 --append n
@@ -159,6 +143,31 @@ python odi/retrain/retrain_ci.py mg-classification
 
 
 
+
+
+
+
+
+
+# DEPRECATED COMMANDS
+
+## Loading matches
+Load match details in local file system
+### Current data (incremental)
+python odi/data_loader/data_loader.py load-current
+### For refreshing entire data
+python odi/data_loader/data_loader.py load-current --append n
+### For provinding inclusive date range
+python odi/data_loader/data_loader.py load-current --from_date 2014-01-01 --to_date 2020-12-31
+### for loading previous data
+python odi/data_loader/data_loader.py load-old --from_date 2011-01-01 --to_date 2013-12-31
+### load list of not batted
+python odi/data_loader/cricinfo_scraper.py load-not-batted --year_list 2009 --year_list 2010 --append n
+
+### update match stats for not batted-should be done after ranking
+python odi/data_loader/cricinfo_scraper.py update-stats
+### remove incorrect matches 
+python odi/data_loader/cricinfo_scraper.py remove-incorrect
 
 
 
