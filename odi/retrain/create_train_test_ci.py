@@ -845,7 +845,7 @@ def create_multi_output_neural_train_test(train_start,test_start,test_end=None,e
 
 
 
-    outil.create_meta_info_entry('one_shot_multi_train_xy', train_start,
+    outil.create_meta_info_entry('multi_output_neural_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
                                  file_list=[one_shot_multi_train_x_1,
                                             one_shot_multi_train_x_2,
@@ -857,7 +857,7 @@ def create_multi_output_neural_train_test(train_start,test_start,test_end=None,e
 
 
 
-    outil.create_meta_info_entry('one_shot_Multi test_xy', str(test_start_dt.date()),
+    outil.create_meta_info_entry('multi_output_neural_test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
                                  file_list=[one_shot_multi_test_x_1,
                                             one_shot_multi_test_x_2,
@@ -1480,14 +1480,14 @@ def create_second_level_neural_train_test(train_start, test_start, test_end=None
     pickle.dump(test_y, open(os.path.join(TRAIN_TEST_DIR, second_level_any_inst_test_y), 'wb'))
 
 
-    outil.create_meta_info_entry('second_level_any_inst_train_xy', train_start,
+    outil.create_meta_info_entry('combined_neural_train_xy', train_start,
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
                                  file_list=[second_level_any_inst_train_x,
                                             second_level_any_inst_train_y])
 
 
 
-    outil.create_meta_info_entry('second_level_any_inst_test_xy', str(test_start_dt.date()),
+    outil.create_meta_info_entry('combined_neural_test_xy', str(test_start_dt.date()),
                                  str(test_end_dt.date()),
                                  file_list=[second_level_any_inst_test_x,
                                             second_level_any_inst_test_y])

@@ -344,7 +344,7 @@ def retrain_one_shot_multi(learning_rate=0.001,epoch = 150,batch_size=10,monitor
         outil.store_keras_model(combined_model,os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_NEURAL))
         pickle.dump(x1_scaler,open(os.path.join(outil.DEV_DIR,outil.ONE_SHOT_MULTI_SCALER_X1),"wb"))
         pickle.dump(x2_scaler, open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "wb"))
-        outil.create_model_meta_info_entry('combined_multi_output',
+        outil.create_model_meta_info_entry('multi_output_neural',
                                            train_metrics,
                                            test_metrics,
                                            info="metrics is mape, mae, accuracy(best accuracy)",
@@ -1635,7 +1635,7 @@ def score_correlation(start_date,end_date,first_innings_select_count,second_inni
     #
 
 
-def retrain_combined_any_innings_classification(poly_nom=4,max_iter=1000):
+def retrain_combined_neural_classification(poly_nom=4, max_iter=1000):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_train_y), 'rb'))
 
@@ -1654,7 +1654,7 @@ def retrain_combined_any_innings_classification(poly_nom=4,max_iter=1000):
 
     pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_ANY_INNINGS),'wb'))
 
-    outil.create_model_meta_info_entry('combined_any_innings_model',
+    outil.create_model_meta_info_entry('combined_neural_model',
                                        train_accuracy,
                                        test_accuracy,
                                        info="metrics is accuracy and at polynomial "+str(poly_nom)+" with iteration "+str(max_iter),
@@ -1931,8 +1931,8 @@ def combined(first_innings_emb,second_innings_emb):
 @retrain.command()
 @click.option('--poly_nom', help='whethter to raise to polynomial',default=1)
 @click.option('--max_iter', help='maximum training iterations',default=1000)
-def combined_any_innings(poly_nom,max_iter):
-    retrain_combined_any_innings_classification(poly_nom=poly_nom,max_iter=max_iter)
+def combined_neural(poly_nom,max_iter):
+    retrain_combined_neural_classification(poly_nom=poly_nom, max_iter=max_iter)
 
 @retrain.command()
 @click.option('--poly_nom', help='whethter to raise to polynomial',default=1)
