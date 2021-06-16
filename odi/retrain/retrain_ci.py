@@ -614,7 +614,7 @@ def retrain_batsman_embedding(learning_rate=0.001,epoch = 150,batch_size=10,moni
 
 
 
-def retrain_first_innings_base(create_output=True, feature_selection=False,poly_nom=1):
+def retrain_first_innings_base(create_output=True, feature_selection=False,selected_features=10,poly_nom=1):
 
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.first_innings_base_train_y), 'rb'))
@@ -642,7 +642,7 @@ def retrain_first_innings_base(create_output=True, feature_selection=False,poly_
 
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
-        sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+        sfs = SequentialFeatureSelector(pipe, n_features_to_select=selected_features)
         sfs.fit(train_df.drop(columns='runs'), train_df['runs'])
 
         print("=======overall improtance=========")
@@ -758,7 +758,7 @@ def retrain_first_innings():
                                            ])
 
 
-def retrain_second_innings_base(create_output=True,feature_selection=False,poly_nom=1,max_iter=500):
+def retrain_second_innings_base(create_output=True,feature_selection=False,selected_features=10,poly_nom=1,max_iter=500):
     train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_x), 'rb'))
     train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y), 'rb'))
     train_y_2 = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_innings_base_train_y_2), 'rb'))
@@ -791,7 +791,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,poly_
 
     if feature_selection:
         pipe = Pipeline([('scaler', StandardScaler()), ('regression', LinearRegression())])
-        sfs = SequentialFeatureSelector(pipe, n_features_to_select=10)
+        sfs = SequentialFeatureSelector(pipe, n_features_to_select=selected_features)
         sfs.fit(train_df.drop(columns=['win','runs_achieved']), train_df['win'])
 
         print("=======overall improtance=========")
@@ -1830,9 +1830,10 @@ def train_one_shot_neural(learning_rate,epoch,batch_size,monitor,mode):
 @retrain.command()
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
+@click.option('--selected_features', help='No of features to select',default=10)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
-def first_innings_regression(create_output,feature_selection,poly_nom):
-    retrain_first_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom)
+def first_innings_regression(create_output,feature_selection,selected_features,poly_nom):
+    retrain_first_innings_base(create_output=create_output, feature_selection=feature_selection,selected_features=selected_features,poly_nom=poly_nom)
     # if not select_all:
     #     retrain_first_innings_base(create_output=create_output)
     # else:
@@ -1843,9 +1844,10 @@ def first_innings_regression(create_output,feature_selection,poly_nom):
 @click.option('--create_output', help='whether to create output or not True\False',default=True,type=bool)
 @click.option('--feature_selection', help='whether to do sequeuntial feature selection',default=False,type=bool)
 @click.option('--poly_nom', help='to raise to polynomial',default=1)
+@click.option('--selected_features', help='No of features to select',default=10)
 @click.option('--max_iter', help='maximum training iteration',default=500)
-def second_innings_classification(create_output,feature_selection,poly_nom,max_iter):
-    retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,poly_nom=poly_nom,max_iter=max_iter)
+def second_innings_classification(create_output,feature_selection,selected_features,poly_nom,max_iter):
+    retrain_second_innings_base(create_output=create_output, feature_selection=feature_selection,selected_features=selected_features,poly_nom=poly_nom,max_iter=max_iter)
     # if not select_all:
     #     retrain_second_innings_base(create_output=create_output)
     # else:
