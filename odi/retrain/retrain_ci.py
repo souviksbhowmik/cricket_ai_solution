@@ -794,7 +794,7 @@ def retrain_second_innings_base(create_output=True,feature_selection=False,selec
         sfs = SequentialFeatureSelector(pipe, n_features_to_select=selected_features)
         sfs.fit(train_df.drop(columns=['win','runs_achieved']), train_df['win'])
 
-        print("=======overall improtance=========")
+        print("=======overall importance=========")
         selected_cols = []
         for idx in np.where(sfs.get_support())[0]:
             print(cols[idx])

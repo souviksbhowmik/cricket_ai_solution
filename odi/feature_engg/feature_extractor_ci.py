@@ -1095,8 +1095,10 @@ def get_instance_feature_dict(team, opponent, location, team_player_list_df, opp
     team_score,team_quantile = get_country_score(team, ref_date=ref_date)
     opponent_score,opponent_quantile = get_country_score(opponent, ref_date=ref_date)
 
-    batting_score_dict = get_batsman_score_features(team_player_list_df,batsman_loc=location,ref_date=ref_date)
-    bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,bowler_loc=location,ref_date=ref_date)
+    # batting_score_dict = get_batsman_score_features(team_player_list_df,batsman_loc=location,ref_date=ref_date)
+    # bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df,bowler_loc=location,ref_date=ref_date)
+    batting_score_dict = get_batsman_score_features(team_player_list_df, ref_date=ref_date)
+    bowling_score_dict = get_bowler_score_features(opponent_bowler_list_df, ref_date=ref_date)
 
     current_base, current_trend, current_trend_predict, current_mean =\
         get_trend_recent(team,ref_date=ref_date,no_of_years=no_of_years,innings_type=innings_type)
@@ -1202,7 +1204,7 @@ def get_second_innings_feature_vector(target, team, opponent, location, team_pla
     """ this is not scaled"""
     global SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE
     feature_dict = get_instance_feature_dict(team, opponent, location,
-                                             team_player_list, opponent_player_list, ref_date=ref_date, no_of_years=no_of_years)
+                                             team_player_list, opponent_player_list, ref_date=ref_date, no_of_years=no_of_years,innings_type='second')
 
     feature_dict['target_score'] = target
     if SELECTED_SECOND_INNINGS_FEATURE_LIST_CACHE == None:
