@@ -99,6 +99,18 @@ mg_test_x = 'mg_test_x.pkl'
 mg_train_y = 'mg_train_y.pkl'
 mg_test_y = 'mg_test_y.pkl'
 
+mg_first_train_x = 'mg_first_train_x.pkl'
+mg_first_test_x = 'mg_first_test_x.pkl'
+
+mg_first_train_y = 'mg_first_train_y.pkl'
+mg_first_test_y = 'mg_first_test_y.pkl'
+
+mg_second_train_x = 'mg_second_train_x.pkl'
+mg_second_test_x = 'mg_second_test_x.pkl'
+
+mg_second_train_y = 'mg_second_train_y.pkl'
+mg_second_test_y = 'mg_second_test_y.pkl'
+
 second_level_any_inst_train_x = 'second_level_any_inst_train_x.pkl'
 second_level_any_inst_train_y = 'second_level_any_inst_train_y.pkl'
 second_level_any_inst_test_x = 'second_level_any_inst_test_x.pkl'
@@ -1026,6 +1038,198 @@ def create_mg_classification_train_test(train_start,test_start,test_end=None):
 
     print("train size ",train_x.shape)
     print("test size ", test_x.shape)
+
+def create_mg_split(train_start,test_start,test_end=None):
+    if not os.path.isdir(TRAIN_TEST_DIR):
+        os.makedirs(TRAIN_TEST_DIR)
+
+    outil.use_model_from('dev')
+    train_start_dt = cricutil.str_to_date_time(train_start)
+    test_start_dt = cricutil.str_to_date_time(test_start)
+    if test_end is None:
+        test_end_dt = cricutil.today_as_date_time()
+    else:
+        test_end_dt = cricutil.str_to_date_time(test_end)
+
+    overall_start = train_start_dt
+    overall_end = test_end_dt
+    match_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_match_list.csv')
+    match_list_df = match_list_df[(match_list_df['date'] >= overall_start) & \
+                                  (match_list_df['date'] <= overall_end)]
+    #match_list_df = match_list_df[match_list_df['is_dl'] == 0]
+    batting_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_batting.csv')
+    # batting_list_df = batting_list_df[(batting_list_df['date'] >= overall_start) & \
+    #                               (batting_list_df['date'] <= overall_end)]
+    bowling_list_df = cricutil.read_csv_with_date(dl.CSV_LOAD_LOCATION + os.sep + 'cricinfo_bowling.csv')
+    # bowling_list_df = bowling_list_df[(bowling_list_df['date'] >= overall_start) & \
+    #                                   (bowling_list_df['date'] <= overall_end)]
+
+    loc_df = pd.read_excel(dl.CSV_LOAD_LOCATION + os.sep + 'location.xlsx')
+
+
+
+    match_id_list = list(match_list_df['match_id'].unique())
+    feature_list_train_first = []
+    feature_list_train_second = []
+    run_list_train = []
+    win_list_train = []
+
+    feature_list_test_first =[]
+    feature_list_test_second = []
+    run_list_test = []
+    win_list_test = []
+    #no_of_basman = 0
+    matches_skipped = 0
+    print("no of iters - ",len(match_id_list))
+    for index,match_id in tqdm(enumerate(match_id_list)):
+
+
+        team_a = match_list_df[match_list_df['match_id']==match_id].iloc[0]["first_innings"]
+        team_b = match_list_df[match_list_df['match_id']==match_id].iloc[0]["second_innings"]
+        location = match_list_df[match_list_df['match_id']==match_id].iloc[0]["location"]
+        ref_dt_np = match_list_df[match_list_df['match_id']==match_id].iloc[0]["date"]
+        ref_date = cricutil.pandas_timestamp_to_datetime(ref_dt_np)
+        #ref_date = cricutil.npdate_to_datetime(ref_dt_np)
+        runs_scored = match_list_df[match_list_df['match_id']==match_id].iloc[0]['first_innings_run']
+        loc_country = loc_df[loc_df['locations'] == location]['Country'].values[0].strip()
+        toss_winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]['toss_winner']
+
+        team_a_loc = 0
+        team_b_loc = 0
+        other_loc = 0
+
+        if loc_country ==team_a:
+            team_a_loc = 1
+        elif loc_country ==team_b:
+            team_b_loc = 1
+        else:
+            other_loc = 1
+
+        if toss_winner == team_a:
+            toss = 1
+        else:
+            toss = 0
+
+
+
+        winner = match_list_df[match_list_df['match_id']==match_id].iloc[0]["winner"]
+        runs_achieved = match_list_df[match_list_df['match_id'] == match_id].iloc[0]['second_innings_run']
+        if winner == team_b:
+            runs_achieved = runs_achieved+15
+
+        team_a_win = (team_a==winner)*1
+
+        team_a_player_list_df = batting_list_df[(batting_list_df['match_id']==match_id) & (batting_list_df['team']==team_a)]
+
+        team_a_player_list_df = team_a_player_list_df[['team', 'name', 'position']]
+
+        team_b_player_list_df = batting_list_df[
+            (batting_list_df['match_id'] == match_id) & (batting_list_df['team'] == team_b)]
+
+        team_b_player_list_df = team_b_player_list_df[['team', 'name', 'position']]
+
+        # team_a_bowler_list = bowling_list_df[
+        #     (bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_a)]
+        #
+        # team_a_bowler_list = team_a_bowler_list[['team', 'name']]
+
+
+        # team_b_bowler_list = bowling_list_df[(bowling_list_df['match_id'] == match_id) & (bowling_list_df['team'] == team_b)]
+        #
+        # team_b_bowler_list = team_b_bowler_list[['team', 'name']]
+
+        try:
+
+
+            strength_a,strength_b = fec.get_strength_innings_mg(team_a_player_list_df, team_b_player_list_df,
+                               batsman_master_df=batting_list_df, bowler_master_df=bowling_list_df, ref_date=ref_date)
+
+
+            feature_dict_first = {
+                "strength":strength_a,
+                "toss":toss,
+                "team_a_loc":team_a_loc,
+                "team_b_loc":team_b_loc,
+                "other_loc":other_loc
+
+            }
+
+            feature_dict_second = {
+                "strength": strength_b,
+                "toss": toss,
+                "team_a_loc": team_a_loc,
+                "team_b_loc": team_b_loc,
+                "other_loc": other_loc
+
+            }
+            if ref_date<test_start_dt:
+                feature_list_train_first.append(feature_dict_first)
+                feature_list_train_second.append(feature_dict_second)
+                win_list_train.append(team_a_win)
+                run_list_train.append(runs_scored)
+
+            else:
+                feature_list_test_first.append(feature_dict_first)
+                feature_list_test_second.append(feature_dict_second)
+                win_list_test.append(team_a_win)
+                run_list_test.append(runs_scored)
+        except Exception as ex:
+            matches_skipped = matches_skipped + 1
+            print(ex, ' for ',team_a, team_b, location, ' on ',ref_date.date(),' skipped so far ',matches_skipped)
+
+            #raise ex
+
+
+    first_train_df = pd.DataFrame(feature_list_train_first)
+    first_test_df = pd.DataFrame(feature_list_test_first)
+
+    first_train_x = np.array(first_train_df)
+    first_test_x = np.array(first_test_df)
+
+    first_train_y = np.array(run_list_train)
+    first_test_y = np.array(run_list_test)
+
+
+
+    second_train_df = pd.DataFrame(feature_list_train_second)
+    second_test_df = pd.DataFrame(feature_list_test_second)
+
+    second_train_x = np.array(second_train_df)
+    second_test_x = np.array(second_test_df)
+
+    second_train_y = np.array(win_list_train)
+    second_test_y = np.array(win_list_test)
+
+
+
+
+
+    pickle.dump(first_train_x,open(os.path.join(TRAIN_TEST_DIR,mg_first_train_x),'wb'))
+    pickle.dump(first_train_y, open(os.path.join(TRAIN_TEST_DIR,mg_first_train_y), 'wb'))
+
+    pickle.dump(first_test_x, open(os.path.join(TRAIN_TEST_DIR, mg_first_test_x), 'wb'))
+    pickle.dump(first_test_y, open(os.path.join(TRAIN_TEST_DIR, mg_first_test_y), 'wb'))
+
+    pickle.dump(second_train_x, open(os.path.join(TRAIN_TEST_DIR, mg_second_train_x), 'wb'))
+    pickle.dump(second_train_y, open(os.path.join(TRAIN_TEST_DIR, mg_second_train_y), 'wb'))
+
+    pickle.dump(second_test_x, open(os.path.join(TRAIN_TEST_DIR, mg_second_test_x), 'wb'))
+    pickle.dump(second_test_y, open(os.path.join(TRAIN_TEST_DIR, mg_second_test_y), 'wb'))
+
+
+    outil.create_meta_info_entry('mg_split_train_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[mg_first_train_x,mg_first_train_y,mg_second_train_x,mg_second_train_y])
+
+    outil.create_meta_info_entry('mg_split_test_xy', train_start,
+                                 str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
+                                 file_list=[mg_first_test_x,mg_first_test_y, mg_second_test_x, mg_second_test_y])
+
+    print("first train size ",mg_first_train_x.shape)
+    print("first test size ", mg_first_testn_x.shape)
+
+    print("second train size ", mg_second_train_x.shape)
+    print("second test size ", mg_second_testn_x.shape)
 
 
 def update_first_innings_location_score(first_innings_df):
@@ -2836,6 +3040,13 @@ def multi_output_neural(train_start, test_start, test_end ,embedding):
 @click.option('--test_end', help='end date for test (YYYY-mm-dd)')
 def mg(train_start, test_start, test_end):
     create_mg_classification_train_test(train_start, test_start, test_end=test_end)
+
+@traintest.command()
+@click.option('--train_start', help='start date for train data (YYYY-mm-dd)',required=True)
+@click.option('--test_start', help='start date for test data (YYYY-mm-dd)',required=True)
+@click.option('--test_end', help='end date for test (YYYY-mm-dd)')
+def mg_split(train_start, test_start, test_end):
+    create_mg_split(train_start, test_start, test_end=test_end)
 
 
 @traintest.command()

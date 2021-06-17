@@ -20,7 +20,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_scor
 from sklearn.linear_model import LinearRegression,LogisticRegression
 from sklearn.svm import SVC
 from sklearn.feature_selection import SequentialFeatureSelector
-from sklearn.preprocessing import StandardScaler,PolynomialFeatures
+from sklearn.preprocessing import StandardScaler,PolynomialFeatures,MinMaxScaler
 from sklearn.pipeline import Pipeline
 
 
@@ -1751,6 +1751,92 @@ def retrain_mg_classification(categorical_loc=False,poly_nom=1):
     print('train size ',train_x.shape)
     print('test size ', test_x.shape)
 
+
+def retrain_mg_split(categorical_loc=False, poly_nom_first=1,poly_nom_second=1,max_iter=1000):
+    first_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_train_x), 'rb'))
+    first_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_train_y), 'rb'))
+
+    first_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_test_x), 'rb'))
+    first_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_test_y), 'rb'))
+
+    second_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_train_x), 'rb'))
+    second_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_train_y), 'rb'))
+
+    second_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_test_x), 'rb'))
+    second_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_test_y), 'rb'))
+
+
+    if categorical_loc:
+        # train_x_df = pd.DataFrame(train_x)
+        # train_x_df.columns =['strngth','toss','team_a_loc','team_b_loc','other_loc']
+        #
+        # test_x_df = pd.DataFrame(test_x)
+        # test_x_df.columns =['strngth','toss','team_a_loc','team_b_loc','other_loc']
+        #
+        # train_x_df['loc'] = train_x_df.apply(set_loc,axis=1)
+        # test_x_df['loc'] = test_x_df.apply(set_loc,axis=1)
+        #
+        # train_x = np.array(train_x_df[['strngth','toss','loc']])
+        # test_x = np.array(test_x_df[['strngth','toss','loc']])
+        pass
+
+    #train_pipe = Pipeline([('polynom', PolynomialFeatures(1)), ('svc', SVC(probability=True))])
+    train_pipe = Pipeline([('polynom', PolynomialFeatures(poly_nom_first)), ('reg', LinearRegression())])
+    train_pipe.fit(first_train_x, first_train_y)
+
+    first_train_predict = train_pipe.predict(first_train_x)
+    first_test_predict = train_pipe.predict(first_test_x)
+
+    train_mape = mean_absolute_percentage_error(first_train_y,first_train_predict)
+    test_mape = mean_absolute_percentage_error(first_test_y,first_test_predict)
+
+    pickle.dump(train_pipe,open(os.path.join(outil.DEV_DIR,outil.MG_FIRST_INNINGS_MODEL),'wb'))
+
+    outil.create_model_meta_info_entry('mg_first_model',
+                                       train_mape,
+                                       test_mape,
+                                       info="metrics is mape with polynomial degree "+str(poly_nom_first),
+                                       file_list=[outil.MG_FIRST_INNINGS_MODEL]
+                                       )
+
+    print("train mape ",train_mape)
+    print("test mape ", test_mape)
+
+    print('train shape ',first_train_x.shape)
+    print('test shape ', first_test_x.shape)
+
+
+    additional_train_mat = first_train_y.reshape(-1,1)
+    additional_test_mat = first_test_predict.reshape(-1,1)
+
+    second_train_x = np.concatenate([second_train_x,additional_train_mat],axis=1)
+    second_test_x = np.concatenate([second_test_x, additional_test_mat], axis=1)
+
+    second_train_pipe = Pipeline([('scale', MinMaxScaler()),('polynom', PolynomialFeatures(poly_nom_second)), ('cls', LogisticRegression(max_iter=max_iter))])
+    second_train_pipe.fit(second_train_x, second_train_y)
+
+    second_train_predict = second_train_pipe.predict(second_train_x)
+    second_test_predict = second_train_pipe.predict(second_test_x)
+
+    train_accuracy = accuracy_score(second_train_y, second_train_predict)
+    test_accuracy = accuracy_score(second_test_y, second_test_predict)
+
+    pickle.dump(second_train_pipe, open(os.path.join(outil.DEV_DIR, outil.MG_SECOND_INNINGS_MODEL), 'wb'))
+
+    outil.create_model_meta_info_entry('mg_second_model',
+                                       train_accuracy,
+                                       test_accuracy,
+                                       info="metrics is accuracy with polynomial degree " + str(poly_nom_second),
+                                       file_list=[outil.MG_SECOND_INNINGS_MODEL]
+                                       )
+
+    print("train accuracy ", train_accuracy)
+    print("test accuracy ", test_accuracy)
+
+    print('second train shape ', second_train_x.shape)
+    print('second test shape ', second_test_x.shape)
+
+
 @click.group()
 def retrain():
     pass
@@ -1948,6 +2034,15 @@ def combined_non_neural(poly_nom,max_iter):
 @click.option('--poly_nom', help='polynomila degree',default=1)
 def mg_classification(categorical_loc,poly_nom):
     retrain_mg_classification(categorical_loc=categorical_loc,poly_nom=poly_nom)
+
+@retrain.command()
+@click.option('--categorical_loc', help='whethter to use one hot vector or categorical values',default=False,type=bool)
+@click.option('--poly_nom_first', help='polynomial degree for first innings',default=1)
+@click.option('--poly_nom_second', help='polynomial degree for second innings',default=1)
+@click.option('--max_iter', help='maximum iteration for second innings',default=1000)
+def mg_split(categorical_loc,poly_nom_first,ply_nom_second,max_iter):
+    retrain_mg_split(categorical_loc=categorical_loc,poly_nom_first=poly_nom_first,poly_nom_second=ply_nom_second,max_iter=max_iter)
+
 
 @retrain.command()
 @click.option('--start_date', help='start date for train data (YYYY-mm-dd)',required=True)

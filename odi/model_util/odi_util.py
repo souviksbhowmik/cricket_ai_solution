@@ -26,6 +26,8 @@ COMBINED_MODEL = 'combined_model.pkl'
 COMBINED_MODEL_ANY_INNINGS = 'combined_model_any_innings.pkl'
 COMBINED_MODEL_NON_NEURAL = 'combined_model_non_neural.pkl'
 MG_MODEL = 'mg_model.pkl'
+MG_FIRST_INNINGS_MODEL = 'mg_fi_model.pkl'
+MG_SECOND_INNINGS_MODEL = 'mg_se_model.pkl'
 
 FIRST_INNINGS_MODEL_BASE = 'first_innings_model_base.pkl' # combined_embedding_first_innings_regression.pkl
 SECOND_INNINGS_MODEL_BASE = 'second_innings_model_base.pkl' # second_innings_model_with_embedding_lrg.pkl

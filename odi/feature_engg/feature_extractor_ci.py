@@ -2155,3 +2155,14 @@ def get_strength_ab_mg(team_a_player_list_df,team_b_player_list_df,
     return strength_a_b
 
 
+def get_strength_innings_mg(team_a_player_list_df,team_b_player_list_df,
+                      batsman_master_df=None, bowler_master_df=None,ref_date=None):
+    team_a_batting_score, team_b_batting_score = get_final_batsman_score_mg(team_a_player_list_df, team_b_player_list_df, batsman_master_df=batsman_master_df, ref_date=ref_date)
+    team_a_bowler_score, team_b_bowler_score = get_final_bowler_score_mg(team_a_player_list_df,team_b_player_list_df,batsman_master_df=batsman_master_df,bowler_master_df=bowler_master_df,ref_date=ref_date)
+
+    strength_a = team_a_batting_score/team_b_bowler_score
+    strength_b = team_b_batting_score/team_a_bowler_score
+
+    return strength_a,strength_b
+
+
