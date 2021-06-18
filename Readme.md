@@ -130,15 +130,17 @@ python odi/retrain/create_train_test_ci.py second-level-neural --train_start 200
 ### Step 13 - retrain classification to predict outcome with both teams as both innings
 python odi/retrain/retrain_ci.py combined-neural
 
-
-### Step 14 compare with previous paper - create traine test for mg
+### Step 14 compare with previous paper - create train test for mg
 python odi/retrain/create_train_test_ci.py mg --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
 ### Step 15 - retrain mg(prior paper) classification to predict outcome
 python odi/retrain/retrain_ci.py mg-classification
 
+### Step 16 - create separate MG train test for 2 innings:
+python odi/retrain/create_train_test_ci.py mg-split --train_start 2004-01-01 --test_start 2019-01-01 --test_end 2020-12-31
 
-
+### Step 17 - retrain mg(prior paper) separate innings
+python odi/retrain/retrain_ci.py mg-split
 
 
 

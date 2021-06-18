@@ -650,9 +650,9 @@
     ]
   },
   "mg_model": {
-    "train_metrics": 0.6271637816245007,
-    "test_metrics": 0.68,
-    "info": "metrics is accuracy with polynomial degree 2",
+    "train_metrics": 0.596537949400799,
+    "test_metrics": 0.6933333333333334,
+    "info": "metrics is accuracy with polynomial degree 1",
     "files": [
       "mg_model.pkl"
     ]
@@ -709,6 +709,42 @@
     "info": "metrics is accuracy and at polynomial 1 with iteration 1000",
     "files": [
       "combined_model_any_innings.pkl"
+    ]
+  },
+  "mg_split_train_xy": {
+    "start_date": "2004-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "mg_first_train_x.pkl",
+      "mg_first_train_y.pkl",
+      "mg_second_train_x.pkl",
+      "mg_second_train_y.pkl"
+    ]
+  },
+  "mg_split_test_xy": {
+    "start_date": "2004-01-01",
+    "end_date": "2018-12-31",
+    "files": [
+      "mg_first_test_x.pkl",
+      "mg_first_test_y.pkl",
+      "mg_second_test_x.pkl",
+      "mg_second_test_y.pkl"
+    ]
+  },
+  "mg_first_model": {
+    "train_metrics": 0.23975645597426334,
+    "test_metrics": 0.22634234466874054,
+    "info": "metrics is mape with polynomial degree 1",
+    "files": [
+      "mg_fi_model.pkl"
+    ]
+  },
+  "mg_second_model": {
+    "train_metrics": 0.729693741677763,
+    "test_metrics": 0.6933333333333334,
+    "info": "metrics is accuracy with polynomial degree 1",
+    "files": [
+      "mg_se_model.pkl"
     ]
   }
 }

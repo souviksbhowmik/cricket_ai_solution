@@ -1812,7 +1812,7 @@ def retrain_mg_split(categorical_loc=False, poly_nom_first=1,poly_nom_second=1,m
     second_train_x = np.concatenate([second_train_x,additional_train_mat],axis=1)
     second_test_x = np.concatenate([second_test_x, additional_test_mat], axis=1)
 
-    second_train_pipe = Pipeline([('scale', MinMaxScaler()),('polynom', PolynomialFeatures(poly_nom_second)), ('cls', LogisticRegression(max_iter=max_iter))])
+    second_train_pipe = Pipeline([('polynom', PolynomialFeatures(poly_nom_second)), ('cls', LogisticRegression(max_iter=max_iter))])
     second_train_pipe.fit(second_train_x, second_train_y)
 
     second_train_predict = second_train_pipe.predict(second_train_x)
@@ -2040,8 +2040,8 @@ def mg_classification(categorical_loc,poly_nom):
 @click.option('--poly_nom_first', help='polynomial degree for first innings',default=1)
 @click.option('--poly_nom_second', help='polynomial degree for second innings',default=1)
 @click.option('--max_iter', help='maximum iteration for second innings',default=1000)
-def mg_split(categorical_loc,poly_nom_first,ply_nom_second,max_iter):
-    retrain_mg_split(categorical_loc=categorical_loc,poly_nom_first=poly_nom_first,poly_nom_second=ply_nom_second,max_iter=max_iter)
+def mg_split(categorical_loc,poly_nom_first,poly_nom_second,max_iter):
+    retrain_mg_split(categorical_loc=categorical_loc,poly_nom_first=poly_nom_first,poly_nom_second=poly_nom_second,max_iter=max_iter)
 
 
 @retrain.command()

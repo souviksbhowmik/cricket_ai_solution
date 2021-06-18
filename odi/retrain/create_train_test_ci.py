@@ -1225,11 +1225,11 @@ def create_mg_split(train_start,test_start,test_end=None):
                                  str(cricutil.substract_day_as_datetime(test_start_dt, 1).date()),
                                  file_list=[mg_first_test_x,mg_first_test_y, mg_second_test_x, mg_second_test_y])
 
-    print("first train size ",mg_first_train_x.shape)
-    print("first test size ", mg_first_testn_x.shape)
+    print("first train size ",first_train_x.shape)
+    print("first test size ", first_test_x.shape)
 
-    print("second train size ", mg_second_train_x.shape)
-    print("second test size ", mg_second_testn_x.shape)
+    print("second train size ", second_train_x.shape)
+    print("second test size ", second_test_x.shape)
 
 
 def update_first_innings_location_score(first_innings_df):
