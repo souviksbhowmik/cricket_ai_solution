@@ -650,8 +650,8 @@
     ]
   },
   "mg_model": {
-    "train_metrics": 0.596537949400799,
-    "test_metrics": 0.6933333333333334,
+    "train_metrics": 0.62982689747004,
+    "test_metrics": 0.72,
     "info": "metrics is accuracy with polynomial degree 1",
     "files": [
       "mg_model.pkl"
