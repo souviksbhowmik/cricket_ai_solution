@@ -143,6 +143,16 @@ python odi/retrain/create_train_test_ci.py mg-split --train_start 2004-01-01 --t
 python odi/retrain/retrain_ci.py mg-split
 
 
+#### evaluations
+python odi/evaluation/evaluate_ci.py multi-output-neural
+
+python odi/evaluation/evaluate_ci.py combined-neural
+
+
+python odi/evaluation/evaluate_ci.py mg
+
+python odi/evaluation/evaluate_ci.py mg-split
+
 
 
 

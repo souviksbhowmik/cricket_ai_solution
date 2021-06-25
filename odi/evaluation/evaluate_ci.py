@@ -7,7 +7,7 @@ from odi.feature_engg import util as cricutil,feature_extractor
 from odi.model_util import odi_util as outil
 import numpy as np
 import pickle
-from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score
+from sklearn.metrics import mean_absolute_error,mean_squared_error,accuracy_score,mean_absolute_percentage_error
 import click
 from odi.retrain import create_train_test as ctt
 import tensorflow as tf
@@ -17,6 +17,7 @@ from odi.retrain import create_train_test_ci as ctt
 from odi.inference import prediction_ci as predci
 import math
 from odi.inference import prediction as pred
+from keras.optimizers import Adam
 
 
 
@@ -116,6 +117,27 @@ def evaluate_multi_output_neural(env='production'):
     outil.use_model_from(env)
 
     combined_model = outil.load_keras_model(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_NEURAL))
+    loss = {
+        'final_score': 'mean_squared_error',
+        'achieved_score': 'mean_squared_error',
+        'is_win': 'binary_crossentropy'
+
+    }
+    metrics = {
+        'final_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'achieved_score': ["mean_absolute_percentage_error", "mean_absolute_error"],
+        'is_win': 'accuracy'
+        # 'is_win': 'accuracyt'
+
+    }
+    loss_weights = {
+        'final_score': 4,
+        'achieved_score': 4,
+        'is_win': 50
+
+    }
+
+    combined_model.compile(loss=loss, metrics=metrics, loss_weights=loss_weights, optimizer=Adam(0.001))
     x1_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X1), "rb"))
     x2_scaler = pickle.load(open(os.path.join(outil.DEV_DIR, outil.ONE_SHOT_MULTI_SCALER_X2), "rb"))
 
@@ -142,10 +164,12 @@ def evaluate_multi_output_neural(env='production'):
 
     print("Metrics ( overall loss, mse first innings runs, mse second innings runs, binary cross entropy loss,"+
           "mape first innings, mae second innings, mape second innings, mae second innings, accuracy team A win )")
+
     print(" Train ")
     print(train_metrics)
     print(" Test ")
     print(test_metrics)
+
 
 
 def evaluate_combined_neural(env='production'):
@@ -157,7 +181,7 @@ def evaluate_combined_neural(env='production'):
     test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_x), 'rb'))
     test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.second_level_any_inst_test_y), 'rb'))
 
-    train_pipe = pickle.load(open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_NON_NEURAL),'rb'))
+    train_pipe = pickle.load(open(os.path.join(outil.DEV_DIR,outil.COMBINED_MODEL_ANY_INNINGS),'rb'))
 
     train_predict = train_pipe.predict(train_x)
     test_predict = train_pipe.predict(test_x)
@@ -167,6 +191,74 @@ def evaluate_combined_neural(env='production'):
 
     print(" train accuracy ",train_accuracy)
     print(" test accuracy ", test_accuracy)
+
+def evaluate_mg(env='production'):
+    outil.use_model_from(env)
+
+    train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_x), 'rb'))
+    train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_train_y), 'rb'))
+
+    test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_test_x), 'rb'))
+    test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_test_y), 'rb'))
+
+    train_pipe = pickle.load(open(os.path.join(outil.DEV_DIR,outil.MG_MODEL),'rb'))
+
+    train_predict = train_pipe.predict(train_x)
+    test_predict = train_pipe.predict(test_x)
+
+    train_accuracy = accuracy_score(train_y, train_predict)
+    test_accuracy = accuracy_score(test_y, test_predict)
+
+    print(" train accuracy ",train_accuracy)
+    print(" test accuracy ", test_accuracy)
+
+
+def evaluate_mg_split(env='production'):
+    outil.use_model_from(env)
+
+    first_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_train_x), 'rb'))
+    first_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_train_y), 'rb'))
+
+    first_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_test_x), 'rb'))
+    first_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_first_test_y), 'rb'))
+
+    second_train_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_train_x), 'rb'))
+    second_train_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_train_y), 'rb'))
+
+    second_test_x = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_test_x), 'rb'))
+    second_test_y = pickle.load(open(os.path.join(ctt.TRAIN_TEST_DIR, ctt.mg_second_test_y), 'rb'))
+
+    train_pipe_regression =pickle.load(open(os.path.join(outil.DEV_DIR,outil.MG_FIRST_INNINGS_MODEL),'rb'))
+
+    first_train_predict = train_pipe_regression.predict(first_train_x)
+    first_test_predict = train_pipe_regression.predict(first_test_x)
+
+    train_mape = mean_absolute_percentage_error(first_train_y, first_train_predict)
+    test_mape = mean_absolute_percentage_error(first_test_y, first_test_predict)
+
+    print("train mape ", train_mape)
+    print("test mape ", test_mape)
+
+    print('train shape ', first_train_x.shape)
+    print('test shape ', first_test_x.shape)
+
+    additional_train_mat = first_train_y.reshape(-1, 1)
+    additional_test_mat = first_test_predict.reshape(-1, 1)
+
+    second_train_x = np.concatenate([second_train_x, additional_train_mat], axis=1)
+    second_test_x = np.concatenate([second_test_x, additional_test_mat], axis=1)
+
+    train_pipe_classification = pickle.load(open(os.path.join(outil.DEV_DIR, outil.MG_SECOND_INNINGS_MODEL), 'rb'))
+
+    second_train_predict = train_pipe_classification.predict(second_train_x)
+    second_test_predict = train_pipe_classification.predict(second_test_x)
+
+    train_accuracy = accuracy_score(second_train_y, second_train_predict)
+    test_accuracy = accuracy_score(second_test_y, second_test_predict)
+
+    print("train accuracy ", train_accuracy)
+    print("test accuracy ", test_accuracy)
+
 
 
 
@@ -197,6 +289,16 @@ def multi_output_neural(env):
 @click.option('--env', help='environment dev/production',default='production')
 def combined_neural(env):
     evaluate_combined_neural(env=env)
+
+@evaluate.command()
+@click.option('--env', help='environment dev/production',default='production')
+def mg(env):
+    evaluate_mg(env=env)
+
+@evaluate.command()
+@click.option('--env', help='environment dev/production',default='production')
+def mg_split(env):
+    evaluate_mg_split(env=env)
 
 
 if __name__=='__main__':
