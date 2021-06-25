@@ -157,7 +157,7 @@ python odi/evaluation/evaluate_ci.py mg-split
 
 
 
-# DEPRECATED COMMANDS
+# DEPRECATED COMMANDS - these analysis were based on dta from cricsheet , which is incorrect
 
 ## Loading matches
 Load match details in local file system
