@@ -170,6 +170,9 @@ def evaluate_multi_output_neural(env='production'):
     print(" Test ")
     print(test_metrics)
 
+    print('train shape ', train_x_1.shape)
+    print('test shape ', test_x_1.shape)
+
 
 
 def evaluate_combined_neural(env='production'):
@@ -192,6 +195,9 @@ def evaluate_combined_neural(env='production'):
     print(" train accuracy ",train_accuracy)
     print(" test accuracy ", test_accuracy)
 
+    print('train shape ', train_x.shape)
+    print('test shape ', test_x.shape)
+
 def evaluate_mg(env='production'):
     outil.use_model_from(env)
 
@@ -211,6 +217,9 @@ def evaluate_mg(env='production'):
 
     print(" train accuracy ",train_accuracy)
     print(" test accuracy ", test_accuracy)
+
+    print('train shape ', train_x.shape)
+    print('test shape ', test_x.shape)
 
 
 def evaluate_mg_split(env='production'):
@@ -258,6 +267,9 @@ def evaluate_mg_split(env='production'):
 
     print("train accuracy ", train_accuracy)
     print("test accuracy ", test_accuracy)
+
+    print('train shape ', second_train_x.shape)
+    print('test shape ', second_test_x.shape)
 
 
 
