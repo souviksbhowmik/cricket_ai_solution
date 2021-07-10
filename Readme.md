@@ -4,6 +4,8 @@ The following code helps in creating models for predicting one day cricket match
 It sues combination of engineered features, learned embedding features for countries and learned embedding features for batsman
 Prediction is done in two steps. First innings(regression) run and second  innings chase success (classification)
 
+# install requirements on python 3.6
+pip install -r requirements.txt
 
 # setup PYTHONPATH in cricketai directory
 export PYTHONPATH=.:$PYTHONPATH
@@ -101,6 +103,8 @@ python odi/retrain/retrain_ci.py second-innings-classification
 
 ### Step 5.1 - verify thresholding with second innings classification
 python odi/retrain/create_train_test_ci.py test-threshold --test_start 2019-01-01 --test_end 2020-12-31
+or
+python odi/evaluation/evaluate_ci.py expected-threshold --test_start 2019-01-01 --test_end 2020-12-31 --env dev
 
 
 ### Step 6 - create train test for second level training by making both teams as both innings without neural network
