@@ -3,6 +3,9 @@
 The following code helps in creating models for predicting one day cricket matches, evaluate and inference
 It sues combination of engineered features, learned embedding features for countries and learned embedding features for batsman
 Prediction is done in two steps. First innings(regression) run and second  innings chase success (classification)
+Various approaches have been tried based on the idea and ompared with previous works. The adversarial enural network approach is referred as multi output neural
+The code also includes trials with ususal regression and classificaton and combination of both.
+for any queries mail to souviksb@gmail.com
 
 # install requirements on python 3.6
 pip install -r requirements.txt
