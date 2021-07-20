@@ -430,6 +430,8 @@ def download_matches(year_list,mode='a'):
     batting_df = pd.DataFrame(batting_list)
     bowling_df = pd.DataFrame(bowling_list)
 
+    if not os.path.isdir(CSV_LOAD_LOCATION):
+        os.makedirs(CSV_LOAD_LOCATION)
 
     if mode is None or mode!='a':
         #print("mode new ",mode)
